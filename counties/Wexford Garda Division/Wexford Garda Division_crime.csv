@@ -1,1956 +1,369 @@
 Year,Garda Division,Type of Offence,VALUE
-2003,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",7.0
-2003,Wexford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2003,Wexford Garda Division,Aggravated burglary (0711),9.0
-2003,Wexford Garda Division,Arson (1211),16.0
-2003,Wexford Garda Division,"Assault causing harm, poisoning (034)",73.0
-2003,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",323.0
-2003,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2003,Wexford Garda Division,Burglary (not aggravated) (0712),742.0
-2003,Wexford Garda Division,Burglary and related offences (07),753.0
-2003,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2003,Wexford Garda Division,Controlled drug offences (10),199.0
-2003,Wexford Garda Division,Criminal damage (not arson) (1212),589.0
-2003,Wexford Garda Division,Cultivation or manufacture of drugs (1012),2.0
-2003,Wexford Garda Division,Damage to property and to the environment  offences (12),606.0
-2003,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2003,Wexford Garda Division,Dangerous driving leading to death (012),1.0
-2003,Wexford Garda Division,Dangerous or negligent acts (04),524.0
-2003,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),139.0
-2003,Wexford Garda Division,Discharging a firearm (1121),5.0
-2003,Wexford Garda Division,Disorderly conduct (131),745.0
-2003,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",88.0
-2003,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",360.0
-2003,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2003,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),360.0
-2003,Wexford Garda Division,Endangering traffic offences (0425),1.0
-2003,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2003,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2003,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2003,Wexford Garda Division,False imprisonment (0511),1.0
-2003,Wexford Garda Division,Fireworks offences (114),0.0
-2003,Wexford Garda Division,"Fraud, deception and related offences (09)",115.0
-2003,Wexford Garda Division,Harassment and related offences (033),47.0
-2003,Wexford Garda Division,Homicide & related offences (01),2.0
-2003,Wexford Garda Division,Human trafficking offences (0513),0.0
-2003,Wexford Garda Division,Importation of drugs (1011),3.0
-2003,Wexford Garda Division,Infanticide (0113),0.0
-2003,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",369.0
-2003,Wexford Garda Division,Kidnapping and related offences (05),2.0
-2003,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2003,Wexford Garda Division,Liquor licensing offences (133),82.0
-2003,Wexford Garda Division,Litter offences (1221),1.0
-2003,Wexford Garda Division,Manslaughter (0112),1.0
-2003,Wexford Garda Division,Murder (0111),0.0
-2003,Wexford Garda Division,Murder-attempt (0311),0.0
-2003,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),6.0
-2003,Wexford Garda Division,Offences against government and its agents (151),2.0
-2003,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",154.0
-2003,Wexford Garda Division,Offences not elsewhere classified (16),29.0
-2003,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",149.0
-2003,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),18.0
-2003,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2003,Wexford Garda Division,Other assault (035),203.0
-2003,Wexford Garda Division,Other drug offences (103),6.0
-2003,Wexford Garda Division,Other road offences (1433),216.0
-2003,Wexford Garda Division,Other sexual offences (022),3.0
-2003,Wexford Garda Division,"Other thefts, handling stolen property (084)",731.0
-2003,Wexford Garda Division,Perverting the course of justice (153),3.0
-2003,Wexford Garda Division,Possession of a firearm (1122),7.0
-2003,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2003,Wexford Garda Division,Possession of drugs for personal use (1022),166.0
-2003,Wexford Garda Division,Possession of drugs for sale or supply (1021),22.0
-2003,Wexford Garda Division,Prostitution offences (134),1.0
-2003,Wexford Garda Division,Public order and other social code offences (13),859.0
-2003,Wexford Garda Division,Public service vehicle offences (1442),2.0
-2003,Wexford Garda Division,Rape and sexual assault (021),50.0
-2003,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2003,Wexford Garda Division,Road and traffic offences (14),848.0
-2003,Wexford Garda Division,Road transport - carriage of goods offences (1441),21.0
-2003,Wexford Garda Division,Roadworthiness/regulatory offences (143),24.0
-2003,Wexford Garda Division,Robbery from the person (0613),14.0
-2003,Wexford Garda Division,Robbery of an establishment or institution (0611),11.0
-2003,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2003,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",26.0
-2003,Wexford Garda Division,Sexual offences (02),53.0
-2003,Wexford Garda Division,Social code offences (n.e.c.) (136),9.0
-2003,Wexford Garda Division,Speeding (0415),16.0
-2003,Wexford Garda Division,Theft and related offences (08),1271.0
-2003,Wexford Garda Division,Theft from person (0821),55.0
-2003,Wexford Garda Division,Theft from shop (0822),294.0
-2003,Wexford Garda Division,Theft/taking of vehicle and related offences (081),191.0
-2003,Wexford Garda Division,Threat to kill or cause serious harm (0313),0.0
-2003,Wexford Garda Division,Trespass offences (132),21.0
-2003,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2003,Wexford Garda Division,Vehicle tax/registration offences (142),122.0
-2003,Wexford Garda Division,Weapons and explosives offences (11),30.0
-2004,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
-2004,Wexford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2004,Wexford Garda Division,Aggravated burglary (0711),10.0
-2004,Wexford Garda Division,Arson (1211),20.0
-2004,Wexford Garda Division,"Assault causing harm, poisoning (034)",76.0
-2004,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",308.0
-2004,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2004,Wexford Garda Division,Burglary (not aggravated) (0712),780.0
-2004,Wexford Garda Division,Burglary and related offences (07),793.0
-2004,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2004,Wexford Garda Division,Controlled drug offences (10),210.0
-2004,Wexford Garda Division,Criminal damage (not arson) (1212),647.0
-2004,Wexford Garda Division,Cultivation or manufacture of drugs (1012),3.0
-2004,Wexford Garda Division,Damage to property and to the environment  offences (12),668.0
-2004,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2004,Wexford Garda Division,Dangerous driving leading to death (012),6.0
-2004,Wexford Garda Division,Dangerous or negligent acts (04),755.0
-2004,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),214.0
-2004,Wexford Garda Division,Discharging a firearm (1121),6.0
-2004,Wexford Garda Division,Disorderly conduct (131),759.0
-2004,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",54.0
-2004,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",446.0
-2004,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2004,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),446.0
-2004,Wexford Garda Division,Endangering traffic offences (0425),1.0
-2004,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2004,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2004,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2004,Wexford Garda Division,False imprisonment (0511),4.0
-2004,Wexford Garda Division,Fireworks offences (114),0.0
-2004,Wexford Garda Division,"Fraud, deception and related offences (09)",89.0
-2004,Wexford Garda Division,Harassment and related offences (033),30.0
-2004,Wexford Garda Division,Homicide & related offences (01),6.0
-2004,Wexford Garda Division,Human trafficking offences (0513),0.0
-2004,Wexford Garda Division,Importation of drugs (1011),2.0
-2004,Wexford Garda Division,Infanticide (0113),0.0
-2004,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",423.0
-2004,Wexford Garda Division,Kidnapping and related offences (05),5.0
-2004,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2004,Wexford Garda Division,Liquor licensing offences (133),79.0
-2004,Wexford Garda Division,Litter offences (1221),1.0
-2004,Wexford Garda Division,Manslaughter (0112),0.0
-2004,Wexford Garda Division,Murder (0111),0.0
-2004,Wexford Garda Division,Murder-attempt (0311),0.0
-2004,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),4.0
-2004,Wexford Garda Division,Offences against government and its agents (151),4.0
-2004,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",117.0
-2004,Wexford Garda Division,Offences not elsewhere classified (16),42.0
-2004,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",102.0
-2004,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),31.0
-2004,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2004,Wexford Garda Division,Other assault (035),202.0
-2004,Wexford Garda Division,Other drug offences (103),8.0
-2004,Wexford Garda Division,Other road offences (1433),367.0
-2004,Wexford Garda Division,Other sexual offences (022),1.0
-2004,Wexford Garda Division,"Other thefts, handling stolen property (084)",775.0
-2004,Wexford Garda Division,Perverting the course of justice (153),11.0
-2004,Wexford Garda Division,Possession of a firearm (1122),5.0
-2004,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2004,Wexford Garda Division,Possession of drugs for personal use (1022),170.0
-2004,Wexford Garda Division,Possession of drugs for sale or supply (1021),27.0
-2004,Wexford Garda Division,Prostitution offences (134),4.0
-2004,Wexford Garda Division,Public order and other social code offences (13),867.0
-2004,Wexford Garda Division,Public service vehicle offences (1442),4.0
-2004,Wexford Garda Division,Rape and sexual assault (021),41.0
-2004,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",4.0
-2004,Wexford Garda Division,Road and traffic offences (14),1093.0
-2004,Wexford Garda Division,Road transport - carriage of goods offences (1441),39.0
-2004,Wexford Garda Division,Roadworthiness/regulatory offences (143),39.0
-2004,Wexford Garda Division,Robbery from the person (0613),9.0
-2004,Wexford Garda Division,Robbery of an establishment or institution (0611),12.0
-2004,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2004,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",21.0
-2004,Wexford Garda Division,Sexual offences (02),42.0
-2004,Wexford Garda Division,Social code offences (n.e.c.) (136),4.0
-2004,Wexford Garda Division,Speeding (0415),85.0
-2004,Wexford Garda Division,Theft and related offences (08),1252.0
-2004,Wexford Garda Division,Theft from person (0821),57.0
-2004,Wexford Garda Division,Theft from shop (0822),276.0
-2004,Wexford Garda Division,Theft/taking of vehicle and related offences (081),144.0
-2004,Wexford Garda Division,Threat to kill or cause serious harm (0313),0.0
-2004,Wexford Garda Division,Trespass offences (132),17.0
-2004,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2004,Wexford Garda Division,Vehicle tax/registration offences (142),163.0
-2004,Wexford Garda Division,Weapons and explosives offences (11),42.0
-2005,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",11.0
-2005,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2005,Wexford Garda Division,Aggravated burglary (0711),9.0
-2005,Wexford Garda Division,Arson (1211),21.0
-2005,Wexford Garda Division,"Assault causing harm, poisoning (034)",74.0
-2005,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",338.0
-2005,Wexford Garda Division,Blackmail or extortion (0621),1.0
-2005,Wexford Garda Division,Burglary (not aggravated) (0712),831.0
-2005,Wexford Garda Division,Burglary and related offences (07),842.0
-2005,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2005,Wexford Garda Division,Controlled drug offences (10),477.0
-2005,Wexford Garda Division,Criminal damage (not arson) (1212),671.0
-2005,Wexford Garda Division,Cultivation or manufacture of drugs (1012),2.0
-2005,Wexford Garda Division,Damage to property and to the environment  offences (12),692.0
-2005,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2005,Wexford Garda Division,Dangerous driving leading to death (012),5.0
-2005,Wexford Garda Division,Dangerous or negligent acts (04),902.0
-2005,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),239.0
-2005,Wexford Garda Division,Discharging a firearm (1121),4.0
-2005,Wexford Garda Division,Disorderly conduct (131),887.0
-2005,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",80.0
-2005,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",489.0
-2005,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),1.0
-2005,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),488.0
-2005,Wexford Garda Division,Endangering traffic offences (0425),5.0
-2005,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2005,Wexford Garda Division,"Explosives, chemical weapons offences (111)",4.0
-2005,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2005,Wexford Garda Division,False imprisonment (0511),4.0
-2005,Wexford Garda Division,Fireworks offences (114),0.0
-2005,Wexford Garda Division,"Fraud, deception and related offences (09)",138.0
-2005,Wexford Garda Division,Harassment and related offences (033),27.0
-2005,Wexford Garda Division,Homicide & related offences (01),7.0
-2005,Wexford Garda Division,Human trafficking offences (0513),0.0
-2005,Wexford Garda Division,Importation of drugs (1011),0.0
-2005,Wexford Garda Division,Infanticide (0113),0.0
-2005,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",605.0
-2005,Wexford Garda Division,Kidnapping and related offences (05),4.0
-2005,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2005,Wexford Garda Division,Liquor licensing offences (133),145.0
-2005,Wexford Garda Division,Litter offences (1221),0.0
-2005,Wexford Garda Division,Manslaughter (0112),0.0
-2005,Wexford Garda Division,Murder (0111),2.0
-2005,Wexford Garda Division,Murder-attempt (0311),0.0
-2005,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2005,Wexford Garda Division,Offences against government and its agents (151),3.0
-2005,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",74.0
-2005,Wexford Garda Division,Offences not elsewhere classified (16),35.0
-2005,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",68.0
-2005,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),27.0
-2005,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2005,Wexford Garda Division,Other assault (035),236.0
-2005,Wexford Garda Division,Other drug offences (103),24.0
-2005,Wexford Garda Division,Other road offences (1433),481.0
-2005,Wexford Garda Division,Other sexual offences (022),6.0
-2005,Wexford Garda Division,"Other thefts, handling stolen property (084)",794.0
-2005,Wexford Garda Division,Perverting the course of justice (153),3.0
-2005,Wexford Garda Division,Possession of a firearm (1122),9.0
-2005,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2005,Wexford Garda Division,Possession of drugs for personal use (1022),388.0
-2005,Wexford Garda Division,Possession of drugs for sale or supply (1021),63.0
-2005,Wexford Garda Division,Prostitution offences (134),0.0
-2005,Wexford Garda Division,Public order and other social code offences (13),1069.0
-2005,Wexford Garda Division,Public service vehicle offences (1442),3.0
-2005,Wexford Garda Division,Rape and sexual assault (021),62.0
-2005,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2005,Wexford Garda Division,Road and traffic offences (14),1504.0
-2005,Wexford Garda Division,Road transport - carriage of goods offences (1441),58.0
-2005,Wexford Garda Division,Roadworthiness/regulatory offences (143),50.0
-2005,Wexford Garda Division,Robbery from the person (0613),13.0
-2005,Wexford Garda Division,Robbery of an establishment or institution (0611),7.0
-2005,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2005,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",21.0
-2005,Wexford Garda Division,Sexual offences (02),68.0
-2005,Wexford Garda Division,Social code offences (n.e.c.) (136),12.0
-2005,Wexford Garda Division,Speeding (0415),156.0
-2005,Wexford Garda Division,Theft and related offences (08),1338.0
-2005,Wexford Garda Division,Theft from person (0821),67.0
-2005,Wexford Garda Division,Theft from shop (0822),324.0
-2005,Wexford Garda Division,Theft/taking of vehicle and related offences (081),153.0
-2005,Wexford Garda Division,Threat to kill or cause serious harm (0313),1.0
-2005,Wexford Garda Division,Trespass offences (132),24.0
-2005,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2005,Wexford Garda Division,Vehicle tax/registration offences (142),224.0
-2005,Wexford Garda Division,Weapons and explosives offences (11),44.0
-2006,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
-2006,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2006,Wexford Garda Division,Aggravated burglary (0711),11.0
-2006,Wexford Garda Division,Arson (1211),17.0
-2006,Wexford Garda Division,"Assault causing harm, poisoning (034)",84.0
-2006,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",399.0
-2006,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2006,Wexford Garda Division,Burglary (not aggravated) (0712),833.0
-2006,Wexford Garda Division,Burglary and related offences (07),846.0
-2006,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2006,Wexford Garda Division,Controlled drug offences (10),425.0
-2006,Wexford Garda Division,Criminal damage (not arson) (1212),952.0
-2006,Wexford Garda Division,Cultivation or manufacture of drugs (1012),7.0
-2006,Wexford Garda Division,Damage to property and to the environment  offences (12),971.0
-2006,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2006,Wexford Garda Division,Dangerous driving leading to death (012),4.0
-2006,Wexford Garda Division,Dangerous or negligent acts (04),1707.0
-2006,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),326.0
-2006,Wexford Garda Division,Discharging a firearm (1121),12.0
-2006,Wexford Garda Division,Disorderly conduct (131),1075.0
-2006,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",263.0
-2006,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",726.0
-2006,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),2.0
-2006,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),724.0
-2006,Wexford Garda Division,Endangering traffic offences (0425),2.0
-2006,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2006,Wexford Garda Division,"Explosives, chemical weapons offences (111)",9.0
-2006,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2006,Wexford Garda Division,False imprisonment (0511),0.0
-2006,Wexford Garda Division,Fireworks offences (114),2.0
-2006,Wexford Garda Division,"Fraud, deception and related offences (09)",110.0
-2006,Wexford Garda Division,Harassment and related offences (033),47.0
-2006,Wexford Garda Division,Homicide & related offences (01),5.0
-2006,Wexford Garda Division,Human trafficking offences (0513),0.0
-2006,Wexford Garda Division,Importation of drugs (1011),1.0
-2006,Wexford Garda Division,Infanticide (0113),0.0
-2006,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1060.0
-2006,Wexford Garda Division,Kidnapping and related offences (05),0.0
-2006,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2006,Wexford Garda Division,Liquor licensing offences (133),252.0
-2006,Wexford Garda Division,Litter offences (1221),2.0
-2006,Wexford Garda Division,Manslaughter (0112),1.0
-2006,Wexford Garda Division,Murder (0111),0.0
-2006,Wexford Garda Division,Murder-attempt (0311),0.0
-2006,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),4.0
-2006,Wexford Garda Division,Offences against government and its agents (151),7.0
-2006,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",94.0
-2006,Wexford Garda Division,Offences not elsewhere classified (16),121.0
-2006,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",76.0
-2006,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),40.0
-2006,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2006,Wexford Garda Division,Other assault (035),267.0
-2006,Wexford Garda Division,Other drug offences (103),20.0
-2006,Wexford Garda Division,Other road offences (1433),1193.0
-2006,Wexford Garda Division,Other sexual offences (022),1.0
-2006,Wexford Garda Division,"Other thefts, handling stolen property (084)",848.0
-2006,Wexford Garda Division,Perverting the course of justice (153),11.0
-2006,Wexford Garda Division,Possession of a firearm (1122),26.0
-2006,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2006,Wexford Garda Division,Possession of drugs for personal use (1022),344.0
-2006,Wexford Garda Division,Possession of drugs for sale or supply (1021),53.0
-2006,Wexford Garda Division,Prostitution offences (134),0.0
-2006,Wexford Garda Division,Public order and other social code offences (13),1385.0
-2006,Wexford Garda Division,Public service vehicle offences (1442),0.0
-2006,Wexford Garda Division,Rape and sexual assault (021),54.0
-2006,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
-2006,Wexford Garda Division,Road and traffic offences (14),3116.0
-2006,Wexford Garda Division,Road transport - carriage of goods offences (1441),80.0
-2006,Wexford Garda Division,Roadworthiness/regulatory offences (143),61.0
-2006,Wexford Garda Division,Robbery from the person (0613),12.0
-2006,Wexford Garda Division,Robbery of an establishment or institution (0611),8.0
-2006,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2006,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",21.0
-2006,Wexford Garda Division,Sexual offences (02),55.0
-2006,Wexford Garda Division,Social code offences (n.e.c.) (136),18.0
-2006,Wexford Garda Division,Speeding (0415),641.0
-2006,Wexford Garda Division,Theft and related offences (08),1362.0
-2006,Wexford Garda Division,Theft from person (0821),48.0
-2006,Wexford Garda Division,Theft from shop (0822),300.0
-2006,Wexford Garda Division,Theft/taking of vehicle and related offences (081),166.0
-2006,Wexford Garda Division,Threat to kill or cause serious harm (0313),1.0
-2006,Wexford Garda Division,Trespass offences (132),30.0
-2006,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2006,Wexford Garda Division,Vehicle tax/registration offences (142),455.0
-2006,Wexford Garda Division,Weapons and explosives offences (11),89.0
-2007,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",28.0
-2007,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2007,Wexford Garda Division,Aggravated burglary (0711),7.0
-2007,Wexford Garda Division,Arson (1211),34.0
-2007,Wexford Garda Division,"Assault causing harm, poisoning (034)",111.0
-2007,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",514.0
-2007,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2007,Wexford Garda Division,Burglary (not aggravated) (0712),742.0
-2007,Wexford Garda Division,Burglary and related offences (07),751.0
-2007,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2007,Wexford Garda Division,Controlled drug offences (10),482.0
-2007,Wexford Garda Division,Criminal damage (not arson) (1212),916.0
-2007,Wexford Garda Division,Cultivation or manufacture of drugs (1012),12.0
-2007,Wexford Garda Division,Damage to property and to the environment  offences (12),958.0
-2007,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2007,Wexford Garda Division,Dangerous driving leading to death (012),4.0
-2007,Wexford Garda Division,Dangerous or negligent acts (04),1790.0
-2007,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),432.0
-2007,Wexford Garda Division,Discharging a firearm (1121),15.0
-2007,Wexford Garda Division,Disorderly conduct (131),1273.0
-2007,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",313.0
-2007,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",667.0
-2007,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),8.0
-2007,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),659.0
-2007,Wexford Garda Division,Endangering traffic offences (0425),3.0
-2007,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),6.0
-2007,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2007,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2007,Wexford Garda Division,False imprisonment (0511),4.0
-2007,Wexford Garda Division,Fireworks offences (114),10.0
-2007,Wexford Garda Division,"Fraud, deception and related offences (09)",119.0
-2007,Wexford Garda Division,Harassment and related offences (033),80.0
-2007,Wexford Garda Division,Homicide & related offences (01),9.0
-2007,Wexford Garda Division,Human trafficking offences (0513),0.0
-2007,Wexford Garda Division,Importation of drugs (1011),2.0
-2007,Wexford Garda Division,Infanticide (0113),0.0
-2007,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",900.0
-2007,Wexford Garda Division,Kidnapping and related offences (05),4.0
-2007,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2007,Wexford Garda Division,Liquor licensing offences (133),216.0
-2007,Wexford Garda Division,Litter offences (1221),8.0
-2007,Wexford Garda Division,Manslaughter (0112),1.0
-2007,Wexford Garda Division,Murder (0111),4.0
-2007,Wexford Garda Division,Murder-attempt (0311),1.0
-2007,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),5.0
-2007,Wexford Garda Division,Offences against government and its agents (151),5.0
-2007,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",108.0
-2007,Wexford Garda Division,Offences not elsewhere classified (16),175.0
-2007,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",101.0
-2007,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),50.0
-2007,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2007,Wexford Garda Division,Other assault (035),322.0
-2007,Wexford Garda Division,Other drug offences (103),18.0
-2007,Wexford Garda Division,Other road offences (1433),1400.0
-2007,Wexford Garda Division,Other sexual offences (022),3.0
-2007,Wexford Garda Division,"Other thefts, handling stolen property (084)",786.0
-2007,Wexford Garda Division,Perverting the course of justice (153),2.0
-2007,Wexford Garda Division,Possession of a firearm (1122),7.0
-2007,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2007,Wexford Garda Division,Possession of drugs for personal use (1022),389.0
-2007,Wexford Garda Division,Possession of drugs for sale or supply (1021),61.0
-2007,Wexford Garda Division,Prostitution offences (134),0.0
-2007,Wexford Garda Division,Public order and other social code offences (13),1600.0
-2007,Wexford Garda Division,Public service vehicle offences (1442),3.0
-2007,Wexford Garda Division,Rape and sexual assault (021),51.0
-2007,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",13.0
-2007,Wexford Garda Division,Road and traffic offences (14),3328.0
-2007,Wexford Garda Division,Road transport - carriage of goods offences (1441),72.0
-2007,Wexford Garda Division,Roadworthiness/regulatory offences (143),57.0
-2007,Wexford Garda Division,Robbery from the person (0613),12.0
-2007,Wexford Garda Division,Robbery of an establishment or institution (0611),9.0
-2007,Wexford Garda Division,Robbery of cash or goods in transit (0612),1.0
-2007,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",22.0
-2007,Wexford Garda Division,Sexual offences (02),54.0
-2007,Wexford Garda Division,Social code offences (n.e.c.) (136),45.0
-2007,Wexford Garda Division,Speeding (0415),653.0
-2007,Wexford Garda Division,Theft and related offences (08),1370.0
-2007,Wexford Garda Division,Theft from person (0821),23.0
-2007,Wexford Garda Division,Theft from shop (0822),375.0
-2007,Wexford Garda Division,Theft/taking of vehicle and related offences (081),186.0
-2007,Wexford Garda Division,Threat to kill or cause serious harm (0313),0.0
-2007,Wexford Garda Division,Trespass offences (132),53.0
-2007,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2007,Wexford Garda Division,Vehicle tax/registration offences (142),578.0
-2007,Wexford Garda Division,Weapons and explosives offences (11),82.0
-2008,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",14.0
-2008,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2008,Wexford Garda Division,Aggravated burglary (0711),7.0
-2008,Wexford Garda Division,Arson (1211),43.0
-2008,Wexford Garda Division,"Assault causing harm, poisoning (034)",96.0
-2008,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",510.0
-2008,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2008,Wexford Garda Division,Burglary (not aggravated) (0712),783.0
-2008,Wexford Garda Division,Burglary and related offences (07),793.0
-2008,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2008,Wexford Garda Division,Controlled drug offences (10),468.0
-2008,Wexford Garda Division,Criminal damage (not arson) (1212),980.0
-2008,Wexford Garda Division,Cultivation or manufacture of drugs (1012),10.0
-2008,Wexford Garda Division,Damage to property and to the environment  offences (12),1029.0
-2008,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2008,Wexford Garda Division,Dangerous driving leading to death (012),4.0
-2008,Wexford Garda Division,Dangerous or negligent acts (04),1813.0
-2008,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),338.0
-2008,Wexford Garda Division,Discharging a firearm (1121),1.0
-2008,Wexford Garda Division,Disorderly conduct (131),1247.0
-2008,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",257.0
-2008,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",582.0
-2008,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),18.0
-2008,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),564.0
-2008,Wexford Garda Division,Endangering traffic offences (0425),9.0
-2008,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2008,Wexford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2008,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2008,Wexford Garda Division,False imprisonment (0511),3.0
-2008,Wexford Garda Division,Fireworks offences (114),4.0
-2008,Wexford Garda Division,"Fraud, deception and related offences (09)",126.0
-2008,Wexford Garda Division,Harassment and related offences (033),96.0
-2008,Wexford Garda Division,Homicide & related offences (01),8.0
-2008,Wexford Garda Division,Human trafficking offences (0513),0.0
-2008,Wexford Garda Division,Importation of drugs (1011),6.0
-2008,Wexford Garda Division,Infanticide (0113),0.0
-2008,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",728.0
-2008,Wexford Garda Division,Kidnapping and related offences (05),3.0
-2008,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2008,Wexford Garda Division,Liquor licensing offences (133),102.0
-2008,Wexford Garda Division,Litter offences (1221),6.0
-2008,Wexford Garda Division,Manslaughter (0112),1.0
-2008,Wexford Garda Division,Murder (0111),3.0
-2008,Wexford Garda Division,Murder-attempt (0311),0.0
-2008,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2008,Wexford Garda Division,Offences against government and its agents (151),10.0
-2008,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",129.0
-2008,Wexford Garda Division,Offences not elsewhere classified (16),171.0
-2008,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",118.0
-2008,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),52.0
-2008,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2008,Wexford Garda Division,Other assault (035),318.0
-2008,Wexford Garda Division,Other drug offences (103),22.0
-2008,Wexford Garda Division,Other road offences (1433),1590.0
-2008,Wexford Garda Division,Other sexual offences (022),2.0
-2008,Wexford Garda Division,"Other thefts, handling stolen property (084)",871.0
-2008,Wexford Garda Division,Perverting the course of justice (153),1.0
-2008,Wexford Garda Division,Possession of a firearm (1122),15.0
-2008,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2008,Wexford Garda Division,Possession of drugs for personal use (1022),361.0
-2008,Wexford Garda Division,Possession of drugs for sale or supply (1021),69.0
-2008,Wexford Garda Division,Prostitution offences (134),0.0
-2008,Wexford Garda Division,Public order and other social code offences (13),1439.0
-2008,Wexford Garda Division,Public service vehicle offences (1442),11.0
-2008,Wexford Garda Division,Rape and sexual assault (021),29.0
-2008,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",4.0
-2008,Wexford Garda Division,Road and traffic offences (14),3290.0
-2008,Wexford Garda Division,Road transport - carriage of goods offences (1441),152.0
-2008,Wexford Garda Division,Roadworthiness/regulatory offences (143),48.0
-2008,Wexford Garda Division,Robbery from the person (0613),12.0
-2008,Wexford Garda Division,Robbery of an establishment or institution (0611),9.0
-2008,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2008,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",22.0
-2008,Wexford Garda Division,Sexual offences (02),31.0
-2008,Wexford Garda Division,Social code offences (n.e.c.) (136),2.0
-2008,Wexford Garda Division,Speeding (0415),868.0
-2008,Wexford Garda Division,Theft and related offences (08),1539.0
-2008,Wexford Garda Division,Theft from person (0821),34.0
-2008,Wexford Garda Division,Theft from shop (0822),413.0
-2008,Wexford Garda Division,Theft/taking of vehicle and related offences (081),221.0
-2008,Wexford Garda Division,Threat to kill or cause serious harm (0313),0.0
-2008,Wexford Garda Division,Trespass offences (132),84.0
-2008,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2008,Wexford Garda Division,Vehicle tax/registration offences (142),504.0
-2008,Wexford Garda Division,Weapons and explosives offences (11),73.0
-2009,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",31.0
-2009,Wexford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2009,Wexford Garda Division,Aggravated burglary (0711),12.0
-2009,Wexford Garda Division,Arson (1211),65.0
-2009,Wexford Garda Division,"Assault causing harm, poisoning (034)",79.0
-2009,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",519.0
-2009,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2009,Wexford Garda Division,Burglary (not aggravated) (0712),729.0
-2009,Wexford Garda Division,Burglary and related offences (07),741.0
-2009,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2009,Wexford Garda Division,Controlled drug offences (10),522.0
-2009,Wexford Garda Division,Criminal damage (not arson) (1212),1007.0
-2009,Wexford Garda Division,Cultivation or manufacture of drugs (1012),13.0
-2009,Wexford Garda Division,Damage to property and to the environment  offences (12),1074.0
-2009,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2009,Wexford Garda Division,Dangerous driving leading to death (012),0.0
-2009,Wexford Garda Division,Dangerous or negligent acts (04),1568.0
-2009,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),236.0
-2009,Wexford Garda Division,Discharging a firearm (1121),6.0
-2009,Wexford Garda Division,Disorderly conduct (131),1134.0
-2009,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",210.0
-2009,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",458.0
-2009,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),32.0
-2009,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),426.0
-2009,Wexford Garda Division,Endangering traffic offences (0425),8.0
-2009,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2009,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2009,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2009,Wexford Garda Division,False imprisonment (0511),1.0
-2009,Wexford Garda Division,Fireworks offences (114),14.0
-2009,Wexford Garda Division,"Fraud, deception and related offences (09)",118.0
-2009,Wexford Garda Division,Harassment and related offences (033),92.0
-2009,Wexford Garda Division,Homicide & related offences (01),2.0
-2009,Wexford Garda Division,Human trafficking offences (0513),0.0
-2009,Wexford Garda Division,Importation of drugs (1011),6.0
-2009,Wexford Garda Division,Infanticide (0113),0.0
-2009,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",531.0
-2009,Wexford Garda Division,Kidnapping and related offences (05),2.0
-2009,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2009,Wexford Garda Division,Liquor licensing offences (133),128.0
-2009,Wexford Garda Division,Litter offences (1221),2.0
-2009,Wexford Garda Division,Manslaughter (0112),1.0
-2009,Wexford Garda Division,Murder (0111),1.0
-2009,Wexford Garda Division,Murder-attempt (0311),0.0
-2009,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2009,Wexford Garda Division,Offences against government and its agents (151),14.0
-2009,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",170.0
-2009,Wexford Garda Division,Offences not elsewhere classified (16),182.0
-2009,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",152.0
-2009,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),58.0
-2009,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2009,Wexford Garda Division,Other assault (035),345.0
-2009,Wexford Garda Division,Other drug offences (103),24.0
-2009,Wexford Garda Division,Other road offences (1433),1488.0
-2009,Wexford Garda Division,Other sexual offences (022),5.0
-2009,Wexford Garda Division,"Other thefts, handling stolen property (084)",1010.0
-2009,Wexford Garda Division,Perverting the course of justice (153),4.0
-2009,Wexford Garda Division,Possession of a firearm (1122),7.0
-2009,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2009,Wexford Garda Division,Possession of drugs for personal use (1022),403.0
-2009,Wexford Garda Division,Possession of drugs for sale or supply (1021),76.0
-2009,Wexford Garda Division,Prostitution offences (134),1.0
-2009,Wexford Garda Division,Public order and other social code offences (13),1374.0
-2009,Wexford Garda Division,Public service vehicle offences (1442),34.0
-2009,Wexford Garda Division,Rape and sexual assault (021),38.0
-2009,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
-2009,Wexford Garda Division,Road and traffic offences (14),3036.0
-2009,Wexford Garda Division,Road transport - carriage of goods offences (1441),160.0
-2009,Wexford Garda Division,Roadworthiness/regulatory offences (143),87.0
-2009,Wexford Garda Division,Robbery from the person (0613),11.0
-2009,Wexford Garda Division,Robbery of an establishment or institution (0611),10.0
-2009,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2009,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",21.0
-2009,Wexford Garda Division,Sexual offences (02),43.0
-2009,Wexford Garda Division,Social code offences (n.e.c.) (136),5.0
-2009,Wexford Garda Division,Speeding (0415),830.0
-2009,Wexford Garda Division,Theft and related offences (08),1753.0
-2009,Wexford Garda Division,Theft from person (0821),49.0
-2009,Wexford Garda Division,Theft from shop (0822),454.0
-2009,Wexford Garda Division,Theft/taking of vehicle and related offences (081),240.0
-2009,Wexford Garda Division,Threat to kill or cause serious harm (0313),3.0
-2009,Wexford Garda Division,Trespass offences (132),96.0
-2009,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2009,Wexford Garda Division,Vehicle tax/registration offences (142),526.0
-2009,Wexford Garda Division,Weapons and explosives offences (11),85.0
-2010,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",11.0
-2010,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2010,Wexford Garda Division,Aggravated burglary (0711),2.0
-2010,Wexford Garda Division,Arson (1211),51.0
-2010,Wexford Garda Division,"Assault causing harm, poisoning (034)",69.0
-2010,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",487.0
-2010,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2010,Wexford Garda Division,Burglary (not aggravated) (0712),744.0
-2010,Wexford Garda Division,Burglary and related offences (07),748.0
-2010,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2010,Wexford Garda Division,Controlled drug offences (10),465.0
-2010,Wexford Garda Division,Criminal damage (not arson) (1212),889.0
-2010,Wexford Garda Division,Cultivation or manufacture of drugs (1012),26.0
-2010,Wexford Garda Division,Damage to property and to the environment  offences (12),950.0
-2010,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2010,Wexford Garda Division,Dangerous driving leading to death (012),3.0
-2010,Wexford Garda Division,Dangerous or negligent acts (04),1785.0
-2010,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),256.0
-2010,Wexford Garda Division,Discharging a firearm (1121),2.0
-2010,Wexford Garda Division,Disorderly conduct (131),1011.0
-2010,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",199.0
-2010,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",336.0
-2010,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),13.0
-2010,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),323.0
-2010,Wexford Garda Division,Endangering traffic offences (0425),4.0
-2010,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2010,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2010,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2010,Wexford Garda Division,False imprisonment (0511),3.0
-2010,Wexford Garda Division,Fireworks offences (114),9.0
-2010,Wexford Garda Division,"Fraud, deception and related offences (09)",123.0
-2010,Wexford Garda Division,Harassment and related offences (033),96.0
-2010,Wexford Garda Division,Homicide & related offences (01),3.0
-2010,Wexford Garda Division,Human trafficking offences (0513),1.0
-2010,Wexford Garda Division,Importation of drugs (1011),3.0
-2010,Wexford Garda Division,Infanticide (0113),0.0
-2010,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",431.0
-2010,Wexford Garda Division,Kidnapping and related offences (05),4.0
-2010,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2010,Wexford Garda Division,Liquor licensing offences (133),73.0
-2010,Wexford Garda Division,Litter offences (1221),10.0
-2010,Wexford Garda Division,Manslaughter (0112),0.0
-2010,Wexford Garda Division,Murder (0111),0.0
-2010,Wexford Garda Division,Murder-attempt (0311),0.0
-2010,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2010,Wexford Garda Division,Offences against government and its agents (151),8.0
-2010,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",203.0
-2010,Wexford Garda Division,Offences not elsewhere classified (16),170.0
-2010,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",192.0
-2010,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),37.0
-2010,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2010,Wexford Garda Division,Other assault (035),320.0
-2010,Wexford Garda Division,Other drug offences (103),11.0
-2010,Wexford Garda Division,Other road offences (1433),1292.0
-2010,Wexford Garda Division,Other sexual offences (022),6.0
-2010,Wexford Garda Division,"Other thefts, handling stolen property (084)",989.0
-2010,Wexford Garda Division,Perverting the course of justice (153),2.0
-2010,Wexford Garda Division,Possession of a firearm (1122),9.0
-2010,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2010,Wexford Garda Division,Possession of drugs for personal use (1022),336.0
-2010,Wexford Garda Division,Possession of drugs for sale or supply (1021),89.0
-2010,Wexford Garda Division,Prostitution offences (134),6.0
-2010,Wexford Garda Division,Public order and other social code offences (13),1193.0
-2010,Wexford Garda Division,Public service vehicle offences (1442),32.0
-2010,Wexford Garda Division,Rape and sexual assault (021),54.0
-2010,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2010,Wexford Garda Division,Road and traffic offences (14),2632.0
-2010,Wexford Garda Division,Road transport - carriage of goods offences (1441),276.0
-2010,Wexford Garda Division,Roadworthiness/regulatory offences (143),49.0
-2010,Wexford Garda Division,Robbery from the person (0613),11.0
-2010,Wexford Garda Division,Robbery of an establishment or institution (0611),10.0
-2010,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2010,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",21.0
-2010,Wexford Garda Division,Sexual offences (02),60.0
-2010,Wexford Garda Division,Social code offences (n.e.c.) (136),12.0
-2010,Wexford Garda Division,Speeding (0415),1175.0
-2010,Wexford Garda Division,Theft and related offences (08),1567.0
-2010,Wexford Garda Division,Theft from person (0821),26.0
-2010,Wexford Garda Division,Theft from shop (0822),379.0
-2010,Wexford Garda Division,Theft/taking of vehicle and related offences (081),173.0
-2010,Wexford Garda Division,Threat to kill or cause serious harm (0313),2.0
-2010,Wexford Garda Division,Trespass offences (132),89.0
-2010,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),3.0
-2010,Wexford Garda Division,Vehicle tax/registration offences (142),352.0
-2010,Wexford Garda Division,Weapons and explosives offences (11),57.0
-2011,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2011,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2011,Wexford Garda Division,Aggravated burglary (0711),9.0
-2011,Wexford Garda Division,Arson (1211),70.0
-2011,Wexford Garda Division,"Assault causing harm, poisoning (034)",51.0
-2011,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",465.0
-2011,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2011,Wexford Garda Division,Burglary (not aggravated) (0712),930.0
-2011,Wexford Garda Division,Burglary and related offences (07),948.0
-2011,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2011,Wexford Garda Division,Controlled drug offences (10),423.0
-2011,Wexford Garda Division,Criminal damage (not arson) (1212),894.0
-2011,Wexford Garda Division,Cultivation or manufacture of drugs (1012),31.0
-2011,Wexford Garda Division,Damage to property and to the environment  offences (12),967.0
-2011,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2011,Wexford Garda Division,Dangerous driving leading to death (012),1.0
-2011,Wexford Garda Division,Dangerous or negligent acts (04),1470.0
-2011,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),186.0
-2011,Wexford Garda Division,Discharging a firearm (1121),3.0
-2011,Wexford Garda Division,Disorderly conduct (131),990.0
-2011,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",102.0
-2011,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",317.0
-2011,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),15.0
-2011,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),302.0
-2011,Wexford Garda Division,Endangering traffic offences (0425),2.0
-2011,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2011,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2011,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2011,Wexford Garda Division,False imprisonment (0511),2.0
-2011,Wexford Garda Division,Fireworks offences (114),6.0
-2011,Wexford Garda Division,"Fraud, deception and related offences (09)",143.0
-2011,Wexford Garda Division,Harassment and related offences (033),96.0
-2011,Wexford Garda Division,Homicide & related offences (01),3.0
-2011,Wexford Garda Division,Human trafficking offences (0513),0.0
-2011,Wexford Garda Division,Importation of drugs (1011),3.0
-2011,Wexford Garda Division,Infanticide (0113),0.0
-2011,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",340.0
-2011,Wexford Garda Division,Kidnapping and related offences (05),2.0
-2011,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2011,Wexford Garda Division,Liquor licensing offences (133),70.0
-2011,Wexford Garda Division,Litter offences (1221),3.0
-2011,Wexford Garda Division,Manslaughter (0112),0.0
-2011,Wexford Garda Division,Murder (0111),2.0
-2011,Wexford Garda Division,Murder-attempt (0311),0.0
-2011,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2011,Wexford Garda Division,Offences against government and its agents (151),11.0
-2011,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",153.0
-2011,Wexford Garda Division,Offences not elsewhere classified (16),129.0
-2011,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",139.0
-2011,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),48.0
-2011,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2011,Wexford Garda Division,Other assault (035),314.0
-2011,Wexford Garda Division,Other drug offences (103),7.0
-2011,Wexford Garda Division,Other road offences (1433),1230.0
-2011,Wexford Garda Division,Other sexual offences (022),3.0
-2011,Wexford Garda Division,"Other thefts, handling stolen property (084)",1201.0
-2011,Wexford Garda Division,Perverting the course of justice (153),3.0
-2011,Wexford Garda Division,Possession of a firearm (1122),6.0
-2011,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",9.0
-2011,Wexford Garda Division,Possession of drugs for personal use (1022),315.0
-2011,Wexford Garda Division,Possession of drugs for sale or supply (1021),67.0
-2011,Wexford Garda Division,Prostitution offences (134),1.0
-2011,Wexford Garda Division,Public order and other social code offences (13),1219.0
-2011,Wexford Garda Division,Public service vehicle offences (1442),37.0
-2011,Wexford Garda Division,Rape and sexual assault (021),57.0
-2011,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",4.0
-2011,Wexford Garda Division,Road and traffic offences (14),2401.0
-2011,Wexford Garda Division,Road transport - carriage of goods offences (1441),341.0
-2011,Wexford Garda Division,Roadworthiness/regulatory offences (143),41.0
-2011,Wexford Garda Division,Robbery from the person (0613),7.0
-2011,Wexford Garda Division,Robbery of an establishment or institution (0611),8.0
-2011,Wexford Garda Division,Robbery of cash or goods in transit (0612),1.0
-2011,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",16.0
-2011,Wexford Garda Division,Sexual offences (02),60.0
-2011,Wexford Garda Division,Social code offences (n.e.c.) (136),6.0
-2011,Wexford Garda Division,Speeding (0415),955.0
-2011,Wexford Garda Division,Theft and related offences (08),1921.0
-2011,Wexford Garda Division,Theft from person (0821),18.0
-2011,Wexford Garda Division,Theft from shop (0822),496.0
-2011,Wexford Garda Division,Theft/taking of vehicle and related offences (081),206.0
-2011,Wexford Garda Division,Threat to kill or cause serious harm (0313),4.0
-2011,Wexford Garda Division,Trespass offences (132),148.0
-2011,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),1.0
-2011,Wexford Garda Division,Vehicle tax/registration offences (142),307.0
-2011,Wexford Garda Division,Weapons and explosives offences (11),63.0
-2012,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",3.0
-2012,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2012,Wexford Garda Division,Aggravated burglary (0711),7.0
-2012,Wexford Garda Division,Arson (1211),54.0
-2012,Wexford Garda Division,"Assault causing harm, poisoning (034)",66.0
-2012,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",476.0
-2012,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2012,Wexford Garda Division,Burglary (not aggravated) (0712),1087.0
-2012,Wexford Garda Division,Burglary and related offences (07),1103.0
-2012,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2012,Wexford Garda Division,Controlled drug offences (10),344.0
-2012,Wexford Garda Division,Criminal damage (not arson) (1212),901.0
-2012,Wexford Garda Division,Cultivation or manufacture of drugs (1012),24.0
-2012,Wexford Garda Division,Damage to property and to the environment  offences (12),959.0
-2012,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2012,Wexford Garda Division,Dangerous driving leading to death (012),5.0
-2012,Wexford Garda Division,Dangerous or negligent acts (04),952.0
-2012,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),110.0
-2012,Wexford Garda Division,Discharging a firearm (1121),3.0
-2012,Wexford Garda Division,Disorderly conduct (131),828.0
-2012,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",83.0
-2012,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",326.0
-2012,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),7.0
-2012,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),319.0
-2012,Wexford Garda Division,Endangering traffic offences (0425),7.0
-2012,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2012,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2012,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2012,Wexford Garda Division,False imprisonment (0511),0.0
-2012,Wexford Garda Division,Fireworks offences (114),9.0
-2012,Wexford Garda Division,"Fraud, deception and related offences (09)",144.0
-2012,Wexford Garda Division,Harassment and related offences (033),58.0
-2012,Wexford Garda Division,Homicide & related offences (01),7.0
-2012,Wexford Garda Division,Human trafficking offences (0513),2.0
-2012,Wexford Garda Division,Importation of drugs (1011),6.0
-2012,Wexford Garda Division,Infanticide (0113),0.0
-2012,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",300.0
-2012,Wexford Garda Division,Kidnapping and related offences (05),2.0
-2012,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2012,Wexford Garda Division,Liquor licensing offences (133),36.0
-2012,Wexford Garda Division,Litter offences (1221),4.0
-2012,Wexford Garda Division,Manslaughter (0112),0.0
-2012,Wexford Garda Division,Murder (0111),2.0
-2012,Wexford Garda Division,Murder-attempt (0311),0.0
-2012,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2012,Wexford Garda Division,Offences against government and its agents (151),6.0
-2012,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",157.0
-2012,Wexford Garda Division,Offences not elsewhere classified (16),177.0
-2012,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",150.0
-2012,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),50.0
-2012,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2012,Wexford Garda Division,Other assault (035),344.0
-2012,Wexford Garda Division,Other drug offences (103),11.0
-2012,Wexford Garda Division,Other road offences (1433),1224.0
-2012,Wexford Garda Division,Other sexual offences (022),2.0
-2012,Wexford Garda Division,"Other thefts, handling stolen property (084)",1154.0
-2012,Wexford Garda Division,Perverting the course of justice (153),1.0
-2012,Wexford Garda Division,Possession of a firearm (1122),6.0
-2012,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",9.0
-2012,Wexford Garda Division,Possession of drugs for personal use (1022),254.0
-2012,Wexford Garda Division,Possession of drugs for sale or supply (1021),49.0
-2012,Wexford Garda Division,Prostitution offences (134),4.0
-2012,Wexford Garda Division,Public order and other social code offences (13),1062.0
-2012,Wexford Garda Division,Public service vehicle offences (1442),17.0
-2012,Wexford Garda Division,Rape and sexual assault (021),60.0
-2012,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",3.0
-2012,Wexford Garda Division,Road and traffic offences (14),2387.0
-2012,Wexford Garda Division,Road transport - carriage of goods offences (1441),391.0
-2012,Wexford Garda Division,Roadworthiness/regulatory offences (143),35.0
-2012,Wexford Garda Division,Robbery from the person (0613),6.0
-2012,Wexford Garda Division,Robbery of an establishment or institution (0611),9.0
-2012,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2012,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",16.0
-2012,Wexford Garda Division,Sexual offences (02),62.0
-2012,Wexford Garda Division,Social code offences (n.e.c.) (136),7.0
-2012,Wexford Garda Division,Speeding (0415),506.0
-2012,Wexford Garda Division,Theft and related offences (08),1922.0
-2012,Wexford Garda Division,Theft from person (0821),41.0
-2012,Wexford Garda Division,Theft from shop (0822),549.0
-2012,Wexford Garda Division,Theft/taking of vehicle and related offences (081),178.0
-2012,Wexford Garda Division,Threat to kill or cause serious harm (0313),8.0
-2012,Wexford Garda Division,Trespass offences (132),184.0
-2012,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2012,Wexford Garda Division,Vehicle tax/registration offences (142),336.0
-2012,Wexford Garda Division,Weapons and explosives offences (11),68.0
-2013,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2013,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2013,Wexford Garda Division,Aggravated burglary (0711),8.0
-2013,Wexford Garda Division,Arson (1211),45.0
-2013,Wexford Garda Division,"Assault causing harm, poisoning (034)",58.0
-2013,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",362.0
-2013,Wexford Garda Division,Blackmail or extortion (0621),1.0
-2013,Wexford Garda Division,Burglary (not aggravated) (0712),1080.0
-2013,Wexford Garda Division,Burglary and related offences (07),1095.0
-2013,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2013,Wexford Garda Division,Controlled drug offences (10),261.0
-2013,Wexford Garda Division,Criminal damage (not arson) (1212),781.0
-2013,Wexford Garda Division,Cultivation or manufacture of drugs (1012),18.0
-2013,Wexford Garda Division,Damage to property and to the environment  offences (12),827.0
-2013,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2013,Wexford Garda Division,Dangerous driving leading to death (012),1.0
-2013,Wexford Garda Division,Dangerous or negligent acts (04),1102.0
-2013,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),104.0
-2013,Wexford Garda Division,Discharging a firearm (1121),4.0
-2013,Wexford Garda Division,Disorderly conduct (131),685.0
-2013,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",64.0
-2013,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",220.0
-2013,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),5.0
-2013,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),215.0
-2013,Wexford Garda Division,Endangering traffic offences (0425),2.0
-2013,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2013,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2013,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2013,Wexford Garda Division,False imprisonment (0511),1.0
-2013,Wexford Garda Division,Fireworks offences (114),2.0
-2013,Wexford Garda Division,"Fraud, deception and related offences (09)",118.0
-2013,Wexford Garda Division,Harassment and related offences (033),57.0
-2013,Wexford Garda Division,Homicide & related offences (01),2.0
-2013,Wexford Garda Division,Human trafficking offences (0513),1.0
-2013,Wexford Garda Division,Importation of drugs (1011),5.0
-2013,Wexford Garda Division,Infanticide (0113),0.0
-2013,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",210.0
-2013,Wexford Garda Division,Kidnapping and related offences (05),2.0
-2013,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2013,Wexford Garda Division,Liquor licensing offences (133),25.0
-2013,Wexford Garda Division,Litter offences (1221),1.0
-2013,Wexford Garda Division,Manslaughter (0112),1.0
-2013,Wexford Garda Division,Murder (0111),0.0
-2013,Wexford Garda Division,Murder-attempt (0311),0.0
-2013,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2013,Wexford Garda Division,Offences against government and its agents (151),8.0
-2013,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",131.0
-2013,Wexford Garda Division,Offences not elsewhere classified (16),131.0
-2013,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",122.0
-2013,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),30.0
-2013,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2013,Wexford Garda Division,Other assault (035),244.0
-2013,Wexford Garda Division,Other drug offences (103),4.0
-2013,Wexford Garda Division,Other road offences (1433),862.0
-2013,Wexford Garda Division,Other sexual offences (022),4.0
-2013,Wexford Garda Division,"Other thefts, handling stolen property (084)",1023.0
-2013,Wexford Garda Division,Perverting the course of justice (153),1.0
-2013,Wexford Garda Division,Possession of a firearm (1122),6.0
-2013,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",7.0
-2013,Wexford Garda Division,Possession of drugs for personal use (1022),181.0
-2013,Wexford Garda Division,Possession of drugs for sale or supply (1021),53.0
-2013,Wexford Garda Division,Prostitution offences (134),0.0
-2013,Wexford Garda Division,Public order and other social code offences (13),863.0
-2013,Wexford Garda Division,Public service vehicle offences (1442),24.0
-2013,Wexford Garda Division,Rape and sexual assault (021),58.0
-2013,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2013,Wexford Garda Division,Road and traffic offences (14),1651.0
-2013,Wexford Garda Division,Road transport - carriage of goods offences (1441),288.0
-2013,Wexford Garda Division,Roadworthiness/regulatory offences (143),14.0
-2013,Wexford Garda Division,Robbery from the person (0613),12.0
-2013,Wexford Garda Division,Robbery of an establishment or institution (0611),7.0
-2013,Wexford Garda Division,Robbery of cash or goods in transit (0612),1.0
-2013,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",22.0
-2013,Wexford Garda Division,Sexual offences (02),62.0
-2013,Wexford Garda Division,Social code offences (n.e.c.) (136),9.0
-2013,Wexford Garda Division,Speeding (0415),771.0
-2013,Wexford Garda Division,Theft and related offences (08),1726.0
-2013,Wexford Garda Division,Theft from person (0821),33.0
-2013,Wexford Garda Division,Theft from shop (0822),536.0
-2013,Wexford Garda Division,Theft/taking of vehicle and related offences (081),134.0
-2013,Wexford Garda Division,Threat to kill or cause serious harm (0313),3.0
-2013,Wexford Garda Division,Trespass offences (132),143.0
-2013,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2013,Wexford Garda Division,Vehicle tax/registration offences (142),189.0
-2013,Wexford Garda Division,Weapons and explosives offences (11),42.0
-2014,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",1.0
-2014,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2014,Wexford Garda Division,Aggravated burglary (0711),11.0
-2014,Wexford Garda Division,Arson (1211),45.0
-2014,Wexford Garda Division,"Assault causing harm, poisoning (034)",72.0
-2014,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",374.0
-2014,Wexford Garda Division,Blackmail or extortion (0621),1.0
-2014,Wexford Garda Division,Burglary (not aggravated) (0712),984.0
-2014,Wexford Garda Division,Burglary and related offences (07),1002.0
-2014,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
-2014,Wexford Garda Division,Controlled drug offences (10),250.0
-2014,Wexford Garda Division,Criminal damage (not arson) (1212),712.0
-2014,Wexford Garda Division,Cultivation or manufacture of drugs (1012),15.0
-2014,Wexford Garda Division,Damage to property and to the environment  offences (12),758.0
-2014,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2014,Wexford Garda Division,Dangerous driving leading to death (012),3.0
-2014,Wexford Garda Division,Dangerous or negligent acts (04),1462.0
-2014,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),126.0
-2014,Wexford Garda Division,Discharging a firearm (1121),5.0
-2014,Wexford Garda Division,Disorderly conduct (131),459.0
-2014,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",79.0
-2014,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",222.0
-2014,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),13.0
-2014,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),209.0
-2014,Wexford Garda Division,Endangering traffic offences (0425),1.0
-2014,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2014,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2014,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2014,Wexford Garda Division,False imprisonment (0511),1.0
-2014,Wexford Garda Division,Fireworks offences (114),2.0
-2014,Wexford Garda Division,"Fraud, deception and related offences (09)",95.0
-2014,Wexford Garda Division,Harassment and related offences (033),40.0
-2014,Wexford Garda Division,Homicide & related offences (01),3.0
-2014,Wexford Garda Division,Human trafficking offences (0513),1.0
-2014,Wexford Garda Division,Importation of drugs (1011),3.0
-2014,Wexford Garda Division,Infanticide (0113),0.0
-2014,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",221.0
-2014,Wexford Garda Division,Kidnapping and related offences (05),2.0
-2014,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2014,Wexford Garda Division,Liquor licensing offences (133),27.0
-2014,Wexford Garda Division,Litter offences (1221),1.0
-2014,Wexford Garda Division,Manslaughter (0112),0.0
-2014,Wexford Garda Division,Murder (0111),0.0
-2014,Wexford Garda Division,Murder-attempt (0311),0.0
-2014,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2014,Wexford Garda Division,Offences against government and its agents (151),3.0
-2014,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",183.0
-2014,Wexford Garda Division,Offences not elsewhere classified (16),127.0
-2014,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",180.0
-2014,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),31.0
-2014,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2014,Wexford Garda Division,Other assault (035),257.0
-2014,Wexford Garda Division,Other drug offences (103),16.0
-2014,Wexford Garda Division,Other road offences (1433),997.0
-2014,Wexford Garda Division,Other sexual offences (022),1.0
-2014,Wexford Garda Division,"Other thefts, handling stolen property (084)",942.0
-2014,Wexford Garda Division,Perverting the course of justice (153),0.0
-2014,Wexford Garda Division,Possession of a firearm (1122),5.0
-2014,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",7.0
-2014,Wexford Garda Division,Possession of drugs for personal use (1022),190.0
-2014,Wexford Garda Division,Possession of drugs for sale or supply (1021),26.0
-2014,Wexford Garda Division,Prostitution offences (134),2.0
-2014,Wexford Garda Division,Public order and other social code offences (13),613.0
-2014,Wexford Garda Division,Public service vehicle offences (1442),14.0
-2014,Wexford Garda Division,Rape and sexual assault (021),67.0
-2014,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2014,Wexford Garda Division,Road and traffic offences (14),1766.0
-2014,Wexford Garda Division,Road transport - carriage of goods offences (1441),272.0
-2014,Wexford Garda Division,Roadworthiness/regulatory offences (143),5.0
-2014,Wexford Garda Division,Robbery from the person (0613),16.0
-2014,Wexford Garda Division,Robbery of an establishment or institution (0611),20.0
-2014,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2014,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",40.0
-2014,Wexford Garda Division,Sexual offences (02),68.0
-2014,Wexford Garda Division,Social code offences (n.e.c.) (136),2.0
-2014,Wexford Garda Division,Speeding (0415),1109.0
-2014,Wexford Garda Division,Theft and related offences (08),1632.0
-2014,Wexford Garda Division,Theft from person (0821),39.0
-2014,Wexford Garda Division,Theft from shop (0822),518.0
-2014,Wexford Garda Division,Theft/taking of vehicle and related offences (081),133.0
-2014,Wexford Garda Division,Threat to kill or cause serious harm (0313),5.0
-2014,Wexford Garda Division,Trespass offences (132),121.0
-2014,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2014,Wexford Garda Division,Vehicle tax/registration offences (142),178.0
-2014,Wexford Garda Division,Weapons and explosives offences (11),43.0
-2015,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",1.0
-2015,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2015,Wexford Garda Division,Aggravated burglary (0711),10.0
-2015,Wexford Garda Division,Arson (1211),62.0
-2015,Wexford Garda Division,"Assault causing harm, poisoning (034)",65.0
-2015,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",450.0
-2015,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2015,Wexford Garda Division,Burglary (not aggravated) (0712),1035.0
-2015,Wexford Garda Division,Burglary and related offences (07),1051.0
-2015,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2015,Wexford Garda Division,Controlled drug offences (10),278.0
-2015,Wexford Garda Division,Criminal damage (not arson) (1212),767.0
-2015,Wexford Garda Division,Cultivation or manufacture of drugs (1012),7.0
-2015,Wexford Garda Division,Damage to property and to the environment  offences (12),831.0
-2015,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2015,Wexford Garda Division,Dangerous driving leading to death (012),2.0
-2015,Wexford Garda Division,Dangerous or negligent acts (04),1606.0
-2015,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),120.0
-2015,Wexford Garda Division,Discharging a firearm (1121),3.0
-2015,Wexford Garda Division,Disorderly conduct (131),537.0
-2015,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",179.0
-2015,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",216.0
-2015,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),6.0
-2015,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),210.0
-2015,Wexford Garda Division,Endangering traffic offences (0425),2.0
-2015,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2015,Wexford Garda Division,"Explosives, chemical weapons offences (111)",2.0
-2015,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2015,Wexford Garda Division,False imprisonment (0511),0.0
-2015,Wexford Garda Division,Fireworks offences (114),2.0
-2015,Wexford Garda Division,"Fraud, deception and related offences (09)",172.0
-2015,Wexford Garda Division,Harassment and related offences (033),52.0
-2015,Wexford Garda Division,Homicide & related offences (01),2.0
-2015,Wexford Garda Division,Human trafficking offences (0513),0.0
-2015,Wexford Garda Division,Importation of drugs (1011),1.0
-2015,Wexford Garda Division,Infanticide (0113),0.0
-2015,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",229.0
-2015,Wexford Garda Division,Kidnapping and related offences (05),0.0
-2015,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2015,Wexford Garda Division,Liquor licensing offences (133),16.0
-2015,Wexford Garda Division,Litter offences (1221),2.0
-2015,Wexford Garda Division,Manslaughter (0112),0.0
-2015,Wexford Garda Division,Murder (0111),0.0
-2015,Wexford Garda Division,Murder-attempt (0311),0.0
-2015,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2015,Wexford Garda Division,Offences against government and its agents (151),2.0
-2015,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",227.0
-2015,Wexford Garda Division,Offences not elsewhere classified (16),166.0
-2015,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",218.0
-2015,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),30.0
-2015,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2015,Wexford Garda Division,Other assault (035),319.0
-2015,Wexford Garda Division,Other drug offences (103),2.0
-2015,Wexford Garda Division,Other road offences (1433),1019.0
-2015,Wexford Garda Division,Other sexual offences (022),9.0
-2015,Wexford Garda Division,"Other thefts, handling stolen property (084)",1000.0
-2015,Wexford Garda Division,Perverting the course of justice (153),7.0
-2015,Wexford Garda Division,Possession of a firearm (1122),9.0
-2015,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",6.0
-2015,Wexford Garda Division,Possession of drugs for personal use (1022),205.0
-2015,Wexford Garda Division,Possession of drugs for sale or supply (1021),63.0
-2015,Wexford Garda Division,Prostitution offences (134),2.0
-2015,Wexford Garda Division,Public order and other social code offences (13),660.0
-2015,Wexford Garda Division,Public service vehicle offences (1442),4.0
-2015,Wexford Garda Division,Rape and sexual assault (021),72.0
-2015,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2015,Wexford Garda Division,Road and traffic offences (14),1767.0
-2015,Wexford Garda Division,Road transport - carriage of goods offences (1441),107.0
-2015,Wexford Garda Division,Roadworthiness/regulatory offences (143),10.0
-2015,Wexford Garda Division,Robbery from the person (0613),6.0
-2015,Wexford Garda Division,Robbery of an establishment or institution (0611),10.0
-2015,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2015,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",17.0
-2015,Wexford Garda Division,Sexual offences (02),81.0
-2015,Wexford Garda Division,Social code offences (n.e.c.) (136),8.0
-2015,Wexford Garda Division,Speeding (0415),1265.0
-2015,Wexford Garda Division,Theft and related offences (08),1643.0
-2015,Wexford Garda Division,Theft from person (0821),33.0
-2015,Wexford Garda Division,Theft from shop (0822),483.0
-2015,Wexford Garda Division,Theft/taking of vehicle and related offences (081),127.0
-2015,Wexford Garda Division,Threat to kill or cause serious harm (0313),14.0
-2015,Wexford Garda Division,Trespass offences (132),95.0
-2015,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2015,Wexford Garda Division,Vehicle tax/registration offences (142),219.0
-2015,Wexford Garda Division,Weapons and explosives offences (11),46.0
-2016,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",9.0
-2016,Wexford Garda Division,Abduction of person under 16 years of age (0512),2.0
-2016,Wexford Garda Division,Aggravated burglary (0711),4.0
-2016,Wexford Garda Division,Arson (1211),54.0
-2016,Wexford Garda Division,"Assault causing harm, poisoning (034)",88.0
-2016,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",444.0
-2016,Wexford Garda Division,Blackmail or extortion (0621),1.0
-2016,Wexford Garda Division,Burglary (not aggravated) (0712),519.0
-2016,Wexford Garda Division,Burglary and related offences (07),531.0
-2016,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2016,Wexford Garda Division,Controlled drug offences (10),402.0
-2016,Wexford Garda Division,Criminal damage (not arson) (1212),647.0
-2016,Wexford Garda Division,Cultivation or manufacture of drugs (1012),19.0
-2016,Wexford Garda Division,Damage to property and to the environment  offences (12),702.0
-2016,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2016,Wexford Garda Division,Dangerous driving leading to death (012),0.0
-2016,Wexford Garda Division,Dangerous or negligent acts (04),1310.0
-2016,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),137.0
-2016,Wexford Garda Division,Discharging a firearm (1121),0.0
-2016,Wexford Garda Division,Disorderly conduct (131),558.0
-2016,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",200.0
-2016,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",245.0
-2016,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),5.0
-2016,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),240.0
-2016,Wexford Garda Division,Endangering traffic offences (0425),3.0
-2016,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2016,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2016,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2016,Wexford Garda Division,False imprisonment (0511),1.0
-2016,Wexford Garda Division,Fireworks offences (114),2.0
-2016,Wexford Garda Division,"Fraud, deception and related offences (09)",92.0
-2016,Wexford Garda Division,Harassment and related offences (033),26.0
-2016,Wexford Garda Division,Homicide & related offences (01),0.0
-2016,Wexford Garda Division,Human trafficking offences (0513),0.0
-2016,Wexford Garda Division,Importation of drugs (1011),4.0
-2016,Wexford Garda Division,Infanticide (0113),0.0
-2016,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",320.0
-2016,Wexford Garda Division,Kidnapping and related offences (05),3.0
-2016,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2016,Wexford Garda Division,Liquor licensing offences (133),19.0
-2016,Wexford Garda Division,Litter offences (1221),1.0
-2016,Wexford Garda Division,Manslaughter (0112),0.0
-2016,Wexford Garda Division,Murder (0111),0.0
-2016,Wexford Garda Division,Murder-attempt (0311),0.0
-2016,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2016,Wexford Garda Division,Offences against government and its agents (151),5.0
-2016,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",212.0
-2016,Wexford Garda Division,Offences not elsewhere classified (16),117.0
-2016,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",205.0
-2016,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),27.0
-2016,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2016,Wexford Garda Division,Other assault (035),315.0
-2016,Wexford Garda Division,Other drug offences (103),7.0
-2016,Wexford Garda Division,Other road offences (1433),1068.0
-2016,Wexford Garda Division,Other sexual offences (022),6.0
-2016,Wexford Garda Division,"Other thefts, handling stolen property (084)",737.0
-2016,Wexford Garda Division,Perverting the course of justice (153),2.0
-2016,Wexford Garda Division,Possession of a firearm (1122),7.0
-2016,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",8.0
-2016,Wexford Garda Division,Possession of drugs for personal use (1022),280.0
-2016,Wexford Garda Division,Possession of drugs for sale or supply (1021),92.0
-2016,Wexford Garda Division,Prostitution offences (134),0.0
-2016,Wexford Garda Division,Public order and other social code offences (13),629.0
-2016,Wexford Garda Division,Public service vehicle offences (1442),16.0
-2016,Wexford Garda Division,Rape and sexual assault (021),75.0
-2016,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2016,Wexford Garda Division,Road and traffic offences (14),2038.0
-2016,Wexford Garda Division,Road transport - carriage of goods offences (1441),78.0
-2016,Wexford Garda Division,Roadworthiness/regulatory offences (143),32.0
-2016,Wexford Garda Division,Robbery from the person (0613),13.0
-2016,Wexford Garda Division,Robbery of an establishment or institution (0611),5.0
-2016,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2016,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",20.0
-2016,Wexford Garda Division,Sexual offences (02),81.0
-2016,Wexford Garda Division,Social code offences (n.e.c.) (136),3.0
-2016,Wexford Garda Division,Speeding (0415),910.0
-2016,Wexford Garda Division,Theft and related offences (08),1367.0
-2016,Wexford Garda Division,Theft from person (0821),23.0
-2016,Wexford Garda Division,Theft from shop (0822),508.0
-2016,Wexford Garda Division,Theft/taking of vehicle and related offences (081),99.0
-2016,Wexford Garda Division,Threat to kill or cause serious harm (0313),15.0
-2016,Wexford Garda Division,Trespass offences (132),48.0
-2016,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2016,Wexford Garda Division,Vehicle tax/registration offences (142),323.0
-2016,Wexford Garda Division,Weapons and explosives offences (11),36.0
-2017,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",11.0
-2017,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2017,Wexford Garda Division,Aggravated burglary (0711),7.0
-2017,Wexford Garda Division,Arson (1211),43.0
-2017,Wexford Garda Division,"Assault causing harm, poisoning (034)",105.0
-2017,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",515.0
-2017,Wexford Garda Division,Blackmail or extortion (0621),0.0
-2017,Wexford Garda Division,Burglary (not aggravated) (0712),546.0
-2017,Wexford Garda Division,Burglary and related offences (07),559.0
-2017,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2017,Wexford Garda Division,Controlled drug offences (10),378.0
-2017,Wexford Garda Division,Criminal damage (not arson) (1212),651.0
-2017,Wexford Garda Division,Cultivation or manufacture of drugs (1012),14.0
-2017,Wexford Garda Division,Damage to property and to the environment  offences (12),699.0
-2017,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2017,Wexford Garda Division,Dangerous driving leading to death (012),2.0
-2017,Wexford Garda Division,Dangerous or negligent acts (04),1346.0
-2017,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),151.0
-2017,Wexford Garda Division,Discharging a firearm (1121),2.0
-2017,Wexford Garda Division,Disorderly conduct (131),547.0
-2017,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",268.0
-2017,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",275.0
-2017,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),6.0
-2017,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),269.0
-2017,Wexford Garda Division,Endangering traffic offences (0425),9.0
-2017,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2017,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2017,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2017,Wexford Garda Division,False imprisonment (0511),3.0
-2017,Wexford Garda Division,Fireworks offences (114),5.0
-2017,Wexford Garda Division,"Fraud, deception and related offences (09)",79.0
-2017,Wexford Garda Division,Harassment and related offences (033),41.0
-2017,Wexford Garda Division,Homicide & related offences (01),3.0
-2017,Wexford Garda Division,Human trafficking offences (0513),0.0
-2017,Wexford Garda Division,Importation of drugs (1011),0.0
-2017,Wexford Garda Division,Infanticide (0113),0.0
-2017,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",386.0
-2017,Wexford Garda Division,Kidnapping and related offences (05),3.0
-2017,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2017,Wexford Garda Division,Liquor licensing offences (133),9.0
-2017,Wexford Garda Division,Litter offences (1221),5.0
-2017,Wexford Garda Division,Manslaughter (0112),1.0
-2017,Wexford Garda Division,Murder (0111),0.0
-2017,Wexford Garda Division,Murder-attempt (0311),0.0
-2017,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2017,Wexford Garda Division,Offences against government and its agents (151),3.0
-2017,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",211.0
-2017,Wexford Garda Division,Offences not elsewhere classified (16),131.0
-2017,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",206.0
-2017,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),29.0
-2017,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2017,Wexford Garda Division,Other assault (035),344.0
-2017,Wexford Garda Division,Other drug offences (103),16.0
-2017,Wexford Garda Division,Other road offences (1433),1141.0
-2017,Wexford Garda Division,Other sexual offences (022),6.0
-2017,Wexford Garda Division,"Other thefts, handling stolen property (084)",751.0
-2017,Wexford Garda Division,Perverting the course of justice (153),1.0
-2017,Wexford Garda Division,Possession of a firearm (1122),4.0
-2017,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",6.0
-2017,Wexford Garda Division,Possession of drugs for personal use (1022),265.0
-2017,Wexford Garda Division,Possession of drugs for sale or supply (1021),83.0
-2017,Wexford Garda Division,Prostitution offences (134),2.0
-2017,Wexford Garda Division,Public order and other social code offences (13),609.0
-2017,Wexford Garda Division,Public service vehicle offences (1442),11.0
-2017,Wexford Garda Division,Rape and sexual assault (021),87.0
-2017,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2017,Wexford Garda Division,Road and traffic offences (14),2181.0
-2017,Wexford Garda Division,Road transport - carriage of goods offences (1441),13.0
-2017,Wexford Garda Division,Roadworthiness/regulatory offences (143),31.0
-2017,Wexford Garda Division,Robbery from the person (0613),10.0
-2017,Wexford Garda Division,Robbery of an establishment or institution (0611),8.0
-2017,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2017,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",18.0
-2017,Wexford Garda Division,Sexual offences (02),93.0
-2017,Wexford Garda Division,Social code offences (n.e.c.) (136),5.0
-2017,Wexford Garda Division,Speeding (0415),894.0
-2017,Wexford Garda Division,Theft and related offences (08),1335.0
-2017,Wexford Garda Division,Theft from person (0821),18.0
-2017,Wexford Garda Division,Theft from shop (0822),493.0
-2017,Wexford Garda Division,Theft/taking of vehicle and related offences (081),73.0
-2017,Wexford Garda Division,Threat to kill or cause serious harm (0313),25.0
-2017,Wexford Garda Division,Trespass offences (132),44.0
-2017,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2017,Wexford Garda Division,Vehicle tax/registration offences (142),331.0
-2017,Wexford Garda Division,Weapons and explosives offences (11),40.0
-2018,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",2.0
-2018,Wexford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2018,Wexford Garda Division,Aggravated burglary (0711),5.0
-2018,Wexford Garda Division,Arson (1211),60.0
-2018,Wexford Garda Division,"Assault causing harm, poisoning (034)",128.0
-2018,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",588.0
-2018,Wexford Garda Division,Blackmail or extortion (0621),2.0
-2018,Wexford Garda Division,Burglary (not aggravated) (0712),443.0
-2018,Wexford Garda Division,Burglary and related offences (07),454.0
-2018,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2018,Wexford Garda Division,Controlled drug offences (10),328.0
-2018,Wexford Garda Division,Criminal damage (not arson) (1212),565.0
-2018,Wexford Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2018,Wexford Garda Division,Damage to property and to the environment  offences (12),627.0
-2018,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2018,Wexford Garda Division,Dangerous driving leading to death (012),1.0
-2018,Wexford Garda Division,Dangerous or negligent acts (04),1124.0
-2018,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),144.0
-2018,Wexford Garda Division,Discharging a firearm (1121),2.0
-2018,Wexford Garda Division,Disorderly conduct (131),633.0
-2018,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",189.0
-2018,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",284.0
-2018,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),15.0
-2018,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),269.0
-2018,Wexford Garda Division,Endangering traffic offences (0425),9.0
-2018,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2018,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2018,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2018,Wexford Garda Division,False imprisonment (0511),1.0
-2018,Wexford Garda Division,Fireworks offences (114),1.0
-2018,Wexford Garda Division,"Fraud, deception and related offences (09)",140.0
-2018,Wexford Garda Division,Harassment and related offences (033),47.0
-2018,Wexford Garda Division,Homicide & related offences (01),1.0
-2018,Wexford Garda Division,Human trafficking offences (0513),0.0
-2018,Wexford Garda Division,Importation of drugs (1011),2.0
-2018,Wexford Garda Division,Infanticide (0113),0.0
-2018,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",320.0
-2018,Wexford Garda Division,Kidnapping and related offences (05),2.0
-2018,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2018,Wexford Garda Division,Liquor licensing offences (133),9.0
-2018,Wexford Garda Division,Litter offences (1221),2.0
-2018,Wexford Garda Division,Manslaughter (0112),0.0
-2018,Wexford Garda Division,Murder (0111),0.0
-2018,Wexford Garda Division,Murder-attempt (0311),0.0
-2018,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2018,Wexford Garda Division,Offences against government and its agents (151),3.0
-2018,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",232.0
-2018,Wexford Garda Division,Offences not elsewhere classified (16),122.0
-2018,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",228.0
-2018,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),23.0
-2018,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2018,Wexford Garda Division,Other assault (035),374.0
-2018,Wexford Garda Division,Other drug offences (103),4.0
-2018,Wexford Garda Division,Other road offences (1433),1078.0
-2018,Wexford Garda Division,Other sexual offences (022),16.0
-2018,Wexford Garda Division,"Other thefts, handling stolen property (084)",610.0
-2018,Wexford Garda Division,Perverting the course of justice (153),0.0
-2018,Wexford Garda Division,Possession of a firearm (1122),5.0
-2018,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",6.0
-2018,Wexford Garda Division,Possession of drugs for personal use (1022),244.0
-2018,Wexford Garda Division,Possession of drugs for sale or supply (1021),67.0
-2018,Wexford Garda Division,Prostitution offences (134),0.0
-2018,Wexford Garda Division,Public order and other social code offences (13),699.0
-2018,Wexford Garda Division,Public service vehicle offences (1442),5.0
-2018,Wexford Garda Division,Rape and sexual assault (021),109.0
-2018,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2018,Wexford Garda Division,Road and traffic offences (14),1969.0
-2018,Wexford Garda Division,Road transport - carriage of goods offences (1441),3.0
-2018,Wexford Garda Division,Roadworthiness/regulatory offences (143),26.0
-2018,Wexford Garda Division,Robbery from the person (0613),9.0
-2018,Wexford Garda Division,Robbery of an establishment or institution (0611),3.0
-2018,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2018,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",16.0
-2018,Wexford Garda Division,Sexual offences (02),125.0
-2018,Wexford Garda Division,Social code offences (n.e.c.) (136),8.0
-2018,Wexford Garda Division,Speeding (0415),682.0
-2018,Wexford Garda Division,Theft and related offences (08),1188.0
-2018,Wexford Garda Division,Theft from person (0821),24.0
-2018,Wexford Garda Division,Theft from shop (0822),493.0
-2018,Wexford Garda Division,Theft/taking of vehicle and related offences (081),61.0
-2018,Wexford Garda Division,Threat to kill or cause serious harm (0313),39.0
-2018,Wexford Garda Division,Trespass offences (132),49.0
-2018,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2018,Wexford Garda Division,Vehicle tax/registration offences (142),347.0
-2018,Wexford Garda Division,Weapons and explosives offences (11),31.0
-2019,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",9.0
-2019,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2019,Wexford Garda Division,Aggravated burglary (0711),8.0
-2019,Wexford Garda Division,Arson (1211),58.0
-2019,Wexford Garda Division,"Assault causing harm, poisoning (034)",133.0
-2019,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",527.0
-2019,Wexford Garda Division,Blackmail or extortion (0621),5.0
-2019,Wexford Garda Division,Burglary (not aggravated) (0712),467.0
-2019,Wexford Garda Division,Burglary and related offences (07),478.0
-2019,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2019,Wexford Garda Division,Controlled drug offences (10),410.0
-2019,Wexford Garda Division,Criminal damage (not arson) (1212),537.0
-2019,Wexford Garda Division,Cultivation or manufacture of drugs (1012),5.0
-2019,Wexford Garda Division,Damage to property and to the environment  offences (12),599.0
-2019,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2019,Wexford Garda Division,Dangerous driving leading to death (012),2.0
-2019,Wexford Garda Division,Dangerous or negligent acts (04),1006.0
-2019,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),129.0
-2019,Wexford Garda Division,Discharging a firearm (1121),2.0
-2019,Wexford Garda Division,Disorderly conduct (131),563.0
-2019,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",201.0
-2019,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",250.0
-2019,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),18.0
-2019,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),232.0
-2019,Wexford Garda Division,Endangering traffic offences (0425),12.0
-2019,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2019,Wexford Garda Division,"Explosives, chemical weapons offences (111)",2.0
-2019,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2019,Wexford Garda Division,False imprisonment (0511),1.0
-2019,Wexford Garda Division,Fireworks offences (114),0.0
-2019,Wexford Garda Division,"Fraud, deception and related offences (09)",158.0
-2019,Wexford Garda Division,Harassment and related offences (033),35.0
-2019,Wexford Garda Division,Homicide & related offences (01),3.0
-2019,Wexford Garda Division,Human trafficking offences (0513),0.0
-2019,Wexford Garda Division,Importation of drugs (1011),1.0
-2019,Wexford Garda Division,Infanticide (0113),0.0
-2019,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",282.0
-2019,Wexford Garda Division,Kidnapping and related offences (05),1.0
-2019,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2019,Wexford Garda Division,Liquor licensing offences (133),5.0
-2019,Wexford Garda Division,Litter offences (1221),4.0
-2019,Wexford Garda Division,Manslaughter (0112),0.0
-2019,Wexford Garda Division,Murder (0111),1.0
-2019,Wexford Garda Division,Murder-attempt (0311),0.0
-2019,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2019,Wexford Garda Division,Offences against government and its agents (151),2.0
-2019,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",269.0
-2019,Wexford Garda Division,Offences not elsewhere classified (16),73.0
-2019,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",267.0
-2019,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),31.0
-2019,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2019,Wexford Garda Division,Other assault (035),324.0
-2019,Wexford Garda Division,Other drug offences (103),4.0
-2019,Wexford Garda Division,Other road offences (1433),1031.0
-2019,Wexford Garda Division,Other sexual offences (022),15.0
-2019,Wexford Garda Division,"Other thefts, handling stolen property (084)",466.0
-2019,Wexford Garda Division,Perverting the course of justice (153),0.0
-2019,Wexford Garda Division,Possession of a firearm (1122),4.0
-2019,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2019,Wexford Garda Division,Possession of drugs for personal use (1022),305.0
-2019,Wexford Garda Division,Possession of drugs for sale or supply (1021),95.0
-2019,Wexford Garda Division,Prostitution offences (134),8.0
-2019,Wexford Garda Division,Public order and other social code offences (13),629.0
-2019,Wexford Garda Division,Public service vehicle offences (1442),14.0
-2019,Wexford Garda Division,Rape and sexual assault (021),98.0
-2019,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2019,Wexford Garda Division,Road and traffic offences (14),1925.0
-2019,Wexford Garda Division,Road transport - carriage of goods offences (1441),10.0
-2019,Wexford Garda Division,Roadworthiness/regulatory offences (143),31.0
-2019,Wexford Garda Division,Robbery from the person (0613),5.0
-2019,Wexford Garda Division,Robbery of an establishment or institution (0611),4.0
-2019,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2019,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",15.0
-2019,Wexford Garda Division,Sexual offences (02),113.0
-2019,Wexford Garda Division,Social code offences (n.e.c.) (136),7.0
-2019,Wexford Garda Division,Speeding (0415),601.0
-2019,Wexford Garda Division,Theft and related offences (08),978.0
-2019,Wexford Garda Division,Theft from person (0821),17.0
-2019,Wexford Garda Division,Theft from shop (0822),439.0
-2019,Wexford Garda Division,Theft/taking of vehicle and related offences (081),56.0
-2019,Wexford Garda Division,Threat to kill or cause serious harm (0313),35.0
-2019,Wexford Garda Division,Trespass offences (132),46.0
-2019,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2019,Wexford Garda Division,Vehicle tax/registration offences (142),356.0
-2019,Wexford Garda Division,Weapons and explosives offences (11),39.0
-2020,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
-2020,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2020,Wexford Garda Division,Aggravated burglary (0711),5.0
-2020,Wexford Garda Division,Arson (1211),47.0
-2020,Wexford Garda Division,"Assault causing harm, poisoning (034)",119.0
-2020,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",527.0
-2020,Wexford Garda Division,Blackmail or extortion (0621),10.0
-2020,Wexford Garda Division,Burglary (not aggravated) (0712),363.0
-2020,Wexford Garda Division,Burglary and related offences (07),371.0
-2020,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2020,Wexford Garda Division,Controlled drug offences (10),414.0
-2020,Wexford Garda Division,Criminal damage (not arson) (1212),493.0
-2020,Wexford Garda Division,Cultivation or manufacture of drugs (1012),9.0
-2020,Wexford Garda Division,Damage to property and to the environment  offences (12),543.0
-2020,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2020,Wexford Garda Division,Dangerous driving leading to death (012),0.0
-2020,Wexford Garda Division,Dangerous or negligent acts (04),1012.0
-2020,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),119.0
-2020,Wexford Garda Division,Discharging a firearm (1121),1.0
-2020,Wexford Garda Division,Disorderly conduct (131),399.0
-2020,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",191.0
-2020,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",179.0
-2020,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),67.0
-2020,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),112.0
-2020,Wexford Garda Division,Endangering traffic offences (0425),4.0
-2020,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),9.0
-2020,Wexford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2020,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2020,Wexford Garda Division,False imprisonment (0511),3.0
-2020,Wexford Garda Division,Fireworks offences (114),7.0
-2020,Wexford Garda Division,"Fraud, deception and related offences (09)",180.0
-2020,Wexford Garda Division,Harassment and related offences (033),48.0
-2020,Wexford Garda Division,Homicide & related offences (01),2.0
-2020,Wexford Garda Division,Human trafficking offences (0513),0.0
-2020,Wexford Garda Division,Importation of drugs (1011),3.0
-2020,Wexford Garda Division,Infanticide (0113),0.0
-2020,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",297.0
-2020,Wexford Garda Division,Kidnapping and related offences (05),3.0
-2020,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2020,Wexford Garda Division,Liquor licensing offences (133),4.0
-2020,Wexford Garda Division,Litter offences (1221),3.0
-2020,Wexford Garda Division,Manslaughter (0112),0.0
-2020,Wexford Garda Division,Murder (0111),2.0
-2020,Wexford Garda Division,Murder-attempt (0311),0.0
-2020,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2020,Wexford Garda Division,Offences against government and its agents (151),12.0
-2020,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",217.0
-2020,Wexford Garda Division,Offences not elsewhere classified (16),56.0
-2020,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",205.0
-2020,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),35.0
-2020,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2020,Wexford Garda Division,Other assault (035),300.0
-2020,Wexford Garda Division,Other drug offences (103),7.0
-2020,Wexford Garda Division,Other road offences (1433),1011.0
-2020,Wexford Garda Division,Other sexual offences (022),16.0
-2020,Wexford Garda Division,"Other thefts, handling stolen property (084)",409.0
-2020,Wexford Garda Division,Perverting the course of justice (153),0.0
-2020,Wexford Garda Division,Possession of a firearm (1122),8.0
-2020,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2020,Wexford Garda Division,Possession of drugs for personal use (1022),288.0
-2020,Wexford Garda Division,Possession of drugs for sale or supply (1021),107.0
-2020,Wexford Garda Division,Prostitution offences (134),0.0
-2020,Wexford Garda Division,Public order and other social code offences (13),488.0
-2020,Wexford Garda Division,Public service vehicle offences (1442),2.0
-2020,Wexford Garda Division,Rape and sexual assault (021),92.0
-2020,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2020,Wexford Garda Division,Road and traffic offences (14),1838.0
-2020,Wexford Garda Division,Road transport - carriage of goods offences (1441),5.0
-2020,Wexford Garda Division,Roadworthiness/regulatory offences (143),33.0
-2020,Wexford Garda Division,Robbery from the person (0613),7.0
-2020,Wexford Garda Division,Robbery of an establishment or institution (0611),2.0
-2020,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2020,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",20.0
-2020,Wexford Garda Division,Sexual offences (02),108.0
-2020,Wexford Garda Division,Social code offences (n.e.c.) (136),27.0
-2020,Wexford Garda Division,Speeding (0415),692.0
-2020,Wexford Garda Division,Theft and related offences (08),869.0
-2020,Wexford Garda Division,Theft from person (0821),13.0
-2020,Wexford Garda Division,Theft from shop (0822),403.0
-2020,Wexford Garda Division,Theft/taking of vehicle and related offences (081),44.0
-2020,Wexford Garda Division,Threat to kill or cause serious harm (0313),60.0
-2020,Wexford Garda Division,Trespass offences (132),58.0
-2020,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2020,Wexford Garda Division,Vehicle tax/registration offences (142),297.0
-2020,Wexford Garda Division,Weapons and explosives offences (11),52.0
-2021,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2021,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2021,Wexford Garda Division,Aggravated burglary (0711),11.0
-2021,Wexford Garda Division,Arson (1211),39.0
-2021,Wexford Garda Division,"Assault causing harm, poisoning (034)",129.0
-2021,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",564.0
-2021,Wexford Garda Division,Blackmail or extortion (0621),7.0
-2021,Wexford Garda Division,Burglary (not aggravated) (0712),327.0
-2021,Wexford Garda Division,Burglary and related offences (07),338.0
-2021,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2021,Wexford Garda Division,Controlled drug offences (10),362.0
-2021,Wexford Garda Division,Criminal damage (not arson) (1212),497.0
-2021,Wexford Garda Division,Cultivation or manufacture of drugs (1012),16.0
-2021,Wexford Garda Division,Damage to property and to the environment  offences (12),538.0
-2021,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2021,Wexford Garda Division,Dangerous driving leading to death (012),2.0
-2021,Wexford Garda Division,Dangerous or negligent acts (04),1031.0
-2021,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),150.0
-2021,Wexford Garda Division,Discharging a firearm (1121),0.0
-2021,Wexford Garda Division,Disorderly conduct (131),437.0
-2021,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",160.0
-2021,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",198.0
-2021,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),45.0
-2021,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),153.0
-2021,Wexford Garda Division,Endangering traffic offences (0425),2.0
-2021,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),8.0
-2021,Wexford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2021,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2021,Wexford Garda Division,False imprisonment (0511),1.0
-2021,Wexford Garda Division,Fireworks offences (114),1.0
-2021,Wexford Garda Division,"Fraud, deception and related offences (09)",552.0
-2021,Wexford Garda Division,Harassment and related offences (033),44.0
-2021,Wexford Garda Division,Homicide & related offences (01),2.0
-2021,Wexford Garda Division,Human trafficking offences (0513),0.0
-2021,Wexford Garda Division,Importation of drugs (1011),5.0
-2021,Wexford Garda Division,Infanticide (0113),0.0
-2021,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",208.0
-2021,Wexford Garda Division,Kidnapping and related offences (05),1.0
-2021,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2021,Wexford Garda Division,Liquor licensing offences (133),0.0
-2021,Wexford Garda Division,Litter offences (1221),2.0
-2021,Wexford Garda Division,Manslaughter (0112),0.0
-2021,Wexford Garda Division,Murder (0111),0.0
-2021,Wexford Garda Division,Murder-attempt (0311),0.0
-2021,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2021,Wexford Garda Division,Offences against government and its agents (151),2.0
-2021,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",246.0
-2021,Wexford Garda Division,Offences not elsewhere classified (16),58.0
-2021,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",244.0
-2021,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),26.0
-2021,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2021,Wexford Garda Division,Other assault (035),346.0
-2021,Wexford Garda Division,Other drug offences (103),1.0
-2021,Wexford Garda Division,Other road offences (1433),737.0
-2021,Wexford Garda Division,Other sexual offences (022),27.0
-2021,Wexford Garda Division,"Other thefts, handling stolen property (084)",393.0
-2021,Wexford Garda Division,Perverting the course of justice (153),0.0
-2021,Wexford Garda Division,Possession of a firearm (1122),4.0
-2021,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2021,Wexford Garda Division,Possession of drugs for personal use (1022),263.0
-2021,Wexford Garda Division,Possession of drugs for sale or supply (1021),77.0
-2021,Wexford Garda Division,Prostitution offences (134),0.0
-2021,Wexford Garda Division,Public order and other social code offences (13),789.0
-2021,Wexford Garda Division,Public service vehicle offences (1442),5.0
-2021,Wexford Garda Division,Rape and sexual assault (021),117.0
-2021,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2021,Wexford Garda Division,Road and traffic offences (14),1411.0
-2021,Wexford Garda Division,Road transport - carriage of goods offences (1441),3.0
-2021,Wexford Garda Division,Roadworthiness/regulatory offences (143),27.0
-2021,Wexford Garda Division,Robbery from the person (0613),6.0
-2021,Wexford Garda Division,Robbery of an establishment or institution (0611),1.0
-2021,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2021,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",14.0
-2021,Wexford Garda Division,Sexual offences (02),144.0
-2021,Wexford Garda Division,Social code offences (n.e.c.) (136),309.0
-2021,Wexford Garda Division,Speeding (0415),666.0
-2021,Wexford Garda Division,Theft and related offences (08),947.0
-2021,Wexford Garda Division,Theft from person (0821),7.0
-2021,Wexford Garda Division,Theft from shop (0822),482.0
-2021,Wexford Garda Division,Theft/taking of vehicle and related offences (081),65.0
-2021,Wexford Garda Division,Threat to kill or cause serious harm (0313),45.0
-2021,Wexford Garda Division,Trespass offences (132),43.0
-2021,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2021,Wexford Garda Division,Vehicle tax/registration offences (142),271.0
-2021,Wexford Garda Division,Weapons and explosives offences (11),31.0
-2022,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
-2022,Wexford Garda Division,Abduction of person under 16 years of age (0512),2.0
-2022,Wexford Garda Division,Aggravated burglary (0711),5.0
-2022,Wexford Garda Division,Arson (1211),46.0
-2022,Wexford Garda Division,"Assault causing harm, poisoning (034)",196.0
-2022,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",754.0
-2022,Wexford Garda Division,Blackmail or extortion (0621),21.0
-2022,Wexford Garda Division,Burglary (not aggravated) (0712),293.0
-2022,Wexford Garda Division,Burglary and related offences (07),298.0
-2022,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2022,Wexford Garda Division,Controlled drug offences (10),393.0
-2022,Wexford Garda Division,Criminal damage (not arson) (1212),593.0
-2022,Wexford Garda Division,Cultivation or manufacture of drugs (1012),8.0
-2022,Wexford Garda Division,Damage to property and to the environment  offences (12),644.0
-2022,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2022,Wexford Garda Division,Dangerous driving leading to death (012),1.0
-2022,Wexford Garda Division,Dangerous or negligent acts (04),940.0
-2022,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),172.0
-2022,Wexford Garda Division,Discharging a firearm (1121),4.0
-2022,Wexford Garda Division,Disorderly conduct (131),519.0
-2022,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",149.0
-2022,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",193.0
-2022,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),43.0
-2022,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),150.0
-2022,Wexford Garda Division,Endangering traffic offences (0425),6.0
-2022,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2022,Wexford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2022,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2022,Wexford Garda Division,False imprisonment (0511),8.0
-2022,Wexford Garda Division,Fireworks offences (114),1.0
-2022,Wexford Garda Division,"Fraud, deception and related offences (09)",276.0
-2022,Wexford Garda Division,Harassment and related offences (033),62.0
-2022,Wexford Garda Division,Homicide & related offences (01),1.0
-2022,Wexford Garda Division,Human trafficking offences (0513),1.0
-2022,Wexford Garda Division,Importation of drugs (1011),6.0
-2022,Wexford Garda Division,Infanticide (0113),0.0
-2022,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",239.0
-2022,Wexford Garda Division,Kidnapping and related offences (05),11.0
-2022,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2022,Wexford Garda Division,Liquor licensing offences (133),3.0
-2022,Wexford Garda Division,Litter offences (1221),5.0
-2022,Wexford Garda Division,Manslaughter (0112),0.0
-2022,Wexford Garda Division,Murder (0111),0.0
-2022,Wexford Garda Division,Murder-attempt (0311),0.0
-2022,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2022,Wexford Garda Division,Offences against government and its agents (151),6.0
-2022,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",247.0
-2022,Wexford Garda Division,Offences not elsewhere classified (16),72.0
-2022,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",240.0
-2022,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),47.0
-2022,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2022,Wexford Garda Division,Other assault (035),416.0
-2022,Wexford Garda Division,Other drug offences (103),2.0
-2022,Wexford Garda Division,Other road offences (1433),645.0
-2022,Wexford Garda Division,Other sexual offences (022),19.0
-2022,Wexford Garda Division,"Other thefts, handling stolen property (084)",541.0
-2022,Wexford Garda Division,Perverting the course of justice (153),1.0
-2022,Wexford Garda Division,Possession of a firearm (1122),4.0
-2022,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2022,Wexford Garda Division,Possession of drugs for personal use (1022),293.0
-2022,Wexford Garda Division,Possession of drugs for sale or supply (1021),84.0
-2022,Wexford Garda Division,Prostitution offences (134),1.0
-2022,Wexford Garda Division,Public order and other social code offences (13),582.0
-2022,Wexford Garda Division,Public service vehicle offences (1442),5.0
-2022,Wexford Garda Division,Rape and sexual assault (021),122.0
-2022,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2022,Wexford Garda Division,Road and traffic offences (14),1346.0
-2022,Wexford Garda Division,Road transport - carriage of goods offences (1441),8.0
-2022,Wexford Garda Division,Roadworthiness/regulatory offences (143),28.0
-2022,Wexford Garda Division,Robbery from the person (0613),8.0
-2022,Wexford Garda Division,Robbery of an establishment or institution (0611),0.0
-2022,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2022,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",31.0
-2022,Wexford Garda Division,Sexual offences (02),141.0
-2022,Wexford Garda Division,Social code offences (n.e.c.) (136),12.0
-2022,Wexford Garda Division,Speeding (0415),555.0
-2022,Wexford Garda Division,Theft and related offences (08),1276.0
-2022,Wexford Garda Division,Theft from person (0821),16.0
-2022,Wexford Garda Division,Theft from shop (0822),654.0
-2022,Wexford Garda Division,Theft/taking of vehicle and related offences (081),65.0
-2022,Wexford Garda Division,Threat to kill or cause serious harm (0313),80.0
-2022,Wexford Garda Division,Trespass offences (132),47.0
-2022,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2022,Wexford Garda Division,Vehicle tax/registration offences (142),271.0
-2022,Wexford Garda Division,Weapons and explosives offences (11),57.0
-2023,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",7.0
-2023,Wexford Garda Division,Abduction of person under 16 years of age (0512),3.0
-2023,Wexford Garda Division,Aggravated burglary (0711),5.0
-2023,Wexford Garda Division,Arson (1211),52.0
-2023,Wexford Garda Division,"Assault causing harm, poisoning (034)",170.0
-2023,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",743.0
-2023,Wexford Garda Division,Blackmail or extortion (0621),35.0
-2023,Wexford Garda Division,Burglary (not aggravated) (0712),291.0
-2023,Wexford Garda Division,Burglary and related offences (07),296.0
-2023,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2023,Wexford Garda Division,Controlled drug offences (10),365.0
-2023,Wexford Garda Division,Criminal damage (not arson) (1212),558.0
-2023,Wexford Garda Division,Cultivation or manufacture of drugs (1012),4.0
-2023,Wexford Garda Division,Damage to property and to the environment  offences (12),616.0
-2023,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2023,Wexford Garda Division,Dangerous driving leading to death (012),0.0
-2023,Wexford Garda Division,Dangerous or negligent acts (04),974.0
-2023,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),152.0
-2023,Wexford Garda Division,Discharging a firearm (1121),2.0
-2023,Wexford Garda Division,Disorderly conduct (131),573.0
-2023,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",140.0
-2023,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",204.0
-2023,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),49.0
-2023,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),155.0
-2023,Wexford Garda Division,Endangering traffic offences (0425),7.0
-2023,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2023,Wexford Garda Division,"Explosives, chemical weapons offences (111)",2.0
-2023,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2023,Wexford Garda Division,False imprisonment (0511),2.0
-2023,Wexford Garda Division,Fireworks offences (114),4.0
-2023,Wexford Garda Division,"Fraud, deception and related offences (09)",127.0
-2023,Wexford Garda Division,Harassment and related offences (033),62.0
-2023,Wexford Garda Division,Homicide & related offences (01),1.0
-2023,Wexford Garda Division,Human trafficking offences (0513),0.0
-2023,Wexford Garda Division,Importation of drugs (1011),9.0
-2023,Wexford Garda Division,Infanticide (0113),0.0
-2023,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",206.0
-2023,Wexford Garda Division,Kidnapping and related offences (05),5.0
-2023,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2023,Wexford Garda Division,Liquor licensing offences (133),0.0
-2023,Wexford Garda Division,Litter offences (1221),6.0
-2023,Wexford Garda Division,Manslaughter (0112),0.0
-2023,Wexford Garda Division,Murder (0111),1.0
-2023,Wexford Garda Division,Murder-attempt (0311),0.0
-2023,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2023,Wexford Garda Division,Offences against government and its agents (151),7.0
-2023,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",229.0
-2023,Wexford Garda Division,Offences not elsewhere classified (16),74.0
-2023,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",220.0
-2023,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),39.0
-2023,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2023,Wexford Garda Division,Other assault (035),452.0
-2023,Wexford Garda Division,Other drug offences (103),6.0
-2023,Wexford Garda Division,Other road offences (1433),747.0
-2023,Wexford Garda Division,Other sexual offences (022),20.0
-2023,Wexford Garda Division,"Other thefts, handling stolen property (084)",519.0
-2023,Wexford Garda Division,Perverting the course of justice (153),1.0
-2023,Wexford Garda Division,Possession of a firearm (1122),6.0
-2023,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2023,Wexford Garda Division,Possession of drugs for personal use (1022),243.0
-2023,Wexford Garda Division,Possession of drugs for sale or supply (1021),103.0
-2023,Wexford Garda Division,Prostitution offences (134),1.0
-2023,Wexford Garda Division,Public order and other social code offences (13),639.0
-2023,Wexford Garda Division,Public service vehicle offences (1442),2.0
-2023,Wexford Garda Division,Rape and sexual assault (021),84.0
-2023,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2023,Wexford Garda Division,Road and traffic offences (14),1431.0
-2023,Wexford Garda Division,Road transport - carriage of goods offences (1441),23.0
-2023,Wexford Garda Division,Roadworthiness/regulatory offences (143),86.0
-2023,Wexford Garda Division,Robbery from the person (0613),10.0
-2023,Wexford Garda Division,Robbery of an establishment or institution (0611),5.0
-2023,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2023,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",52.0
-2023,Wexford Garda Division,Sexual offences (02),104.0
-2023,Wexford Garda Division,Social code offences (n.e.c.) (136),9.0
-2023,Wexford Garda Division,Speeding (0415),599.0
-2023,Wexford Garda Division,Theft and related offences (08),1468.0
-2023,Wexford Garda Division,Theft from person (0821),24.0
-2023,Wexford Garda Division,Theft from shop (0822),836.0
-2023,Wexford Garda Division,Theft/taking of vehicle and related offences (081),89.0
-2023,Wexford Garda Division,Threat to kill or cause serious harm (0313),59.0
-2023,Wexford Garda Division,Trespass offences (132),56.0
-2023,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2023,Wexford Garda Division,Vehicle tax/registration offences (142),226.0
-2023,Wexford Garda Division,Weapons and explosives offences (11),53.0
-2024,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
-2024,Wexford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2024,Wexford Garda Division,Aggravated burglary (0711),7.0
-2024,Wexford Garda Division,Arson (1211),44.0
-2024,Wexford Garda Division,"Assault causing harm, poisoning (034)",185.0
-2024,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",864.0
-2024,Wexford Garda Division,Blackmail or extortion (0621),24.0
-2024,Wexford Garda Division,Burglary (not aggravated) (0712),280.0
-2024,Wexford Garda Division,Burglary and related offences (07),295.0
-2024,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2024,Wexford Garda Division,Controlled drug offences (10),292.0
-2024,Wexford Garda Division,Criminal damage (not arson) (1212),561.0
-2024,Wexford Garda Division,Cultivation or manufacture of drugs (1012),2.0
-2024,Wexford Garda Division,Damage to property and to the environment  offences (12),610.0
-2024,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2024,Wexford Garda Division,Dangerous driving leading to death (012),1.0
-2024,Wexford Garda Division,Dangerous or negligent acts (04),1195.0
-2024,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),426.0
-2024,Wexford Garda Division,Discharging a firearm (1121),2.0
-2024,Wexford Garda Division,Disorderly conduct (131),738.0
-2024,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",143.0
-2024,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",237.0
-2024,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),63.0
-2024,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),174.0
-2024,Wexford Garda Division,Endangering traffic offences (0425),2.0
-2024,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2024,Wexford Garda Division,"Explosives, chemical weapons offences (111)",3.0
-2024,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2024,Wexford Garda Division,False imprisonment (0511),2.0
-2024,Wexford Garda Division,Fireworks offences (114),7.0
-2024,Wexford Garda Division,"Fraud, deception and related offences (09)",0.0
-2024,Wexford Garda Division,Harassment and related offences (033),75.0
-2024,Wexford Garda Division,Homicide & related offences (01),5.0
-2024,Wexford Garda Division,Human trafficking offences (0513),0.0
-2024,Wexford Garda Division,Importation of drugs (1011),9.0
-2024,Wexford Garda Division,Infanticide (0113),0.0
-2024,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",281.0
-2024,Wexford Garda Division,Kidnapping and related offences (05),3.0
-2024,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2024,Wexford Garda Division,Liquor licensing offences (133),2.0
-2024,Wexford Garda Division,Litter offences (1221),5.0
-2024,Wexford Garda Division,Manslaughter (0112),0.0
-2024,Wexford Garda Division,Murder (0111),4.0
-2024,Wexford Garda Division,Murder-attempt (0311),1.0
-2024,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2024,Wexford Garda Division,Offences against government and its agents (151),1.0
-2024,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",229.0
-2024,Wexford Garda Division,Offences not elsewhere classified (16),96.0
-2024,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",224.0
-2024,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),54.0
-2024,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2024,Wexford Garda Division,Other assault (035),477.0
-2024,Wexford Garda Division,Other drug offences (103),4.0
-2024,Wexford Garda Division,Other road offences (1433),725.0
-2024,Wexford Garda Division,Other sexual offences (022),14.0
-2024,Wexford Garda Division,"Other thefts, handling stolen property (084)",597.0
-2024,Wexford Garda Division,Perverting the course of justice (153),4.0
-2024,Wexford Garda Division,Possession of a firearm (1122),2.0
-2024,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",8.0
-2024,Wexford Garda Division,Possession of drugs for personal use (1022),209.0
-2024,Wexford Garda Division,Possession of drugs for sale or supply (1021),68.0
-2024,Wexford Garda Division,Prostitution offences (134),0.0
-2024,Wexford Garda Division,Public order and other social code offences (13),850.0
-2024,Wexford Garda Division,Public service vehicle offences (1442),6.0
-2024,Wexford Garda Division,Rape and sexual assault (021),113.0
-2024,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2024,Wexford Garda Division,Road and traffic offences (14),1454.0
-2024,Wexford Garda Division,Road transport - carriage of goods offences (1441),16.0
-2024,Wexford Garda Division,Roadworthiness/regulatory offences (143),71.0
-2024,Wexford Garda Division,Robbery from the person (0613),10.0
-2024,Wexford Garda Division,Robbery of an establishment or institution (0611),2.0
-2024,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2024,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",36.0
-2024,Wexford Garda Division,Sexual offences (02),127.0
-2024,Wexford Garda Division,Social code offences (n.e.c.) (136),5.0
-2024,Wexford Garda Division,Speeding (0415),517.0
-2024,Wexford Garda Division,Theft and related offences (08),1632.0
-2024,Wexford Garda Division,Theft from person (0821),26.0
-2024,Wexford Garda Division,Theft from shop (0822),898.0
-2024,Wexford Garda Division,Theft/taking of vehicle and related offences (081),111.0
-2024,Wexford Garda Division,Threat to kill or cause serious harm (0313),126.0
-2024,Wexford Garda Division,Trespass offences (132),103.0
-2024,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2024,Wexford Garda Division,Vehicle tax/registration offences (142),212.0
-2024,Wexford Garda Division,Weapons and explosives offences (11),68.0
-2025,Wexford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
-2025,Wexford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2025,Wexford Garda Division,Aggravated burglary (0711),9.0
-2025,Wexford Garda Division,Arson (1211),41.0
-2025,Wexford Garda Division,"Assault causing harm, poisoning (034)",112.0
-2025,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",692.0
-2025,Wexford Garda Division,Blackmail or extortion (0621),21.0
-2025,Wexford Garda Division,Burglary (not aggravated) (0712),250.0
-2025,Wexford Garda Division,Burglary and related offences (07),262.0
-2025,Wexford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2025,Wexford Garda Division,Controlled drug offences (10),220.0
-2025,Wexford Garda Division,Criminal damage (not arson) (1212),432.0
-2025,Wexford Garda Division,Cultivation or manufacture of drugs (1012),4.0
-2025,Wexford Garda Division,Damage to property and to the environment  offences (12),476.0
-2025,Wexford Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2025,Wexford Garda Division,Dangerous driving leading to death (012),0.0
-2025,Wexford Garda Division,Dangerous or negligent acts (04),933.0
-2025,Wexford Garda Division,Dangerous/careless driving and motorway offences (0414),406.0
-2025,Wexford Garda Division,Discharging a firearm (1121),1.0
-2025,Wexford Garda Division,Disorderly conduct (131),526.0
-2025,Wexford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",122.0
-2025,Wexford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",187.0
-2025,Wexford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2025,Wexford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),187.0
-2025,Wexford Garda Division,Endangering traffic offences (0425),3.0
-2025,Wexford Garda Division,Endangerment with potential for serious harm/death (0421),11.0
-2025,Wexford Garda Division,"Explosives, chemical weapons offences (111)",4.0
-2025,Wexford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2025,Wexford Garda Division,False imprisonment (0511),0.0
-2025,Wexford Garda Division,Fireworks offences (114),5.0
-2025,Wexford Garda Division,"Fraud, deception and related offences (09)",0.0
-2025,Wexford Garda Division,Harassment and related offences (033),76.0
-2025,Wexford Garda Division,Homicide & related offences (01),0.0
-2025,Wexford Garda Division,Human trafficking offences (0513),0.0
-2025,Wexford Garda Division,Importation of drugs (1011),3.0
-2025,Wexford Garda Division,Infanticide (0113),0.0
-2025,Wexford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",252.0
-2025,Wexford Garda Division,Kidnapping and related offences (05),0.0
-2025,Wexford Garda Division,Light rail offences (Luas) (1443),0.0
-2025,Wexford Garda Division,Liquor licensing offences (133),2.0
-2025,Wexford Garda Division,Litter offences (1221),3.0
-2025,Wexford Garda Division,Manslaughter (0112),0.0
-2025,Wexford Garda Division,Murder (0111),0.0
-2025,Wexford Garda Division,Murder-attempt (0311),0.0
-2025,Wexford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2025,Wexford Garda Division,Offences against government and its agents (151),6.0
-2025,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",183.0
-2025,Wexford Garda Division,Offences not elsewhere classified (16),72.0
-2025,Wexford Garda Division,"Offences while in custody, breach of court orders (157)",173.0
-2025,Wexford Garda Division,Offensive weapons offences (n.e.c.) (113),63.0
-2025,Wexford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2025,Wexford Garda Division,Other assault (035),432.0
-2025,Wexford Garda Division,Other drug offences (103),4.0
-2025,Wexford Garda Division,Other road offences (1433),572.0
-2025,Wexford Garda Division,Other sexual offences (022),15.0
-2025,Wexford Garda Division,"Other thefts, handling stolen property (084)",455.0
-2025,Wexford Garda Division,Perverting the course of justice (153),4.0
-2025,Wexford Garda Division,Possession of a firearm (1122),4.0
-2025,Wexford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2025,Wexford Garda Division,Possession of drugs for personal use (1022),144.0
-2025,Wexford Garda Division,Possession of drugs for sale or supply (1021),65.0
-2025,Wexford Garda Division,Prostitution offences (134),1.0
-2025,Wexford Garda Division,Public order and other social code offences (13),610.0
-2025,Wexford Garda Division,Public service vehicle offences (1442),5.0
-2025,Wexford Garda Division,Rape and sexual assault (021),86.0
-2025,Wexford Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2025,Wexford Garda Division,Road and traffic offences (14),1133.0
-2025,Wexford Garda Division,Road transport - carriage of goods offences (1441),17.0
-2025,Wexford Garda Division,Roadworthiness/regulatory offences (143),36.0
-2025,Wexford Garda Division,Robbery from the person (0613),12.0
-2025,Wexford Garda Division,Robbery of an establishment or institution (0611),5.0
-2025,Wexford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2025,Wexford Garda Division,"Robbery, extortion and hijacking offences (06)",39.0
-2025,Wexford Garda Division,Sexual offences (02),101.0
-2025,Wexford Garda Division,Social code offences (n.e.c.) (136),4.0
-2025,Wexford Garda Division,Speeding (0415),316.0
-2025,Wexford Garda Division,Theft and related offences (08),1255.0
-2025,Wexford Garda Division,Theft from person (0821),9.0
-2025,Wexford Garda Division,Theft from shop (0822),698.0
-2025,Wexford Garda Division,Theft/taking of vehicle and related offences (081),93.0
-2025,Wexford Garda Division,Threat to kill or cause serious harm (0313),72.0
-2025,Wexford Garda Division,Trespass offences (132),77.0
-2025,Wexford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2025,Wexford Garda Division,Vehicle tax/registration offences (142),128.0
-2025,Wexford Garda Division,Weapons and explosives offences (11),77.0
+2003,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",323.0
+2003,Wexford Garda Division,Burglary and related offences,753.0
+2003,Wexford Garda Division,Controlled drug offences,199.0
+2003,Wexford Garda Division,Damage to property and to the environment  offences,606.0
+2003,Wexford Garda Division,Dangerous or negligent acts,524.0
+2003,Wexford Garda Division,"Fraud, deception and related offences",115.0
+2003,Wexford Garda Division,Homicide & related offences,2.0
+2003,Wexford Garda Division,Kidnapping and related offences,2.0
+2003,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",154.0
+2003,Wexford Garda Division,Offences not elsewhere classified,29.0
+2003,Wexford Garda Division,Public order and other social code offences,859.0
+2003,Wexford Garda Division,Road and traffic offences,848.0
+2003,Wexford Garda Division,"Robbery, extortion and hijacking offences",26.0
+2003,Wexford Garda Division,Sexual offences,53.0
+2003,Wexford Garda Division,Theft and related offences,1271.0
+2003,Wexford Garda Division,Weapons and explosives offences,30.0
+2004,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",308.0
+2004,Wexford Garda Division,Burglary and related offences,793.0
+2004,Wexford Garda Division,Controlled drug offences,210.0
+2004,Wexford Garda Division,Damage to property and to the environment  offences,668.0
+2004,Wexford Garda Division,Dangerous or negligent acts,755.0
+2004,Wexford Garda Division,"Fraud, deception and related offences",89.0
+2004,Wexford Garda Division,Homicide & related offences,6.0
+2004,Wexford Garda Division,Kidnapping and related offences,5.0
+2004,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",117.0
+2004,Wexford Garda Division,Offences not elsewhere classified,42.0
+2004,Wexford Garda Division,Public order and other social code offences,867.0
+2004,Wexford Garda Division,Road and traffic offences,1093.0
+2004,Wexford Garda Division,"Robbery, extortion and hijacking offences",21.0
+2004,Wexford Garda Division,Sexual offences,42.0
+2004,Wexford Garda Division,Theft and related offences,1252.0
+2004,Wexford Garda Division,Weapons and explosives offences,42.0
+2005,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",338.0
+2005,Wexford Garda Division,Burglary and related offences,842.0
+2005,Wexford Garda Division,Controlled drug offences,477.0
+2005,Wexford Garda Division,Damage to property and to the environment  offences,692.0
+2005,Wexford Garda Division,Dangerous or negligent acts,902.0
+2005,Wexford Garda Division,"Fraud, deception and related offences",138.0
+2005,Wexford Garda Division,Homicide & related offences,7.0
+2005,Wexford Garda Division,Kidnapping and related offences,4.0
+2005,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",74.0
+2005,Wexford Garda Division,Offences not elsewhere classified,35.0
+2005,Wexford Garda Division,Public order and other social code offences,1069.0
+2005,Wexford Garda Division,Road and traffic offences,1504.0
+2005,Wexford Garda Division,"Robbery, extortion and hijacking offences",21.0
+2005,Wexford Garda Division,Sexual offences,68.0
+2005,Wexford Garda Division,Theft and related offences,1338.0
+2005,Wexford Garda Division,Weapons and explosives offences,44.0
+2006,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",399.0
+2006,Wexford Garda Division,Burglary and related offences,846.0
+2006,Wexford Garda Division,Controlled drug offences,425.0
+2006,Wexford Garda Division,Damage to property and to the environment  offences,971.0
+2006,Wexford Garda Division,Dangerous or negligent acts,1707.0
+2006,Wexford Garda Division,"Fraud, deception and related offences",110.0
+2006,Wexford Garda Division,Homicide & related offences,5.0
+2006,Wexford Garda Division,Kidnapping and related offences,0.0
+2006,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",94.0
+2006,Wexford Garda Division,Offences not elsewhere classified,121.0
+2006,Wexford Garda Division,Public order and other social code offences,1385.0
+2006,Wexford Garda Division,Road and traffic offences,3116.0
+2006,Wexford Garda Division,"Robbery, extortion and hijacking offences",21.0
+2006,Wexford Garda Division,Sexual offences,55.0
+2006,Wexford Garda Division,Theft and related offences,1362.0
+2006,Wexford Garda Division,Weapons and explosives offences,89.0
+2007,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",514.0
+2007,Wexford Garda Division,Burglary and related offences,751.0
+2007,Wexford Garda Division,Controlled drug offences,482.0
+2007,Wexford Garda Division,Damage to property and to the environment  offences,958.0
+2007,Wexford Garda Division,Dangerous or negligent acts,1790.0
+2007,Wexford Garda Division,"Fraud, deception and related offences",119.0
+2007,Wexford Garda Division,Homicide & related offences,9.0
+2007,Wexford Garda Division,Kidnapping and related offences,4.0
+2007,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",108.0
+2007,Wexford Garda Division,Offences not elsewhere classified,175.0
+2007,Wexford Garda Division,Public order and other social code offences,1600.0
+2007,Wexford Garda Division,Road and traffic offences,3328.0
+2007,Wexford Garda Division,"Robbery, extortion and hijacking offences",22.0
+2007,Wexford Garda Division,Sexual offences,54.0
+2007,Wexford Garda Division,Theft and related offences,1370.0
+2007,Wexford Garda Division,Weapons and explosives offences,82.0
+2008,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",510.0
+2008,Wexford Garda Division,Burglary and related offences,793.0
+2008,Wexford Garda Division,Controlled drug offences,468.0
+2008,Wexford Garda Division,Damage to property and to the environment  offences,1029.0
+2008,Wexford Garda Division,Dangerous or negligent acts,1813.0
+2008,Wexford Garda Division,"Fraud, deception and related offences",126.0
+2008,Wexford Garda Division,Homicide & related offences,8.0
+2008,Wexford Garda Division,Kidnapping and related offences,3.0
+2008,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",129.0
+2008,Wexford Garda Division,Offences not elsewhere classified,171.0
+2008,Wexford Garda Division,Public order and other social code offences,1439.0
+2008,Wexford Garda Division,Road and traffic offences,3290.0
+2008,Wexford Garda Division,"Robbery, extortion and hijacking offences",22.0
+2008,Wexford Garda Division,Sexual offences,31.0
+2008,Wexford Garda Division,Theft and related offences,1539.0
+2008,Wexford Garda Division,Weapons and explosives offences,73.0
+2009,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",519.0
+2009,Wexford Garda Division,Burglary and related offences,741.0
+2009,Wexford Garda Division,Controlled drug offences,522.0
+2009,Wexford Garda Division,Damage to property and to the environment  offences,1074.0
+2009,Wexford Garda Division,Dangerous or negligent acts,1568.0
+2009,Wexford Garda Division,"Fraud, deception and related offences",118.0
+2009,Wexford Garda Division,Homicide & related offences,2.0
+2009,Wexford Garda Division,Kidnapping and related offences,2.0
+2009,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",170.0
+2009,Wexford Garda Division,Offences not elsewhere classified,182.0
+2009,Wexford Garda Division,Public order and other social code offences,1374.0
+2009,Wexford Garda Division,Road and traffic offences,3036.0
+2009,Wexford Garda Division,"Robbery, extortion and hijacking offences",21.0
+2009,Wexford Garda Division,Sexual offences,43.0
+2009,Wexford Garda Division,Theft and related offences,1753.0
+2009,Wexford Garda Division,Weapons and explosives offences,85.0
+2010,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",487.0
+2010,Wexford Garda Division,Burglary and related offences,748.0
+2010,Wexford Garda Division,Controlled drug offences,465.0
+2010,Wexford Garda Division,Damage to property and to the environment  offences,950.0
+2010,Wexford Garda Division,Dangerous or negligent acts,1785.0
+2010,Wexford Garda Division,"Fraud, deception and related offences",123.0
+2010,Wexford Garda Division,Homicide & related offences,3.0
+2010,Wexford Garda Division,Kidnapping and related offences,4.0
+2010,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",203.0
+2010,Wexford Garda Division,Offences not elsewhere classified,170.0
+2010,Wexford Garda Division,Public order and other social code offences,1193.0
+2010,Wexford Garda Division,Road and traffic offences,2632.0
+2010,Wexford Garda Division,"Robbery, extortion and hijacking offences",21.0
+2010,Wexford Garda Division,Sexual offences,60.0
+2010,Wexford Garda Division,Theft and related offences,1567.0
+2010,Wexford Garda Division,Weapons and explosives offences,57.0
+2011,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",465.0
+2011,Wexford Garda Division,Burglary and related offences,948.0
+2011,Wexford Garda Division,Controlled drug offences,423.0
+2011,Wexford Garda Division,Damage to property and to the environment  offences,967.0
+2011,Wexford Garda Division,Dangerous or negligent acts,1470.0
+2011,Wexford Garda Division,"Fraud, deception and related offences",143.0
+2011,Wexford Garda Division,Homicide & related offences,3.0
+2011,Wexford Garda Division,Kidnapping and related offences,2.0
+2011,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",153.0
+2011,Wexford Garda Division,Offences not elsewhere classified,129.0
+2011,Wexford Garda Division,Public order and other social code offences,1219.0
+2011,Wexford Garda Division,Road and traffic offences,2401.0
+2011,Wexford Garda Division,"Robbery, extortion and hijacking offences",16.0
+2011,Wexford Garda Division,Sexual offences,60.0
+2011,Wexford Garda Division,Theft and related offences,1921.0
+2011,Wexford Garda Division,Weapons and explosives offences,63.0
+2012,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",476.0
+2012,Wexford Garda Division,Burglary and related offences,1103.0
+2012,Wexford Garda Division,Controlled drug offences,344.0
+2012,Wexford Garda Division,Damage to property and to the environment  offences,959.0
+2012,Wexford Garda Division,Dangerous or negligent acts,952.0
+2012,Wexford Garda Division,"Fraud, deception and related offences",144.0
+2012,Wexford Garda Division,Homicide & related offences,7.0
+2012,Wexford Garda Division,Kidnapping and related offences,2.0
+2012,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",157.0
+2012,Wexford Garda Division,Offences not elsewhere classified,177.0
+2012,Wexford Garda Division,Public order and other social code offences,1062.0
+2012,Wexford Garda Division,Road and traffic offences,2387.0
+2012,Wexford Garda Division,"Robbery, extortion and hijacking offences",16.0
+2012,Wexford Garda Division,Sexual offences,62.0
+2012,Wexford Garda Division,Theft and related offences,1922.0
+2012,Wexford Garda Division,Weapons and explosives offences,68.0
+2013,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",362.0
+2013,Wexford Garda Division,Burglary and related offences,1095.0
+2013,Wexford Garda Division,Controlled drug offences,261.0
+2013,Wexford Garda Division,Damage to property and to the environment  offences,827.0
+2013,Wexford Garda Division,Dangerous or negligent acts,1102.0
+2013,Wexford Garda Division,"Fraud, deception and related offences",118.0
+2013,Wexford Garda Division,Homicide & related offences,2.0
+2013,Wexford Garda Division,Kidnapping and related offences,2.0
+2013,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",131.0
+2013,Wexford Garda Division,Offences not elsewhere classified,131.0
+2013,Wexford Garda Division,Public order and other social code offences,863.0
+2013,Wexford Garda Division,Road and traffic offences,1651.0
+2013,Wexford Garda Division,"Robbery, extortion and hijacking offences",22.0
+2013,Wexford Garda Division,Sexual offences,62.0
+2013,Wexford Garda Division,Theft and related offences,1726.0
+2013,Wexford Garda Division,Weapons and explosives offences,42.0
+2014,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",374.0
+2014,Wexford Garda Division,Burglary and related offences,1002.0
+2014,Wexford Garda Division,Controlled drug offences,250.0
+2014,Wexford Garda Division,Damage to property and to the environment  offences,758.0
+2014,Wexford Garda Division,Dangerous or negligent acts,1462.0
+2014,Wexford Garda Division,"Fraud, deception and related offences",95.0
+2014,Wexford Garda Division,Homicide & related offences,3.0
+2014,Wexford Garda Division,Kidnapping and related offences,2.0
+2014,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",183.0
+2014,Wexford Garda Division,Offences not elsewhere classified,127.0
+2014,Wexford Garda Division,Public order and other social code offences,613.0
+2014,Wexford Garda Division,Road and traffic offences,1766.0
+2014,Wexford Garda Division,"Robbery, extortion and hijacking offences",40.0
+2014,Wexford Garda Division,Sexual offences,68.0
+2014,Wexford Garda Division,Theft and related offences,1632.0
+2014,Wexford Garda Division,Weapons and explosives offences,43.0
+2015,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",450.0
+2015,Wexford Garda Division,Burglary and related offences,1051.0
+2015,Wexford Garda Division,Controlled drug offences,278.0
+2015,Wexford Garda Division,Damage to property and to the environment  offences,831.0
+2015,Wexford Garda Division,Dangerous or negligent acts,1606.0
+2015,Wexford Garda Division,"Fraud, deception and related offences",172.0
+2015,Wexford Garda Division,Homicide & related offences,2.0
+2015,Wexford Garda Division,Kidnapping and related offences,0.0
+2015,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",227.0
+2015,Wexford Garda Division,Offences not elsewhere classified,166.0
+2015,Wexford Garda Division,Public order and other social code offences,660.0
+2015,Wexford Garda Division,Road and traffic offences,1767.0
+2015,Wexford Garda Division,"Robbery, extortion and hijacking offences",17.0
+2015,Wexford Garda Division,Sexual offences,81.0
+2015,Wexford Garda Division,Theft and related offences,1643.0
+2015,Wexford Garda Division,Weapons and explosives offences,46.0
+2016,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",444.0
+2016,Wexford Garda Division,Burglary and related offences,531.0
+2016,Wexford Garda Division,Controlled drug offences,402.0
+2016,Wexford Garda Division,Damage to property and to the environment  offences,702.0
+2016,Wexford Garda Division,Dangerous or negligent acts,1310.0
+2016,Wexford Garda Division,"Fraud, deception and related offences",92.0
+2016,Wexford Garda Division,Homicide & related offences,0.0
+2016,Wexford Garda Division,Kidnapping and related offences,3.0
+2016,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",212.0
+2016,Wexford Garda Division,Offences not elsewhere classified,117.0
+2016,Wexford Garda Division,Public order and other social code offences,629.0
+2016,Wexford Garda Division,Road and traffic offences,2038.0
+2016,Wexford Garda Division,"Robbery, extortion and hijacking offences",20.0
+2016,Wexford Garda Division,Sexual offences,81.0
+2016,Wexford Garda Division,Theft and related offences,1367.0
+2016,Wexford Garda Division,Weapons and explosives offences,36.0
+2017,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",515.0
+2017,Wexford Garda Division,Burglary and related offences,559.0
+2017,Wexford Garda Division,Controlled drug offences,378.0
+2017,Wexford Garda Division,Damage to property and to the environment  offences,699.0
+2017,Wexford Garda Division,Dangerous or negligent acts,1346.0
+2017,Wexford Garda Division,"Fraud, deception and related offences",79.0
+2017,Wexford Garda Division,Homicide & related offences,3.0
+2017,Wexford Garda Division,Kidnapping and related offences,3.0
+2017,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",211.0
+2017,Wexford Garda Division,Offences not elsewhere classified,131.0
+2017,Wexford Garda Division,Public order and other social code offences,609.0
+2017,Wexford Garda Division,Road and traffic offences,2181.0
+2017,Wexford Garda Division,"Robbery, extortion and hijacking offences",18.0
+2017,Wexford Garda Division,Sexual offences,93.0
+2017,Wexford Garda Division,Theft and related offences,1335.0
+2017,Wexford Garda Division,Weapons and explosives offences,40.0
+2018,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",588.0
+2018,Wexford Garda Division,Burglary and related offences,454.0
+2018,Wexford Garda Division,Controlled drug offences,328.0
+2018,Wexford Garda Division,Damage to property and to the environment  offences,627.0
+2018,Wexford Garda Division,Dangerous or negligent acts,1124.0
+2018,Wexford Garda Division,"Fraud, deception and related offences",140.0
+2018,Wexford Garda Division,Homicide & related offences,1.0
+2018,Wexford Garda Division,Kidnapping and related offences,2.0
+2018,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",232.0
+2018,Wexford Garda Division,Offences not elsewhere classified,122.0
+2018,Wexford Garda Division,Public order and other social code offences,699.0
+2018,Wexford Garda Division,Road and traffic offences,1969.0
+2018,Wexford Garda Division,"Robbery, extortion and hijacking offences",16.0
+2018,Wexford Garda Division,Sexual offences,125.0
+2018,Wexford Garda Division,Theft and related offences,1188.0
+2018,Wexford Garda Division,Weapons and explosives offences,31.0
+2019,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",527.0
+2019,Wexford Garda Division,Burglary and related offences,478.0
+2019,Wexford Garda Division,Controlled drug offences,410.0
+2019,Wexford Garda Division,Damage to property and to the environment  offences,599.0
+2019,Wexford Garda Division,Dangerous or negligent acts,1006.0
+2019,Wexford Garda Division,"Fraud, deception and related offences",158.0
+2019,Wexford Garda Division,Homicide & related offences,3.0
+2019,Wexford Garda Division,Kidnapping and related offences,1.0
+2019,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",269.0
+2019,Wexford Garda Division,Offences not elsewhere classified,73.0
+2019,Wexford Garda Division,Public order and other social code offences,629.0
+2019,Wexford Garda Division,Road and traffic offences,1925.0
+2019,Wexford Garda Division,"Robbery, extortion and hijacking offences",15.0
+2019,Wexford Garda Division,Sexual offences,113.0
+2019,Wexford Garda Division,Theft and related offences,978.0
+2019,Wexford Garda Division,Weapons and explosives offences,39.0
+2020,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",527.0
+2020,Wexford Garda Division,Burglary and related offences,371.0
+2020,Wexford Garda Division,Controlled drug offences,414.0
+2020,Wexford Garda Division,Damage to property and to the environment  offences,543.0
+2020,Wexford Garda Division,Dangerous or negligent acts,1012.0
+2020,Wexford Garda Division,"Fraud, deception and related offences",180.0
+2020,Wexford Garda Division,Homicide & related offences,2.0
+2020,Wexford Garda Division,Kidnapping and related offences,3.0
+2020,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",217.0
+2020,Wexford Garda Division,Offences not elsewhere classified,56.0
+2020,Wexford Garda Division,Public order and other social code offences,488.0
+2020,Wexford Garda Division,Road and traffic offences,1838.0
+2020,Wexford Garda Division,"Robbery, extortion and hijacking offences",20.0
+2020,Wexford Garda Division,Sexual offences,108.0
+2020,Wexford Garda Division,Theft and related offences,869.0
+2020,Wexford Garda Division,Weapons and explosives offences,52.0
+2021,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",564.0
+2021,Wexford Garda Division,Burglary and related offences,338.0
+2021,Wexford Garda Division,Controlled drug offences,362.0
+2021,Wexford Garda Division,Damage to property and to the environment  offences,538.0
+2021,Wexford Garda Division,Dangerous or negligent acts,1031.0
+2021,Wexford Garda Division,"Fraud, deception and related offences",552.0
+2021,Wexford Garda Division,Homicide & related offences,2.0
+2021,Wexford Garda Division,Kidnapping and related offences,1.0
+2021,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",246.0
+2021,Wexford Garda Division,Offences not elsewhere classified,58.0
+2021,Wexford Garda Division,Public order and other social code offences,789.0
+2021,Wexford Garda Division,Road and traffic offences,1411.0
+2021,Wexford Garda Division,"Robbery, extortion and hijacking offences",14.0
+2021,Wexford Garda Division,Sexual offences,144.0
+2021,Wexford Garda Division,Theft and related offences,947.0
+2021,Wexford Garda Division,Weapons and explosives offences,31.0
+2022,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",754.0
+2022,Wexford Garda Division,Burglary and related offences,298.0
+2022,Wexford Garda Division,Controlled drug offences,393.0
+2022,Wexford Garda Division,Damage to property and to the environment  offences,644.0
+2022,Wexford Garda Division,Dangerous or negligent acts,940.0
+2022,Wexford Garda Division,"Fraud, deception and related offences",276.0
+2022,Wexford Garda Division,Homicide & related offences,1.0
+2022,Wexford Garda Division,Kidnapping and related offences,11.0
+2022,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",247.0
+2022,Wexford Garda Division,Offences not elsewhere classified,72.0
+2022,Wexford Garda Division,Public order and other social code offences,582.0
+2022,Wexford Garda Division,Road and traffic offences,1346.0
+2022,Wexford Garda Division,"Robbery, extortion and hijacking offences",31.0
+2022,Wexford Garda Division,Sexual offences,141.0
+2022,Wexford Garda Division,Theft and related offences,1276.0
+2022,Wexford Garda Division,Weapons and explosives offences,57.0
+2023,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",743.0
+2023,Wexford Garda Division,Burglary and related offences,296.0
+2023,Wexford Garda Division,Controlled drug offences,365.0
+2023,Wexford Garda Division,Damage to property and to the environment  offences,616.0
+2023,Wexford Garda Division,Dangerous or negligent acts,974.0
+2023,Wexford Garda Division,"Fraud, deception and related offences",127.0
+2023,Wexford Garda Division,Homicide & related offences,1.0
+2023,Wexford Garda Division,Kidnapping and related offences,5.0
+2023,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",229.0
+2023,Wexford Garda Division,Offences not elsewhere classified,74.0
+2023,Wexford Garda Division,Public order and other social code offences,639.0
+2023,Wexford Garda Division,Road and traffic offences,1431.0
+2023,Wexford Garda Division,"Robbery, extortion and hijacking offences",52.0
+2023,Wexford Garda Division,Sexual offences,104.0
+2023,Wexford Garda Division,Theft and related offences,1468.0
+2023,Wexford Garda Division,Weapons and explosives offences,53.0
+2024,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",864.0
+2024,Wexford Garda Division,Burglary and related offences,295.0
+2024,Wexford Garda Division,Controlled drug offences,292.0
+2024,Wexford Garda Division,Damage to property and to the environment  offences,610.0
+2024,Wexford Garda Division,Dangerous or negligent acts,1195.0
+2024,Wexford Garda Division,"Fraud, deception and related offences",0.0
+2024,Wexford Garda Division,Homicide & related offences,5.0
+2024,Wexford Garda Division,Kidnapping and related offences,3.0
+2024,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",229.0
+2024,Wexford Garda Division,Offences not elsewhere classified,96.0
+2024,Wexford Garda Division,Public order and other social code offences,850.0
+2024,Wexford Garda Division,Road and traffic offences,1454.0
+2024,Wexford Garda Division,"Robbery, extortion and hijacking offences",36.0
+2024,Wexford Garda Division,Sexual offences,127.0
+2024,Wexford Garda Division,Theft and related offences,1632.0
+2024,Wexford Garda Division,Weapons and explosives offences,68.0
+2025,Wexford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",692.0
+2025,Wexford Garda Division,Burglary and related offences,262.0
+2025,Wexford Garda Division,Controlled drug offences,220.0
+2025,Wexford Garda Division,Damage to property and to the environment  offences,476.0
+2025,Wexford Garda Division,Dangerous or negligent acts,933.0
+2025,Wexford Garda Division,"Fraud, deception and related offences",0.0
+2025,Wexford Garda Division,Homicide & related offences,0.0
+2025,Wexford Garda Division,Kidnapping and related offences,0.0
+2025,Wexford Garda Division,"Offences against government, justice procedures and organisation of crime",183.0
+2025,Wexford Garda Division,Offences not elsewhere classified,72.0
+2025,Wexford Garda Division,Public order and other social code offences,610.0
+2025,Wexford Garda Division,Road and traffic offences,1133.0
+2025,Wexford Garda Division,"Robbery, extortion and hijacking offences",39.0
+2025,Wexford Garda Division,Sexual offences,101.0
+2025,Wexford Garda Division,Theft and related offences,1255.0
+2025,Wexford Garda Division,Weapons and explosives offences,77.0

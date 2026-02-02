@@ -1,1956 +1,369 @@
 Year,Garda Division,Type of Offence,VALUE
-2003,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2003,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),1.0
-2003,D.M.R. Western Garda Division,Aggravated burglary (0711),39.0
-2003,D.M.R. Western Garda Division,Arson (1211),117.0
-2003,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",273.0
-2003,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",727.0
-2003,D.M.R. Western Garda Division,Blackmail or extortion (0621),2.0
-2003,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1921.0
-2003,D.M.R. Western Garda Division,Burglary and related offences (07),1976.0
-2003,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",22.0
-2003,D.M.R. Western Garda Division,Controlled drug offences (10),444.0
-2003,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),3005.0
-2003,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),1.0
-2003,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),3124.0
-2003,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2003,D.M.R. Western Garda Division,Dangerous driving leading to death (012),2.0
-2003,D.M.R. Western Garda Division,Dangerous or negligent acts (04),1095.0
-2003,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),340.0
-2003,D.M.R. Western Garda Division,Discharging a firearm (1121),45.0
-2003,D.M.R. Western Garda Division,Disorderly conduct (131),1660.0
-2003,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",85.0
-2003,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",553.0
-2003,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),10.0
-2003,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),543.0
-2003,D.M.R. Western Garda Division,Endangering traffic offences (0425),16.0
-2003,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2003,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",4.0
-2003,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2003,D.M.R. Western Garda Division,False imprisonment (0511),9.0
-2003,D.M.R. Western Garda Division,Fireworks offences (114),0.0
-2003,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",180.0
-2003,D.M.R. Western Garda Division,Harassment and related offences (033),25.0
-2003,D.M.R. Western Garda Division,Homicide & related offences (01),8.0
-2003,D.M.R. Western Garda Division,Human trafficking offences (0513),0.0
-2003,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2003,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2003,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1264.0
-2003,D.M.R. Western Garda Division,Kidnapping and related offences (05),10.0
-2003,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2003,D.M.R. Western Garda Division,Liquor licensing offences (133),39.0
-2003,D.M.R. Western Garda Division,Litter offences (1221),2.0
-2003,D.M.R. Western Garda Division,Manslaughter (0112),2.0
-2003,D.M.R. Western Garda Division,Murder (0111),4.0
-2003,D.M.R. Western Garda Division,Murder-attempt (0311),1.0
-2003,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),5.0
-2003,D.M.R. Western Garda Division,Offences against government and its agents (151),10.0
-2003,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",494.0
-2003,D.M.R. Western Garda Division,Offences not elsewhere classified (16),67.0
-2003,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",480.0
-2003,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),125.0
-2003,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2003,D.M.R. Western Garda Division,Other assault (035),427.0
-2003,D.M.R. Western Garda Division,Other drug offences (103),13.0
-2003,D.M.R. Western Garda Division,Other road offences (1433),2296.0
-2003,D.M.R. Western Garda Division,Other sexual offences (022),6.0
-2003,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",2743.0
-2003,D.M.R. Western Garda Division,Perverting the course of justice (153),4.0
-2003,D.M.R. Western Garda Division,Possession of a firearm (1122),54.0
-2003,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",16.0
-2003,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),174.0
-2003,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),256.0
-2003,D.M.R. Western Garda Division,Prostitution offences (134),0.0
-2003,D.M.R. Western Garda Division,Public order and other social code offences (13),1861.0
-2003,D.M.R. Western Garda Division,Public service vehicle offences (1442),49.0
-2003,D.M.R. Western Garda Division,Rape and sexual assault (021),104.0
-2003,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",7.0
-2003,D.M.R. Western Garda Division,Road and traffic offences (14),3931.0
-2003,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),89.0
-2003,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),17.0
-2003,D.M.R. Western Garda Division,Robbery from the person (0613),200.0
-2003,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),160.0
-2003,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),13.0
-2003,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",397.0
-2003,D.M.R. Western Garda Division,Sexual offences (02),110.0
-2003,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),25.0
-2003,D.M.R. Western Garda Division,Speeding (0415),179.0
-2003,D.M.R. Western Garda Division,Theft and related offences (08),6298.0
-2003,D.M.R. Western Garda Division,Theft from person (0821),354.0
-2003,D.M.R. Western Garda Division,Theft from shop (0822),1150.0
-2003,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),2051.0
-2003,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),1.0
-2003,D.M.R. Western Garda Division,Trespass offences (132),130.0
-2003,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2003,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),126.0
-2003,D.M.R. Western Garda Division,Weapons and explosives offences (11),228.0
-2004,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",20.0
-2004,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),1.0
-2004,D.M.R. Western Garda Division,Aggravated burglary (0711),23.0
-2004,D.M.R. Western Garda Division,Arson (1211),115.0
-2004,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",273.0
-2004,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",684.0
-2004,D.M.R. Western Garda Division,Blackmail or extortion (0621),0.0
-2004,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1712.0
-2004,D.M.R. Western Garda Division,Burglary and related offences (07),1747.0
-2004,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",29.0
-2004,D.M.R. Western Garda Division,Controlled drug offences (10),475.0
-2004,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),3429.0
-2004,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),0.0
-2004,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),3546.0
-2004,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),4.0
-2004,D.M.R. Western Garda Division,Dangerous driving leading to death (012),2.0
-2004,D.M.R. Western Garda Division,Dangerous or negligent acts (04),1100.0
-2004,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),316.0
-2004,D.M.R. Western Garda Division,Discharging a firearm (1121),55.0
-2004,D.M.R. Western Garda Division,Disorderly conduct (131),1927.0
-2004,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",57.0
-2004,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",622.0
-2004,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),3.0
-2004,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),619.0
-2004,D.M.R. Western Garda Division,Endangering traffic offences (0425),12.0
-2004,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2004,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",2.0
-2004,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2004,D.M.R. Western Garda Division,False imprisonment (0511),9.0
-2004,D.M.R. Western Garda Division,Fireworks offences (114),0.0
-2004,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",192.0
-2004,D.M.R. Western Garda Division,Harassment and related offences (033),45.0
-2004,D.M.R. Western Garda Division,Homicide & related offences (01),7.0
-2004,D.M.R. Western Garda Division,Human trafficking offences (0513),0.0
-2004,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2004,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2004,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1793.0
-2004,D.M.R. Western Garda Division,Kidnapping and related offences (05),10.0
-2004,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2004,D.M.R. Western Garda Division,Liquor licensing offences (133),60.0
-2004,D.M.R. Western Garda Division,Litter offences (1221),2.0
-2004,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2004,D.M.R. Western Garda Division,Murder (0111),4.0
-2004,D.M.R. Western Garda Division,Murder-attempt (0311),0.0
-2004,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),4.0
-2004,D.M.R. Western Garda Division,Offences against government and its agents (151),17.0
-2004,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",438.0
-2004,D.M.R. Western Garda Division,Offences not elsewhere classified (16),47.0
-2004,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",415.0
-2004,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),142.0
-2004,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2004,D.M.R. Western Garda Division,Other assault (035),364.0
-2004,D.M.R. Western Garda Division,Other drug offences (103),16.0
-2004,D.M.R. Western Garda Division,Other road offences (1433),2651.0
-2004,D.M.R. Western Garda Division,Other sexual offences (022),9.0
-2004,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",2927.0
-2004,D.M.R. Western Garda Division,Perverting the course of justice (153),5.0
-2004,D.M.R. Western Garda Division,Possession of a firearm (1122),46.0
-2004,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",12.0
-2004,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),223.0
-2004,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),236.0
-2004,D.M.R. Western Garda Division,Prostitution offences (134),0.0
-2004,D.M.R. Western Garda Division,Public order and other social code offences (13),2173.0
-2004,D.M.R. Western Garda Division,Public service vehicle offences (1442),41.0
-2004,D.M.R. Western Garda Division,Rape and sexual assault (021),90.0
-2004,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",9.0
-2004,D.M.R. Western Garda Division,Road and traffic offences (14),4781.0
-2004,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),69.0
-2004,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),28.0
-2004,D.M.R. Western Garda Division,Robbery from the person (0613),201.0
-2004,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),116.0
-2004,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),20.0
-2004,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",366.0
-2004,D.M.R. Western Garda Division,Sexual offences (02),99.0
-2004,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),23.0
-2004,D.M.R. Western Garda Division,Speeding (0415),124.0
-2004,D.M.R. Western Garda Division,Theft and related offences (08),6700.0
-2004,D.M.R. Western Garda Division,Theft from person (0821),344.0
-2004,D.M.R. Western Garda Division,Theft from shop (0822),975.0
-2004,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),2454.0
-2004,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),2.0
-2004,D.M.R. Western Garda Division,Trespass offences (132),154.0
-2004,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2004,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),138.0
-2004,D.M.R. Western Garda Division,Weapons and explosives offences (11),245.0
-2005,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",29.0
-2005,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),1.0
-2005,D.M.R. Western Garda Division,Aggravated burglary (0711),31.0
-2005,D.M.R. Western Garda Division,Arson (1211),73.0
-2005,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",207.0
-2005,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",712.0
-2005,D.M.R. Western Garda Division,Blackmail or extortion (0621),2.0
-2005,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1399.0
-2005,D.M.R. Western Garda Division,Burglary and related offences (07),1448.0
-2005,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",18.0
-2005,D.M.R. Western Garda Division,Controlled drug offences (10),695.0
-2005,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),3628.0
-2005,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),1.0
-2005,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),3708.0
-2005,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2005,D.M.R. Western Garda Division,Dangerous driving leading to death (012),0.0
-2005,D.M.R. Western Garda Division,Dangerous or negligent acts (04),1871.0
-2005,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),421.0
-2005,D.M.R. Western Garda Division,Discharging a firearm (1121),61.0
-2005,D.M.R. Western Garda Division,Disorderly conduct (131),2569.0
-2005,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",142.0
-2005,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",840.0
-2005,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),5.0
-2005,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),835.0
-2005,D.M.R. Western Garda Division,Endangering traffic offences (0425),11.0
-2005,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),8.0
-2005,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",3.0
-2005,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2005,D.M.R. Western Garda Division,False imprisonment (0511),12.0
-2005,D.M.R. Western Garda Division,Fireworks offences (114),1.0
-2005,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",228.0
-2005,D.M.R. Western Garda Division,Harassment and related offences (033),57.0
-2005,D.M.R. Western Garda Division,Homicide & related offences (01),9.0
-2005,D.M.R. Western Garda Division,Human trafficking offences (0513),0.0
-2005,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2005,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2005,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",2577.0
-2005,D.M.R. Western Garda Division,Kidnapping and related offences (05),13.0
-2005,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2005,D.M.R. Western Garda Division,Liquor licensing offences (133),262.0
-2005,D.M.R. Western Garda Division,Litter offences (1221),7.0
-2005,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2005,D.M.R. Western Garda Division,Murder (0111),9.0
-2005,D.M.R. Western Garda Division,Murder-attempt (0311),1.0
-2005,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),8.0
-2005,D.M.R. Western Garda Division,Offences against government and its agents (151),9.0
-2005,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",666.0
-2005,D.M.R. Western Garda Division,Offences not elsewhere classified (16),59.0
-2005,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",648.0
-2005,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),193.0
-2005,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),2.0
-2005,D.M.R. Western Garda Division,Other assault (035),442.0
-2005,D.M.R. Western Garda Division,Other drug offences (103),21.0
-2005,D.M.R. Western Garda Division,Other road offences (1433),4086.0
-2005,D.M.R. Western Garda Division,Other sexual offences (022),1.0
-2005,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",2866.0
-2005,D.M.R. Western Garda Division,Perverting the course of justice (153),7.0
-2005,D.M.R. Western Garda Division,Possession of a firearm (1122),37.0
-2005,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",18.0
-2005,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),392.0
-2005,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),281.0
-2005,D.M.R. Western Garda Division,Prostitution offences (134),0.0
-2005,D.M.R. Western Garda Division,Public order and other social code offences (13),3036.0
-2005,D.M.R. Western Garda Division,Public service vehicle offences (1442),51.0
-2005,D.M.R. Western Garda Division,Rape and sexual assault (021),91.0
-2005,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
-2005,D.M.R. Western Garda Division,Road and traffic offences (14),7539.0
-2005,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),298.0
-2005,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),38.0
-2005,D.M.R. Western Garda Division,Robbery from the person (0613),155.0
-2005,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),144.0
-2005,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),10.0
-2005,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",329.0
-2005,D.M.R. Western Garda Division,Sexual offences (02),92.0
-2005,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),26.0
-2005,D.M.R. Western Garda Division,Speeding (0415),561.0
-2005,D.M.R. Western Garda Division,Theft and related offences (08),6593.0
-2005,D.M.R. Western Garda Division,Theft from person (0821),301.0
-2005,D.M.R. Western Garda Division,Theft from shop (0822),1330.0
-2005,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),2096.0
-2005,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),5.0
-2005,D.M.R. Western Garda Division,Trespass offences (132),169.0
-2005,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2005,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),339.0
-2005,D.M.R. Western Garda Division,Weapons and explosives offences (11),295.0
-2006,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",30.0
-2006,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),2.0
-2006,D.M.R. Western Garda Division,Aggravated burglary (0711),33.0
-2006,D.M.R. Western Garda Division,Arson (1211),41.0
-2006,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",209.0
-2006,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",834.0
-2006,D.M.R. Western Garda Division,Blackmail or extortion (0621),1.0
-2006,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1535.0
-2006,D.M.R. Western Garda Division,Burglary and related offences (07),1583.0
-2006,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",25.0
-2006,D.M.R. Western Garda Division,Controlled drug offences (10),998.0
-2006,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),4163.0
-2006,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),1.0
-2006,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),4213.0
-2006,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2006,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2006,D.M.R. Western Garda Division,Dangerous or negligent acts (04),10881.0
-2006,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),667.0
-2006,D.M.R. Western Garda Division,Discharging a firearm (1121),44.0
-2006,D.M.R. Western Garda Division,Disorderly conduct (131),2700.0
-2006,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",514.0
-2006,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",1098.0
-2006,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),7.0
-2006,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),1091.0
-2006,D.M.R. Western Garda Division,Endangering traffic offences (0425),11.0
-2006,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),6.0
-2006,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",7.0
-2006,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2006,D.M.R. Western Garda Division,False imprisonment (0511),4.0
-2006,D.M.R. Western Garda Division,Fireworks offences (114),1.0
-2006,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",309.0
-2006,D.M.R. Western Garda Division,Harassment and related offences (033),67.0
-2006,D.M.R. Western Garda Division,Homicide & related offences (01),8.0
-2006,D.M.R. Western Garda Division,Human trafficking offences (0513),0.0
-2006,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2006,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2006,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",3272.0
-2006,D.M.R. Western Garda Division,Kidnapping and related offences (05),6.0
-2006,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2006,D.M.R. Western Garda Division,Liquor licensing offences (133),66.0
-2006,D.M.R. Western Garda Division,Litter offences (1221),9.0
-2006,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2006,D.M.R. Western Garda Division,Murder (0111),6.0
-2006,D.M.R. Western Garda Division,Murder-attempt (0311),1.0
-2006,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),24.0
-2006,D.M.R. Western Garda Division,Offences against government and its agents (151),16.0
-2006,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",588.0
-2006,D.M.R. Western Garda Division,Offences not elsewhere classified (16),117.0
-2006,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",562.0
-2006,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),251.0
-2006,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2006,D.M.R. Western Garda Division,Other assault (035),554.0
-2006,D.M.R. Western Garda Division,Other drug offences (103),63.0
-2006,D.M.R. Western Garda Division,Other road offences (1433),7037.0
-2006,D.M.R. Western Garda Division,Other sexual offences (022),7.0
-2006,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",2469.0
-2006,D.M.R. Western Garda Division,Perverting the course of justice (153),10.0
-2006,D.M.R. Western Garda Division,Possession of a firearm (1122),53.0
-2006,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",15.0
-2006,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),535.0
-2006,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),399.0
-2006,D.M.R. Western Garda Division,Prostitution offences (134),0.0
-2006,D.M.R. Western Garda Division,Public order and other social code offences (13),2970.0
-2006,D.M.R. Western Garda Division,Public service vehicle offences (1442),62.0
-2006,D.M.R. Western Garda Division,Rape and sexual assault (021),98.0
-2006,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",6.0
-2006,D.M.R. Western Garda Division,Road and traffic offences (14),12515.0
-2006,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),649.0
-2006,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),32.0
-2006,D.M.R. Western Garda Division,Robbery from the person (0613),165.0
-2006,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),210.0
-2006,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),3.0
-2006,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",404.0
-2006,D.M.R. Western Garda Division,Sexual offences (02),105.0
-2006,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),17.0
-2006,D.M.R. Western Garda Division,Speeding (0415),9067.0
-2006,D.M.R. Western Garda Division,Theft and related offences (08),6455.0
-2006,D.M.R. Western Garda Division,Theft from person (0821),252.0
-2006,D.M.R. Western Garda Division,Theft from shop (0822),1390.0
-2006,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),2344.0
-2006,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),3.0
-2006,D.M.R. Western Garda Division,Trespass offences (132),181.0
-2006,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2006,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),925.0
-2006,D.M.R. Western Garda Division,Weapons and explosives offences (11),356.0
-2007,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",53.0
-2007,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),3.0
-2007,D.M.R. Western Garda Division,Aggravated burglary (0711),34.0
-2007,D.M.R. Western Garda Division,Arson (1211),76.0
-2007,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",194.0
-2007,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",904.0
-2007,D.M.R. Western Garda Division,Blackmail or extortion (0621),0.0
-2007,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1377.0
-2007,D.M.R. Western Garda Division,Burglary and related offences (07),1431.0
-2007,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",18.0
-2007,D.M.R. Western Garda Division,Controlled drug offences (10),1465.0
-2007,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),3873.0
-2007,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),3.0
-2007,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),3960.0
-2007,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2007,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2007,D.M.R. Western Garda Division,Dangerous or negligent acts (04),12010.0
-2007,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),992.0
-2007,D.M.R. Western Garda Division,Discharging a firearm (1121),46.0
-2007,D.M.R. Western Garda Division,Disorderly conduct (131),2641.0
-2007,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",572.0
-2007,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",1510.0
-2007,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),19.0
-2007,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),1491.0
-2007,D.M.R. Western Garda Division,Endangering traffic offences (0425),33.0
-2007,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),9.0
-2007,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",5.0
-2007,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2007,D.M.R. Western Garda Division,False imprisonment (0511),7.0
-2007,D.M.R. Western Garda Division,Fireworks offences (114),9.0
-2007,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",456.0
-2007,D.M.R. Western Garda Division,Harassment and related offences (033),111.0
-2007,D.M.R. Western Garda Division,Homicide & related offences (01),11.0
-2007,D.M.R. Western Garda Division,Human trafficking offences (0513),0.0
-2007,D.M.R. Western Garda Division,Importation of drugs (1011),2.0
-2007,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2007,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",2600.0
-2007,D.M.R. Western Garda Division,Kidnapping and related offences (05),10.0
-2007,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2007,D.M.R. Western Garda Division,Liquor licensing offences (133),51.0
-2007,D.M.R. Western Garda Division,Litter offences (1221),11.0
-2007,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2007,D.M.R. Western Garda Division,Murder (0111),10.0
-2007,D.M.R. Western Garda Division,Murder-attempt (0311),0.0
-2007,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),45.0
-2007,D.M.R. Western Garda Division,Offences against government and its agents (151),41.0
-2007,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",564.0
-2007,D.M.R. Western Garda Division,Offences not elsewhere classified (16),98.0
-2007,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",520.0
-2007,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),211.0
-2007,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2007,D.M.R. Western Garda Division,Other assault (035),584.0
-2007,D.M.R. Western Garda Division,Other drug offences (103),67.0
-2007,D.M.R. Western Garda Division,Other road offences (1433),9551.0
-2007,D.M.R. Western Garda Division,Other sexual offences (022),6.0
-2007,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",2816.0
-2007,D.M.R. Western Garda Division,Perverting the course of justice (153),2.0
-2007,D.M.R. Western Garda Division,Possession of a firearm (1122),50.0
-2007,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",20.0
-2007,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1000.0
-2007,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),393.0
-2007,D.M.R. Western Garda Division,Prostitution offences (134),4.0
-2007,D.M.R. Western Garda Division,Public order and other social code offences (13),2932.0
-2007,D.M.R. Western Garda Division,Public service vehicle offences (1442),82.0
-2007,D.M.R. Western Garda Division,Rape and sexual assault (021),97.0
-2007,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",15.0
-2007,D.M.R. Western Garda Division,Road and traffic offences (14),14585.0
-2007,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),579.0
-2007,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),28.0
-2007,D.M.R. Western Garda Division,Robbery from the person (0613),134.0
-2007,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),108.0
-2007,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),3.0
-2007,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",263.0
-2007,D.M.R. Western Garda Division,Sexual offences (02),103.0
-2007,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),19.0
-2007,D.M.R. Western Garda Division,Speeding (0415),9410.0
-2007,D.M.R. Western Garda Division,Theft and related offences (08),6860.0
-2007,D.M.R. Western Garda Division,Theft from person (0821),206.0
-2007,D.M.R. Western Garda Division,Theft from shop (0822),1557.0
-2007,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),2281.0
-2007,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),15.0
-2007,D.M.R. Western Garda Division,Trespass offences (132),202.0
-2007,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2007,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),1128.0
-2007,D.M.R. Western Garda Division,Weapons and explosives offences (11),321.0
-2008,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",44.0
-2008,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),1.0
-2008,D.M.R. Western Garda Division,Aggravated burglary (0711),28.0
-2008,D.M.R. Western Garda Division,Arson (1211),112.0
-2008,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",171.0
-2008,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",907.0
-2008,D.M.R. Western Garda Division,Blackmail or extortion (0621),0.0
-2008,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1563.0
-2008,D.M.R. Western Garda Division,Burglary and related offences (07),1630.0
-2008,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",33.0
-2008,D.M.R. Western Garda Division,Controlled drug offences (10),2307.0
-2008,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),4158.0
-2008,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),13.0
-2008,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),4282.0
-2008,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2008,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2008,D.M.R. Western Garda Division,Dangerous or negligent acts (04),7347.0
-2008,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),643.0
-2008,D.M.R. Western Garda Division,Discharging a firearm (1121),39.0
-2008,D.M.R. Western Garda Division,Disorderly conduct (131),2978.0
-2008,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",424.0
-2008,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",1395.0
-2008,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),64.0
-2008,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),1331.0
-2008,D.M.R. Western Garda Division,Endangering traffic offences (0425),26.0
-2008,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2008,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",16.0
-2008,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2008,D.M.R. Western Garda Division,False imprisonment (0511),7.0
-2008,D.M.R. Western Garda Division,Fireworks offences (114),12.0
-2008,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",402.0
-2008,D.M.R. Western Garda Division,Harassment and related offences (033),146.0
-2008,D.M.R. Western Garda Division,Homicide & related offences (01),10.0
-2008,D.M.R. Western Garda Division,Human trafficking offences (0513),0.0
-2008,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2008,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2008,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",2041.0
-2008,D.M.R. Western Garda Division,Kidnapping and related offences (05),8.0
-2008,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2008,D.M.R. Western Garda Division,Liquor licensing offences (133),127.0
-2008,D.M.R. Western Garda Division,Litter offences (1221),12.0
-2008,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2008,D.M.R. Western Garda Division,Murder (0111),9.0
-2008,D.M.R. Western Garda Division,Murder-attempt (0311),1.0
-2008,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),16.0
-2008,D.M.R. Western Garda Division,Offences against government and its agents (151),34.0
-2008,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",726.0
-2008,D.M.R. Western Garda Division,Offences not elsewhere classified (16),138.0
-2008,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",687.0
-2008,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),276.0
-2008,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),2.0
-2008,D.M.R. Western Garda Division,Other assault (035),577.0
-2008,D.M.R. Western Garda Division,Other drug offences (103),60.0
-2008,D.M.R. Western Garda Division,Other road offences (1433),10133.0
-2008,D.M.R. Western Garda Division,Other sexual offences (022),5.0
-2008,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",2833.0
-2008,D.M.R. Western Garda Division,Perverting the course of justice (153),3.0
-2008,D.M.R. Western Garda Division,Possession of a firearm (1122),73.0
-2008,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",39.0
-2008,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1714.0
-2008,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),520.0
-2008,D.M.R. Western Garda Division,Prostitution offences (134),4.0
-2008,D.M.R. Western Garda Division,Public order and other social code offences (13),3418.0
-2008,D.M.R. Western Garda Division,Public service vehicle offences (1442),133.0
-2008,D.M.R. Western Garda Division,Rape and sexual assault (021),81.0
-2008,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
-2008,D.M.R. Western Garda Division,Road and traffic offences (14),14502.0
-2008,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),597.0
-2008,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),28.0
-2008,D.M.R. Western Garda Division,Robbery from the person (0613),185.0
-2008,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),122.0
-2008,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),3.0
-2008,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",343.0
-2008,D.M.R. Western Garda Division,Sexual offences (02),86.0
-2008,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),18.0
-2008,D.M.R. Western Garda Division,Speeding (0415),5234.0
-2008,D.M.R. Western Garda Division,Theft and related offences (08),7404.0
-2008,D.M.R. Western Garda Division,Theft from person (0821),177.0
-2008,D.M.R. Western Garda Division,Theft from shop (0822),1904.0
-2008,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),2490.0
-2008,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),12.0
-2008,D.M.R. Western Garda Division,Trespass offences (132),281.0
-2008,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2008,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),1130.0
-2008,D.M.R. Western Garda Division,Weapons and explosives offences (11),416.0
-2009,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",43.0
-2009,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),0.0
-2009,D.M.R. Western Garda Division,Aggravated burglary (0711),28.0
-2009,D.M.R. Western Garda Division,Arson (1211),260.0
-2009,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",173.0
-2009,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",944.0
-2009,D.M.R. Western Garda Division,Blackmail or extortion (0621),1.0
-2009,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1901.0
-2009,D.M.R. Western Garda Division,Burglary and related offences (07),1969.0
-2009,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",26.0
-2009,D.M.R. Western Garda Division,Controlled drug offences (10),2309.0
-2009,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),3992.0
-2009,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2009,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),4262.0
-2009,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2009,D.M.R. Western Garda Division,Dangerous driving leading to death (012),2.0
-2009,D.M.R. Western Garda Division,Dangerous or negligent acts (04),5010.0
-2009,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),542.0
-2009,D.M.R. Western Garda Division,Discharging a firearm (1121),47.0
-2009,D.M.R. Western Garda Division,Disorderly conduct (131),2362.0
-2009,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",426.0
-2009,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",1112.0
-2009,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),111.0
-2009,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),1001.0
-2009,D.M.R. Western Garda Division,Endangering traffic offences (0425),24.0
-2009,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),7.0
-2009,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",12.0
-2009,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),1.0
-2009,D.M.R. Western Garda Division,False imprisonment (0511),9.0
-2009,D.M.R. Western Garda Division,Fireworks offences (114),22.0
-2009,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",376.0
-2009,D.M.R. Western Garda Division,Harassment and related offences (033),141.0
-2009,D.M.R. Western Garda Division,Homicide & related offences (01),15.0
-2009,D.M.R. Western Garda Division,Human trafficking offences (0513),6.0
-2009,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2009,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2009,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1580.0
-2009,D.M.R. Western Garda Division,Kidnapping and related offences (05),15.0
-2009,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2009,D.M.R. Western Garda Division,Liquor licensing offences (133),120.0
-2009,D.M.R. Western Garda Division,Litter offences (1221),10.0
-2009,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2009,D.M.R. Western Garda Division,Murder (0111),13.0
-2009,D.M.R. Western Garda Division,Murder-attempt (0311),1.0
-2009,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),23.0
-2009,D.M.R. Western Garda Division,Offences against government and its agents (151),28.0
-2009,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",994.0
-2009,D.M.R. Western Garda Division,Offences not elsewhere classified (16),184.0
-2009,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",959.0
-2009,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),332.0
-2009,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2009,D.M.R. Western Garda Division,Other assault (035),594.0
-2009,D.M.R. Western Garda Division,Other drug offences (103),45.0
-2009,D.M.R. Western Garda Division,Other road offences (1433),9046.0
-2009,D.M.R. Western Garda Division,Other sexual offences (022),6.0
-2009,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3254.0
-2009,D.M.R. Western Garda Division,Perverting the course of justice (153),7.0
-2009,D.M.R. Western Garda Division,Possession of a firearm (1122),48.0
-2009,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",40.0
-2009,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1819.0
-2009,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),434.0
-2009,D.M.R. Western Garda Division,Prostitution offences (134),2.0
-2009,D.M.R. Western Garda Division,Public order and other social code offences (13),2796.0
-2009,D.M.R. Western Garda Division,Public service vehicle offences (1442),145.0
-2009,D.M.R. Western Garda Division,Rape and sexual assault (021),99.0
-2009,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
-2009,D.M.R. Western Garda Division,Road and traffic offences (14),12806.0
-2009,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),442.0
-2009,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),45.0
-2009,D.M.R. Western Garda Division,Robbery from the person (0613),183.0
-2009,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),139.0
-2009,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),4.0
-2009,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",353.0
-2009,D.M.R. Western Garda Division,Sexual offences (02),105.0
-2009,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),22.0
-2009,D.M.R. Western Garda Division,Speeding (0415),3280.0
-2009,D.M.R. Western Garda Division,Theft and related offences (08),7517.0
-2009,D.M.R. Western Garda Division,Theft from person (0821),151.0
-2009,D.M.R. Western Garda Division,Theft from shop (0822),1874.0
-2009,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),2238.0
-2009,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),35.0
-2009,D.M.R. Western Garda Division,Trespass offences (132),280.0
-2009,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2009,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),1099.0
-2009,D.M.R. Western Garda Division,Weapons and explosives offences (11),461.0
-2010,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",67.0
-2010,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),2.0
-2010,D.M.R. Western Garda Division,Aggravated burglary (0711),28.0
-2010,D.M.R. Western Garda Division,Arson (1211),204.0
-2010,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",203.0
-2010,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1247.0
-2010,D.M.R. Western Garda Division,Blackmail or extortion (0621),1.0
-2010,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1905.0
-2010,D.M.R. Western Garda Division,Burglary and related offences (07),1986.0
-2010,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",34.0
-2010,D.M.R. Western Garda Division,Controlled drug offences (10),2237.0
-2010,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),3780.0
-2010,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),32.0
-2010,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),3994.0
-2010,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2010,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2010,D.M.R. Western Garda Division,Dangerous or negligent acts (04),3662.0
-2010,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),456.0
-2010,D.M.R. Western Garda Division,Discharging a firearm (1121),19.0
-2010,D.M.R. Western Garda Division,Disorderly conduct (131),2700.0
-2010,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",439.0
-2010,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",810.0
-2010,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),66.0
-2010,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),744.0
-2010,D.M.R. Western Garda Division,Endangering traffic offences (0425),38.0
-2010,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2010,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",8.0
-2010,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),1.0
-2010,D.M.R. Western Garda Division,False imprisonment (0511),8.0
-2010,D.M.R. Western Garda Division,Fireworks offences (114),29.0
-2010,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",395.0
-2010,D.M.R. Western Garda Division,Harassment and related offences (033),144.0
-2010,D.M.R. Western Garda Division,Homicide & related offences (01),15.0
-2010,D.M.R. Western Garda Division,Human trafficking offences (0513),1.0
-2010,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2010,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2010,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1396.0
-2010,D.M.R. Western Garda Division,Kidnapping and related offences (05),11.0
-2010,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2010,D.M.R. Western Garda Division,Liquor licensing offences (133),128.0
-2010,D.M.R. Western Garda Division,Litter offences (1221),10.0
-2010,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2010,D.M.R. Western Garda Division,Murder (0111),14.0
-2010,D.M.R. Western Garda Division,Murder-attempt (0311),3.0
-2010,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),12.0
-2010,D.M.R. Western Garda Division,Offences against government and its agents (151),53.0
-2010,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1033.0
-2010,D.M.R. Western Garda Division,Offences not elsewhere classified (16),161.0
-2010,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",975.0
-2010,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),328.0
-2010,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2010,D.M.R. Western Garda Division,Other assault (035),822.0
-2010,D.M.R. Western Garda Division,Other drug offences (103),59.0
-2010,D.M.R. Western Garda Division,Other road offences (1433),9415.0
-2010,D.M.R. Western Garda Division,Other sexual offences (022),12.0
-2010,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3400.0
-2010,D.M.R. Western Garda Division,Perverting the course of justice (153),5.0
-2010,D.M.R. Western Garda Division,Possession of a firearm (1122),61.0
-2010,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",53.0
-2010,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1710.0
-2010,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),436.0
-2010,D.M.R. Western Garda Division,Prostitution offences (134),2.0
-2010,D.M.R. Western Garda Division,Public order and other social code offences (13),3122.0
-2010,D.M.R. Western Garda Division,Public service vehicle offences (1442),198.0
-2010,D.M.R. Western Garda Division,Rape and sexual assault (021),166.0
-2010,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
-2010,D.M.R. Western Garda Division,Road and traffic offences (14),13121.0
-2010,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),407.0
-2010,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),48.0
-2010,D.M.R. Western Garda Division,Robbery from the person (0613),254.0
-2010,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),157.0
-2010,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),5.0
-2010,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",451.0
-2010,D.M.R. Western Garda Division,Sexual offences (02),178.0
-2010,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),10.0
-2010,D.M.R. Western Garda Division,Speeding (0415),2282.0
-2010,D.M.R. Western Garda Division,Theft and related offences (08),7469.0
-2010,D.M.R. Western Garda Division,Theft from person (0821),164.0
-2010,D.M.R. Western Garda Division,Theft from shop (0822),1857.0
-2010,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),2048.0
-2010,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),75.0
-2010,D.M.R. Western Garda Division,Trespass offences (132),272.0
-2010,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2010,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),1206.0
-2010,D.M.R. Western Garda Division,Weapons and explosives offences (11),445.0
-2011,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",28.0
-2011,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),1.0
-2011,D.M.R. Western Garda Division,Aggravated burglary (0711),37.0
-2011,D.M.R. Western Garda Division,Arson (1211),235.0
-2011,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",208.0
-2011,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1170.0
-2011,D.M.R. Western Garda Division,Blackmail or extortion (0621),1.0
-2011,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),2103.0
-2011,D.M.R. Western Garda Division,Burglary and related offences (07),2223.0
-2011,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",23.0
-2011,D.M.R. Western Garda Division,Controlled drug offences (10),1913.0
-2011,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),3236.0
-2011,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),30.0
-2011,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),3477.0
-2011,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2011,D.M.R. Western Garda Division,Dangerous driving leading to death (012),0.0
-2011,D.M.R. Western Garda Division,Dangerous or negligent acts (04),3819.0
-2011,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),412.0
-2011,D.M.R. Western Garda Division,Discharging a firearm (1121),30.0
-2011,D.M.R. Western Garda Division,Disorderly conduct (131),2214.0
-2011,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",386.0
-2011,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",647.0
-2011,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),46.0
-2011,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),601.0
-2011,D.M.R. Western Garda Division,Endangering traffic offences (0425),16.0
-2011,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),15.0
-2011,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",23.0
-2011,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2011,D.M.R. Western Garda Division,False imprisonment (0511),6.0
-2011,D.M.R. Western Garda Division,Fireworks offences (114),21.0
-2011,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",466.0
-2011,D.M.R. Western Garda Division,Harassment and related offences (033),118.0
-2011,D.M.R. Western Garda Division,Homicide & related offences (01),5.0
-2011,D.M.R. Western Garda Division,Human trafficking offences (0513),1.0
-2011,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2011,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2011,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1164.0
-2011,D.M.R. Western Garda Division,Kidnapping and related offences (05),8.0
-2011,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2011,D.M.R. Western Garda Division,Liquor licensing offences (133),116.0
-2011,D.M.R. Western Garda Division,Litter offences (1221),6.0
-2011,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2011,D.M.R. Western Garda Division,Murder (0111),5.0
-2011,D.M.R. Western Garda Division,Murder-attempt (0311),2.0
-2011,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),11.0
-2011,D.M.R. Western Garda Division,Offences against government and its agents (151),29.0
-2011,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",747.0
-2011,D.M.R. Western Garda Division,Offences not elsewhere classified (16),92.0
-2011,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",712.0
-2011,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),262.0
-2011,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),2.0
-2011,D.M.R. Western Garda Division,Other assault (035),725.0
-2011,D.M.R. Western Garda Division,Other drug offences (103),49.0
-2011,D.M.R. Western Garda Division,Other road offences (1433),6780.0
-2011,D.M.R. Western Garda Division,Other sexual offences (022),13.0
-2011,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3642.0
-2011,D.M.R. Western Garda Division,Perverting the course of justice (153),4.0
-2011,D.M.R. Western Garda Division,Possession of a firearm (1122),43.0
-2011,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",83.0
-2011,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1433.0
-2011,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),401.0
-2011,D.M.R. Western Garda Division,Prostitution offences (134),1.0
-2011,D.M.R. Western Garda Division,Public order and other social code offences (13),2611.0
-2011,D.M.R. Western Garda Division,Public service vehicle offences (1442),217.0
-2011,D.M.R. Western Garda Division,Rape and sexual assault (021),123.0
-2011,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",15.0
-2011,D.M.R. Western Garda Division,Road and traffic offences (14),9905.0
-2011,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),425.0
-2011,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),119.0
-2011,D.M.R. Western Garda Division,Robbery from the person (0613),235.0
-2011,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),144.0
-2011,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),14.0
-2011,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",417.0
-2011,D.M.R. Western Garda Division,Sexual offences (02),136.0
-2011,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),16.0
-2011,D.M.R. Western Garda Division,Speeding (0415),2701.0
-2011,D.M.R. Western Garda Division,Theft and related offences (08),7194.0
-2011,D.M.R. Western Garda Division,Theft from person (0821),231.0
-2011,D.M.R. Western Garda Division,Theft from shop (0822),1588.0
-2011,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),1733.0
-2011,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),117.0
-2011,D.M.R. Western Garda Division,Trespass offences (132),249.0
-2011,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2011,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),803.0
-2011,D.M.R. Western Garda Division,Weapons and explosives offences (11),379.0
-2012,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",60.0
-2012,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),3.0
-2012,D.M.R. Western Garda Division,Aggravated burglary (0711),41.0
-2012,D.M.R. Western Garda Division,Arson (1211),216.0
-2012,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",184.0
-2012,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",903.0
-2012,D.M.R. Western Garda Division,Blackmail or extortion (0621),3.0
-2012,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),2139.0
-2012,D.M.R. Western Garda Division,Burglary and related offences (07),2273.0
-2012,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",25.0
-2012,D.M.R. Western Garda Division,Controlled drug offences (10),2096.0
-2012,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),3327.0
-2012,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),49.0
-2012,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),3551.0
-2012,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2012,D.M.R. Western Garda Division,Dangerous driving leading to death (012),0.0
-2012,D.M.R. Western Garda Division,Dangerous or negligent acts (04),4638.0
-2012,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),370.0
-2012,D.M.R. Western Garda Division,Discharging a firearm (1121),23.0
-2012,D.M.R. Western Garda Division,Disorderly conduct (131),1985.0
-2012,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",435.0
-2012,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",552.0
-2012,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),28.0
-2012,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),524.0
-2012,D.M.R. Western Garda Division,Endangering traffic offences (0425),25.0
-2012,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),14.0
-2012,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",17.0
-2012,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2012,D.M.R. Western Garda Division,False imprisonment (0511),9.0
-2012,D.M.R. Western Garda Division,Fireworks offences (114),20.0
-2012,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",636.0
-2012,D.M.R. Western Garda Division,Harassment and related offences (033),115.0
-2012,D.M.R. Western Garda Division,Homicide & related offences (01),5.0
-2012,D.M.R. Western Garda Division,Human trafficking offences (0513),0.0
-2012,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2012,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2012,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",916.0
-2012,D.M.R. Western Garda Division,Kidnapping and related offences (05),12.0
-2012,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2012,D.M.R. Western Garda Division,Liquor licensing offences (133),84.0
-2012,D.M.R. Western Garda Division,Litter offences (1221),8.0
-2012,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2012,D.M.R. Western Garda Division,Murder (0111),4.0
-2012,D.M.R. Western Garda Division,Murder-attempt (0311),3.0
-2012,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),6.0
-2012,D.M.R. Western Garda Division,Offences against government and its agents (151),9.0
-2012,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",709.0
-2012,D.M.R. Western Garda Division,Offences not elsewhere classified (16),72.0
-2012,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",697.0
-2012,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),245.0
-2012,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2012,D.M.R. Western Garda Division,Other assault (035),563.0
-2012,D.M.R. Western Garda Division,Other drug offences (103),63.0
-2012,D.M.R. Western Garda Division,Other road offences (1433),6634.0
-2012,D.M.R. Western Garda Division,Other sexual offences (022),15.0
-2012,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",4139.0
-2012,D.M.R. Western Garda Division,Perverting the course of justice (153),2.0
-2012,D.M.R. Western Garda Division,Possession of a firearm (1122),29.0
-2012,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",93.0
-2012,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1561.0
-2012,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),423.0
-2012,D.M.R. Western Garda Division,Prostitution offences (134),2.0
-2012,D.M.R. Western Garda Division,Public order and other social code offences (13),2418.0
-2012,D.M.R. Western Garda Division,Public service vehicle offences (1442),152.0
-2012,D.M.R. Western Garda Division,Rape and sexual assault (021),132.0
-2012,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",26.0
-2012,D.M.R. Western Garda Division,Road and traffic offences (14),9058.0
-2012,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),144.0
-2012,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),41.0
-2012,D.M.R. Western Garda Division,Robbery from the person (0613),198.0
-2012,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),110.0
-2012,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),16.0
-2012,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",352.0
-2012,D.M.R. Western Garda Division,Sexual offences (02),147.0
-2012,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),32.0
-2012,D.M.R. Western Garda Division,Speeding (0415),3617.0
-2012,D.M.R. Western Garda Division,Theft and related offences (08),7531.0
-2012,D.M.R. Western Garda Division,Theft from person (0821),252.0
-2012,D.M.R. Western Garda Division,Theft from shop (0822),1667.0
-2012,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),1473.0
-2012,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),38.0
-2012,D.M.R. Western Garda Division,Trespass offences (132),289.0
-2012,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2012,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),730.0
-2012,D.M.R. Western Garda Division,Weapons and explosives offences (11),334.0
-2013,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",44.0
-2013,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),3.0
-2013,D.M.R. Western Garda Division,Aggravated burglary (0711),37.0
-2013,D.M.R. Western Garda Division,Arson (1211),188.0
-2013,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",141.0
-2013,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",743.0
-2013,D.M.R. Western Garda Division,Blackmail or extortion (0621),5.0
-2013,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),2036.0
-2013,D.M.R. Western Garda Division,Burglary and related offences (07),2188.0
-2013,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",17.0
-2013,D.M.R. Western Garda Division,Controlled drug offences (10),1938.0
-2013,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),2675.0
-2013,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),21.0
-2013,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),2868.0
-2013,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2013,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2013,D.M.R. Western Garda Division,Dangerous or negligent acts (04),3822.0
-2013,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),365.0
-2013,D.M.R. Western Garda Division,Discharging a firearm (1121),24.0
-2013,D.M.R. Western Garda Division,Disorderly conduct (131),1498.0
-2013,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",352.0
-2013,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",400.0
-2013,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),20.0
-2013,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),380.0
-2013,D.M.R. Western Garda Division,Endangering traffic offences (0425),15.0
-2013,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),10.0
-2013,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",8.0
-2013,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2013,D.M.R. Western Garda Division,False imprisonment (0511),3.0
-2013,D.M.R. Western Garda Division,Fireworks offences (114),11.0
-2013,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",450.0
-2013,D.M.R. Western Garda Division,Harassment and related offences (033),60.0
-2013,D.M.R. Western Garda Division,Homicide & related offences (01),10.0
-2013,D.M.R. Western Garda Division,Human trafficking offences (0513),1.0
-2013,D.M.R. Western Garda Division,Importation of drugs (1011),2.0
-2013,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2013,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",763.0
-2013,D.M.R. Western Garda Division,Kidnapping and related offences (05),7.0
-2013,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2013,D.M.R. Western Garda Division,Liquor licensing offences (133),39.0
-2013,D.M.R. Western Garda Division,Litter offences (1221),5.0
-2013,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2013,D.M.R. Western Garda Division,Murder (0111),8.0
-2013,D.M.R. Western Garda Division,Murder-attempt (0311),2.0
-2013,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2013,D.M.R. Western Garda Division,Offences against government and its agents (151),10.0
-2013,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",656.0
-2013,D.M.R. Western Garda Division,Offences not elsewhere classified (16),74.0
-2013,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",644.0
-2013,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),253.0
-2013,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2013,D.M.R. Western Garda Division,Other assault (035),501.0
-2013,D.M.R. Western Garda Division,Other drug offences (103),47.0
-2013,D.M.R. Western Garda Division,Other road offences (1433),5260.0
-2013,D.M.R. Western Garda Division,Other sexual offences (022),9.0
-2013,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",4191.0
-2013,D.M.R. Western Garda Division,Perverting the course of justice (153),1.0
-2013,D.M.R. Western Garda Division,Possession of a firearm (1122),22.0
-2013,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",115.0
-2013,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1508.0
-2013,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),360.0
-2013,D.M.R. Western Garda Division,Prostitution offences (134),1.0
-2013,D.M.R. Western Garda Division,Public order and other social code offences (13),1805.0
-2013,D.M.R. Western Garda Division,Public service vehicle offences (1442),128.0
-2013,D.M.R. Western Garda Division,Rape and sexual assault (021),125.0
-2013,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",6.0
-2013,D.M.R. Western Garda Division,Road and traffic offences (14),7482.0
-2013,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),436.0
-2013,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),46.0
-2013,D.M.R. Western Garda Division,Robbery from the person (0613),233.0
-2013,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),152.0
-2013,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),12.0
-2013,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",419.0
-2013,D.M.R. Western Garda Division,Sexual offences (02),134.0
-2013,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),16.0
-2013,D.M.R. Western Garda Division,Speeding (0415),2987.0
-2013,D.M.R. Western Garda Division,Theft and related offences (08),7470.0
-2013,D.M.R. Western Garda Division,Theft from person (0821),269.0
-2013,D.M.R. Western Garda Division,Theft from shop (0822),1790.0
-2013,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),1220.0
-2013,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),39.0
-2013,D.M.R. Western Garda Division,Trespass offences (132),245.0
-2013,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2013,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),497.0
-2013,D.M.R. Western Garda Division,Weapons and explosives offences (11),318.0
-2014,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",44.0
-2014,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),3.0
-2014,D.M.R. Western Garda Division,Aggravated burglary (0711),39.0
-2014,D.M.R. Western Garda Division,Arson (1211),120.0
-2014,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",145.0
-2014,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",859.0
-2014,D.M.R. Western Garda Division,Blackmail or extortion (0621),0.0
-2014,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),2310.0
-2014,D.M.R. Western Garda Division,Burglary and related offences (07),2473.0
-2014,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",25.0
-2014,D.M.R. Western Garda Division,Controlled drug offences (10),1759.0
-2014,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),2751.0
-2014,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),19.0
-2014,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),2875.0
-2014,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2014,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2014,D.M.R. Western Garda Division,Dangerous or negligent acts (04),3495.0
-2014,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),325.0
-2014,D.M.R. Western Garda Division,Discharging a firearm (1121),17.0
-2014,D.M.R. Western Garda Division,Disorderly conduct (131),1227.0
-2014,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",207.0
-2014,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",397.0
-2014,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),32.0
-2014,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),365.0
-2014,D.M.R. Western Garda Division,Endangering traffic offences (0425),17.0
-2014,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),3.0
-2014,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",6.0
-2014,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2014,D.M.R. Western Garda Division,False imprisonment (0511),5.0
-2014,D.M.R. Western Garda Division,Fireworks offences (114),7.0
-2014,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",509.0
-2014,D.M.R. Western Garda Division,Harassment and related offences (033),105.0
-2014,D.M.R. Western Garda Division,Homicide & related offences (01),9.0
-2014,D.M.R. Western Garda Division,Human trafficking offences (0513),1.0
-2014,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2014,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2014,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",665.0
-2014,D.M.R. Western Garda Division,Kidnapping and related offences (05),9.0
-2014,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),3.0
-2014,D.M.R. Western Garda Division,Liquor licensing offences (133),22.0
-2014,D.M.R. Western Garda Division,Litter offences (1221),4.0
-2014,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2014,D.M.R. Western Garda Division,Murder (0111),7.0
-2014,D.M.R. Western Garda Division,Murder-attempt (0311),8.0
-2014,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),4.0
-2014,D.M.R. Western Garda Division,Offences against government and its agents (151),17.0
-2014,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",661.0
-2014,D.M.R. Western Garda Division,Offences not elsewhere classified (16),70.0
-2014,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",640.0
-2014,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),212.0
-2014,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2014,D.M.R. Western Garda Division,Other assault (035),553.0
-2014,D.M.R. Western Garda Division,Other drug offences (103),49.0
-2014,D.M.R. Western Garda Division,Other road offences (1433),4897.0
-2014,D.M.R. Western Garda Division,Other sexual offences (022),2.0
-2014,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",4130.0
-2014,D.M.R. Western Garda Division,Perverting the course of justice (153),4.0
-2014,D.M.R. Western Garda Division,Possession of a firearm (1122),18.0
-2014,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",124.0
-2014,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1374.0
-2014,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),317.0
-2014,D.M.R. Western Garda Division,Prostitution offences (134),0.0
-2014,D.M.R. Western Garda Division,Public order and other social code offences (13),1526.0
-2014,D.M.R. Western Garda Division,Public service vehicle offences (1442),119.0
-2014,D.M.R. Western Garda Division,Rape and sexual assault (021),139.0
-2014,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
-2014,D.M.R. Western Garda Division,Road and traffic offences (14),6573.0
-2014,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),173.0
-2014,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),44.0
-2014,D.M.R. Western Garda Division,Robbery from the person (0613),255.0
-2014,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),164.0
-2014,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),4.0
-2014,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",448.0
-2014,D.M.R. Western Garda Division,Sexual offences (02),141.0
-2014,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),14.0
-2014,D.M.R. Western Garda Division,Speeding (0415),2708.0
-2014,D.M.R. Western Garda Division,Theft and related offences (08),7639.0
-2014,D.M.R. Western Garda Division,Theft from person (0821),251.0
-2014,D.M.R. Western Garda Division,Theft from shop (0822),1830.0
-2014,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),1428.0
-2014,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),48.0
-2014,D.M.R. Western Garda Division,Trespass offences (132),253.0
-2014,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2014,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),461.0
-2014,D.M.R. Western Garda Division,Weapons and explosives offences (11),260.0
-2015,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",22.0
-2015,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),6.0
-2015,D.M.R. Western Garda Division,Aggravated burglary (0711),39.0
-2015,D.M.R. Western Garda Division,Arson (1211),134.0
-2015,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",195.0
-2015,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",837.0
-2015,D.M.R. Western Garda Division,Blackmail or extortion (0621),2.0
-2015,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),2260.0
-2015,D.M.R. Western Garda Division,Burglary and related offences (07),2404.0
-2015,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",37.0
-2015,D.M.R. Western Garda Division,Controlled drug offences (10),1468.0
-2015,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),2385.0
-2015,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),12.0
-2015,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),2522.0
-2015,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2015,D.M.R. Western Garda Division,Dangerous driving leading to death (012),3.0
-2015,D.M.R. Western Garda Division,Dangerous or negligent acts (04),4414.0
-2015,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),329.0
-2015,D.M.R. Western Garda Division,Discharging a firearm (1121),35.0
-2015,D.M.R. Western Garda Division,Disorderly conduct (131),990.0
-2015,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",242.0
-2015,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",371.0
-2015,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),26.0
-2015,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),345.0
-2015,D.M.R. Western Garda Division,Endangering traffic offences (0425),16.0
-2015,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),12.0
-2015,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",4.0
-2015,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2015,D.M.R. Western Garda Division,False imprisonment (0511),10.0
-2015,D.M.R. Western Garda Division,Fireworks offences (114),5.0
-2015,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",407.0
-2015,D.M.R. Western Garda Division,Harassment and related offences (033),85.0
-2015,D.M.R. Western Garda Division,Homicide & related offences (01),8.0
-2015,D.M.R. Western Garda Division,Human trafficking offences (0513),2.0
-2015,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2015,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2015,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",697.0
-2015,D.M.R. Western Garda Division,Kidnapping and related offences (05),18.0
-2015,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2015,D.M.R. Western Garda Division,Liquor licensing offences (133),11.0
-2015,D.M.R. Western Garda Division,Litter offences (1221),3.0
-2015,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2015,D.M.R. Western Garda Division,Murder (0111),4.0
-2015,D.M.R. Western Garda Division,Murder-attempt (0311),8.0
-2015,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),5.0
-2015,D.M.R. Western Garda Division,Offences against government and its agents (151),14.0
-2015,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",767.0
-2015,D.M.R. Western Garda Division,Offences not elsewhere classified (16),72.0
-2015,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",750.0
-2015,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),209.0
-2015,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2015,D.M.R. Western Garda Division,Other assault (035),506.0
-2015,D.M.R. Western Garda Division,Other drug offences (103),39.0
-2015,D.M.R. Western Garda Division,Other road offences (1433),4064.0
-2015,D.M.R. Western Garda Division,Other sexual offences (022),15.0
-2015,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3515.0
-2015,D.M.R. Western Garda Division,Perverting the course of justice (153),2.0
-2015,D.M.R. Western Garda Division,Possession of a firearm (1122),28.0
-2015,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",105.0
-2015,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1100.0
-2015,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),317.0
-2015,D.M.R. Western Garda Division,Prostitution offences (134),0.0
-2015,D.M.R. Western Garda Division,Public order and other social code offences (13),1278.0
-2015,D.M.R. Western Garda Division,Public service vehicle offences (1442),120.0
-2015,D.M.R. Western Garda Division,Rape and sexual assault (021),148.0
-2015,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",15.0
-2015,D.M.R. Western Garda Division,Road and traffic offences (14),5787.0
-2015,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),224.0
-2015,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),23.0
-2015,D.M.R. Western Garda Division,Robbery from the person (0613),170.0
-2015,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),175.0
-2015,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),3.0
-2015,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",387.0
-2015,D.M.R. Western Garda Division,Sexual offences (02),163.0
-2015,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),23.0
-2015,D.M.R. Western Garda Division,Speeding (0415),3662.0
-2015,D.M.R. Western Garda Division,Theft and related offences (08),6527.0
-2015,D.M.R. Western Garda Division,Theft from person (0821),211.0
-2015,D.M.R. Western Garda Division,Theft from shop (0822),1805.0
-2015,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),996.0
-2015,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),43.0
-2015,D.M.R. Western Garda Division,Trespass offences (132),239.0
-2015,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2015,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),412.0
-2015,D.M.R. Western Garda Division,Weapons and explosives offences (11),281.0
-2016,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",58.0
-2016,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),4.0
-2016,D.M.R. Western Garda Division,Aggravated burglary (0711),31.0
-2016,D.M.R. Western Garda Division,Arson (1211),147.0
-2016,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",287.0
-2016,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1153.0
-2016,D.M.R. Western Garda Division,Blackmail or extortion (0621),13.0
-2016,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1566.0
-2016,D.M.R. Western Garda Division,Burglary and related offences (07),1661.0
-2016,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",22.0
-2016,D.M.R. Western Garda Division,Controlled drug offences (10),1457.0
-2016,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),2103.0
-2016,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),10.0
-2016,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),2252.0
-2016,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2016,D.M.R. Western Garda Division,Dangerous driving leading to death (012),4.0
-2016,D.M.R. Western Garda Division,Dangerous or negligent acts (04),2655.0
-2016,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),351.0
-2016,D.M.R. Western Garda Division,Discharging a firearm (1121),23.0
-2016,D.M.R. Western Garda Division,Disorderly conduct (131),897.0
-2016,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",248.0
-2016,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",363.0
-2016,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),16.0
-2016,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),347.0
-2016,D.M.R. Western Garda Division,Endangering traffic offences (0425),12.0
-2016,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),7.0
-2016,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2016,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2016,D.M.R. Western Garda Division,False imprisonment (0511),10.0
-2016,D.M.R. Western Garda Division,Fireworks offences (114),6.0
-2016,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",429.0
-2016,D.M.R. Western Garda Division,Harassment and related offences (033),109.0
-2016,D.M.R. Western Garda Division,Homicide & related offences (01),10.0
-2016,D.M.R. Western Garda Division,Human trafficking offences (0513),2.0
-2016,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2016,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2016,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",814.0
-2016,D.M.R. Western Garda Division,Kidnapping and related offences (05),16.0
-2016,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2016,D.M.R. Western Garda Division,Liquor licensing offences (133),18.0
-2016,D.M.R. Western Garda Division,Litter offences (1221),2.0
-2016,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2016,D.M.R. Western Garda Division,Murder (0111),6.0
-2016,D.M.R. Western Garda Division,Murder-attempt (0311),5.0
-2016,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),5.0
-2016,D.M.R. Western Garda Division,Offences against government and its agents (151),6.0
-2016,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",755.0
-2016,D.M.R. Western Garda Division,Offences not elsewhere classified (16),53.0
-2016,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",743.0
-2016,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),156.0
-2016,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),3.0
-2016,D.M.R. Western Garda Division,Other assault (035),704.0
-2016,D.M.R. Western Garda Division,Other drug offences (103),56.0
-2016,D.M.R. Western Garda Division,Other road offences (1433),3869.0
-2016,D.M.R. Western Garda Division,Other sexual offences (022),34.0
-2016,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3103.0
-2016,D.M.R. Western Garda Division,Perverting the course of justice (153),3.0
-2016,D.M.R. Western Garda Division,Possession of a firearm (1122),30.0
-2016,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",64.0
-2016,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1098.0
-2016,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),293.0
-2016,D.M.R. Western Garda Division,Prostitution offences (134),0.0
-2016,D.M.R. Western Garda Division,Public order and other social code offences (13),1144.0
-2016,D.M.R. Western Garda Division,Public service vehicle offences (1442),82.0
-2016,D.M.R. Western Garda Division,Rape and sexual assault (021),149.0
-2016,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
-2016,D.M.R. Western Garda Division,Road and traffic offences (14),5599.0
-2016,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),217.0
-2016,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),14.0
-2016,D.M.R. Western Garda Division,Robbery from the person (0613),169.0
-2016,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),141.0
-2016,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),10.0
-2016,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",355.0
-2016,D.M.R. Western Garda Division,Sexual offences (02),183.0
-2016,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),25.0
-2016,D.M.R. Western Garda Division,Speeding (0415),1863.0
-2016,D.M.R. Western Garda Division,Theft and related offences (08),5836.0
-2016,D.M.R. Western Garda Division,Theft from person (0821),206.0
-2016,D.M.R. Western Garda Division,Theft from shop (0822),1732.0
-2016,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),795.0
-2016,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),48.0
-2016,D.M.R. Western Garda Division,Trespass offences (132),194.0
-2016,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2016,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),350.0
-2016,D.M.R. Western Garda Division,Weapons and explosives offences (11),216.0
-2017,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",41.0
-2017,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),1.0
-2017,D.M.R. Western Garda Division,Aggravated burglary (0711),30.0
-2017,D.M.R. Western Garda Division,Arson (1211),195.0
-2017,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",242.0
-2017,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1160.0
-2017,D.M.R. Western Garda Division,Blackmail or extortion (0621),7.0
-2017,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1464.0
-2017,D.M.R. Western Garda Division,Burglary and related offences (07),1553.0
-2017,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",31.0
-2017,D.M.R. Western Garda Division,Controlled drug offences (10),1384.0
-2017,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),1901.0
-2017,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),9.0
-2017,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),2100.0
-2017,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2017,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2017,D.M.R. Western Garda Division,Dangerous or negligent acts (04),2088.0
-2017,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),335.0
-2017,D.M.R. Western Garda Division,Discharging a firearm (1121),18.0
-2017,D.M.R. Western Garda Division,Disorderly conduct (131),1012.0
-2017,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",333.0
-2017,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",415.0
-2017,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),17.0
-2017,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),398.0
-2017,D.M.R. Western Garda Division,Endangering traffic offences (0425),24.0
-2017,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),11.0
-2017,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",3.0
-2017,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2017,D.M.R. Western Garda Division,False imprisonment (0511),6.0
-2017,D.M.R. Western Garda Division,Fireworks offences (114),17.0
-2017,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",464.0
-2017,D.M.R. Western Garda Division,Harassment and related offences (033),131.0
-2017,D.M.R. Western Garda Division,Homicide & related offences (01),4.0
-2017,D.M.R. Western Garda Division,Human trafficking offences (0513),2.0
-2017,D.M.R. Western Garda Division,Importation of drugs (1011),1.0
-2017,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2017,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",832.0
-2017,D.M.R. Western Garda Division,Kidnapping and related offences (05),9.0
-2017,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2017,D.M.R. Western Garda Division,Liquor licensing offences (133),18.0
-2017,D.M.R. Western Garda Division,Litter offences (1221),4.0
-2017,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2017,D.M.R. Western Garda Division,Murder (0111),3.0
-2017,D.M.R. Western Garda Division,Murder-attempt (0311),3.0
-2017,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2017,D.M.R. Western Garda Division,Offences against government and its agents (151),7.0
-2017,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1174.0
-2017,D.M.R. Western Garda Division,Offences not elsewhere classified (16),72.0
-2017,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",1162.0
-2017,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),168.0
-2017,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2017,D.M.R. Western Garda Division,Other assault (035),730.0
-2017,D.M.R. Western Garda Division,Other drug offences (103),49.0
-2017,D.M.R. Western Garda Division,Other road offences (1433),3639.0
-2017,D.M.R. Western Garda Division,Other sexual offences (022),25.0
-2017,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3626.0
-2017,D.M.R. Western Garda Division,Perverting the course of justice (153),4.0
-2017,D.M.R. Western Garda Division,Possession of a firearm (1122),29.0
-2017,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",59.0
-2017,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1050.0
-2017,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),275.0
-2017,D.M.R. Western Garda Division,Prostitution offences (134),2.0
-2017,D.M.R. Western Garda Division,Public order and other social code offences (13),1204.0
-2017,D.M.R. Western Garda Division,Public service vehicle offences (1442),96.0
-2017,D.M.R. Western Garda Division,Rape and sexual assault (021),164.0
-2017,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",6.0
-2017,D.M.R. Western Garda Division,Road and traffic offences (14),5519.0
-2017,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),199.0
-2017,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),23.0
-2017,D.M.R. Western Garda Division,Robbery from the person (0613),210.0
-2017,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),121.0
-2017,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),2.0
-2017,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",371.0
-2017,D.M.R. Western Garda Division,Sexual offences (02),189.0
-2017,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),21.0
-2017,D.M.R. Western Garda Division,Speeding (0415),1261.0
-2017,D.M.R. Western Garda Division,Theft and related offences (08),6544.0
-2017,D.M.R. Western Garda Division,Theft from person (0821),201.0
-2017,D.M.R. Western Garda Division,Theft from shop (0822),1861.0
-2017,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),856.0
-2017,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),54.0
-2017,D.M.R. Western Garda Division,Trespass offences (132),145.0
-2017,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2017,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),396.0
-2017,D.M.R. Western Garda Division,Weapons and explosives offences (11),235.0
-2018,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",27.0
-2018,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),4.0
-2018,D.M.R. Western Garda Division,Aggravated burglary (0711),37.0
-2018,D.M.R. Western Garda Division,Arson (1211),170.0
-2018,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",338.0
-2018,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1374.0
-2018,D.M.R. Western Garda Division,Blackmail or extortion (0621),10.0
-2018,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1456.0
-2018,D.M.R. Western Garda Division,Burglary and related offences (07),1533.0
-2018,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",37.0
-2018,D.M.R. Western Garda Division,Controlled drug offences (10),1697.0
-2018,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),1606.0
-2018,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),10.0
-2018,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),1779.0
-2018,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2018,D.M.R. Western Garda Division,Dangerous driving leading to death (012),3.0
-2018,D.M.R. Western Garda Division,Dangerous or negligent acts (04),1276.0
-2018,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),423.0
-2018,D.M.R. Western Garda Division,Discharging a firearm (1121),15.0
-2018,D.M.R. Western Garda Division,Disorderly conduct (131),1127.0
-2018,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",425.0
-2018,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",384.0
-2018,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),36.0
-2018,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),348.0
-2018,D.M.R. Western Garda Division,Endangering traffic offences (0425),30.0
-2018,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),23.0
-2018,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2018,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2018,D.M.R. Western Garda Division,False imprisonment (0511),5.0
-2018,D.M.R. Western Garda Division,Fireworks offences (114),14.0
-2018,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",535.0
-2018,D.M.R. Western Garda Division,Harassment and related offences (033),101.0
-2018,D.M.R. Western Garda Division,Homicide & related offences (01),8.0
-2018,D.M.R. Western Garda Division,Human trafficking offences (0513),3.0
-2018,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2018,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2018,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",941.0
-2018,D.M.R. Western Garda Division,Kidnapping and related offences (05),12.0
-2018,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2018,D.M.R. Western Garda Division,Liquor licensing offences (133),11.0
-2018,D.M.R. Western Garda Division,Litter offences (1221),3.0
-2018,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2018,D.M.R. Western Garda Division,Murder (0111),4.0
-2018,D.M.R. Western Garda Division,Murder-attempt (0311),3.0
-2018,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2018,D.M.R. Western Garda Division,Offences against government and its agents (151),5.0
-2018,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1762.0
-2018,D.M.R. Western Garda Division,Offences not elsewhere classified (16),73.0
-2018,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",1755.0
-2018,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),174.0
-2018,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2018,D.M.R. Western Garda Division,Other assault (035),816.0
-2018,D.M.R. Western Garda Division,Other drug offences (103),53.0
-2018,D.M.R. Western Garda Division,Other road offences (1433),4001.0
-2018,D.M.R. Western Garda Division,Other sexual offences (022),34.0
-2018,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3015.0
-2018,D.M.R. Western Garda Division,Perverting the course of justice (153),1.0
-2018,D.M.R. Western Garda Division,Possession of a firearm (1122),21.0
-2018,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",40.0
-2018,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1275.0
-2018,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),359.0
-2018,D.M.R. Western Garda Division,Prostitution offences (134),1.0
-2018,D.M.R. Western Garda Division,Public order and other social code offences (13),1317.0
-2018,D.M.R. Western Garda Division,Public service vehicle offences (1442),116.0
-2018,D.M.R. Western Garda Division,Rape and sexual assault (021),197.0
-2018,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",3.0
-2018,D.M.R. Western Garda Division,Road and traffic offences (14),6122.0
-2018,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),140.0
-2018,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),20.0
-2018,D.M.R. Western Garda Division,Robbery from the person (0613),193.0
-2018,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),109.0
-2018,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),5.0
-2018,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",354.0
-2018,D.M.R. Western Garda Division,Sexual offences (02),231.0
-2018,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),24.0
-2018,D.M.R. Western Garda Division,Speeding (0415),388.0
-2018,D.M.R. Western Garda Division,Theft and related offences (08),5937.0
-2018,D.M.R. Western Garda Division,Theft from person (0821),194.0
-2018,D.M.R. Western Garda Division,Theft from shop (0822),1868.0
-2018,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),860.0
-2018,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),116.0
-2018,D.M.R. Western Garda Division,Trespass offences (132),151.0
-2018,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2018,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),478.0
-2018,D.M.R. Western Garda Division,Weapons and explosives offences (11),225.0
-2019,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",31.0
-2019,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),0.0
-2019,D.M.R. Western Garda Division,Aggravated burglary (0711),37.0
-2019,D.M.R. Western Garda Division,Arson (1211),144.0
-2019,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",393.0
-2019,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1613.0
-2019,D.M.R. Western Garda Division,Blackmail or extortion (0621),9.0
-2019,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),1737.0
-2019,D.M.R. Western Garda Division,Burglary and related offences (07),1816.0
-2019,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",36.0
-2019,D.M.R. Western Garda Division,Controlled drug offences (10),2167.0
-2019,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),1835.0
-2019,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),7.0
-2019,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),1986.0
-2019,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2019,D.M.R. Western Garda Division,Dangerous driving leading to death (012),3.0
-2019,D.M.R. Western Garda Division,Dangerous or negligent acts (04),1553.0
-2019,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),450.0
-2019,D.M.R. Western Garda Division,Discharging a firearm (1121),17.0
-2019,D.M.R. Western Garda Division,Disorderly conduct (131),1242.0
-2019,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",355.0
-2019,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",534.0
-2019,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),117.0
-2019,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),417.0
-2019,D.M.R. Western Garda Division,Endangering traffic offences (0425),30.0
-2019,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),27.0
-2019,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",10.0
-2019,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2019,D.M.R. Western Garda Division,False imprisonment (0511),6.0
-2019,D.M.R. Western Garda Division,Fireworks offences (114),29.0
-2019,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",712.0
-2019,D.M.R. Western Garda Division,Harassment and related offences (033),112.0
-2019,D.M.R. Western Garda Division,Homicide & related offences (01),10.0
-2019,D.M.R. Western Garda Division,Human trafficking offences (0513),6.0
-2019,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2019,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2019,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",761.0
-2019,D.M.R. Western Garda Division,Kidnapping and related offences (05),12.0
-2019,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2019,D.M.R. Western Garda Division,Liquor licensing offences (133),9.0
-2019,D.M.R. Western Garda Division,Litter offences (1221),7.0
-2019,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2019,D.M.R. Western Garda Division,Murder (0111),6.0
-2019,D.M.R. Western Garda Division,Murder-attempt (0311),9.0
-2019,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2019,D.M.R. Western Garda Division,Offences against government and its agents (151),15.0
-2019,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1892.0
-2019,D.M.R. Western Garda Division,Offences not elsewhere classified (16),124.0
-2019,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",1873.0
-2019,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),183.0
-2019,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),2.0
-2019,D.M.R. Western Garda Division,Other assault (035),990.0
-2019,D.M.R. Western Garda Division,Other drug offences (103),117.0
-2019,D.M.R. Western Garda Division,Other road offences (1433),4094.0
-2019,D.M.R. Western Garda Division,Other sexual offences (022),46.0
-2019,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3569.0
-2019,D.M.R. Western Garda Division,Perverting the course of justice (153),2.0
-2019,D.M.R. Western Garda Division,Possession of a firearm (1122),23.0
-2019,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",42.0
-2019,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1541.0
-2019,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),502.0
-2019,D.M.R. Western Garda Division,Prostitution offences (134),10.0
-2019,D.M.R. Western Garda Division,Public order and other social code offences (13),1493.0
-2019,D.M.R. Western Garda Division,Public service vehicle offences (1442),146.0
-2019,D.M.R. Western Garda Division,Rape and sexual assault (021),216.0
-2019,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2019,D.M.R. Western Garda Division,Road and traffic offences (14),6107.0
-2019,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),165.0
-2019,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),21.0
-2019,D.M.R. Western Garda Division,Robbery from the person (0613),148.0
-2019,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),92.0
-2019,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),13.0
-2019,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",298.0
-2019,D.M.R. Western Garda Division,Sexual offences (02),262.0
-2019,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),42.0
-2019,D.M.R. Western Garda Division,Speeding (0415),480.0
-2019,D.M.R. Western Garda Division,Theft and related offences (08),6723.0
-2019,D.M.R. Western Garda Division,Theft from person (0821),134.0
-2019,D.M.R. Western Garda Division,Theft from shop (0822),2069.0
-2019,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),951.0
-2019,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),109.0
-2019,D.M.R. Western Garda Division,Trespass offences (132),189.0
-2019,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2019,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),563.0
-2019,D.M.R. Western Garda Division,Weapons and explosives offences (11),262.0
-2020,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",23.0
-2020,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),0.0
-2020,D.M.R. Western Garda Division,Aggravated burglary (0711),35.0
-2020,D.M.R. Western Garda Division,Arson (1211),140.0
-2020,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",442.0
-2020,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1579.0
-2020,D.M.R. Western Garda Division,Blackmail or extortion (0621),26.0
-2020,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),990.0
-2020,D.M.R. Western Garda Division,Burglary and related offences (07),1074.0
-2020,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",37.0
-2020,D.M.R. Western Garda Division,Controlled drug offences (10),3193.0
-2020,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),1559.0
-2020,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),22.0
-2020,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),1704.0
-2020,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),4.0
-2020,D.M.R. Western Garda Division,Dangerous driving leading to death (012),2.0
-2020,D.M.R. Western Garda Division,Dangerous or negligent acts (04),3139.0
-2020,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),417.0
-2020,D.M.R. Western Garda Division,Discharging a firearm (1121),17.0
-2020,D.M.R. Western Garda Division,Disorderly conduct (131),1447.0
-2020,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",406.0
-2020,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",693.0
-2020,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),306.0
-2020,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),387.0
-2020,D.M.R. Western Garda Division,Endangering traffic offences (0425),28.0
-2020,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),37.0
-2020,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",3.0
-2020,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2020,D.M.R. Western Garda Division,False imprisonment (0511),11.0
-2020,D.M.R. Western Garda Division,Fireworks offences (114),33.0
-2020,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",806.0
-2020,D.M.R. Western Garda Division,Harassment and related offences (033),105.0
-2020,D.M.R. Western Garda Division,Homicide & related offences (01),11.0
-2020,D.M.R. Western Garda Division,Human trafficking offences (0513),1.0
-2020,D.M.R. Western Garda Division,Importation of drugs (1011),3.0
-2020,D.M.R. Western Garda Division,Infanticide (0113),1.0
-2020,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",905.0
-2020,D.M.R. Western Garda Division,Kidnapping and related offences (05),12.0
-2020,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2020,D.M.R. Western Garda Division,Liquor licensing offences (133),10.0
-2020,D.M.R. Western Garda Division,Litter offences (1221),5.0
-2020,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2020,D.M.R. Western Garda Division,Murder (0111),8.0
-2020,D.M.R. Western Garda Division,Murder-attempt (0311),1.0
-2020,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2020,D.M.R. Western Garda Division,Offences against government and its agents (151),37.0
-2020,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1261.0
-2020,D.M.R. Western Garda Division,Offences not elsewhere classified (16),92.0
-2020,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",1215.0
-2020,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),191.0
-2020,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),3.0
-2020,D.M.R. Western Garda Division,Other assault (035),877.0
-2020,D.M.R. Western Garda Division,Other drug offences (103),169.0
-2020,D.M.R. Western Garda Division,Other road offences (1433),3978.0
-2020,D.M.R. Western Garda Division,Other sexual offences (022),50.0
-2020,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3077.0
-2020,D.M.R. Western Garda Division,Perverting the course of justice (153),6.0
-2020,D.M.R. Western Garda Division,Possession of a firearm (1122),20.0
-2020,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",49.0
-2020,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),2268.0
-2020,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),731.0
-2020,D.M.R. Western Garda Division,Prostitution offences (134),2.0
-2020,D.M.R. Western Garda Division,Public order and other social code offences (13),1815.0
-2020,D.M.R. Western Garda Division,Public service vehicle offences (1442),184.0
-2020,D.M.R. Western Garda Division,Rape and sexual assault (021),184.0
-2020,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2020,D.M.R. Western Garda Division,Road and traffic offences (14),6256.0
-2020,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),71.0
-2020,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),40.0
-2020,D.M.R. Western Garda Division,Robbery from the person (0613),131.0
-2020,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),55.0
-2020,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),0.0
-2020,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",249.0
-2020,D.M.R. Western Garda Division,Sexual offences (02),234.0
-2020,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),101.0
-2020,D.M.R. Western Garda Division,Speeding (0415),1937.0
-2020,D.M.R. Western Garda Division,Theft and related offences (08),5581.0
-2020,D.M.R. Western Garda Division,Theft from person (0821),98.0
-2020,D.M.R. Western Garda Division,Theft from shop (0822),1793.0
-2020,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),613.0
-2020,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),154.0
-2020,D.M.R. Western Garda Division,Trespass offences (132),254.0
-2020,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2020,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),671.0
-2020,D.M.R. Western Garda Division,Weapons and explosives offences (11),264.0
-2021,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",37.0
-2021,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),1.0
-2021,D.M.R. Western Garda Division,Aggravated burglary (0711),34.0
-2021,D.M.R. Western Garda Division,Arson (1211),139.0
-2021,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",467.0
-2021,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1650.0
-2021,D.M.R. Western Garda Division,Blackmail or extortion (0621),30.0
-2021,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),687.0
-2021,D.M.R. Western Garda Division,Burglary and related offences (07),748.0
-2021,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",39.0
-2021,D.M.R. Western Garda Division,Controlled drug offences (10),2639.0
-2021,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),1593.0
-2021,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),7.0
-2021,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),1738.0
-2021,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2021,D.M.R. Western Garda Division,Dangerous driving leading to death (012),3.0
-2021,D.M.R. Western Garda Division,Dangerous or negligent acts (04),2198.0
-2021,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),419.0
-2021,D.M.R. Western Garda Division,Discharging a firearm (1121),14.0
-2021,D.M.R. Western Garda Division,Disorderly conduct (131),1311.0
-2021,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",427.0
-2021,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",542.0
-2021,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),239.0
-2021,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),303.0
-2021,D.M.R. Western Garda Division,Endangering traffic offences (0425),20.0
-2021,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),23.0
-2021,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",4.0
-2021,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2021,D.M.R. Western Garda Division,False imprisonment (0511),7.0
-2021,D.M.R. Western Garda Division,Fireworks offences (114),13.0
-2021,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",1327.0
-2021,D.M.R. Western Garda Division,Harassment and related offences (033),120.0
-2021,D.M.R. Western Garda Division,Homicide & related offences (01),5.0
-2021,D.M.R. Western Garda Division,Human trafficking offences (0513),1.0
-2021,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2021,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2021,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",733.0
-2021,D.M.R. Western Garda Division,Kidnapping and related offences (05),9.0
-2021,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2021,D.M.R. Western Garda Division,Liquor licensing offences (133),7.0
-2021,D.M.R. Western Garda Division,Litter offences (1221),6.0
-2021,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2021,D.M.R. Western Garda Division,Murder (0111),2.0
-2021,D.M.R. Western Garda Division,Murder-attempt (0311),3.0
-2021,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2021,D.M.R. Western Garda Division,Offences against government and its agents (151),23.0
-2021,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1402.0
-2021,D.M.R. Western Garda Division,Offences not elsewhere classified (16),110.0
-2021,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",1376.0
-2021,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),188.0
-2021,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2021,D.M.R. Western Garda Division,Other assault (035),853.0
-2021,D.M.R. Western Garda Division,Other drug offences (103),168.0
-2021,D.M.R. Western Garda Division,Other road offences (1433),3015.0
-2021,D.M.R. Western Garda Division,Other sexual offences (022),51.0
-2021,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",2760.0
-2021,D.M.R. Western Garda Division,Perverting the course of justice (153),3.0
-2021,D.M.R. Western Garda Division,Possession of a firearm (1122),20.0
-2021,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",27.0
-2021,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1909.0
-2021,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),555.0
-2021,D.M.R. Western Garda Division,Prostitution offences (134),8.0
-2021,D.M.R. Western Garda Division,Public order and other social code offences (13),2742.0
-2021,D.M.R. Western Garda Division,Public service vehicle offences (1442),152.0
-2021,D.M.R. Western Garda Division,Rape and sexual assault (021),180.0
-2021,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2021,D.M.R. Western Garda Division,Road and traffic offences (14),5041.0
-2021,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),34.0
-2021,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),23.0
-2021,D.M.R. Western Garda Division,Robbery from the person (0613),101.0
-2021,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),49.0
-2021,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),1.0
-2021,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",220.0
-2021,D.M.R. Western Garda Division,Sexual offences (02),231.0
-2021,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),1197.0
-2021,D.M.R. Western Garda Division,Speeding (0415),1154.0
-2021,D.M.R. Western Garda Division,Theft and related offences (08),5492.0
-2021,D.M.R. Western Garda Division,Theft from person (0821),85.0
-2021,D.M.R. Western Garda Division,Theft from shop (0822),1953.0
-2021,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),694.0
-2021,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),207.0
-2021,D.M.R. Western Garda Division,Trespass offences (132),218.0
-2021,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2021,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),656.0
-2021,D.M.R. Western Garda Division,Weapons and explosives offences (11),239.0
-2022,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",32.0
-2022,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),5.0
-2022,D.M.R. Western Garda Division,Aggravated burglary (0711),26.0
-2022,D.M.R. Western Garda Division,Arson (1211),169.0
-2022,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",533.0
-2022,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1828.0
-2022,D.M.R. Western Garda Division,Blackmail or extortion (0621),44.0
-2022,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),748.0
-2022,D.M.R. Western Garda Division,Burglary and related offences (07),840.0
-2022,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",21.0
-2022,D.M.R. Western Garda Division,Controlled drug offences (10),1852.0
-2022,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),2124.0
-2022,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),7.0
-2022,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),2298.0
-2022,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2022,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2022,D.M.R. Western Garda Division,Dangerous or negligent acts (04),2270.0
-2022,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),364.0
-2022,D.M.R. Western Garda Division,Discharging a firearm (1121),9.0
-2022,D.M.R. Western Garda Division,Disorderly conduct (131),1328.0
-2022,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",414.0
-2022,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",548.0
-2022,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),228.0
-2022,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),320.0
-2022,D.M.R. Western Garda Division,Endangering traffic offences (0425),20.0
-2022,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),25.0
-2022,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",8.0
-2022,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2022,D.M.R. Western Garda Division,False imprisonment (0511),11.0
-2022,D.M.R. Western Garda Division,Fireworks offences (114),11.0
-2022,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",1021.0
-2022,D.M.R. Western Garda Division,Harassment and related offences (033),119.0
-2022,D.M.R. Western Garda Division,Homicide & related offences (01),10.0
-2022,D.M.R. Western Garda Division,Human trafficking offences (0513),1.0
-2022,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2022,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2022,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",612.0
-2022,D.M.R. Western Garda Division,Kidnapping and related offences (05),17.0
-2022,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2022,D.M.R. Western Garda Division,Liquor licensing offences (133),10.0
-2022,D.M.R. Western Garda Division,Litter offences (1221),5.0
-2022,D.M.R. Western Garda Division,Manslaughter (0112),2.0
-2022,D.M.R. Western Garda Division,Murder (0111),7.0
-2022,D.M.R. Western Garda Division,Murder-attempt (0311),2.0
-2022,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2022,D.M.R. Western Garda Division,Offences against government and its agents (151),22.0
-2022,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1706.0
-2022,D.M.R. Western Garda Division,Offences not elsewhere classified (16),99.0
-2022,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",1674.0
-2022,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),165.0
-2022,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),8.0
-2022,D.M.R. Western Garda Division,Other assault (035),1025.0
-2022,D.M.R. Western Garda Division,Other drug offences (103),95.0
-2022,D.M.R. Western Garda Division,Other road offences (1433),2638.0
-2022,D.M.R. Western Garda Division,Other sexual offences (022),61.0
-2022,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3806.0
-2022,D.M.R. Western Garda Division,Perverting the course of justice (153),2.0
-2022,D.M.R. Western Garda Division,Possession of a firearm (1122),18.0
-2022,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",66.0
-2022,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1331.0
-2022,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),419.0
-2022,D.M.R. Western Garda Division,Prostitution offences (134),3.0
-2022,D.M.R. Western Garda Division,Public order and other social code offences (13),1624.0
-2022,D.M.R. Western Garda Division,Public service vehicle offences (1442),211.0
-2022,D.M.R. Western Garda Division,Rape and sexual assault (021),194.0
-2022,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2022,D.M.R. Western Garda Division,Road and traffic offences (14),4634.0
-2022,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),36.0
-2022,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),22.0
-2022,D.M.R. Western Garda Division,Robbery from the person (0613),81.0
-2022,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),56.0
-2022,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),0.0
-2022,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",202.0
-2022,D.M.R. Western Garda Division,Sexual offences (02),255.0
-2022,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),35.0
-2022,D.M.R. Western Garda Division,Speeding (0415),1278.0
-2022,D.M.R. Western Garda Division,Theft and related offences (08),7231.0
-2022,D.M.R. Western Garda Division,Theft from person (0821),86.0
-2022,D.M.R. Western Garda Division,Theft from shop (0822),2198.0
-2022,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),1141.0
-2022,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),149.0
-2022,D.M.R. Western Garda Division,Trespass offences (132),247.0
-2022,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2022,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),700.0
-2022,D.M.R. Western Garda Division,Weapons and explosives offences (11),211.0
-2023,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",13.0
-2023,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),2.0
-2023,D.M.R. Western Garda Division,Aggravated burglary (0711),30.0
-2023,D.M.R. Western Garda Division,Arson (1211),213.0
-2023,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",510.0
-2023,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1790.0
-2023,D.M.R. Western Garda Division,Blackmail or extortion (0621),38.0
-2023,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),619.0
-2023,D.M.R. Western Garda Division,Burglary and related offences (07),706.0
-2023,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",29.0
-2023,D.M.R. Western Garda Division,Controlled drug offences (10),1673.0
-2023,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),2030.0
-2023,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),2.0
-2023,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),2247.0
-2023,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2023,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2023,D.M.R. Western Garda Division,Dangerous or negligent acts (04),1923.0
-2023,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),343.0
-2023,D.M.R. Western Garda Division,Discharging a firearm (1121),12.0
-2023,D.M.R. Western Garda Division,Disorderly conduct (131),1075.0
-2023,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",400.0
-2023,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",402.0
-2023,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),130.0
-2023,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),272.0
-2023,D.M.R. Western Garda Division,Endangering traffic offences (0425),26.0
-2023,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),20.0
-2023,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",5.0
-2023,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2023,D.M.R. Western Garda Division,False imprisonment (0511),19.0
-2023,D.M.R. Western Garda Division,Fireworks offences (114),6.0
-2023,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",462.0
-2023,D.M.R. Western Garda Division,Harassment and related offences (033),117.0
-2023,D.M.R. Western Garda Division,Homicide & related offences (01),7.0
-2023,D.M.R. Western Garda Division,Human trafficking offences (0513),2.0
-2023,D.M.R. Western Garda Division,Importation of drugs (1011),1.0
-2023,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2023,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",619.0
-2023,D.M.R. Western Garda Division,Kidnapping and related offences (05),23.0
-2023,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2023,D.M.R. Western Garda Division,Liquor licensing offences (133),8.0
-2023,D.M.R. Western Garda Division,Litter offences (1221),4.0
-2023,D.M.R. Western Garda Division,Manslaughter (0112),0.0
-2023,D.M.R. Western Garda Division,Murder (0111),6.0
-2023,D.M.R. Western Garda Division,Murder-attempt (0311),1.0
-2023,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2023,D.M.R. Western Garda Division,Offences against government and its agents (151),21.0
-2023,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1824.0
-2023,D.M.R. Western Garda Division,Offences not elsewhere classified (16),86.0
-2023,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",1798.0
-2023,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),146.0
-2023,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),3.0
-2023,D.M.R. Western Garda Division,Other assault (035),1035.0
-2023,D.M.R. Western Garda Division,Other drug offences (103),68.0
-2023,D.M.R. Western Garda Division,Other road offences (1433),2148.0
-2023,D.M.R. Western Garda Division,Other sexual offences (022),38.0
-2023,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3671.0
-2023,D.M.R. Western Garda Division,Perverting the course of justice (153),2.0
-2023,D.M.R. Western Garda Division,Possession of a firearm (1122),31.0
-2023,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",57.0
-2023,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),1106.0
-2023,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),496.0
-2023,D.M.R. Western Garda Division,Prostitution offences (134),0.0
-2023,D.M.R. Western Garda Division,Public order and other social code offences (13),1300.0
-2023,D.M.R. Western Garda Division,Public service vehicle offences (1442),141.0
-2023,D.M.R. Western Garda Division,Rape and sexual assault (021),179.0
-2023,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2023,D.M.R. Western Garda Division,Road and traffic offences (14),3883.0
-2023,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),10.0
-2023,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),14.0
-2023,D.M.R. Western Garda Division,Robbery from the person (0613),124.0
-2023,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),44.0
-2023,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),0.0
-2023,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",235.0
-2023,D.M.R. Western Garda Division,Sexual offences (02),217.0
-2023,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),22.0
-2023,D.M.R. Western Garda Division,Speeding (0415),1118.0
-2023,D.M.R. Western Garda Division,Theft and related offences (08),6842.0
-2023,D.M.R. Western Garda Division,Theft from person (0821),107.0
-2023,D.M.R. Western Garda Division,Theft from shop (0822),2027.0
-2023,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),1037.0
-2023,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),127.0
-2023,D.M.R. Western Garda Division,Trespass offences (132),195.0
-2023,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2023,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),549.0
-2023,D.M.R. Western Garda Division,Weapons and explosives offences (11),200.0
-2024,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",25.0
-2024,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),3.0
-2024,D.M.R. Western Garda Division,Aggravated burglary (0711),33.0
-2024,D.M.R. Western Garda Division,Arson (1211),253.0
-2024,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",501.0
-2024,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1865.0
-2024,D.M.R. Western Garda Division,Blackmail or extortion (0621),42.0
-2024,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),588.0
-2024,D.M.R. Western Garda Division,Burglary and related offences (07),669.0
-2024,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",38.0
-2024,D.M.R. Western Garda Division,Controlled drug offences (10),1519.0
-2024,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),1944.0
-2024,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),2.0
-2024,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),2201.0
-2024,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2024,D.M.R. Western Garda Division,Dangerous driving leading to death (012),3.0
-2024,D.M.R. Western Garda Division,Dangerous or negligent acts (04),2230.0
-2024,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),357.0
-2024,D.M.R. Western Garda Division,Discharging a firearm (1121),22.0
-2024,D.M.R. Western Garda Division,Disorderly conduct (131),1168.0
-2024,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",416.0
-2024,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",397.0
-2024,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),106.0
-2024,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),291.0
-2024,D.M.R. Western Garda Division,Endangering traffic offences (0425),19.0
-2024,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),19.0
-2024,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",11.0
-2024,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2024,D.M.R. Western Garda Division,False imprisonment (0511),14.0
-2024,D.M.R. Western Garda Division,Fireworks offences (114),11.0
-2024,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",0.0
-2024,D.M.R. Western Garda Division,Harassment and related offences (033),142.0
-2024,D.M.R. Western Garda Division,Homicide & related offences (01),10.0
-2024,D.M.R. Western Garda Division,Human trafficking offences (0513),0.0
-2024,D.M.R. Western Garda Division,Importation of drugs (1011),1.0
-2024,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2024,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",786.0
-2024,D.M.R. Western Garda Division,Kidnapping and related offences (05),17.0
-2024,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),0.0
-2024,D.M.R. Western Garda Division,Liquor licensing offences (133),0.0
-2024,D.M.R. Western Garda Division,Litter offences (1221),4.0
-2024,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2024,D.M.R. Western Garda Division,Murder (0111),6.0
-2024,D.M.R. Western Garda Division,Murder-attempt (0311),2.0
-2024,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2024,D.M.R. Western Garda Division,Offences against government and its agents (151),8.0
-2024,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1526.0
-2024,D.M.R. Western Garda Division,Offences not elsewhere classified (16),90.0
-2024,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",1511.0
-2024,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),155.0
-2024,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),6.0
-2024,D.M.R. Western Garda Division,Other assault (035),1062.0
-2024,D.M.R. Western Garda Division,Other drug offences (103),66.0
-2024,D.M.R. Western Garda Division,Other road offences (1433),2794.0
-2024,D.M.R. Western Garda Division,Other sexual offences (022),30.0
-2024,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",3782.0
-2024,D.M.R. Western Garda Division,Perverting the course of justice (153),1.0
-2024,D.M.R. Western Garda Division,Possession of a firearm (1122),28.0
-2024,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",48.0
-2024,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),955.0
-2024,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),495.0
-2024,D.M.R. Western Garda Division,Prostitution offences (134),1.0
-2024,D.M.R. Western Garda Division,Public order and other social code offences (13),1406.0
-2024,D.M.R. Western Garda Division,Public service vehicle offences (1442),126.0
-2024,D.M.R. Western Garda Division,Rape and sexual assault (021),204.0
-2024,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2024,D.M.R. Western Garda Division,Road and traffic offences (14),4857.0
-2024,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),4.0
-2024,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),25.0
-2024,D.M.R. Western Garda Division,Robbery from the person (0613),117.0
-2024,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),66.0
-2024,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),1.0
-2024,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",264.0
-2024,D.M.R. Western Garda Division,Sexual offences (02),234.0
-2024,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),26.0
-2024,D.M.R. Western Garda Division,Speeding (0415),1412.0
-2024,D.M.R. Western Garda Division,Theft and related offences (08),7085.0
-2024,D.M.R. Western Garda Division,Theft from person (0821),102.0
-2024,D.M.R. Western Garda Division,Theft from shop (0822),2268.0
-2024,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),933.0
-2024,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),158.0
-2024,D.M.R. Western Garda Division,Trespass offences (132),211.0
-2024,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2024,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),703.0
-2024,D.M.R. Western Garda Division,Weapons and explosives offences (11),227.0
-2025,D.M.R. Western Garda Division,"Abandoning a child, child neglect and cruelty (0422)",9.0
-2025,D.M.R. Western Garda Division,Abduction of person under 16 years of age (0512),0.0
-2025,D.M.R. Western Garda Division,Aggravated burglary (0711),23.0
-2025,D.M.R. Western Garda Division,Arson (1211),204.0
-2025,D.M.R. Western Garda Division,"Assault causing harm, poisoning (034)",418.0
-2025,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1513.0
-2025,D.M.R. Western Garda Division,Blackmail or extortion (0621),36.0
-2025,D.M.R. Western Garda Division,Burglary (not aggravated) (0712),456.0
-2025,D.M.R. Western Garda Division,Burglary and related offences (07),499.0
-2025,D.M.R. Western Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",34.0
-2025,D.M.R. Western Garda Division,Controlled drug offences (10),1139.0
-2025,D.M.R. Western Garda Division,Criminal damage (not arson) (1212),1368.0
-2025,D.M.R. Western Garda Division,Cultivation or manufacture of drugs (1012),2.0
-2025,D.M.R. Western Garda Division,Damage to property and to the environment  offences (12),1575.0
-2025,D.M.R. Western Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2025,D.M.R. Western Garda Division,Dangerous driving leading to death (012),1.0
-2025,D.M.R. Western Garda Division,Dangerous or negligent acts (04),1567.0
-2025,D.M.R. Western Garda Division,Dangerous/careless driving and motorway offences (0414),322.0
-2025,D.M.R. Western Garda Division,Discharging a firearm (1121),9.0
-2025,D.M.R. Western Garda Division,Disorderly conduct (131),949.0
-2025,D.M.R. Western Garda Division,"Driving licence-failure to have, produce, etc. (1411)",402.0
-2025,D.M.R. Western Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",273.0
-2025,D.M.R. Western Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2025,D.M.R. Western Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),273.0
-2025,D.M.R. Western Garda Division,Endangering traffic offences (0425),13.0
-2025,D.M.R. Western Garda Division,Endangerment with potential for serious harm/death (0421),22.0
-2025,D.M.R. Western Garda Division,"Explosives, chemical weapons offences (111)",12.0
-2025,D.M.R. Western Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2025,D.M.R. Western Garda Division,False imprisonment (0511),9.0
-2025,D.M.R. Western Garda Division,Fireworks offences (114),6.0
-2025,D.M.R. Western Garda Division,"Fraud, deception and related offences (09)",0.0
-2025,D.M.R. Western Garda Division,Harassment and related offences (033),113.0
-2025,D.M.R. Western Garda Division,Homicide & related offences (01),5.0
-2025,D.M.R. Western Garda Division,Human trafficking offences (0513),1.0
-2025,D.M.R. Western Garda Division,Importation of drugs (1011),0.0
-2025,D.M.R. Western Garda Division,Infanticide (0113),0.0
-2025,D.M.R. Western Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",738.0
-2025,D.M.R. Western Garda Division,Kidnapping and related offences (05),10.0
-2025,D.M.R. Western Garda Division,Light rail offences (Luas) (1443),1.0
-2025,D.M.R. Western Garda Division,Liquor licensing offences (133),7.0
-2025,D.M.R. Western Garda Division,Litter offences (1221),3.0
-2025,D.M.R. Western Garda Division,Manslaughter (0112),1.0
-2025,D.M.R. Western Garda Division,Murder (0111),3.0
-2025,D.M.R. Western Garda Division,Murder-attempt (0311),2.0
-2025,D.M.R. Western Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2025,D.M.R. Western Garda Division,Offences against government and its agents (151),6.0
-2025,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1340.0
-2025,D.M.R. Western Garda Division,Offences not elsewhere classified (16),80.0
-2025,D.M.R. Western Garda Division,"Offences while in custody, breach of court orders (157)",1328.0
-2025,D.M.R. Western Garda Division,Offensive weapons offences (n.e.c.) (113),155.0
-2025,D.M.R. Western Garda Division,Organisation of crime and conspiracy to commit crime (152),5.0
-2025,D.M.R. Western Garda Division,Other assault (035),839.0
-2025,D.M.R. Western Garda Division,Other drug offences (103),55.0
-2025,D.M.R. Western Garda Division,Other road offences (1433),1984.0
-2025,D.M.R. Western Garda Division,Other sexual offences (022),37.0
-2025,D.M.R. Western Garda Division,"Other thefts, handling stolen property (084)",2932.0
-2025,D.M.R. Western Garda Division,Perverting the course of justice (153),1.0
-2025,D.M.R. Western Garda Division,Possession of a firearm (1122),18.0
-2025,D.M.R. Western Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",20.0
-2025,D.M.R. Western Garda Division,Possession of drugs for personal use (1022),651.0
-2025,D.M.R. Western Garda Division,Possession of drugs for sale or supply (1021),431.0
-2025,D.M.R. Western Garda Division,Prostitution offences (134),1.0
-2025,D.M.R. Western Garda Division,Public order and other social code offences (13),1194.0
-2025,D.M.R. Western Garda Division,Public service vehicle offences (1442),109.0
-2025,D.M.R. Western Garda Division,Rape and sexual assault (021),134.0
-2025,D.M.R. Western Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2025,D.M.R. Western Garda Division,Road and traffic offences (14),3684.0
-2025,D.M.R. Western Garda Division,Road transport - carriage of goods offences (1441),9.0
-2025,D.M.R. Western Garda Division,Roadworthiness/regulatory offences (143),13.0
-2025,D.M.R. Western Garda Division,Robbery from the person (0613),67.0
-2025,D.M.R. Western Garda Division,Robbery of an establishment or institution (0611),29.0
-2025,D.M.R. Western Garda Division,Robbery of cash or goods in transit (0612),1.0
-2025,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences (06)",167.0
-2025,D.M.R. Western Garda Division,Sexual offences (02),171.0
-2025,D.M.R. Western Garda Division,Social code offences (n.e.c.) (136),21.0
-2025,D.M.R. Western Garda Division,Speeding (0415),926.0
-2025,D.M.R. Western Garda Division,Theft and related offences (08),5762.0
-2025,D.M.R. Western Garda Division,Theft from person (0821),81.0
-2025,D.M.R. Western Garda Division,Theft from shop (0822),2027.0
-2025,D.M.R. Western Garda Division,Theft/taking of vehicle and related offences (081),722.0
-2025,D.M.R. Western Garda Division,Threat to kill or cause serious harm (0313),141.0
-2025,D.M.R. Western Garda Division,Trespass offences (132),215.0
-2025,D.M.R. Western Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2025,D.M.R. Western Garda Division,Vehicle tax/registration offences (142),427.0
-2025,D.M.R. Western Garda Division,Weapons and explosives offences (11),200.0
+2003,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",727.0
+2003,D.M.R. Western Garda Division,Burglary and related offences,1976.0
+2003,D.M.R. Western Garda Division,Controlled drug offences,444.0
+2003,D.M.R. Western Garda Division,Damage to property and to the environment  offences,3124.0
+2003,D.M.R. Western Garda Division,Dangerous or negligent acts,1095.0
+2003,D.M.R. Western Garda Division,"Fraud, deception and related offences",180.0
+2003,D.M.R. Western Garda Division,Homicide & related offences,8.0
+2003,D.M.R. Western Garda Division,Kidnapping and related offences,10.0
+2003,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",494.0
+2003,D.M.R. Western Garda Division,Offences not elsewhere classified,67.0
+2003,D.M.R. Western Garda Division,Public order and other social code offences,1861.0
+2003,D.M.R. Western Garda Division,Road and traffic offences,3931.0
+2003,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",397.0
+2003,D.M.R. Western Garda Division,Sexual offences,110.0
+2003,D.M.R. Western Garda Division,Theft and related offences,6298.0
+2003,D.M.R. Western Garda Division,Weapons and explosives offences,228.0
+2004,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",684.0
+2004,D.M.R. Western Garda Division,Burglary and related offences,1747.0
+2004,D.M.R. Western Garda Division,Controlled drug offences,475.0
+2004,D.M.R. Western Garda Division,Damage to property and to the environment  offences,3546.0
+2004,D.M.R. Western Garda Division,Dangerous or negligent acts,1100.0
+2004,D.M.R. Western Garda Division,"Fraud, deception and related offences",192.0
+2004,D.M.R. Western Garda Division,Homicide & related offences,7.0
+2004,D.M.R. Western Garda Division,Kidnapping and related offences,10.0
+2004,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",438.0
+2004,D.M.R. Western Garda Division,Offences not elsewhere classified,47.0
+2004,D.M.R. Western Garda Division,Public order and other social code offences,2173.0
+2004,D.M.R. Western Garda Division,Road and traffic offences,4781.0
+2004,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",366.0
+2004,D.M.R. Western Garda Division,Sexual offences,99.0
+2004,D.M.R. Western Garda Division,Theft and related offences,6700.0
+2004,D.M.R. Western Garda Division,Weapons and explosives offences,245.0
+2005,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",712.0
+2005,D.M.R. Western Garda Division,Burglary and related offences,1448.0
+2005,D.M.R. Western Garda Division,Controlled drug offences,695.0
+2005,D.M.R. Western Garda Division,Damage to property and to the environment  offences,3708.0
+2005,D.M.R. Western Garda Division,Dangerous or negligent acts,1871.0
+2005,D.M.R. Western Garda Division,"Fraud, deception and related offences",228.0
+2005,D.M.R. Western Garda Division,Homicide & related offences,9.0
+2005,D.M.R. Western Garda Division,Kidnapping and related offences,13.0
+2005,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",666.0
+2005,D.M.R. Western Garda Division,Offences not elsewhere classified,59.0
+2005,D.M.R. Western Garda Division,Public order and other social code offences,3036.0
+2005,D.M.R. Western Garda Division,Road and traffic offences,7539.0
+2005,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",329.0
+2005,D.M.R. Western Garda Division,Sexual offences,92.0
+2005,D.M.R. Western Garda Division,Theft and related offences,6593.0
+2005,D.M.R. Western Garda Division,Weapons and explosives offences,295.0
+2006,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",834.0
+2006,D.M.R. Western Garda Division,Burglary and related offences,1583.0
+2006,D.M.R. Western Garda Division,Controlled drug offences,998.0
+2006,D.M.R. Western Garda Division,Damage to property and to the environment  offences,4213.0
+2006,D.M.R. Western Garda Division,Dangerous or negligent acts,10881.0
+2006,D.M.R. Western Garda Division,"Fraud, deception and related offences",309.0
+2006,D.M.R. Western Garda Division,Homicide & related offences,8.0
+2006,D.M.R. Western Garda Division,Kidnapping and related offences,6.0
+2006,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",588.0
+2006,D.M.R. Western Garda Division,Offences not elsewhere classified,117.0
+2006,D.M.R. Western Garda Division,Public order and other social code offences,2970.0
+2006,D.M.R. Western Garda Division,Road and traffic offences,12515.0
+2006,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",404.0
+2006,D.M.R. Western Garda Division,Sexual offences,105.0
+2006,D.M.R. Western Garda Division,Theft and related offences,6455.0
+2006,D.M.R. Western Garda Division,Weapons and explosives offences,356.0
+2007,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",904.0
+2007,D.M.R. Western Garda Division,Burglary and related offences,1431.0
+2007,D.M.R. Western Garda Division,Controlled drug offences,1465.0
+2007,D.M.R. Western Garda Division,Damage to property and to the environment  offences,3960.0
+2007,D.M.R. Western Garda Division,Dangerous or negligent acts,12010.0
+2007,D.M.R. Western Garda Division,"Fraud, deception and related offences",456.0
+2007,D.M.R. Western Garda Division,Homicide & related offences,11.0
+2007,D.M.R. Western Garda Division,Kidnapping and related offences,10.0
+2007,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",564.0
+2007,D.M.R. Western Garda Division,Offences not elsewhere classified,98.0
+2007,D.M.R. Western Garda Division,Public order and other social code offences,2932.0
+2007,D.M.R. Western Garda Division,Road and traffic offences,14585.0
+2007,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",263.0
+2007,D.M.R. Western Garda Division,Sexual offences,103.0
+2007,D.M.R. Western Garda Division,Theft and related offences,6860.0
+2007,D.M.R. Western Garda Division,Weapons and explosives offences,321.0
+2008,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",907.0
+2008,D.M.R. Western Garda Division,Burglary and related offences,1630.0
+2008,D.M.R. Western Garda Division,Controlled drug offences,2307.0
+2008,D.M.R. Western Garda Division,Damage to property and to the environment  offences,4282.0
+2008,D.M.R. Western Garda Division,Dangerous or negligent acts,7347.0
+2008,D.M.R. Western Garda Division,"Fraud, deception and related offences",402.0
+2008,D.M.R. Western Garda Division,Homicide & related offences,10.0
+2008,D.M.R. Western Garda Division,Kidnapping and related offences,8.0
+2008,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",726.0
+2008,D.M.R. Western Garda Division,Offences not elsewhere classified,138.0
+2008,D.M.R. Western Garda Division,Public order and other social code offences,3418.0
+2008,D.M.R. Western Garda Division,Road and traffic offences,14502.0
+2008,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",343.0
+2008,D.M.R. Western Garda Division,Sexual offences,86.0
+2008,D.M.R. Western Garda Division,Theft and related offences,7404.0
+2008,D.M.R. Western Garda Division,Weapons and explosives offences,416.0
+2009,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",944.0
+2009,D.M.R. Western Garda Division,Burglary and related offences,1969.0
+2009,D.M.R. Western Garda Division,Controlled drug offences,2309.0
+2009,D.M.R. Western Garda Division,Damage to property and to the environment  offences,4262.0
+2009,D.M.R. Western Garda Division,Dangerous or negligent acts,5010.0
+2009,D.M.R. Western Garda Division,"Fraud, deception and related offences",376.0
+2009,D.M.R. Western Garda Division,Homicide & related offences,15.0
+2009,D.M.R. Western Garda Division,Kidnapping and related offences,15.0
+2009,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",994.0
+2009,D.M.R. Western Garda Division,Offences not elsewhere classified,184.0
+2009,D.M.R. Western Garda Division,Public order and other social code offences,2796.0
+2009,D.M.R. Western Garda Division,Road and traffic offences,12806.0
+2009,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",353.0
+2009,D.M.R. Western Garda Division,Sexual offences,105.0
+2009,D.M.R. Western Garda Division,Theft and related offences,7517.0
+2009,D.M.R. Western Garda Division,Weapons and explosives offences,461.0
+2010,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1247.0
+2010,D.M.R. Western Garda Division,Burglary and related offences,1986.0
+2010,D.M.R. Western Garda Division,Controlled drug offences,2237.0
+2010,D.M.R. Western Garda Division,Damage to property and to the environment  offences,3994.0
+2010,D.M.R. Western Garda Division,Dangerous or negligent acts,3662.0
+2010,D.M.R. Western Garda Division,"Fraud, deception and related offences",395.0
+2010,D.M.R. Western Garda Division,Homicide & related offences,15.0
+2010,D.M.R. Western Garda Division,Kidnapping and related offences,11.0
+2010,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1033.0
+2010,D.M.R. Western Garda Division,Offences not elsewhere classified,161.0
+2010,D.M.R. Western Garda Division,Public order and other social code offences,3122.0
+2010,D.M.R. Western Garda Division,Road and traffic offences,13121.0
+2010,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",451.0
+2010,D.M.R. Western Garda Division,Sexual offences,178.0
+2010,D.M.R. Western Garda Division,Theft and related offences,7469.0
+2010,D.M.R. Western Garda Division,Weapons and explosives offences,445.0
+2011,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1170.0
+2011,D.M.R. Western Garda Division,Burglary and related offences,2223.0
+2011,D.M.R. Western Garda Division,Controlled drug offences,1913.0
+2011,D.M.R. Western Garda Division,Damage to property and to the environment  offences,3477.0
+2011,D.M.R. Western Garda Division,Dangerous or negligent acts,3819.0
+2011,D.M.R. Western Garda Division,"Fraud, deception and related offences",466.0
+2011,D.M.R. Western Garda Division,Homicide & related offences,5.0
+2011,D.M.R. Western Garda Division,Kidnapping and related offences,8.0
+2011,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",747.0
+2011,D.M.R. Western Garda Division,Offences not elsewhere classified,92.0
+2011,D.M.R. Western Garda Division,Public order and other social code offences,2611.0
+2011,D.M.R. Western Garda Division,Road and traffic offences,9905.0
+2011,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",417.0
+2011,D.M.R. Western Garda Division,Sexual offences,136.0
+2011,D.M.R. Western Garda Division,Theft and related offences,7194.0
+2011,D.M.R. Western Garda Division,Weapons and explosives offences,379.0
+2012,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",903.0
+2012,D.M.R. Western Garda Division,Burglary and related offences,2273.0
+2012,D.M.R. Western Garda Division,Controlled drug offences,2096.0
+2012,D.M.R. Western Garda Division,Damage to property and to the environment  offences,3551.0
+2012,D.M.R. Western Garda Division,Dangerous or negligent acts,4638.0
+2012,D.M.R. Western Garda Division,"Fraud, deception and related offences",636.0
+2012,D.M.R. Western Garda Division,Homicide & related offences,5.0
+2012,D.M.R. Western Garda Division,Kidnapping and related offences,12.0
+2012,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",709.0
+2012,D.M.R. Western Garda Division,Offences not elsewhere classified,72.0
+2012,D.M.R. Western Garda Division,Public order and other social code offences,2418.0
+2012,D.M.R. Western Garda Division,Road and traffic offences,9058.0
+2012,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",352.0
+2012,D.M.R. Western Garda Division,Sexual offences,147.0
+2012,D.M.R. Western Garda Division,Theft and related offences,7531.0
+2012,D.M.R. Western Garda Division,Weapons and explosives offences,334.0
+2013,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",743.0
+2013,D.M.R. Western Garda Division,Burglary and related offences,2188.0
+2013,D.M.R. Western Garda Division,Controlled drug offences,1938.0
+2013,D.M.R. Western Garda Division,Damage to property and to the environment  offences,2868.0
+2013,D.M.R. Western Garda Division,Dangerous or negligent acts,3822.0
+2013,D.M.R. Western Garda Division,"Fraud, deception and related offences",450.0
+2013,D.M.R. Western Garda Division,Homicide & related offences,10.0
+2013,D.M.R. Western Garda Division,Kidnapping and related offences,7.0
+2013,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",656.0
+2013,D.M.R. Western Garda Division,Offences not elsewhere classified,74.0
+2013,D.M.R. Western Garda Division,Public order and other social code offences,1805.0
+2013,D.M.R. Western Garda Division,Road and traffic offences,7482.0
+2013,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",419.0
+2013,D.M.R. Western Garda Division,Sexual offences,134.0
+2013,D.M.R. Western Garda Division,Theft and related offences,7470.0
+2013,D.M.R. Western Garda Division,Weapons and explosives offences,318.0
+2014,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",859.0
+2014,D.M.R. Western Garda Division,Burglary and related offences,2473.0
+2014,D.M.R. Western Garda Division,Controlled drug offences,1759.0
+2014,D.M.R. Western Garda Division,Damage to property and to the environment  offences,2875.0
+2014,D.M.R. Western Garda Division,Dangerous or negligent acts,3495.0
+2014,D.M.R. Western Garda Division,"Fraud, deception and related offences",509.0
+2014,D.M.R. Western Garda Division,Homicide & related offences,9.0
+2014,D.M.R. Western Garda Division,Kidnapping and related offences,9.0
+2014,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",661.0
+2014,D.M.R. Western Garda Division,Offences not elsewhere classified,70.0
+2014,D.M.R. Western Garda Division,Public order and other social code offences,1526.0
+2014,D.M.R. Western Garda Division,Road and traffic offences,6573.0
+2014,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",448.0
+2014,D.M.R. Western Garda Division,Sexual offences,141.0
+2014,D.M.R. Western Garda Division,Theft and related offences,7639.0
+2014,D.M.R. Western Garda Division,Weapons and explosives offences,260.0
+2015,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",837.0
+2015,D.M.R. Western Garda Division,Burglary and related offences,2404.0
+2015,D.M.R. Western Garda Division,Controlled drug offences,1468.0
+2015,D.M.R. Western Garda Division,Damage to property and to the environment  offences,2522.0
+2015,D.M.R. Western Garda Division,Dangerous or negligent acts,4414.0
+2015,D.M.R. Western Garda Division,"Fraud, deception and related offences",407.0
+2015,D.M.R. Western Garda Division,Homicide & related offences,8.0
+2015,D.M.R. Western Garda Division,Kidnapping and related offences,18.0
+2015,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",767.0
+2015,D.M.R. Western Garda Division,Offences not elsewhere classified,72.0
+2015,D.M.R. Western Garda Division,Public order and other social code offences,1278.0
+2015,D.M.R. Western Garda Division,Road and traffic offences,5787.0
+2015,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",387.0
+2015,D.M.R. Western Garda Division,Sexual offences,163.0
+2015,D.M.R. Western Garda Division,Theft and related offences,6527.0
+2015,D.M.R. Western Garda Division,Weapons and explosives offences,281.0
+2016,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1153.0
+2016,D.M.R. Western Garda Division,Burglary and related offences,1661.0
+2016,D.M.R. Western Garda Division,Controlled drug offences,1457.0
+2016,D.M.R. Western Garda Division,Damage to property and to the environment  offences,2252.0
+2016,D.M.R. Western Garda Division,Dangerous or negligent acts,2655.0
+2016,D.M.R. Western Garda Division,"Fraud, deception and related offences",429.0
+2016,D.M.R. Western Garda Division,Homicide & related offences,10.0
+2016,D.M.R. Western Garda Division,Kidnapping and related offences,16.0
+2016,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",755.0
+2016,D.M.R. Western Garda Division,Offences not elsewhere classified,53.0
+2016,D.M.R. Western Garda Division,Public order and other social code offences,1144.0
+2016,D.M.R. Western Garda Division,Road and traffic offences,5599.0
+2016,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",355.0
+2016,D.M.R. Western Garda Division,Sexual offences,183.0
+2016,D.M.R. Western Garda Division,Theft and related offences,5836.0
+2016,D.M.R. Western Garda Division,Weapons and explosives offences,216.0
+2017,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1160.0
+2017,D.M.R. Western Garda Division,Burglary and related offences,1553.0
+2017,D.M.R. Western Garda Division,Controlled drug offences,1384.0
+2017,D.M.R. Western Garda Division,Damage to property and to the environment  offences,2100.0
+2017,D.M.R. Western Garda Division,Dangerous or negligent acts,2088.0
+2017,D.M.R. Western Garda Division,"Fraud, deception and related offences",464.0
+2017,D.M.R. Western Garda Division,Homicide & related offences,4.0
+2017,D.M.R. Western Garda Division,Kidnapping and related offences,9.0
+2017,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1174.0
+2017,D.M.R. Western Garda Division,Offences not elsewhere classified,72.0
+2017,D.M.R. Western Garda Division,Public order and other social code offences,1204.0
+2017,D.M.R. Western Garda Division,Road and traffic offences,5519.0
+2017,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",371.0
+2017,D.M.R. Western Garda Division,Sexual offences,189.0
+2017,D.M.R. Western Garda Division,Theft and related offences,6544.0
+2017,D.M.R. Western Garda Division,Weapons and explosives offences,235.0
+2018,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1374.0
+2018,D.M.R. Western Garda Division,Burglary and related offences,1533.0
+2018,D.M.R. Western Garda Division,Controlled drug offences,1697.0
+2018,D.M.R. Western Garda Division,Damage to property and to the environment  offences,1779.0
+2018,D.M.R. Western Garda Division,Dangerous or negligent acts,1276.0
+2018,D.M.R. Western Garda Division,"Fraud, deception and related offences",535.0
+2018,D.M.R. Western Garda Division,Homicide & related offences,8.0
+2018,D.M.R. Western Garda Division,Kidnapping and related offences,12.0
+2018,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1762.0
+2018,D.M.R. Western Garda Division,Offences not elsewhere classified,73.0
+2018,D.M.R. Western Garda Division,Public order and other social code offences,1317.0
+2018,D.M.R. Western Garda Division,Road and traffic offences,6122.0
+2018,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",354.0
+2018,D.M.R. Western Garda Division,Sexual offences,231.0
+2018,D.M.R. Western Garda Division,Theft and related offences,5937.0
+2018,D.M.R. Western Garda Division,Weapons and explosives offences,225.0
+2019,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1613.0
+2019,D.M.R. Western Garda Division,Burglary and related offences,1816.0
+2019,D.M.R. Western Garda Division,Controlled drug offences,2167.0
+2019,D.M.R. Western Garda Division,Damage to property and to the environment  offences,1986.0
+2019,D.M.R. Western Garda Division,Dangerous or negligent acts,1553.0
+2019,D.M.R. Western Garda Division,"Fraud, deception and related offences",712.0
+2019,D.M.R. Western Garda Division,Homicide & related offences,10.0
+2019,D.M.R. Western Garda Division,Kidnapping and related offences,12.0
+2019,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1892.0
+2019,D.M.R. Western Garda Division,Offences not elsewhere classified,124.0
+2019,D.M.R. Western Garda Division,Public order and other social code offences,1493.0
+2019,D.M.R. Western Garda Division,Road and traffic offences,6107.0
+2019,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",298.0
+2019,D.M.R. Western Garda Division,Sexual offences,262.0
+2019,D.M.R. Western Garda Division,Theft and related offences,6723.0
+2019,D.M.R. Western Garda Division,Weapons and explosives offences,262.0
+2020,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1579.0
+2020,D.M.R. Western Garda Division,Burglary and related offences,1074.0
+2020,D.M.R. Western Garda Division,Controlled drug offences,3193.0
+2020,D.M.R. Western Garda Division,Damage to property and to the environment  offences,1704.0
+2020,D.M.R. Western Garda Division,Dangerous or negligent acts,3139.0
+2020,D.M.R. Western Garda Division,"Fraud, deception and related offences",806.0
+2020,D.M.R. Western Garda Division,Homicide & related offences,11.0
+2020,D.M.R. Western Garda Division,Kidnapping and related offences,12.0
+2020,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1261.0
+2020,D.M.R. Western Garda Division,Offences not elsewhere classified,92.0
+2020,D.M.R. Western Garda Division,Public order and other social code offences,1815.0
+2020,D.M.R. Western Garda Division,Road and traffic offences,6256.0
+2020,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",249.0
+2020,D.M.R. Western Garda Division,Sexual offences,234.0
+2020,D.M.R. Western Garda Division,Theft and related offences,5581.0
+2020,D.M.R. Western Garda Division,Weapons and explosives offences,264.0
+2021,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1650.0
+2021,D.M.R. Western Garda Division,Burglary and related offences,748.0
+2021,D.M.R. Western Garda Division,Controlled drug offences,2639.0
+2021,D.M.R. Western Garda Division,Damage to property and to the environment  offences,1738.0
+2021,D.M.R. Western Garda Division,Dangerous or negligent acts,2198.0
+2021,D.M.R. Western Garda Division,"Fraud, deception and related offences",1327.0
+2021,D.M.R. Western Garda Division,Homicide & related offences,5.0
+2021,D.M.R. Western Garda Division,Kidnapping and related offences,9.0
+2021,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1402.0
+2021,D.M.R. Western Garda Division,Offences not elsewhere classified,110.0
+2021,D.M.R. Western Garda Division,Public order and other social code offences,2742.0
+2021,D.M.R. Western Garda Division,Road and traffic offences,5041.0
+2021,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",220.0
+2021,D.M.R. Western Garda Division,Sexual offences,231.0
+2021,D.M.R. Western Garda Division,Theft and related offences,5492.0
+2021,D.M.R. Western Garda Division,Weapons and explosives offences,239.0
+2022,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1828.0
+2022,D.M.R. Western Garda Division,Burglary and related offences,840.0
+2022,D.M.R. Western Garda Division,Controlled drug offences,1852.0
+2022,D.M.R. Western Garda Division,Damage to property and to the environment  offences,2298.0
+2022,D.M.R. Western Garda Division,Dangerous or negligent acts,2270.0
+2022,D.M.R. Western Garda Division,"Fraud, deception and related offences",1021.0
+2022,D.M.R. Western Garda Division,Homicide & related offences,10.0
+2022,D.M.R. Western Garda Division,Kidnapping and related offences,17.0
+2022,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1706.0
+2022,D.M.R. Western Garda Division,Offences not elsewhere classified,99.0
+2022,D.M.R. Western Garda Division,Public order and other social code offences,1624.0
+2022,D.M.R. Western Garda Division,Road and traffic offences,4634.0
+2022,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",202.0
+2022,D.M.R. Western Garda Division,Sexual offences,255.0
+2022,D.M.R. Western Garda Division,Theft and related offences,7231.0
+2022,D.M.R. Western Garda Division,Weapons and explosives offences,211.0
+2023,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1790.0
+2023,D.M.R. Western Garda Division,Burglary and related offences,706.0
+2023,D.M.R. Western Garda Division,Controlled drug offences,1673.0
+2023,D.M.R. Western Garda Division,Damage to property and to the environment  offences,2247.0
+2023,D.M.R. Western Garda Division,Dangerous or negligent acts,1923.0
+2023,D.M.R. Western Garda Division,"Fraud, deception and related offences",462.0
+2023,D.M.R. Western Garda Division,Homicide & related offences,7.0
+2023,D.M.R. Western Garda Division,Kidnapping and related offences,23.0
+2023,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1824.0
+2023,D.M.R. Western Garda Division,Offences not elsewhere classified,86.0
+2023,D.M.R. Western Garda Division,Public order and other social code offences,1300.0
+2023,D.M.R. Western Garda Division,Road and traffic offences,3883.0
+2023,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",235.0
+2023,D.M.R. Western Garda Division,Sexual offences,217.0
+2023,D.M.R. Western Garda Division,Theft and related offences,6842.0
+2023,D.M.R. Western Garda Division,Weapons and explosives offences,200.0
+2024,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1865.0
+2024,D.M.R. Western Garda Division,Burglary and related offences,669.0
+2024,D.M.R. Western Garda Division,Controlled drug offences,1519.0
+2024,D.M.R. Western Garda Division,Damage to property and to the environment  offences,2201.0
+2024,D.M.R. Western Garda Division,Dangerous or negligent acts,2230.0
+2024,D.M.R. Western Garda Division,"Fraud, deception and related offences",0.0
+2024,D.M.R. Western Garda Division,Homicide & related offences,10.0
+2024,D.M.R. Western Garda Division,Kidnapping and related offences,17.0
+2024,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1526.0
+2024,D.M.R. Western Garda Division,Offences not elsewhere classified,90.0
+2024,D.M.R. Western Garda Division,Public order and other social code offences,1406.0
+2024,D.M.R. Western Garda Division,Road and traffic offences,4857.0
+2024,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",264.0
+2024,D.M.R. Western Garda Division,Sexual offences,234.0
+2024,D.M.R. Western Garda Division,Theft and related offences,7085.0
+2024,D.M.R. Western Garda Division,Weapons and explosives offences,227.0
+2025,D.M.R. Western Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1513.0
+2025,D.M.R. Western Garda Division,Burglary and related offences,499.0
+2025,D.M.R. Western Garda Division,Controlled drug offences,1139.0
+2025,D.M.R. Western Garda Division,Damage to property and to the environment  offences,1575.0
+2025,D.M.R. Western Garda Division,Dangerous or negligent acts,1567.0
+2025,D.M.R. Western Garda Division,"Fraud, deception and related offences",0.0
+2025,D.M.R. Western Garda Division,Homicide & related offences,5.0
+2025,D.M.R. Western Garda Division,Kidnapping and related offences,10.0
+2025,D.M.R. Western Garda Division,"Offences against government, justice procedures and organisation of crime",1340.0
+2025,D.M.R. Western Garda Division,Offences not elsewhere classified,80.0
+2025,D.M.R. Western Garda Division,Public order and other social code offences,1194.0
+2025,D.M.R. Western Garda Division,Road and traffic offences,3684.0
+2025,D.M.R. Western Garda Division,"Robbery, extortion and hijacking offences",167.0
+2025,D.M.R. Western Garda Division,Sexual offences,171.0
+2025,D.M.R. Western Garda Division,Theft and related offences,5762.0
+2025,D.M.R. Western Garda Division,Weapons and explosives offences,200.0

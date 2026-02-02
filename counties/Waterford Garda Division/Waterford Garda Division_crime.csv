@@ -1,1956 +1,369 @@
 Year,Garda Division,Type of Offence,VALUE
-2003,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",4.0
-2003,Waterford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2003,Waterford Garda Division,Aggravated burglary (0711),7.0
-2003,Waterford Garda Division,Arson (1211),41.0
-2003,Waterford Garda Division,"Assault causing harm, poisoning (034)",146.0
-2003,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",378.0
-2003,Waterford Garda Division,Blackmail or extortion (0621),0.0
-2003,Waterford Garda Division,Burglary (not aggravated) (0712),841.0
-2003,Waterford Garda Division,Burglary and related offences (07),850.0
-2003,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2003,Waterford Garda Division,Controlled drug offences (10),659.0
-2003,Waterford Garda Division,Criminal damage (not arson) (1212),755.0
-2003,Waterford Garda Division,Cultivation or manufacture of drugs (1012),5.0
-2003,Waterford Garda Division,Damage to property and to the environment  offences (12),801.0
-2003,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2003,Waterford Garda Division,Dangerous driving leading to death (012),3.0
-2003,Waterford Garda Division,Dangerous or negligent acts (04),613.0
-2003,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),109.0
-2003,Waterford Garda Division,Discharging a firearm (1121),1.0
-2003,Waterford Garda Division,Disorderly conduct (131),1961.0
-2003,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",77.0
-2003,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",471.0
-2003,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),4.0
-2003,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),467.0
-2003,Waterford Garda Division,Endangering traffic offences (0425),3.0
-2003,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2003,Waterford Garda Division,"Explosives, chemical weapons offences (111)",5.0
-2003,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2003,Waterford Garda Division,False imprisonment (0511),3.0
-2003,Waterford Garda Division,Fireworks offences (114),0.0
-2003,Waterford Garda Division,"Fraud, deception and related offences (09)",139.0
-2003,Waterford Garda Division,Harassment and related offences (033),23.0
-2003,Waterford Garda Division,Homicide & related offences (01),5.0
-2003,Waterford Garda Division,Human trafficking offences (0513),0.0
-2003,Waterford Garda Division,Importation of drugs (1011),0.0
-2003,Waterford Garda Division,Infanticide (0113),0.0
-2003,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",279.0
-2003,Waterford Garda Division,Kidnapping and related offences (05),4.0
-2003,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2003,Waterford Garda Division,Liquor licensing offences (133),196.0
-2003,Waterford Garda Division,Litter offences (1221),5.0
-2003,Waterford Garda Division,Manslaughter (0112),1.0
-2003,Waterford Garda Division,Murder (0111),1.0
-2003,Waterford Garda Division,Murder-attempt (0311),0.0
-2003,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2003,Waterford Garda Division,Offences against government and its agents (151),6.0
-2003,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",300.0
-2003,Waterford Garda Division,Offences not elsewhere classified (16),44.0
-2003,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",282.0
-2003,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),58.0
-2003,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2003,Waterford Garda Division,Other assault (035),209.0
-2003,Waterford Garda Division,Other drug offences (103),15.0
-2003,Waterford Garda Division,Other road offences (1433),415.0
-2003,Waterford Garda Division,Other sexual offences (022),8.0
-2003,Waterford Garda Division,"Other thefts, handling stolen property (084)",871.0
-2003,Waterford Garda Division,Perverting the course of justice (153),11.0
-2003,Waterford Garda Division,Possession of a firearm (1122),7.0
-2003,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2003,Waterford Garda Division,Possession of drugs for personal use (1022),511.0
-2003,Waterford Garda Division,Possession of drugs for sale or supply (1021),128.0
-2003,Waterford Garda Division,Prostitution offences (134),0.0
-2003,Waterford Garda Division,Public order and other social code offences (13),2234.0
-2003,Waterford Garda Division,Public service vehicle offences (1442),17.0
-2003,Waterford Garda Division,Rape and sexual assault (021),69.0
-2003,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",6.0
-2003,Waterford Garda Division,Road and traffic offences (14),889.0
-2003,Waterford Garda Division,Road transport - carriage of goods offences (1441),19.0
-2003,Waterford Garda Division,Roadworthiness/regulatory offences (143),41.0
-2003,Waterford Garda Division,Robbery from the person (0613),35.0
-2003,Waterford Garda Division,Robbery of an establishment or institution (0611),6.0
-2003,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2003,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",41.0
-2003,Waterford Garda Division,Sexual offences (02),77.0
-2003,Waterford Garda Division,Social code offences (n.e.c.) (136),20.0
-2003,Waterford Garda Division,Speeding (0415),25.0
-2003,Waterford Garda Division,Theft and related offences (08),1904.0
-2003,Waterford Garda Division,Theft from person (0821),113.0
-2003,Waterford Garda Division,Theft from shop (0822),650.0
-2003,Waterford Garda Division,Theft/taking of vehicle and related offences (081),270.0
-2003,Waterford Garda Division,Threat to kill or cause serious harm (0313),0.0
-2003,Waterford Garda Division,Trespass offences (132),51.0
-2003,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2003,Waterford Garda Division,Vehicle tax/registration offences (142),40.0
-2003,Waterford Garda Division,Weapons and explosives offences (11),71.0
-2004,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
-2004,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2004,Waterford Garda Division,Aggravated burglary (0711),2.0
-2004,Waterford Garda Division,Arson (1211),25.0
-2004,Waterford Garda Division,"Assault causing harm, poisoning (034)",135.0
-2004,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",383.0
-2004,Waterford Garda Division,Blackmail or extortion (0621),0.0
-2004,Waterford Garda Division,Burglary (not aggravated) (0712),717.0
-2004,Waterford Garda Division,Burglary and related offences (07),723.0
-2004,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2004,Waterford Garda Division,Controlled drug offences (10),675.0
-2004,Waterford Garda Division,Criminal damage (not arson) (1212),747.0
-2004,Waterford Garda Division,Cultivation or manufacture of drugs (1012),1.0
-2004,Waterford Garda Division,Damage to property and to the environment  offences (12),776.0
-2004,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2004,Waterford Garda Division,Dangerous driving leading to death (012),3.0
-2004,Waterford Garda Division,Dangerous or negligent acts (04),608.0
-2004,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),120.0
-2004,Waterford Garda Division,Discharging a firearm (1121),3.0
-2004,Waterford Garda Division,Disorderly conduct (131),1826.0
-2004,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",58.0
-2004,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",444.0
-2004,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),1.0
-2004,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),443.0
-2004,Waterford Garda Division,Endangering traffic offences (0425),4.0
-2004,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2004,Waterford Garda Division,"Explosives, chemical weapons offences (111)",5.0
-2004,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2004,Waterford Garda Division,False imprisonment (0511),2.0
-2004,Waterford Garda Division,Fireworks offences (114),0.0
-2004,Waterford Garda Division,"Fraud, deception and related offences (09)",55.0
-2004,Waterford Garda Division,Harassment and related offences (033),25.0
-2004,Waterford Garda Division,Homicide & related offences (01),6.0
-2004,Waterford Garda Division,Human trafficking offences (0513),0.0
-2004,Waterford Garda Division,Importation of drugs (1011),0.0
-2004,Waterford Garda Division,Infanticide (0113),0.0
-2004,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",272.0
-2004,Waterford Garda Division,Kidnapping and related offences (05),2.0
-2004,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2004,Waterford Garda Division,Liquor licensing offences (133),94.0
-2004,Waterford Garda Division,Litter offences (1221),4.0
-2004,Waterford Garda Division,Manslaughter (0112),1.0
-2004,Waterford Garda Division,Murder (0111),2.0
-2004,Waterford Garda Division,Murder-attempt (0311),0.0
-2004,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2004,Waterford Garda Division,Offences against government and its agents (151),4.0
-2004,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",226.0
-2004,Waterford Garda Division,Offences not elsewhere classified (16),15.0
-2004,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",217.0
-2004,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),70.0
-2004,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2004,Waterford Garda Division,Other assault (035),223.0
-2004,Waterford Garda Division,Other drug offences (103),14.0
-2004,Waterford Garda Division,Other road offences (1433),445.0
-2004,Waterford Garda Division,Other sexual offences (022),1.0
-2004,Waterford Garda Division,"Other thefts, handling stolen property (084)",799.0
-2004,Waterford Garda Division,Perverting the course of justice (153),5.0
-2004,Waterford Garda Division,Possession of a firearm (1122),8.0
-2004,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",4.0
-2004,Waterford Garda Division,Possession of drugs for personal use (1022),574.0
-2004,Waterford Garda Division,Possession of drugs for sale or supply (1021),86.0
-2004,Waterford Garda Division,Prostitution offences (134),0.0
-2004,Waterford Garda Division,Public order and other social code offences (13),2006.0
-2004,Waterford Garda Division,Public service vehicle offences (1442),3.0
-2004,Waterford Garda Division,Rape and sexual assault (021),34.0
-2004,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",7.0
-2004,Waterford Garda Division,Road and traffic offences (14),880.0
-2004,Waterford Garda Division,Road transport - carriage of goods offences (1441),12.0
-2004,Waterford Garda Division,Roadworthiness/regulatory offences (143),41.0
-2004,Waterford Garda Division,Robbery from the person (0613),31.0
-2004,Waterford Garda Division,Robbery of an establishment or institution (0611),5.0
-2004,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2004,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",36.0
-2004,Waterford Garda Division,Sexual offences (02),35.0
-2004,Waterford Garda Division,Social code offences (n.e.c.) (136),7.0
-2004,Waterford Garda Division,Speeding (0415),30.0
-2004,Waterford Garda Division,Theft and related offences (08),1851.0
-2004,Waterford Garda Division,Theft from person (0821),107.0
-2004,Waterford Garda Division,Theft from shop (0822),704.0
-2004,Waterford Garda Division,Theft/taking of vehicle and related offences (081),241.0
-2004,Waterford Garda Division,Threat to kill or cause serious harm (0313),0.0
-2004,Waterford Garda Division,Trespass offences (132),72.0
-2004,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2004,Waterford Garda Division,Vehicle tax/registration offences (142),47.0
-2004,Waterford Garda Division,Weapons and explosives offences (11),86.0
-2005,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
-2005,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2005,Waterford Garda Division,Aggravated burglary (0711),8.0
-2005,Waterford Garda Division,Arson (1211),69.0
-2005,Waterford Garda Division,"Assault causing harm, poisoning (034)",134.0
-2005,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",448.0
-2005,Waterford Garda Division,Blackmail or extortion (0621),1.0
-2005,Waterford Garda Division,Burglary (not aggravated) (0712),832.0
-2005,Waterford Garda Division,Burglary and related offences (07),840.0
-2005,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2005,Waterford Garda Division,Controlled drug offences (10),750.0
-2005,Waterford Garda Division,Criminal damage (not arson) (1212),949.0
-2005,Waterford Garda Division,Cultivation or manufacture of drugs (1012),4.0
-2005,Waterford Garda Division,Damage to property and to the environment  offences (12),1024.0
-2005,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2005,Waterford Garda Division,Dangerous driving leading to death (012),2.0
-2005,Waterford Garda Division,Dangerous or negligent acts (04),703.0
-2005,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),175.0
-2005,Waterford Garda Division,Discharging a firearm (1121),0.0
-2005,Waterford Garda Division,Disorderly conduct (131),1924.0
-2005,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",102.0
-2005,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",441.0
-2005,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2005,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),441.0
-2005,Waterford Garda Division,Endangering traffic offences (0425),3.0
-2005,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2005,Waterford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2005,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2005,Waterford Garda Division,False imprisonment (0511),0.0
-2005,Waterford Garda Division,Fireworks offences (114),0.0
-2005,Waterford Garda Division,"Fraud, deception and related offences (09)",72.0
-2005,Waterford Garda Division,Harassment and related offences (033),23.0
-2005,Waterford Garda Division,Homicide & related offences (01),6.0
-2005,Waterford Garda Division,Human trafficking offences (0513),0.0
-2005,Waterford Garda Division,Importation of drugs (1011),0.0
-2005,Waterford Garda Division,Infanticide (0113),0.0
-2005,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",355.0
-2005,Waterford Garda Division,Kidnapping and related offences (05),0.0
-2005,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2005,Waterford Garda Division,Liquor licensing offences (133),135.0
-2005,Waterford Garda Division,Litter offences (1221),6.0
-2005,Waterford Garda Division,Manslaughter (0112),0.0
-2005,Waterford Garda Division,Murder (0111),4.0
-2005,Waterford Garda Division,Murder-attempt (0311),1.0
-2005,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),12.0
-2005,Waterford Garda Division,Offences against government and its agents (151),1.0
-2005,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",263.0
-2005,Waterford Garda Division,Offences not elsewhere classified (16),11.0
-2005,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",253.0
-2005,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),79.0
-2005,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2005,Waterford Garda Division,Other assault (035),289.0
-2005,Waterford Garda Division,Other drug offences (103),16.0
-2005,Waterford Garda Division,Other road offences (1433),707.0
-2005,Waterford Garda Division,Other sexual offences (022),1.0
-2005,Waterford Garda Division,"Other thefts, handling stolen property (084)",817.0
-2005,Waterford Garda Division,Perverting the course of justice (153),9.0
-2005,Waterford Garda Division,Possession of a firearm (1122),19.0
-2005,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2005,Waterford Garda Division,Possession of drugs for personal use (1022),642.0
-2005,Waterford Garda Division,Possession of drugs for sale or supply (1021),88.0
-2005,Waterford Garda Division,Prostitution offences (134),2.0
-2005,Waterford Garda Division,Public order and other social code offences (13),2154.0
-2005,Waterford Garda Division,Public service vehicle offences (1442),7.0
-2005,Waterford Garda Division,Rape and sexual assault (021),52.0
-2005,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",14.0
-2005,Waterford Garda Division,Road and traffic offences (14),1342.0
-2005,Waterford Garda Division,Road transport - carriage of goods offences (1441),51.0
-2005,Waterford Garda Division,Roadworthiness/regulatory offences (143),49.0
-2005,Waterford Garda Division,Robbery from the person (0613),13.0
-2005,Waterford Garda Division,Robbery of an establishment or institution (0611),21.0
-2005,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2005,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",35.0
-2005,Waterford Garda Division,Sexual offences (02),53.0
-2005,Waterford Garda Division,Social code offences (n.e.c.) (136),7.0
-2005,Waterford Garda Division,Speeding (0415),77.0
-2005,Waterford Garda Division,Theft and related offences (08),1818.0
-2005,Waterford Garda Division,Theft from person (0821),88.0
-2005,Waterford Garda Division,Theft from shop (0822),660.0
-2005,Waterford Garda Division,Theft/taking of vehicle and related offences (081),253.0
-2005,Waterford Garda Division,Threat to kill or cause serious harm (0313),1.0
-2005,Waterford Garda Division,Trespass offences (132),72.0
-2005,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2005,Waterford Garda Division,Vehicle tax/registration offences (142),59.0
-2005,Waterford Garda Division,Weapons and explosives offences (11),99.0
-2006,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",14.0
-2006,Waterford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2006,Waterford Garda Division,Aggravated burglary (0711),6.0
-2006,Waterford Garda Division,Arson (1211),78.0
-2006,Waterford Garda Division,"Assault causing harm, poisoning (034)",126.0
-2006,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",592.0
-2006,Waterford Garda Division,Blackmail or extortion (0621),0.0
-2006,Waterford Garda Division,Burglary (not aggravated) (0712),704.0
-2006,Waterford Garda Division,Burglary and related offences (07),712.0
-2006,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2006,Waterford Garda Division,Controlled drug offences (10),714.0
-2006,Waterford Garda Division,Criminal damage (not arson) (1212),1336.0
-2006,Waterford Garda Division,Cultivation or manufacture of drugs (1012),3.0
-2006,Waterford Garda Division,Damage to property and to the environment  offences (12),1420.0
-2006,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2006,Waterford Garda Division,Dangerous driving leading to death (012),3.0
-2006,Waterford Garda Division,Dangerous or negligent acts (04),1397.0
-2006,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),199.0
-2006,Waterford Garda Division,Discharging a firearm (1121),2.0
-2006,Waterford Garda Division,Disorderly conduct (131),2172.0
-2006,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",290.0
-2006,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",522.0
-2006,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),1.0
-2006,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),521.0
-2006,Waterford Garda Division,Endangering traffic offences (0425),2.0
-2006,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2006,Waterford Garda Division,"Explosives, chemical weapons offences (111)",5.0
-2006,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2006,Waterford Garda Division,False imprisonment (0511),2.0
-2006,Waterford Garda Division,Fireworks offences (114),1.0
-2006,Waterford Garda Division,"Fraud, deception and related offences (09)",66.0
-2006,Waterford Garda Division,Harassment and related offences (033),62.0
-2006,Waterford Garda Division,Homicide & related offences (01),5.0
-2006,Waterford Garda Division,Human trafficking offences (0513),0.0
-2006,Waterford Garda Division,Importation of drugs (1011),0.0
-2006,Waterford Garda Division,Infanticide (0113),0.0
-2006,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",677.0
-2006,Waterford Garda Division,Kidnapping and related offences (05),3.0
-2006,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2006,Waterford Garda Division,Liquor licensing offences (133),200.0
-2006,Waterford Garda Division,Litter offences (1221),6.0
-2006,Waterford Garda Division,Manslaughter (0112),0.0
-2006,Waterford Garda Division,Murder (0111),2.0
-2006,Waterford Garda Division,Murder-attempt (0311),0.0
-2006,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),7.0
-2006,Waterford Garda Division,Offences against government and its agents (151),8.0
-2006,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",346.0
-2006,Waterford Garda Division,Offences not elsewhere classified (16),27.0
-2006,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",331.0
-2006,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),83.0
-2006,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2006,Waterford Garda Division,Other assault (035),402.0
-2006,Waterford Garda Division,Other drug offences (103),15.0
-2006,Waterford Garda Division,Other road offences (1433),2124.0
-2006,Waterford Garda Division,Other sexual offences (022),0.0
-2006,Waterford Garda Division,"Other thefts, handling stolen property (084)",1028.0
-2006,Waterford Garda Division,Perverting the course of justice (153),7.0
-2006,Waterford Garda Division,Possession of a firearm (1122),14.0
-2006,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2006,Waterford Garda Division,Possession of drugs for personal use (1022),606.0
-2006,Waterford Garda Division,Possession of drugs for sale or supply (1021),90.0
-2006,Waterford Garda Division,Prostitution offences (134),1.0
-2006,Waterford Garda Division,Public order and other social code offences (13),2472.0
-2006,Waterford Garda Division,Public service vehicle offences (1442),6.0
-2006,Waterford Garda Division,Rape and sexual assault (021),76.0
-2006,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",19.0
-2006,Waterford Garda Division,Road and traffic offences (14),3920.0
-2006,Waterford Garda Division,Road transport - carriage of goods offences (1441),30.0
-2006,Waterford Garda Division,Roadworthiness/regulatory offences (143),33.0
-2006,Waterford Garda Division,Robbery from the person (0613),31.0
-2006,Waterford Garda Division,Robbery of an establishment or institution (0611),34.0
-2006,Waterford Garda Division,Robbery of cash or goods in transit (0612),1.0
-2006,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",67.0
-2006,Waterford Garda Division,Sexual offences (02),76.0
-2006,Waterford Garda Division,Social code offences (n.e.c.) (136),3.0
-2006,Waterford Garda Division,Speeding (0415),659.0
-2006,Waterford Garda Division,Theft and related offences (08),2083.0
-2006,Waterford Garda Division,Theft from person (0821),78.0
-2006,Waterford Garda Division,Theft from shop (0822),736.0
-2006,Waterford Garda Division,Theft/taking of vehicle and related offences (081),241.0
-2006,Waterford Garda Division,Threat to kill or cause serious harm (0313),2.0
-2006,Waterford Garda Division,Trespass offences (132),77.0
-2006,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2006,Waterford Garda Division,Vehicle tax/registration offences (142),753.0
-2006,Waterford Garda Division,Weapons and explosives offences (11),105.0
-2007,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",30.0
-2007,Waterford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2007,Waterford Garda Division,Aggravated burglary (0711),8.0
-2007,Waterford Garda Division,Arson (1211),82.0
-2007,Waterford Garda Division,"Assault causing harm, poisoning (034)",139.0
-2007,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",687.0
-2007,Waterford Garda Division,Blackmail or extortion (0621),0.0
-2007,Waterford Garda Division,Burglary (not aggravated) (0712),620.0
-2007,Waterford Garda Division,Burglary and related offences (07),632.0
-2007,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2007,Waterford Garda Division,Controlled drug offences (10),806.0
-2007,Waterford Garda Division,Criminal damage (not arson) (1212),1302.0
-2007,Waterford Garda Division,Cultivation or manufacture of drugs (1012),13.0
-2007,Waterford Garda Division,Damage to property and to the environment  offences (12),1393.0
-2007,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2007,Waterford Garda Division,Dangerous driving leading to death (012),1.0
-2007,Waterford Garda Division,Dangerous or negligent acts (04),1595.0
-2007,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),419.0
-2007,Waterford Garda Division,Discharging a firearm (1121),5.0
-2007,Waterford Garda Division,Disorderly conduct (131),2320.0
-2007,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",394.0
-2007,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",505.0
-2007,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),5.0
-2007,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),500.0
-2007,Waterford Garda Division,Endangering traffic offences (0425),9.0
-2007,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),3.0
-2007,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2007,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2007,Waterford Garda Division,False imprisonment (0511),2.0
-2007,Waterford Garda Division,Fireworks offences (114),7.0
-2007,Waterford Garda Division,"Fraud, deception and related offences (09)",113.0
-2007,Waterford Garda Division,Harassment and related offences (033),101.0
-2007,Waterford Garda Division,Homicide & related offences (01),2.0
-2007,Waterford Garda Division,Human trafficking offences (0513),0.0
-2007,Waterford Garda Division,Importation of drugs (1011),1.0
-2007,Waterford Garda Division,Infanticide (0113),0.0
-2007,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",661.0
-2007,Waterford Garda Division,Kidnapping and related offences (05),3.0
-2007,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2007,Waterford Garda Division,Liquor licensing offences (133),308.0
-2007,Waterford Garda Division,Litter offences (1221),9.0
-2007,Waterford Garda Division,Manslaughter (0112),0.0
-2007,Waterford Garda Division,Murder (0111),1.0
-2007,Waterford Garda Division,Murder-attempt (0311),0.0
-2007,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2007,Waterford Garda Division,Offences against government and its agents (151),14.0
-2007,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",334.0
-2007,Waterford Garda Division,Offences not elsewhere classified (16),78.0
-2007,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",314.0
-2007,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),74.0
-2007,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2007,Waterford Garda Division,Other assault (035),440.0
-2007,Waterford Garda Division,Other drug offences (103),28.0
-2007,Waterford Garda Division,Other road offences (1433),2358.0
-2007,Waterford Garda Division,Other sexual offences (022),4.0
-2007,Waterford Garda Division,"Other thefts, handling stolen property (084)",999.0
-2007,Waterford Garda Division,Perverting the course of justice (153),6.0
-2007,Waterford Garda Division,Possession of a firearm (1122),15.0
-2007,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",4.0
-2007,Waterford Garda Division,Possession of drugs for personal use (1022),664.0
-2007,Waterford Garda Division,Possession of drugs for sale or supply (1021),100.0
-2007,Waterford Garda Division,Prostitution offences (134),0.0
-2007,Waterford Garda Division,Public order and other social code offences (13),2736.0
-2007,Waterford Garda Division,Public service vehicle offences (1442),19.0
-2007,Waterford Garda Division,Rape and sexual assault (021),33.0
-2007,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",11.0
-2007,Waterford Garda Division,Road and traffic offences (14),4495.0
-2007,Waterford Garda Division,Road transport - carriage of goods offences (1441),61.0
-2007,Waterford Garda Division,Roadworthiness/regulatory offences (143),133.0
-2007,Waterford Garda Division,Robbery from the person (0613),35.0
-2007,Waterford Garda Division,Robbery of an establishment or institution (0611),17.0
-2007,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2007,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",53.0
-2007,Waterford Garda Division,Sexual offences (02),37.0
-2007,Waterford Garda Division,Social code offences (n.e.c.) (136),7.0
-2007,Waterford Garda Division,Speeding (0415),629.0
-2007,Waterford Garda Division,Theft and related offences (08),2098.0
-2007,Waterford Garda Division,Theft from person (0821),53.0
-2007,Waterford Garda Division,Theft from shop (0822),739.0
-2007,Waterford Garda Division,Theft/taking of vehicle and related offences (081),307.0
-2007,Waterford Garda Division,Threat to kill or cause serious harm (0313),7.0
-2007,Waterford Garda Division,Trespass offences (132),90.0
-2007,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2007,Waterford Garda Division,Vehicle tax/registration offences (142),867.0
-2007,Waterford Garda Division,Weapons and explosives offences (11),101.0
-2008,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",23.0
-2008,Waterford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2008,Waterford Garda Division,Aggravated burglary (0711),11.0
-2008,Waterford Garda Division,Arson (1211),65.0
-2008,Waterford Garda Division,"Assault causing harm, poisoning (034)",126.0
-2008,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",603.0
-2008,Waterford Garda Division,Blackmail or extortion (0621),1.0
-2008,Waterford Garda Division,Burglary (not aggravated) (0712),688.0
-2008,Waterford Garda Division,Burglary and related offences (07),702.0
-2008,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2008,Waterford Garda Division,Controlled drug offences (10),851.0
-2008,Waterford Garda Division,Criminal damage (not arson) (1212),1250.0
-2008,Waterford Garda Division,Cultivation or manufacture of drugs (1012),8.0
-2008,Waterford Garda Division,Damage to property and to the environment  offences (12),1324.0
-2008,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2008,Waterford Garda Division,Dangerous driving leading to death (012),2.0
-2008,Waterford Garda Division,Dangerous or negligent acts (04),1309.0
-2008,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),227.0
-2008,Waterford Garda Division,Discharging a firearm (1121),8.0
-2008,Waterford Garda Division,Disorderly conduct (131),2084.0
-2008,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",383.0
-2008,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",459.0
-2008,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),16.0
-2008,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),443.0
-2008,Waterford Garda Division,Endangering traffic offences (0425),10.0
-2008,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2008,Waterford Garda Division,"Explosives, chemical weapons offences (111)",4.0
-2008,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2008,Waterford Garda Division,False imprisonment (0511),1.0
-2008,Waterford Garda Division,Fireworks offences (114),6.0
-2008,Waterford Garda Division,"Fraud, deception and related offences (09)",126.0
-2008,Waterford Garda Division,Harassment and related offences (033),76.0
-2008,Waterford Garda Division,Homicide & related offences (01),3.0
-2008,Waterford Garda Division,Human trafficking offences (0513),0.0
-2008,Waterford Garda Division,Importation of drugs (1011),1.0
-2008,Waterford Garda Division,Infanticide (0113),0.0
-2008,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",567.0
-2008,Waterford Garda Division,Kidnapping and related offences (05),2.0
-2008,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2008,Waterford Garda Division,Liquor licensing offences (133),151.0
-2008,Waterford Garda Division,Litter offences (1221),9.0
-2008,Waterford Garda Division,Manslaughter (0112),1.0
-2008,Waterford Garda Division,Murder (0111),0.0
-2008,Waterford Garda Division,Murder-attempt (0311),1.0
-2008,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2008,Waterford Garda Division,Offences against government and its agents (151),9.0
-2008,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",372.0
-2008,Waterford Garda Division,Offences not elsewhere classified (16),86.0
-2008,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",362.0
-2008,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),92.0
-2008,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2008,Waterford Garda Division,Other assault (035),389.0
-2008,Waterford Garda Division,Other drug offences (103),28.0
-2008,Waterford Garda Division,Other road offences (1433),2379.0
-2008,Waterford Garda Division,Other sexual offences (022),4.0
-2008,Waterford Garda Division,"Other thefts, handling stolen property (084)",1097.0
-2008,Waterford Garda Division,Perverting the course of justice (153),1.0
-2008,Waterford Garda Division,Possession of a firearm (1122),20.0
-2008,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2008,Waterford Garda Division,Possession of drugs for personal use (1022),720.0
-2008,Waterford Garda Division,Possession of drugs for sale or supply (1021),94.0
-2008,Waterford Garda Division,Prostitution offences (134),3.0
-2008,Waterford Garda Division,Public order and other social code offences (13),2348.0
-2008,Waterford Garda Division,Public service vehicle offences (1442),26.0
-2008,Waterford Garda Division,Rape and sexual assault (021),55.0
-2008,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",16.0
-2008,Waterford Garda Division,Road and traffic offences (14),4310.0
-2008,Waterford Garda Division,Road transport - carriage of goods offences (1441),129.0
-2008,Waterford Garda Division,Roadworthiness/regulatory offences (143),230.0
-2008,Waterford Garda Division,Robbery from the person (0613),21.0
-2008,Waterford Garda Division,Robbery of an establishment or institution (0611),14.0
-2008,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2008,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",37.0
-2008,Waterford Garda Division,Sexual offences (02),59.0
-2008,Waterford Garda Division,Social code offences (n.e.c.) (136),7.0
-2008,Waterford Garda Division,Speeding (0415),588.0
-2008,Waterford Garda Division,Theft and related offences (08),2304.0
-2008,Waterford Garda Division,Theft from person (0821),74.0
-2008,Waterford Garda Division,Theft from shop (0822),806.0
-2008,Waterford Garda Division,Theft/taking of vehicle and related offences (081),327.0
-2008,Waterford Garda Division,Threat to kill or cause serious harm (0313),11.0
-2008,Waterford Garda Division,Trespass offences (132),87.0
-2008,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2008,Waterford Garda Division,Vehicle tax/registration offences (142),595.0
-2008,Waterford Garda Division,Weapons and explosives offences (11),130.0
-2009,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",36.0
-2009,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2009,Waterford Garda Division,Aggravated burglary (0711),12.0
-2009,Waterford Garda Division,Arson (1211),109.0
-2009,Waterford Garda Division,"Assault causing harm, poisoning (034)",158.0
-2009,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",659.0
-2009,Waterford Garda Division,Blackmail or extortion (0621),2.0
-2009,Waterford Garda Division,Burglary (not aggravated) (0712),748.0
-2009,Waterford Garda Division,Burglary and related offences (07),769.0
-2009,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
-2009,Waterford Garda Division,Controlled drug offences (10),990.0
-2009,Waterford Garda Division,Criminal damage (not arson) (1212),1173.0
-2009,Waterford Garda Division,Cultivation or manufacture of drugs (1012),12.0
-2009,Waterford Garda Division,Damage to property and to the environment  offences (12),1287.0
-2009,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2009,Waterford Garda Division,Dangerous driving leading to death (012),0.0
-2009,Waterford Garda Division,Dangerous or negligent acts (04),1723.0
-2009,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),134.0
-2009,Waterford Garda Division,Discharging a firearm (1121),6.0
-2009,Waterford Garda Division,Disorderly conduct (131),1785.0
-2009,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",409.0
-2009,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",351.0
-2009,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),28.0
-2009,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),323.0
-2009,Waterford Garda Division,Endangering traffic offences (0425),6.0
-2009,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2009,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2009,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2009,Waterford Garda Division,False imprisonment (0511),0.0
-2009,Waterford Garda Division,Fireworks offences (114),6.0
-2009,Waterford Garda Division,"Fraud, deception and related offences (09)",119.0
-2009,Waterford Garda Division,Harassment and related offences (033),68.0
-2009,Waterford Garda Division,Homicide & related offences (01),0.0
-2009,Waterford Garda Division,Human trafficking offences (0513),1.0
-2009,Waterford Garda Division,Importation of drugs (1011),0.0
-2009,Waterford Garda Division,Infanticide (0113),0.0
-2009,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",427.0
-2009,Waterford Garda Division,Kidnapping and related offences (05),1.0
-2009,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2009,Waterford Garda Division,Liquor licensing offences (133),138.0
-2009,Waterford Garda Division,Litter offences (1221),5.0
-2009,Waterford Garda Division,Manslaughter (0112),0.0
-2009,Waterford Garda Division,Murder (0111),0.0
-2009,Waterford Garda Division,Murder-attempt (0311),0.0
-2009,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),6.0
-2009,Waterford Garda Division,Offences against government and its agents (151),7.0
-2009,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",303.0
-2009,Waterford Garda Division,Offences not elsewhere classified (16),68.0
-2009,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",294.0
-2009,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),108.0
-2009,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2009,Waterford Garda Division,Other assault (035),419.0
-2009,Waterford Garda Division,Other drug offences (103),26.0
-2009,Waterford Garda Division,Other road offences (1433),1901.0
-2009,Waterford Garda Division,Other sexual offences (022),3.0
-2009,Waterford Garda Division,"Other thefts, handling stolen property (084)",1042.0
-2009,Waterford Garda Division,Perverting the course of justice (153),2.0
-2009,Waterford Garda Division,Possession of a firearm (1122),15.0
-2009,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",9.0
-2009,Waterford Garda Division,Possession of drugs for personal use (1022),842.0
-2009,Waterford Garda Division,Possession of drugs for sale or supply (1021),110.0
-2009,Waterford Garda Division,Prostitution offences (134),2.0
-2009,Waterford Garda Division,Public order and other social code offences (13),2060.0
-2009,Waterford Garda Division,Public service vehicle offences (1442),38.0
-2009,Waterford Garda Division,Rape and sexual assault (021),51.0
-2009,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",22.0
-2009,Waterford Garda Division,Road and traffic offences (14),3621.0
-2009,Waterford Garda Division,Road transport - carriage of goods offences (1441),38.0
-2009,Waterford Garda Division,Roadworthiness/regulatory offences (143),194.0
-2009,Waterford Garda Division,Robbery from the person (0613),42.0
-2009,Waterford Garda Division,Robbery of an establishment or institution (0611),17.0
-2009,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2009,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",64.0
-2009,Waterford Garda Division,Sexual offences (02),54.0
-2009,Waterford Garda Division,Social code offences (n.e.c.) (136),9.0
-2009,Waterford Garda Division,Speeding (0415),1195.0
-2009,Waterford Garda Division,Theft and related offences (08),2106.0
-2009,Waterford Garda Division,Theft from person (0821),70.0
-2009,Waterford Garda Division,Theft from shop (0822),729.0
-2009,Waterford Garda Division,Theft/taking of vehicle and related offences (081),265.0
-2009,Waterford Garda Division,Threat to kill or cause serious harm (0313),14.0
-2009,Waterford Garda Division,Trespass offences (132),104.0
-2009,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2009,Waterford Garda Division,Vehicle tax/registration offences (142),608.0
-2009,Waterford Garda Division,Weapons and explosives offences (11),135.0
-2010,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",12.0
-2010,Waterford Garda Division,Abduction of person under 16 years of age (0512),2.0
-2010,Waterford Garda Division,Aggravated burglary (0711),10.0
-2010,Waterford Garda Division,Arson (1211),115.0
-2010,Waterford Garda Division,"Assault causing harm, poisoning (034)",151.0
-2010,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",582.0
-2010,Waterford Garda Division,Blackmail or extortion (0621),1.0
-2010,Waterford Garda Division,Burglary (not aggravated) (0712),738.0
-2010,Waterford Garda Division,Burglary and related offences (07),751.0
-2010,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",5.0
-2010,Waterford Garda Division,Controlled drug offences (10),761.0
-2010,Waterford Garda Division,Criminal damage (not arson) (1212),1214.0
-2010,Waterford Garda Division,Cultivation or manufacture of drugs (1012),17.0
-2010,Waterford Garda Division,Damage to property and to the environment  offences (12),1337.0
-2010,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2010,Waterford Garda Division,Dangerous driving leading to death (012),0.0
-2010,Waterford Garda Division,Dangerous or negligent acts (04),1196.0
-2010,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),154.0
-2010,Waterford Garda Division,Discharging a firearm (1121),3.0
-2010,Waterford Garda Division,Disorderly conduct (131),1419.0
-2010,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",312.0
-2010,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",287.0
-2010,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),17.0
-2010,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),270.0
-2010,Waterford Garda Division,Endangering traffic offences (0425),6.0
-2010,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2010,Waterford Garda Division,"Explosives, chemical weapons offences (111)",5.0
-2010,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2010,Waterford Garda Division,False imprisonment (0511),3.0
-2010,Waterford Garda Division,Fireworks offences (114),28.0
-2010,Waterford Garda Division,"Fraud, deception and related offences (09)",109.0
-2010,Waterford Garda Division,Harassment and related offences (033),62.0
-2010,Waterford Garda Division,Homicide & related offences (01),2.0
-2010,Waterford Garda Division,Human trafficking offences (0513),1.0
-2010,Waterford Garda Division,Importation of drugs (1011),0.0
-2010,Waterford Garda Division,Infanticide (0113),0.0
-2010,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",354.0
-2010,Waterford Garda Division,Kidnapping and related offences (05),6.0
-2010,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2010,Waterford Garda Division,Liquor licensing offences (133),85.0
-2010,Waterford Garda Division,Litter offences (1221),8.0
-2010,Waterford Garda Division,Manslaughter (0112),0.0
-2010,Waterford Garda Division,Murder (0111),2.0
-2010,Waterford Garda Division,Murder-attempt (0311),0.0
-2010,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),4.0
-2010,Waterford Garda Division,Offences against government and its agents (151),3.0
-2010,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",329.0
-2010,Waterford Garda Division,Offences not elsewhere classified (16),69.0
-2010,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",322.0
-2010,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),99.0
-2010,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),2.0
-2010,Waterford Garda Division,Other assault (035),355.0
-2010,Waterford Garda Division,Other drug offences (103),27.0
-2010,Waterford Garda Division,Other road offences (1433),1536.0
-2010,Waterford Garda Division,Other sexual offences (022),5.0
-2010,Waterford Garda Division,"Other thefts, handling stolen property (084)",1058.0
-2010,Waterford Garda Division,Perverting the course of justice (153),2.0
-2010,Waterford Garda Division,Possession of a firearm (1122),6.0
-2010,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2010,Waterford Garda Division,Possession of drugs for personal use (1022),597.0
-2010,Waterford Garda Division,Possession of drugs for sale or supply (1021),120.0
-2010,Waterford Garda Division,Prostitution offences (134),2.0
-2010,Waterford Garda Division,Public order and other social code offences (13),1623.0
-2010,Waterford Garda Division,Public service vehicle offences (1442),60.0
-2010,Waterford Garda Division,Rape and sexual assault (021),50.0
-2010,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",16.0
-2010,Waterford Garda Division,Road and traffic offences (14),3346.0
-2010,Waterford Garda Division,Road transport - carriage of goods offences (1441),161.0
-2010,Waterford Garda Division,Roadworthiness/regulatory offences (143),252.0
-2010,Waterford Garda Division,Robbery from the person (0613),41.0
-2010,Waterford Garda Division,Robbery of an establishment or institution (0611),33.0
-2010,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2010,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",80.0
-2010,Waterford Garda Division,Sexual offences (02),55.0
-2010,Waterford Garda Division,Social code offences (n.e.c.) (136),7.0
-2010,Waterford Garda Division,Speeding (0415),736.0
-2010,Waterford Garda Division,Theft and related offences (08),2087.0
-2010,Waterford Garda Division,Theft from person (0821),41.0
-2010,Waterford Garda Division,Theft from shop (0822),794.0
-2010,Waterford Garda Division,Theft/taking of vehicle and related offences (081),194.0
-2010,Waterford Garda Division,Threat to kill or cause serious harm (0313),14.0
-2010,Waterford Garda Division,Trespass offences (132),94.0
-2010,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2010,Waterford Garda Division,Vehicle tax/registration offences (142),667.0
-2010,Waterford Garda Division,Weapons and explosives offences (11),141.0
-2011,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",11.0
-2011,Waterford Garda Division,Abduction of person under 16 years of age (0512),2.0
-2011,Waterford Garda Division,Aggravated burglary (0711),17.0
-2011,Waterford Garda Division,Arson (1211),94.0
-2011,Waterford Garda Division,"Assault causing harm, poisoning (034)",135.0
-2011,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",615.0
-2011,Waterford Garda Division,Blackmail or extortion (0621),1.0
-2011,Waterford Garda Division,Burglary (not aggravated) (0712),692.0
-2011,Waterford Garda Division,Burglary and related offences (07),721.0
-2011,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2011,Waterford Garda Division,Controlled drug offences (10),719.0
-2011,Waterford Garda Division,Criminal damage (not arson) (1212),983.0
-2011,Waterford Garda Division,Cultivation or manufacture of drugs (1012),31.0
-2011,Waterford Garda Division,Damage to property and to the environment  offences (12),1089.0
-2011,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2011,Waterford Garda Division,Dangerous driving leading to death (012),3.0
-2011,Waterford Garda Division,Dangerous or negligent acts (04),1564.0
-2011,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),127.0
-2011,Waterford Garda Division,Discharging a firearm (1121),5.0
-2011,Waterford Garda Division,Disorderly conduct (131),1309.0
-2011,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",192.0
-2011,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",239.0
-2011,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),13.0
-2011,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),226.0
-2011,Waterford Garda Division,Endangering traffic offences (0425),7.0
-2011,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2011,Waterford Garda Division,"Explosives, chemical weapons offences (111)",3.0
-2011,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2011,Waterford Garda Division,False imprisonment (0511),1.0
-2011,Waterford Garda Division,Fireworks offences (114),10.0
-2011,Waterford Garda Division,"Fraud, deception and related offences (09)",107.0
-2011,Waterford Garda Division,Harassment and related offences (033),42.0
-2011,Waterford Garda Division,Homicide & related offences (01),3.0
-2011,Waterford Garda Division,Human trafficking offences (0513),0.0
-2011,Waterford Garda Division,Importation of drugs (1011),1.0
-2011,Waterford Garda Division,Infanticide (0113),0.0
-2011,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",219.0
-2011,Waterford Garda Division,Kidnapping and related offences (05),3.0
-2011,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2011,Waterford Garda Division,Liquor licensing offences (133),84.0
-2011,Waterford Garda Division,Litter offences (1221),12.0
-2011,Waterford Garda Division,Manslaughter (0112),0.0
-2011,Waterford Garda Division,Murder (0111),0.0
-2011,Waterford Garda Division,Murder-attempt (0311),0.0
-2011,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2011,Waterford Garda Division,Offences against government and its agents (151),42.0
-2011,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",288.0
-2011,Waterford Garda Division,Offences not elsewhere classified (16),60.0
-2011,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",246.0
-2011,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),72.0
-2011,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2011,Waterford Garda Division,Other assault (035),425.0
-2011,Waterford Garda Division,Other drug offences (103),23.0
-2011,Waterford Garda Division,Other road offences (1433),1153.0
-2011,Waterford Garda Division,Other sexual offences (022),3.0
-2011,Waterford Garda Division,"Other thefts, handling stolen property (084)",924.0
-2011,Waterford Garda Division,Perverting the course of justice (153),0.0
-2011,Waterford Garda Division,Possession of a firearm (1122),4.0
-2011,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",12.0
-2011,Waterford Garda Division,Possession of drugs for personal use (1022),533.0
-2011,Waterford Garda Division,Possession of drugs for sale or supply (1021),131.0
-2011,Waterford Garda Division,Prostitution offences (134),0.0
-2011,Waterford Garda Division,Public order and other social code offences (13),1510.0
-2011,Waterford Garda Division,Public service vehicle offences (1442),21.0
-2011,Waterford Garda Division,Rape and sexual assault (021),47.0
-2011,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",15.0
-2011,Waterford Garda Division,Road and traffic offences (14),2398.0
-2011,Waterford Garda Division,Road transport - carriage of goods offences (1441),190.0
-2011,Waterford Garda Division,Roadworthiness/regulatory offences (143),172.0
-2011,Waterford Garda Division,Robbery from the person (0613),53.0
-2011,Waterford Garda Division,Robbery of an establishment or institution (0611),37.0
-2011,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2011,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",91.0
-2011,Waterford Garda Division,Sexual offences (02),50.0
-2011,Waterford Garda Division,Social code offences (n.e.c.) (136),3.0
-2011,Waterford Garda Division,Speeding (0415),1175.0
-2011,Waterford Garda Division,Theft and related offences (08),1950.0
-2011,Waterford Garda Division,Theft from person (0821),55.0
-2011,Waterford Garda Division,Theft from shop (0822),797.0
-2011,Waterford Garda Division,Theft/taking of vehicle and related offences (081),174.0
-2011,Waterford Garda Division,Threat to kill or cause serious harm (0313),13.0
-2011,Waterford Garda Division,Trespass offences (132),99.0
-2011,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),1.0
-2011,Waterford Garda Division,Vehicle tax/registration offences (142),448.0
-2011,Waterford Garda Division,Weapons and explosives offences (11),94.0
-2012,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
-2012,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2012,Waterford Garda Division,Aggravated burglary (0711),6.0
-2012,Waterford Garda Division,Arson (1211),89.0
-2012,Waterford Garda Division,"Assault causing harm, poisoning (034)",138.0
-2012,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",595.0
-2012,Waterford Garda Division,Blackmail or extortion (0621),0.0
-2012,Waterford Garda Division,Burglary (not aggravated) (0712),731.0
-2012,Waterford Garda Division,Burglary and related offences (07),764.0
-2012,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2012,Waterford Garda Division,Controlled drug offences (10),560.0
-2012,Waterford Garda Division,Criminal damage (not arson) (1212),941.0
-2012,Waterford Garda Division,Cultivation or manufacture of drugs (1012),21.0
-2012,Waterford Garda Division,Damage to property and to the environment  offences (12),1035.0
-2012,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2012,Waterford Garda Division,Dangerous driving leading to death (012),0.0
-2012,Waterford Garda Division,Dangerous or negligent acts (04),1023.0
-2012,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),101.0
-2012,Waterford Garda Division,Discharging a firearm (1121),6.0
-2012,Waterford Garda Division,Disorderly conduct (131),1096.0
-2012,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",185.0
-2012,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",264.0
-2012,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),11.0
-2012,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),253.0
-2012,Waterford Garda Division,Endangering traffic offences (0425),7.0
-2012,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2012,Waterford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2012,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2012,Waterford Garda Division,False imprisonment (0511),2.0
-2012,Waterford Garda Division,Fireworks offences (114),10.0
-2012,Waterford Garda Division,"Fraud, deception and related offences (09)",117.0
-2012,Waterford Garda Division,Harassment and related offences (033),37.0
-2012,Waterford Garda Division,Homicide & related offences (01),3.0
-2012,Waterford Garda Division,Human trafficking offences (0513),0.0
-2012,Waterford Garda Division,Importation of drugs (1011),0.0
-2012,Waterford Garda Division,Infanticide (0113),0.0
-2012,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",260.0
-2012,Waterford Garda Division,Kidnapping and related offences (05),2.0
-2012,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2012,Waterford Garda Division,Liquor licensing offences (133),52.0
-2012,Waterford Garda Division,Litter offences (1221),5.0
-2012,Waterford Garda Division,Manslaughter (0112),0.0
-2012,Waterford Garda Division,Murder (0111),3.0
-2012,Waterford Garda Division,Murder-attempt (0311),0.0
-2012,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),4.0
-2012,Waterford Garda Division,Offences against government and its agents (151),12.0
-2012,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",254.0
-2012,Waterford Garda Division,Offences not elsewhere classified (16),61.0
-2012,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",228.0
-2012,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),106.0
-2012,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2012,Waterford Garda Division,Other assault (035),412.0
-2012,Waterford Garda Division,Other drug offences (103),17.0
-2012,Waterford Garda Division,Other road offences (1433),1156.0
-2012,Waterford Garda Division,Other sexual offences (022),2.0
-2012,Waterford Garda Division,"Other thefts, handling stolen property (084)",1047.0
-2012,Waterford Garda Division,Perverting the course of justice (153),14.0
-2012,Waterford Garda Division,Possession of a firearm (1122),7.0
-2012,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",27.0
-2012,Waterford Garda Division,Possession of drugs for personal use (1022),404.0
-2012,Waterford Garda Division,Possession of drugs for sale or supply (1021),118.0
-2012,Waterford Garda Division,Prostitution offences (134),15.0
-2012,Waterford Garda Division,Public order and other social code offences (13),1271.0
-2012,Waterford Garda Division,Public service vehicle offences (1442),32.0
-2012,Waterford Garda Division,Rape and sexual assault (021),53.0
-2012,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",15.0
-2012,Waterford Garda Division,Road and traffic offences (14),2274.0
-2012,Waterford Garda Division,Road transport - carriage of goods offences (1441),133.0
-2012,Waterford Garda Division,Roadworthiness/regulatory offences (143),89.0
-2012,Waterford Garda Division,Robbery from the person (0613),50.0
-2012,Waterford Garda Division,Robbery of an establishment or institution (0611),31.0
-2012,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2012,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",83.0
-2012,Waterford Garda Division,Sexual offences (02),55.0
-2012,Waterford Garda Division,Social code offences (n.e.c.) (136),8.0
-2012,Waterford Garda Division,Speeding (0415),643.0
-2012,Waterford Garda Division,Theft and related offences (08),2102.0
-2012,Waterford Garda Division,Theft from person (0821),69.0
-2012,Waterford Garda Division,Theft from shop (0822),809.0
-2012,Waterford Garda Division,Theft/taking of vehicle and related offences (081),177.0
-2012,Waterford Garda Division,Threat to kill or cause serious harm (0313),8.0
-2012,Waterford Garda Division,Trespass offences (132),85.0
-2012,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),1.0
-2012,Waterford Garda Division,Vehicle tax/registration offences (142),415.0
-2012,Waterford Garda Division,Weapons and explosives offences (11),130.0
-2013,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",7.0
-2013,Waterford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2013,Waterford Garda Division,Aggravated burglary (0711),7.0
-2013,Waterford Garda Division,Arson (1211),74.0
-2013,Waterford Garda Division,"Assault causing harm, poisoning (034)",129.0
-2013,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",510.0
-2013,Waterford Garda Division,Blackmail or extortion (0621),2.0
-2013,Waterford Garda Division,Burglary (not aggravated) (0712),794.0
-2013,Waterford Garda Division,Burglary and related offences (07),818.0
-2013,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
-2013,Waterford Garda Division,Controlled drug offences (10),431.0
-2013,Waterford Garda Division,Criminal damage (not arson) (1212),867.0
-2013,Waterford Garda Division,Cultivation or manufacture of drugs (1012),13.0
-2013,Waterford Garda Division,Damage to property and to the environment  offences (12),944.0
-2013,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2013,Waterford Garda Division,Dangerous driving leading to death (012),1.0
-2013,Waterford Garda Division,Dangerous or negligent acts (04),1297.0
-2013,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),127.0
-2013,Waterford Garda Division,Discharging a firearm (1121),1.0
-2013,Waterford Garda Division,Disorderly conduct (131),1021.0
-2013,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",125.0
-2013,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",217.0
-2013,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),10.0
-2013,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),207.0
-2013,Waterford Garda Division,Endangering traffic offences (0425),1.0
-2013,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),3.0
-2013,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2013,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2013,Waterford Garda Division,False imprisonment (0511),5.0
-2013,Waterford Garda Division,Fireworks offences (114),2.0
-2013,Waterford Garda Division,"Fraud, deception and related offences (09)",103.0
-2013,Waterford Garda Division,Harassment and related offences (033),49.0
-2013,Waterford Garda Division,Homicide & related offences (01),1.0
-2013,Waterford Garda Division,Human trafficking offences (0513),0.0
-2013,Waterford Garda Division,Importation of drugs (1011),0.0
-2013,Waterford Garda Division,Infanticide (0113),0.0
-2013,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",229.0
-2013,Waterford Garda Division,Kidnapping and related offences (05),6.0
-2013,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2013,Waterford Garda Division,Liquor licensing offences (133),77.0
-2013,Waterford Garda Division,Litter offences (1221),3.0
-2013,Waterford Garda Division,Manslaughter (0112),0.0
-2013,Waterford Garda Division,Murder (0111),0.0
-2013,Waterford Garda Division,Murder-attempt (0311),0.0
-2013,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2013,Waterford Garda Division,Offences against government and its agents (151),9.0
-2013,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",144.0
-2013,Waterford Garda Division,Offences not elsewhere classified (16),70.0
-2013,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",127.0
-2013,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),74.0
-2013,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2013,Waterford Garda Division,Other assault (035),321.0
-2013,Waterford Garda Division,Other drug offences (103),19.0
-2013,Waterford Garda Division,Other road offences (1433),1268.0
-2013,Waterford Garda Division,Other sexual offences (022),8.0
-2013,Waterford Garda Division,"Other thefts, handling stolen property (084)",906.0
-2013,Waterford Garda Division,Perverting the course of justice (153),8.0
-2013,Waterford Garda Division,Possession of a firearm (1122),7.0
-2013,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",17.0
-2013,Waterford Garda Division,Possession of drugs for personal use (1022),335.0
-2013,Waterford Garda Division,Possession of drugs for sale or supply (1021),64.0
-2013,Waterford Garda Division,Prostitution offences (134),6.0
-2013,Waterford Garda Division,Public order and other social code offences (13),1218.0
-2013,Waterford Garda Division,Public service vehicle offences (1442),18.0
-2013,Waterford Garda Division,Rape and sexual assault (021),62.0
-2013,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",12.0
-2013,Waterford Garda Division,Road and traffic offences (14),2168.0
-2013,Waterford Garda Division,Road transport - carriage of goods offences (1441),98.0
-2013,Waterford Garda Division,Roadworthiness/regulatory offences (143),103.0
-2013,Waterford Garda Division,Robbery from the person (0613),39.0
-2013,Waterford Garda Division,Robbery of an establishment or institution (0611),23.0
-2013,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2013,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",67.0
-2013,Waterford Garda Division,Sexual offences (02),70.0
-2013,Waterford Garda Division,Social code offences (n.e.c.) (136),35.0
-2013,Waterford Garda Division,Speeding (0415),941.0
-2013,Waterford Garda Division,Theft and related offences (08),1939.0
-2013,Waterford Garda Division,Theft from person (0821),53.0
-2013,Waterford Garda Division,Theft from shop (0822),859.0
-2013,Waterford Garda Division,Theft/taking of vehicle and related offences (081),121.0
-2013,Waterford Garda Division,Threat to kill or cause serious harm (0313),11.0
-2013,Waterford Garda Division,Trespass offences (132),67.0
-2013,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),1.0
-2013,Waterford Garda Division,Vehicle tax/registration offences (142),327.0
-2013,Waterford Garda Division,Weapons and explosives offences (11),84.0
-2014,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2014,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2014,Waterford Garda Division,Aggravated burglary (0711),10.0
-2014,Waterford Garda Division,Arson (1211),82.0
-2014,Waterford Garda Division,"Assault causing harm, poisoning (034)",113.0
-2014,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",488.0
-2014,Waterford Garda Division,Blackmail or extortion (0621),0.0
-2014,Waterford Garda Division,Burglary (not aggravated) (0712),815.0
-2014,Waterford Garda Division,Burglary and related offences (07),837.0
-2014,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2014,Waterford Garda Division,Controlled drug offences (10),436.0
-2014,Waterford Garda Division,Criminal damage (not arson) (1212),678.0
-2014,Waterford Garda Division,Cultivation or manufacture of drugs (1012),13.0
-2014,Waterford Garda Division,Damage to property and to the environment  offences (12),765.0
-2014,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2014,Waterford Garda Division,Dangerous driving leading to death (012),3.0
-2014,Waterford Garda Division,Dangerous or negligent acts (04),1285.0
-2014,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),106.0
-2014,Waterford Garda Division,Discharging a firearm (1121),4.0
-2014,Waterford Garda Division,Disorderly conduct (131),810.0
-2014,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",158.0
-2014,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",219.0
-2014,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),10.0
-2014,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),209.0
-2014,Waterford Garda Division,Endangering traffic offences (0425),5.0
-2014,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2014,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2014,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2014,Waterford Garda Division,False imprisonment (0511),1.0
-2014,Waterford Garda Division,Fireworks offences (114),3.0
-2014,Waterford Garda Division,"Fraud, deception and related offences (09)",93.0
-2014,Waterford Garda Division,Harassment and related offences (033),45.0
-2014,Waterford Garda Division,Homicide & related offences (01),6.0
-2014,Waterford Garda Division,Human trafficking offences (0513),2.0
-2014,Waterford Garda Division,Importation of drugs (1011),1.0
-2014,Waterford Garda Division,Infanticide (0113),0.0
-2014,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",219.0
-2014,Waterford Garda Division,Kidnapping and related offences (05),3.0
-2014,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2014,Waterford Garda Division,Liquor licensing offences (133),77.0
-2014,Waterford Garda Division,Litter offences (1221),5.0
-2014,Waterford Garda Division,Manslaughter (0112),1.0
-2014,Waterford Garda Division,Murder (0111),2.0
-2014,Waterford Garda Division,Murder-attempt (0311),0.0
-2014,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),4.0
-2014,Waterford Garda Division,Offences against government and its agents (151),10.0
-2014,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",144.0
-2014,Waterford Garda Division,Offences not elsewhere classified (16),75.0
-2014,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",130.0
-2014,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),52.0
-2014,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2014,Waterford Garda Division,Other assault (035),323.0
-2014,Waterford Garda Division,Other drug offences (103),19.0
-2014,Waterford Garda Division,Other road offences (1433),1352.0
-2014,Waterford Garda Division,Other sexual offences (022),0.0
-2014,Waterford Garda Division,"Other thefts, handling stolen property (084)",822.0
-2014,Waterford Garda Division,Perverting the course of justice (153),4.0
-2014,Waterford Garda Division,Possession of a firearm (1122),7.0
-2014,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",12.0
-2014,Waterford Garda Division,Possession of drugs for personal use (1022),325.0
-2014,Waterford Garda Division,Possession of drugs for sale or supply (1021),78.0
-2014,Waterford Garda Division,Prostitution offences (134),3.0
-2014,Waterford Garda Division,Public order and other social code offences (13),988.0
-2014,Waterford Garda Division,Public service vehicle offences (1442),34.0
-2014,Waterford Garda Division,Rape and sexual assault (021),71.0
-2014,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",7.0
-2014,Waterford Garda Division,Road and traffic offences (14),2386.0
-2014,Waterford Garda Division,Road transport - carriage of goods offences (1441),121.0
-2014,Waterford Garda Division,Roadworthiness/regulatory offences (143),191.0
-2014,Waterford Garda Division,Robbery from the person (0613),28.0
-2014,Waterford Garda Division,Robbery of an establishment or institution (0611),7.0
-2014,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2014,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",37.0
-2014,Waterford Garda Division,Sexual offences (02),71.0
-2014,Waterford Garda Division,Social code offences (n.e.c.) (136),20.0
-2014,Waterford Garda Division,Speeding (0415),946.0
-2014,Waterford Garda Division,Theft and related offences (08),1871.0
-2014,Waterford Garda Division,Theft from person (0821),61.0
-2014,Waterford Garda Division,Theft from shop (0822),887.0
-2014,Waterford Garda Division,Theft/taking of vehicle and related offences (081),101.0
-2014,Waterford Garda Division,Threat to kill or cause serious harm (0313),7.0
-2014,Waterford Garda Division,Trespass offences (132),71.0
-2014,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2014,Waterford Garda Division,Vehicle tax/registration offences (142),307.0
-2014,Waterford Garda Division,Weapons and explosives offences (11),66.0
-2015,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",3.0
-2015,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2015,Waterford Garda Division,Aggravated burglary (0711),6.0
-2015,Waterford Garda Division,Arson (1211),117.0
-2015,Waterford Garda Division,"Assault causing harm, poisoning (034)",137.0
-2015,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",589.0
-2015,Waterford Garda Division,Blackmail or extortion (0621),1.0
-2015,Waterford Garda Division,Burglary (not aggravated) (0712),800.0
-2015,Waterford Garda Division,Burglary and related offences (07),821.0
-2015,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2015,Waterford Garda Division,Controlled drug offences (10),368.0
-2015,Waterford Garda Division,Criminal damage (not arson) (1212),738.0
-2015,Waterford Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2015,Waterford Garda Division,Damage to property and to the environment  offences (12),857.0
-2015,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2015,Waterford Garda Division,Dangerous driving leading to death (012),0.0
-2015,Waterford Garda Division,Dangerous or negligent acts (04),1457.0
-2015,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),104.0
-2015,Waterford Garda Division,Discharging a firearm (1121),2.0
-2015,Waterford Garda Division,Disorderly conduct (131),841.0
-2015,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",138.0
-2015,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",204.0
-2015,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),7.0
-2015,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),197.0
-2015,Waterford Garda Division,Endangering traffic offences (0425),2.0
-2015,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2015,Waterford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2015,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2015,Waterford Garda Division,False imprisonment (0511),6.0
-2015,Waterford Garda Division,Fireworks offences (114),5.0
-2015,Waterford Garda Division,"Fraud, deception and related offences (09)",123.0
-2015,Waterford Garda Division,Harassment and related offences (033),44.0
-2015,Waterford Garda Division,Homicide & related offences (01),0.0
-2015,Waterford Garda Division,Human trafficking offences (0513),0.0
-2015,Waterford Garda Division,Importation of drugs (1011),0.0
-2015,Waterford Garda Division,Infanticide (0113),0.0
-2015,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",187.0
-2015,Waterford Garda Division,Kidnapping and related offences (05),6.0
-2015,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2015,Waterford Garda Division,Liquor licensing offences (133),43.0
-2015,Waterford Garda Division,Litter offences (1221),2.0
-2015,Waterford Garda Division,Manslaughter (0112),0.0
-2015,Waterford Garda Division,Murder (0111),0.0
-2015,Waterford Garda Division,Murder-attempt (0311),0.0
-2015,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2015,Waterford Garda Division,Offences against government and its agents (151),12.0
-2015,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",154.0
-2015,Waterford Garda Division,Offences not elsewhere classified (16),72.0
-2015,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",133.0
-2015,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),44.0
-2015,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2015,Waterford Garda Division,Other assault (035),388.0
-2015,Waterford Garda Division,Other drug offences (103),15.0
-2015,Waterford Garda Division,Other road offences (1433),1072.0
-2015,Waterford Garda Division,Other sexual offences (022),2.0
-2015,Waterford Garda Division,"Other thefts, handling stolen property (084)",761.0
-2015,Waterford Garda Division,Perverting the course of justice (153),8.0
-2015,Waterford Garda Division,Possession of a firearm (1122),7.0
-2015,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",15.0
-2015,Waterford Garda Division,Possession of drugs for personal use (1022),254.0
-2015,Waterford Garda Division,Possession of drugs for sale or supply (1021),88.0
-2015,Waterford Garda Division,Prostitution offences (134),1.0
-2015,Waterford Garda Division,Public order and other social code offences (13),970.0
-2015,Waterford Garda Division,Public service vehicle offences (1442),19.0
-2015,Waterford Garda Division,Rape and sexual assault (021),60.0
-2015,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",7.0
-2015,Waterford Garda Division,Road and traffic offences (14),1771.0
-2015,Waterford Garda Division,Road transport - carriage of goods offences (1441),61.0
-2015,Waterford Garda Division,Roadworthiness/regulatory offences (143),66.0
-2015,Waterford Garda Division,Robbery from the person (0613),24.0
-2015,Waterford Garda Division,Robbery of an establishment or institution (0611),8.0
-2015,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2015,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",33.0
-2015,Waterford Garda Division,Sexual offences (02),62.0
-2015,Waterford Garda Division,Social code offences (n.e.c.) (136),23.0
-2015,Waterford Garda Division,Speeding (0415),1143.0
-2015,Waterford Garda Division,Theft and related offences (08),1853.0
-2015,Waterford Garda Division,Theft from person (0821),40.0
-2015,Waterford Garda Division,Theft from shop (0822),943.0
-2015,Waterford Garda Division,Theft/taking of vehicle and related offences (081),109.0
-2015,Waterford Garda Division,Threat to kill or cause serious harm (0313),20.0
-2015,Waterford Garda Division,Trespass offences (132),55.0
-2015,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2015,Waterford Garda Division,Vehicle tax/registration offences (142),225.0
-2015,Waterford Garda Division,Weapons and explosives offences (11),59.0
-2016,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",14.0
-2016,Waterford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2016,Waterford Garda Division,Aggravated burglary (0711),9.0
-2016,Waterford Garda Division,Arson (1211),46.0
-2016,Waterford Garda Division,"Assault causing harm, poisoning (034)",105.0
-2016,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",448.0
-2016,Waterford Garda Division,Blackmail or extortion (0621),2.0
-2016,Waterford Garda Division,Burglary (not aggravated) (0712),532.0
-2016,Waterford Garda Division,Burglary and related offences (07),549.0
-2016,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2016,Waterford Garda Division,Controlled drug offences (10),392.0
-2016,Waterford Garda Division,Criminal damage (not arson) (1212),649.0
-2016,Waterford Garda Division,Cultivation or manufacture of drugs (1012),8.0
-2016,Waterford Garda Division,Damage to property and to the environment  offences (12),699.0
-2016,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2016,Waterford Garda Division,Dangerous driving leading to death (012),1.0
-2016,Waterford Garda Division,Dangerous or negligent acts (04),1280.0
-2016,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),121.0
-2016,Waterford Garda Division,Discharging a firearm (1121),1.0
-2016,Waterford Garda Division,Disorderly conduct (131),794.0
-2016,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",168.0
-2016,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",236.0
-2016,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),7.0
-2016,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),229.0
-2016,Waterford Garda Division,Endangering traffic offences (0425),3.0
-2016,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2016,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2016,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2016,Waterford Garda Division,False imprisonment (0511),1.0
-2016,Waterford Garda Division,Fireworks offences (114),6.0
-2016,Waterford Garda Division,"Fraud, deception and related offences (09)",81.0
-2016,Waterford Garda Division,Harassment and related offences (033),22.0
-2016,Waterford Garda Division,Homicide & related offences (01),3.0
-2016,Waterford Garda Division,Human trafficking offences (0513),2.0
-2016,Waterford Garda Division,Importation of drugs (1011),1.0
-2016,Waterford Garda Division,Infanticide (0113),0.0
-2016,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",207.0
-2016,Waterford Garda Division,Kidnapping and related offences (05),4.0
-2016,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2016,Waterford Garda Division,Liquor licensing offences (133),28.0
-2016,Waterford Garda Division,Litter offences (1221),4.0
-2016,Waterford Garda Division,Manslaughter (0112),1.0
-2016,Waterford Garda Division,Murder (0111),1.0
-2016,Waterford Garda Division,Murder-attempt (0311),0.0
-2016,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2016,Waterford Garda Division,Offences against government and its agents (151),4.0
-2016,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",179.0
-2016,Waterford Garda Division,Offences not elsewhere classified (16),75.0
-2016,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",162.0
-2016,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),68.0
-2016,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2016,Waterford Garda Division,Other assault (035),311.0
-2016,Waterford Garda Division,Other drug offences (103),7.0
-2016,Waterford Garda Division,Other road offences (1433),1044.0
-2016,Waterford Garda Division,Other sexual offences (022),7.0
-2016,Waterford Garda Division,"Other thefts, handling stolen property (084)",639.0
-2016,Waterford Garda Division,Perverting the course of justice (153),12.0
-2016,Waterford Garda Division,Possession of a firearm (1122),6.0
-2016,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",8.0
-2016,Waterford Garda Division,Possession of drugs for personal use (1022),302.0
-2016,Waterford Garda Division,Possession of drugs for sale or supply (1021),74.0
-2016,Waterford Garda Division,Prostitution offences (134),0.0
-2016,Waterford Garda Division,Public order and other social code offences (13),876.0
-2016,Waterford Garda Division,Public service vehicle offences (1442),9.0
-2016,Waterford Garda Division,Rape and sexual assault (021),60.0
-2016,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",3.0
-2016,Waterford Garda Division,Road and traffic offences (14),1845.0
-2016,Waterford Garda Division,Road transport - carriage of goods offences (1441),92.0
-2016,Waterford Garda Division,Roadworthiness/regulatory offences (143),67.0
-2016,Waterford Garda Division,Robbery from the person (0613),18.0
-2016,Waterford Garda Division,Robbery of an establishment or institution (0611),9.0
-2016,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2016,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",31.0
-2016,Waterford Garda Division,Sexual offences (02),67.0
-2016,Waterford Garda Division,Social code offences (n.e.c.) (136),12.0
-2016,Waterford Garda Division,Speeding (0415),901.0
-2016,Waterford Garda Division,Theft and related offences (08),1601.0
-2016,Waterford Garda Division,Theft from person (0821),38.0
-2016,Waterford Garda Division,Theft from shop (0822),862.0
-2016,Waterford Garda Division,Theft/taking of vehicle and related offences (081),62.0
-2016,Waterford Garda Division,Threat to kill or cause serious harm (0313),10.0
-2016,Waterford Garda Division,Trespass offences (132),39.0
-2016,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2016,Waterford Garda Division,Vehicle tax/registration offences (142),258.0
-2016,Waterford Garda Division,Weapons and explosives offences (11),81.0
-2017,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",12.0
-2017,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2017,Waterford Garda Division,Aggravated burglary (0711),8.0
-2017,Waterford Garda Division,Arson (1211),71.0
-2017,Waterford Garda Division,"Assault causing harm, poisoning (034)",134.0
-2017,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",554.0
-2017,Waterford Garda Division,Blackmail or extortion (0621),1.0
-2017,Waterford Garda Division,Burglary (not aggravated) (0712),538.0
-2017,Waterford Garda Division,Burglary and related offences (07),556.0
-2017,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2017,Waterford Garda Division,Controlled drug offences (10),463.0
-2017,Waterford Garda Division,Criminal damage (not arson) (1212),674.0
-2017,Waterford Garda Division,Cultivation or manufacture of drugs (1012),7.0
-2017,Waterford Garda Division,Damage to property and to the environment  offences (12),746.0
-2017,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2017,Waterford Garda Division,Dangerous driving leading to death (012),0.0
-2017,Waterford Garda Division,Dangerous or negligent acts (04),864.0
-2017,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),115.0
-2017,Waterford Garda Division,Discharging a firearm (1121),4.0
-2017,Waterford Garda Division,Disorderly conduct (131),838.0
-2017,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",119.0
-2017,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",237.0
-2017,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),8.0
-2017,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),229.0
-2017,Waterford Garda Division,Endangering traffic offences (0425),1.0
-2017,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),8.0
-2017,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2017,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2017,Waterford Garda Division,False imprisonment (0511),0.0
-2017,Waterford Garda Division,Fireworks offences (114),2.0
-2017,Waterford Garda Division,"Fraud, deception and related offences (09)",99.0
-2017,Waterford Garda Division,Harassment and related offences (033),28.0
-2017,Waterford Garda Division,Homicide & related offences (01),4.0
-2017,Waterford Garda Division,Human trafficking offences (0513),1.0
-2017,Waterford Garda Division,Importation of drugs (1011),0.0
-2017,Waterford Garda Division,Infanticide (0113),0.0
-2017,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",251.0
-2017,Waterford Garda Division,Kidnapping and related offences (05),1.0
-2017,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2017,Waterford Garda Division,Liquor licensing offences (133),34.0
-2017,Waterford Garda Division,Litter offences (1221),1.0
-2017,Waterford Garda Division,Manslaughter (0112),1.0
-2017,Waterford Garda Division,Murder (0111),3.0
-2017,Waterford Garda Division,Murder-attempt (0311),0.0
-2017,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2017,Waterford Garda Division,Offences against government and its agents (151),4.0
-2017,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",133.0
-2017,Waterford Garda Division,Offences not elsewhere classified (16),64.0
-2017,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",125.0
-2017,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),56.0
-2017,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2017,Waterford Garda Division,Other assault (035),379.0
-2017,Waterford Garda Division,Other drug offences (103),17.0
-2017,Waterford Garda Division,Other road offences (1433),906.0
-2017,Waterford Garda Division,Other sexual offences (022),8.0
-2017,Waterford Garda Division,"Other thefts, handling stolen property (084)",672.0
-2017,Waterford Garda Division,Perverting the course of justice (153),3.0
-2017,Waterford Garda Division,Possession of a firearm (1122),8.0
-2017,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",10.0
-2017,Waterford Garda Division,Possession of drugs for personal use (1022),359.0
-2017,Waterford Garda Division,Possession of drugs for sale or supply (1021),80.0
-2017,Waterford Garda Division,Prostitution offences (134),0.0
-2017,Waterford Garda Division,Public order and other social code offences (13),956.0
-2017,Waterford Garda Division,Public service vehicle offences (1442),12.0
-2017,Waterford Garda Division,Rape and sexual assault (021),88.0
-2017,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",8.0
-2017,Waterford Garda Division,Road and traffic offences (14),1699.0
-2017,Waterford Garda Division,Road transport - carriage of goods offences (1441),119.0
-2017,Waterford Garda Division,Roadworthiness/regulatory offences (143),53.0
-2017,Waterford Garda Division,Robbery from the person (0613),32.0
-2017,Waterford Garda Division,Robbery of an establishment or institution (0611),10.0
-2017,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2017,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",44.0
-2017,Waterford Garda Division,Sexual offences (02),96.0
-2017,Waterford Garda Division,Social code offences (n.e.c.) (136),38.0
-2017,Waterford Garda Division,Speeding (0415),491.0
-2017,Waterford Garda Division,Theft and related offences (08),1672.0
-2017,Waterford Garda Division,Theft from person (0821),40.0
-2017,Waterford Garda Division,Theft from shop (0822),907.0
-2017,Waterford Garda Division,Theft/taking of vehicle and related offences (081),53.0
-2017,Waterford Garda Division,Threat to kill or cause serious harm (0313),13.0
-2017,Waterford Garda Division,Trespass offences (132),38.0
-2017,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2017,Waterford Garda Division,Vehicle tax/registration offences (142),237.0
-2017,Waterford Garda Division,Weapons and explosives offences (11),70.0
-2018,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
-2018,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2018,Waterford Garda Division,Aggravated burglary (0711),8.0
-2018,Waterford Garda Division,Arson (1211),52.0
-2018,Waterford Garda Division,"Assault causing harm, poisoning (034)",144.0
-2018,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",627.0
-2018,Waterford Garda Division,Blackmail or extortion (0621),2.0
-2018,Waterford Garda Division,Burglary (not aggravated) (0712),396.0
-2018,Waterford Garda Division,Burglary and related offences (07),410.0
-2018,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2018,Waterford Garda Division,Controlled drug offences (10),569.0
-2018,Waterford Garda Division,Criminal damage (not arson) (1212),634.0
-2018,Waterford Garda Division,Cultivation or manufacture of drugs (1012),8.0
-2018,Waterford Garda Division,Damage to property and to the environment  offences (12),690.0
-2018,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2018,Waterford Garda Division,Dangerous driving leading to death (012),0.0
-2018,Waterford Garda Division,Dangerous or negligent acts (04),1098.0
-2018,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),141.0
-2018,Waterford Garda Division,Discharging a firearm (1121),3.0
-2018,Waterford Garda Division,Disorderly conduct (131),871.0
-2018,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",166.0
-2018,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",213.0
-2018,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),7.0
-2018,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),206.0
-2018,Waterford Garda Division,Endangering traffic offences (0425),6.0
-2018,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2018,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2018,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2018,Waterford Garda Division,False imprisonment (0511),0.0
-2018,Waterford Garda Division,Fireworks offences (114),4.0
-2018,Waterford Garda Division,"Fraud, deception and related offences (09)",171.0
-2018,Waterford Garda Division,Harassment and related offences (033),46.0
-2018,Waterford Garda Division,Homicide & related offences (01),5.0
-2018,Waterford Garda Division,Human trafficking offences (0513),0.0
-2018,Waterford Garda Division,Importation of drugs (1011),0.0
-2018,Waterford Garda Division,Infanticide (0113),0.0
-2018,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",283.0
-2018,Waterford Garda Division,Kidnapping and related offences (05),0.0
-2018,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2018,Waterford Garda Division,Liquor licensing offences (133),9.0
-2018,Waterford Garda Division,Litter offences (1221),4.0
-2018,Waterford Garda Division,Manslaughter (0112),3.0
-2018,Waterford Garda Division,Murder (0111),2.0
-2018,Waterford Garda Division,Murder-attempt (0311),0.0
-2018,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2018,Waterford Garda Division,Offences against government and its agents (151),6.0
-2018,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",169.0
-2018,Waterford Garda Division,Offences not elsewhere classified (16),51.0
-2018,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",163.0
-2018,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),57.0
-2018,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2018,Waterford Garda Division,Other assault (035),405.0
-2018,Waterford Garda Division,Other drug offences (103),9.0
-2018,Waterford Garda Division,Other road offences (1433),1179.0
-2018,Waterford Garda Division,Other sexual offences (022),7.0
-2018,Waterford Garda Division,"Other thefts, handling stolen property (084)",727.0
-2018,Waterford Garda Division,Perverting the course of justice (153),0.0
-2018,Waterford Garda Division,Possession of a firearm (1122),9.0
-2018,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",6.0
-2018,Waterford Garda Division,Possession of drugs for personal use (1022),484.0
-2018,Waterford Garda Division,Possession of drugs for sale or supply (1021),68.0
-2018,Waterford Garda Division,Prostitution offences (134),1.0
-2018,Waterford Garda Division,Public order and other social code offences (13),949.0
-2018,Waterford Garda Division,Public service vehicle offences (1442),11.0
-2018,Waterford Garda Division,Rape and sexual assault (021),101.0
-2018,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2018,Waterford Garda Division,Road and traffic offences (14),1981.0
-2018,Waterford Garda Division,Road transport - carriage of goods offences (1441),53.0
-2018,Waterford Garda Division,Roadworthiness/regulatory offences (143),54.0
-2018,Waterford Garda Division,Robbery from the person (0613),33.0
-2018,Waterford Garda Division,Robbery of an establishment or institution (0611),14.0
-2018,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2018,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",49.0
-2018,Waterford Garda Division,Sexual offences (02),108.0
-2018,Waterford Garda Division,Social code offences (n.e.c.) (136),23.0
-2018,Waterford Garda Division,Speeding (0415),724.0
-2018,Waterford Garda Division,Theft and related offences (08),1770.0
-2018,Waterford Garda Division,Theft from person (0821),36.0
-2018,Waterford Garda Division,Theft from shop (0822),940.0
-2018,Waterford Garda Division,Theft/taking of vehicle and related offences (081),67.0
-2018,Waterford Garda Division,Threat to kill or cause serious harm (0313),32.0
-2018,Waterford Garda Division,Trespass offences (132),44.0
-2018,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2018,Waterford Garda Division,Vehicle tax/registration offences (142),232.0
-2018,Waterford Garda Division,Weapons and explosives offences (11),73.0
-2019,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2019,Waterford Garda Division,Abduction of person under 16 years of age (0512),1.0
-2019,Waterford Garda Division,Aggravated burglary (0711),12.0
-2019,Waterford Garda Division,Arson (1211),66.0
-2019,Waterford Garda Division,"Assault causing harm, poisoning (034)",157.0
-2019,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",642.0
-2019,Waterford Garda Division,Blackmail or extortion (0621),4.0
-2019,Waterford Garda Division,Burglary (not aggravated) (0712),348.0
-2019,Waterford Garda Division,Burglary and related offences (07),368.0
-2019,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2019,Waterford Garda Division,Controlled drug offences (10),757.0
-2019,Waterford Garda Division,Criminal damage (not arson) (1212),587.0
-2019,Waterford Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2019,Waterford Garda Division,Damage to property and to the environment  offences (12),657.0
-2019,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2019,Waterford Garda Division,Dangerous driving leading to death (012),1.0
-2019,Waterford Garda Division,Dangerous or negligent acts (04),1096.0
-2019,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),161.0
-2019,Waterford Garda Division,Discharging a firearm (1121),1.0
-2019,Waterford Garda Division,Disorderly conduct (131),895.0
-2019,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",146.0
-2019,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",238.0
-2019,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),31.0
-2019,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),207.0
-2019,Waterford Garda Division,Endangering traffic offences (0425),8.0
-2019,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2019,Waterford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2019,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2019,Waterford Garda Division,False imprisonment (0511),3.0
-2019,Waterford Garda Division,Fireworks offences (114),8.0
-2019,Waterford Garda Division,"Fraud, deception and related offences (09)",164.0
-2019,Waterford Garda Division,Harassment and related offences (033),40.0
-2019,Waterford Garda Division,Homicide & related offences (01),1.0
-2019,Waterford Garda Division,Human trafficking offences (0513),1.0
-2019,Waterford Garda Division,Importation of drugs (1011),0.0
-2019,Waterford Garda Division,Infanticide (0113),0.0
-2019,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",208.0
-2019,Waterford Garda Division,Kidnapping and related offences (05),5.0
-2019,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2019,Waterford Garda Division,Liquor licensing offences (133),13.0
-2019,Waterford Garda Division,Litter offences (1221),4.0
-2019,Waterford Garda Division,Manslaughter (0112),0.0
-2019,Waterford Garda Division,Murder (0111),0.0
-2019,Waterford Garda Division,Murder-attempt (0311),1.0
-2019,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2019,Waterford Garda Division,Offences against government and its agents (151),7.0
-2019,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",210.0
-2019,Waterford Garda Division,Offences not elsewhere classified (16),47.0
-2019,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",202.0
-2019,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),57.0
-2019,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2019,Waterford Garda Division,Other assault (035),406.0
-2019,Waterford Garda Division,Other drug offences (103),15.0
-2019,Waterford Garda Division,Other road offences (1433),1067.0
-2019,Waterford Garda Division,Other sexual offences (022),12.0
-2019,Waterford Garda Division,"Other thefts, handling stolen property (084)",592.0
-2019,Waterford Garda Division,Perverting the course of justice (153),1.0
-2019,Waterford Garda Division,Possession of a firearm (1122),7.0
-2019,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",8.0
-2019,Waterford Garda Division,Possession of drugs for personal use (1022),604.0
-2019,Waterford Garda Division,Possession of drugs for sale or supply (1021),127.0
-2019,Waterford Garda Division,Prostitution offences (134),5.0
-2019,Waterford Garda Division,Public order and other social code offences (13),963.0
-2019,Waterford Garda Division,Public service vehicle offences (1442),14.0
-2019,Waterford Garda Division,Rape and sexual assault (021),102.0
-2019,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2019,Waterford Garda Division,Road and traffic offences (14),1706.0
-2019,Waterford Garda Division,Road transport - carriage of goods offences (1441),16.0
-2019,Waterford Garda Division,Roadworthiness/regulatory offences (143),37.0
-2019,Waterford Garda Division,Robbery from the person (0613),25.0
-2019,Waterford Garda Division,Robbery of an establishment or institution (0611),4.0
-2019,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2019,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",35.0
-2019,Waterford Garda Division,Sexual offences (02),114.0
-2019,Waterford Garda Division,Social code offences (n.e.c.) (136),16.0
-2019,Waterford Garda Division,Speeding (0415),678.0
-2019,Waterford Garda Division,Theft and related offences (08),1700.0
-2019,Waterford Garda Division,Theft from person (0821),29.0
-2019,Waterford Garda Division,Theft from shop (0822),1026.0
-2019,Waterford Garda Division,Theft/taking of vehicle and related offences (081),53.0
-2019,Waterford Garda Division,Threat to kill or cause serious harm (0313),38.0
-2019,Waterford Garda Division,Trespass offences (132),32.0
-2019,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2019,Waterford Garda Division,Vehicle tax/registration offences (142),217.0
-2019,Waterford Garda Division,Weapons and explosives offences (11),74.0
-2020,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
-2020,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2020,Waterford Garda Division,Aggravated burglary (0711),10.0
-2020,Waterford Garda Division,Arson (1211),36.0
-2020,Waterford Garda Division,"Assault causing harm, poisoning (034)",134.0
-2020,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",629.0
-2020,Waterford Garda Division,Blackmail or extortion (0621),8.0
-2020,Waterford Garda Division,Burglary (not aggravated) (0712),212.0
-2020,Waterford Garda Division,Burglary and related offences (07),226.0
-2020,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2020,Waterford Garda Division,Controlled drug offences (10),795.0
-2020,Waterford Garda Division,Criminal damage (not arson) (1212),580.0
-2020,Waterford Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2020,Waterford Garda Division,Damage to property and to the environment  offences (12),620.0
-2020,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2020,Waterford Garda Division,Dangerous driving leading to death (012),0.0
-2020,Waterford Garda Division,Dangerous or negligent acts (04),1213.0
-2020,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),151.0
-2020,Waterford Garda Division,Discharging a firearm (1121),1.0
-2020,Waterford Garda Division,Disorderly conduct (131),808.0
-2020,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",192.0
-2020,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",303.0
-2020,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),145.0
-2020,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),158.0
-2020,Waterford Garda Division,Endangering traffic offences (0425),2.0
-2020,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),8.0
-2020,Waterford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2020,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2020,Waterford Garda Division,False imprisonment (0511),1.0
-2020,Waterford Garda Division,Fireworks offences (114),6.0
-2020,Waterford Garda Division,"Fraud, deception and related offences (09)",197.0
-2020,Waterford Garda Division,Harassment and related offences (033),46.0
-2020,Waterford Garda Division,Homicide & related offences (01),1.0
-2020,Waterford Garda Division,Human trafficking offences (0513),0.0
-2020,Waterford Garda Division,Importation of drugs (1011),0.0
-2020,Waterford Garda Division,Infanticide (0113),0.0
-2020,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",288.0
-2020,Waterford Garda Division,Kidnapping and related offences (05),1.0
-2020,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2020,Waterford Garda Division,Liquor licensing offences (133),13.0
-2020,Waterford Garda Division,Litter offences (1221),4.0
-2020,Waterford Garda Division,Manslaughter (0112),1.0
-2020,Waterford Garda Division,Murder (0111),0.0
-2020,Waterford Garda Division,Murder-attempt (0311),0.0
-2020,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2020,Waterford Garda Division,Offences against government and its agents (151),7.0
-2020,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",159.0
-2020,Waterford Garda Division,Offences not elsewhere classified (16),43.0
-2020,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",152.0
-2020,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),89.0
-2020,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2020,Waterford Garda Division,Other assault (035),369.0
-2020,Waterford Garda Division,Other drug offences (103),15.0
-2020,Waterford Garda Division,Other road offences (1433),1221.0
-2020,Waterford Garda Division,Other sexual offences (022),5.0
-2020,Waterford Garda Division,"Other thefts, handling stolen property (084)",429.0
-2020,Waterford Garda Division,Perverting the course of justice (153),0.0
-2020,Waterford Garda Division,Possession of a firearm (1122),13.0
-2020,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",4.0
-2020,Waterford Garda Division,Possession of drugs for personal use (1022),544.0
-2020,Waterford Garda Division,Possession of drugs for sale or supply (1021),225.0
-2020,Waterford Garda Division,Prostitution offences (134),2.0
-2020,Waterford Garda Division,Public order and other social code offences (13),923.0
-2020,Waterford Garda Division,Public service vehicle offences (1442),14.0
-2020,Waterford Garda Division,Rape and sexual assault (021),82.0
-2020,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2020,Waterford Garda Division,Road and traffic offences (14),1990.0
-2020,Waterford Garda Division,Road transport - carriage of goods offences (1441),2.0
-2020,Waterford Garda Division,Roadworthiness/regulatory offences (143),47.0
-2020,Waterford Garda Division,Robbery from the person (0613),24.0
-2020,Waterford Garda Division,Robbery of an establishment or institution (0611),6.0
-2020,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2020,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",40.0
-2020,Waterford Garda Division,Sexual offences (02),87.0
-2020,Waterford Garda Division,Social code offences (n.e.c.) (136),48.0
-2020,Waterford Garda Division,Speeding (0415),740.0
-2020,Waterford Garda Division,Theft and related offences (08),1081.0
-2020,Waterford Garda Division,Theft from person (0821),13.0
-2020,Waterford Garda Division,Theft from shop (0822),584.0
-2020,Waterford Garda Division,Theft/taking of vehicle and related offences (081),55.0
-2020,Waterford Garda Division,Threat to kill or cause serious harm (0313),80.0
-2020,Waterford Garda Division,Trespass offences (132),50.0
-2020,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2020,Waterford Garda Division,Vehicle tax/registration offences (142),225.0
-2020,Waterford Garda Division,Weapons and explosives offences (11),110.0
-2021,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",18.0
-2021,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2021,Waterford Garda Division,Aggravated burglary (0711),5.0
-2021,Waterford Garda Division,Arson (1211),41.0
-2021,Waterford Garda Division,"Assault causing harm, poisoning (034)",191.0
-2021,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",739.0
-2021,Waterford Garda Division,Blackmail or extortion (0621),9.0
-2021,Waterford Garda Division,Burglary (not aggravated) (0712),177.0
-2021,Waterford Garda Division,Burglary and related offences (07),185.0
-2021,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2021,Waterford Garda Division,Controlled drug offences (10),910.0
-2021,Waterford Garda Division,Criminal damage (not arson) (1212),519.0
-2021,Waterford Garda Division,Cultivation or manufacture of drugs (1012),5.0
-2021,Waterford Garda Division,Damage to property and to the environment  offences (12),561.0
-2021,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2021,Waterford Garda Division,Dangerous driving leading to death (012),1.0
-2021,Waterford Garda Division,Dangerous or negligent acts (04),1219.0
-2021,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),158.0
-2021,Waterford Garda Division,Discharging a firearm (1121),1.0
-2021,Waterford Garda Division,Disorderly conduct (131),945.0
-2021,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",176.0
-2021,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",316.0
-2021,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),137.0
-2021,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),179.0
-2021,Waterford Garda Division,Endangering traffic offences (0425),1.0
-2021,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),3.0
-2021,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2021,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2021,Waterford Garda Division,False imprisonment (0511),5.0
-2021,Waterford Garda Division,Fireworks offences (114),1.0
-2021,Waterford Garda Division,"Fraud, deception and related offences (09)",371.0
-2021,Waterford Garda Division,Harassment and related offences (033),30.0
-2021,Waterford Garda Division,Homicide & related offences (01),1.0
-2021,Waterford Garda Division,Human trafficking offences (0513),0.0
-2021,Waterford Garda Division,Importation of drugs (1011),0.0
-2021,Waterford Garda Division,Infanticide (0113),0.0
-2021,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",263.0
-2021,Waterford Garda Division,Kidnapping and related offences (05),5.0
-2021,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2021,Waterford Garda Division,Liquor licensing offences (133),7.0
-2021,Waterford Garda Division,Litter offences (1221),1.0
-2021,Waterford Garda Division,Manslaughter (0112),0.0
-2021,Waterford Garda Division,Murder (0111),0.0
-2021,Waterford Garda Division,Murder-attempt (0311),0.0
-2021,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2021,Waterford Garda Division,Offences against government and its agents (151),7.0
-2021,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",197.0
-2021,Waterford Garda Division,Offences not elsewhere classified (16),36.0
-2021,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",189.0
-2021,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),82.0
-2021,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2021,Waterford Garda Division,Other assault (035),435.0
-2021,Waterford Garda Division,Other drug offences (103),18.0
-2021,Waterford Garda Division,Other road offences (1433),1137.0
-2021,Waterford Garda Division,Other sexual offences (022),9.0
-2021,Waterford Garda Division,"Other thefts, handling stolen property (084)",377.0
-2021,Waterford Garda Division,Perverting the course of justice (153),1.0
-2021,Waterford Garda Division,Possession of a firearm (1122),2.0
-2021,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2021,Waterford Garda Division,Possession of drugs for personal use (1022),671.0
-2021,Waterford Garda Division,Possession of drugs for sale or supply (1021),216.0
-2021,Waterford Garda Division,Prostitution offences (134),7.0
-2021,Waterford Garda Division,Public order and other social code offences (13),1424.0
-2021,Waterford Garda Division,Public service vehicle offences (1442),10.0
-2021,Waterford Garda Division,Rape and sexual assault (021),97.0
-2021,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2021,Waterford Garda Division,Road and traffic offences (14),1832.0
-2021,Waterford Garda Division,Road transport - carriage of goods offences (1441),5.0
-2021,Waterford Garda Division,Roadworthiness/regulatory offences (143),28.0
-2021,Waterford Garda Division,Robbery from the person (0613),20.0
-2021,Waterford Garda Division,Robbery of an establishment or institution (0611),4.0
-2021,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2021,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",35.0
-2021,Waterford Garda Division,Sexual offences (02),106.0
-2021,Waterford Garda Division,Social code offences (n.e.c.) (136),416.0
-2021,Waterford Garda Division,Speeding (0415),723.0
-2021,Waterford Garda Division,Theft and related offences (08),1082.0
-2021,Waterford Garda Division,Theft from person (0821),16.0
-2021,Waterford Garda Division,Theft from shop (0822),630.0
-2021,Waterford Garda Division,Theft/taking of vehicle and related offences (081),59.0
-2021,Waterford Garda Division,Threat to kill or cause serious harm (0313),83.0
-2021,Waterford Garda Division,Trespass offences (132),48.0
-2021,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2021,Waterford Garda Division,Vehicle tax/registration offences (142),212.0
-2021,Waterford Garda Division,Weapons and explosives offences (11),86.0
-2022,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
-2022,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2022,Waterford Garda Division,Aggravated burglary (0711),14.0
-2022,Waterford Garda Division,Arson (1211),37.0
-2022,Waterford Garda Division,"Assault causing harm, poisoning (034)",236.0
-2022,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",784.0
-2022,Waterford Garda Division,Blackmail or extortion (0621),8.0
-2022,Waterford Garda Division,Burglary (not aggravated) (0712),197.0
-2022,Waterford Garda Division,Burglary and related offences (07),214.0
-2022,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2022,Waterford Garda Division,Controlled drug offences (10),941.0
-2022,Waterford Garda Division,Criminal damage (not arson) (1212),599.0
-2022,Waterford Garda Division,Cultivation or manufacture of drugs (1012),8.0
-2022,Waterford Garda Division,Damage to property and to the environment  offences (12),639.0
-2022,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2022,Waterford Garda Division,Dangerous driving leading to death (012),0.0
-2022,Waterford Garda Division,Dangerous or negligent acts (04),1107.0
-2022,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),150.0
-2022,Waterford Garda Division,Discharging a firearm (1121),1.0
-2022,Waterford Garda Division,Disorderly conduct (131),1097.0
-2022,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",154.0
-2022,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",288.0
-2022,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),88.0
-2022,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),200.0
-2022,Waterford Garda Division,Endangering traffic offences (0425),0.0
-2022,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2022,Waterford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2022,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2022,Waterford Garda Division,False imprisonment (0511),2.0
-2022,Waterford Garda Division,Fireworks offences (114),6.0
-2022,Waterford Garda Division,"Fraud, deception and related offences (09)",280.0
-2022,Waterford Garda Division,Harassment and related offences (033),36.0
-2022,Waterford Garda Division,Homicide & related offences (01),1.0
-2022,Waterford Garda Division,Human trafficking offences (0513),1.0
-2022,Waterford Garda Division,Importation of drugs (1011),0.0
-2022,Waterford Garda Division,Infanticide (0113),0.0
-2022,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",209.0
-2022,Waterford Garda Division,Kidnapping and related offences (05),3.0
-2022,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2022,Waterford Garda Division,Liquor licensing offences (133),1.0
-2022,Waterford Garda Division,Litter offences (1221),3.0
-2022,Waterford Garda Division,Manslaughter (0112),0.0
-2022,Waterford Garda Division,Murder (0111),1.0
-2022,Waterford Garda Division,Murder-attempt (0311),0.0
-2022,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2022,Waterford Garda Division,Offences against government and its agents (151),4.0
-2022,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",229.0
-2022,Waterford Garda Division,Offences not elsewhere classified (16),39.0
-2022,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",221.0
-2022,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),86.0
-2022,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),4.0
-2022,Waterford Garda Division,Other assault (035),431.0
-2022,Waterford Garda Division,Other drug offences (103),10.0
-2022,Waterford Garda Division,Other road offences (1433),901.0
-2022,Waterford Garda Division,Other sexual offences (022),15.0
-2022,Waterford Garda Division,"Other thefts, handling stolen property (084)",473.0
-2022,Waterford Garda Division,Perverting the course of justice (153),0.0
-2022,Waterford Garda Division,Possession of a firearm (1122),11.0
-2022,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2022,Waterford Garda Division,Possession of drugs for personal use (1022),720.0
-2022,Waterford Garda Division,Possession of drugs for sale or supply (1021),203.0
-2022,Waterford Garda Division,Prostitution offences (134),4.0
-2022,Waterford Garda Division,Public order and other social code offences (13),1165.0
-2022,Waterford Garda Division,Public service vehicle offences (1442),17.0
-2022,Waterford Garda Division,Rape and sexual assault (021),117.0
-2022,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2022,Waterford Garda Division,Road and traffic offences (14),1542.0
-2022,Waterford Garda Division,Road transport - carriage of goods offences (1441),0.0
-2022,Waterford Garda Division,Roadworthiness/regulatory offences (143),24.0
-2022,Waterford Garda Division,Robbery from the person (0613),30.0
-2022,Waterford Garda Division,Robbery of an establishment or institution (0611),3.0
-2022,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2022,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",42.0
-2022,Waterford Garda Division,Sexual offences (02),132.0
-2022,Waterford Garda Division,Social code offences (n.e.c.) (136),18.0
-2022,Waterford Garda Division,Speeding (0415),658.0
-2022,Waterford Garda Division,Theft and related offences (08),1585.0
-2022,Waterford Garda Division,Theft from person (0821),28.0
-2022,Waterford Garda Division,Theft from shop (0822),1023.0
-2022,Waterford Garda Division,Theft/taking of vehicle and related offences (081),61.0
-2022,Waterford Garda Division,Threat to kill or cause serious harm (0313),81.0
-2022,Waterford Garda Division,Trespass offences (132),45.0
-2022,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2022,Waterford Garda Division,Vehicle tax/registration offences (142),237.0
-2022,Waterford Garda Division,Weapons and explosives offences (11),105.0
-2023,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
-2023,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2023,Waterford Garda Division,Aggravated burglary (0711),9.0
-2023,Waterford Garda Division,Arson (1211),55.0
-2023,Waterford Garda Division,"Assault causing harm, poisoning (034)",184.0
-2023,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",707.0
-2023,Waterford Garda Division,Blackmail or extortion (0621),29.0
-2023,Waterford Garda Division,Burglary (not aggravated) (0712),172.0
-2023,Waterford Garda Division,Burglary and related offences (07),188.0
-2023,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2023,Waterford Garda Division,Controlled drug offences (10),909.0
-2023,Waterford Garda Division,Criminal damage (not arson) (1212),687.0
-2023,Waterford Garda Division,Cultivation or manufacture of drugs (1012),3.0
-2023,Waterford Garda Division,Damage to property and to the environment  offences (12),745.0
-2023,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2023,Waterford Garda Division,Dangerous driving leading to death (012),0.0
-2023,Waterford Garda Division,Dangerous or negligent acts (04),1004.0
-2023,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),154.0
-2023,Waterford Garda Division,Discharging a firearm (1121),0.0
-2023,Waterford Garda Division,Disorderly conduct (131),961.0
-2023,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",101.0
-2023,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",236.0
-2023,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),54.0
-2023,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),182.0
-2023,Waterford Garda Division,Endangering traffic offences (0425),3.0
-2023,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),9.0
-2023,Waterford Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2023,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2023,Waterford Garda Division,False imprisonment (0511),7.0
-2023,Waterford Garda Division,Fireworks offences (114),7.0
-2023,Waterford Garda Division,"Fraud, deception and related offences (09)",139.0
-2023,Waterford Garda Division,Harassment and related offences (033),40.0
-2023,Waterford Garda Division,Homicide & related offences (01),0.0
-2023,Waterford Garda Division,Human trafficking offences (0513),0.0
-2023,Waterford Garda Division,Importation of drugs (1011),0.0
-2023,Waterford Garda Division,Infanticide (0113),0.0
-2023,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",227.0
-2023,Waterford Garda Division,Kidnapping and related offences (05),7.0
-2023,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2023,Waterford Garda Division,Liquor licensing offences (133),13.0
-2023,Waterford Garda Division,Litter offences (1221),3.0
-2023,Waterford Garda Division,Manslaughter (0112),0.0
-2023,Waterford Garda Division,Murder (0111),0.0
-2023,Waterford Garda Division,Murder-attempt (0311),0.0
-2023,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2023,Waterford Garda Division,Offences against government and its agents (151),8.0
-2023,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",207.0
-2023,Waterford Garda Division,Offences not elsewhere classified (16),38.0
-2023,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",198.0
-2023,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),105.0
-2023,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2023,Waterford Garda Division,Other assault (035),417.0
-2023,Waterford Garda Division,Other drug offences (103),12.0
-2023,Waterford Garda Division,Other road offences (1433),716.0
-2023,Waterford Garda Division,Other sexual offences (022),9.0
-2023,Waterford Garda Division,"Other thefts, handling stolen property (084)",587.0
-2023,Waterford Garda Division,Perverting the course of justice (153),1.0
-2023,Waterford Garda Division,Possession of a firearm (1122),5.0
-2023,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",7.0
-2023,Waterford Garda Division,Possession of drugs for personal use (1022),683.0
-2023,Waterford Garda Division,Possession of drugs for sale or supply (1021),211.0
-2023,Waterford Garda Division,Prostitution offences (134),2.0
-2023,Waterford Garda Division,Public order and other social code offences (13),1023.0
-2023,Waterford Garda Division,Public service vehicle offences (1442),16.0
-2023,Waterford Garda Division,Rape and sexual assault (021),87.0
-2023,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2023,Waterford Garda Division,Road and traffic offences (14),1250.0
-2023,Waterford Garda Division,Road transport - carriage of goods offences (1441),3.0
-2023,Waterford Garda Division,Roadworthiness/regulatory offences (143),23.0
-2023,Waterford Garda Division,Robbery from the person (0613),23.0
-2023,Waterford Garda Division,Robbery of an establishment or institution (0611),6.0
-2023,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2023,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",58.0
-2023,Waterford Garda Division,Sexual offences (02),96.0
-2023,Waterford Garda Division,Social code offences (n.e.c.) (136),11.0
-2023,Waterford Garda Division,Speeding (0415),593.0
-2023,Waterford Garda Division,Theft and related offences (08),1913.0
-2023,Waterford Garda Division,Theft from person (0821),24.0
-2023,Waterford Garda Division,Theft from shop (0822),1214.0
-2023,Waterford Garda Division,Theft/taking of vehicle and related offences (081),88.0
-2023,Waterford Garda Division,Threat to kill or cause serious harm (0313),66.0
-2023,Waterford Garda Division,Trespass offences (132),34.0
-2023,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2023,Waterford Garda Division,Vehicle tax/registration offences (142),162.0
-2023,Waterford Garda Division,Weapons and explosives offences (11),118.0
-2024,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",2.0
-2024,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2024,Waterford Garda Division,Aggravated burglary (0711),6.0
-2024,Waterford Garda Division,Arson (1211),56.0
-2024,Waterford Garda Division,"Assault causing harm, poisoning (034)",196.0
-2024,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",767.0
-2024,Waterford Garda Division,Blackmail or extortion (0621),16.0
-2024,Waterford Garda Division,Burglary (not aggravated) (0712),173.0
-2024,Waterford Garda Division,Burglary and related offences (07),181.0
-2024,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2024,Waterford Garda Division,Controlled drug offences (10),777.0
-2024,Waterford Garda Division,Criminal damage (not arson) (1212),681.0
-2024,Waterford Garda Division,Cultivation or manufacture of drugs (1012),1.0
-2024,Waterford Garda Division,Damage to property and to the environment  offences (12),738.0
-2024,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2024,Waterford Garda Division,Dangerous driving leading to death (012),4.0
-2024,Waterford Garda Division,Dangerous or negligent acts (04),915.0
-2024,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),178.0
-2024,Waterford Garda Division,Discharging a firearm (1121),2.0
-2024,Waterford Garda Division,Disorderly conduct (131),1066.0
-2024,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",116.0
-2024,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",224.0
-2024,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),64.0
-2024,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),160.0
-2024,Waterford Garda Division,Endangering traffic offences (0425),4.0
-2024,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2024,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2024,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2024,Waterford Garda Division,False imprisonment (0511),7.0
-2024,Waterford Garda Division,Fireworks offences (114),5.0
-2024,Waterford Garda Division,"Fraud, deception and related offences (09)",0.0
-2024,Waterford Garda Division,Harassment and related offences (033),55.0
-2024,Waterford Garda Division,Homicide & related offences (01),5.0
-2024,Waterford Garda Division,Human trafficking offences (0513),2.0
-2024,Waterford Garda Division,Importation of drugs (1011),3.0
-2024,Waterford Garda Division,Infanticide (0113),0.0
-2024,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",247.0
-2024,Waterford Garda Division,Kidnapping and related offences (05),9.0
-2024,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2024,Waterford Garda Division,Liquor licensing offences (133),3.0
-2024,Waterford Garda Division,Litter offences (1221),1.0
-2024,Waterford Garda Division,Manslaughter (0112),0.0
-2024,Waterford Garda Division,Murder (0111),1.0
-2024,Waterford Garda Division,Murder-attempt (0311),0.0
-2024,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2024,Waterford Garda Division,Offences against government and its agents (151),0.0
-2024,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",202.0
-2024,Waterford Garda Division,Offences not elsewhere classified (16),38.0
-2024,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",201.0
-2024,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),78.0
-2024,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2024,Waterford Garda Division,Other assault (035),430.0
-2024,Waterford Garda Division,Other drug offences (103),7.0
-2024,Waterford Garda Division,Other road offences (1433),773.0
-2024,Waterford Garda Division,Other sexual offences (022),18.0
-2024,Waterford Garda Division,"Other thefts, handling stolen property (084)",445.0
-2024,Waterford Garda Division,Perverting the course of justice (153),1.0
-2024,Waterford Garda Division,Possession of a firearm (1122),6.0
-2024,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2024,Waterford Garda Division,Possession of drugs for personal use (1022),615.0
-2024,Waterford Garda Division,Possession of drugs for sale or supply (1021),151.0
-2024,Waterford Garda Division,Prostitution offences (134),1.0
-2024,Waterford Garda Division,Public order and other social code offences (13),1141.0
-2024,Waterford Garda Division,Public service vehicle offences (1442),20.0
-2024,Waterford Garda Division,Rape and sexual assault (021),124.0
-2024,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2024,Waterford Garda Division,Road and traffic offences (14),1332.0
-2024,Waterford Garda Division,Road transport - carriage of goods offences (1441),0.0
-2024,Waterford Garda Division,Roadworthiness/regulatory offences (143),16.0
-2024,Waterford Garda Division,Robbery from the person (0613),21.0
-2024,Waterford Garda Division,Robbery of an establishment or institution (0611),8.0
-2024,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2024,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",45.0
-2024,Waterford Garda Division,Sexual offences (02),142.0
-2024,Waterford Garda Division,Social code offences (n.e.c.) (136),27.0
-2024,Waterford Garda Division,Speeding (0415),502.0
-2024,Waterford Garda Division,Theft and related offences (08),1592.0
-2024,Waterford Garda Division,Theft from person (0821),27.0
-2024,Waterford Garda Division,Theft from shop (0822),994.0
-2024,Waterford Garda Division,Theft/taking of vehicle and related offences (081),126.0
-2024,Waterford Garda Division,Threat to kill or cause serious harm (0313),86.0
-2024,Waterford Garda Division,Trespass offences (132),44.0
-2024,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2024,Waterford Garda Division,Vehicle tax/registration offences (142),159.0
-2024,Waterford Garda Division,Weapons and explosives offences (11),91.0
-2025,Waterford Garda Division,"Abandoning a child, child neglect and cruelty (0422)",4.0
-2025,Waterford Garda Division,Abduction of person under 16 years of age (0512),0.0
-2025,Waterford Garda Division,Aggravated burglary (0711),2.0
-2025,Waterford Garda Division,Arson (1211),27.0
-2025,Waterford Garda Division,"Assault causing harm, poisoning (034)",151.0
-2025,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",644.0
-2025,Waterford Garda Division,Blackmail or extortion (0621),15.0
-2025,Waterford Garda Division,Burglary (not aggravated) (0712),120.0
-2025,Waterford Garda Division,Burglary and related offences (07),122.0
-2025,Waterford Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2025,Waterford Garda Division,Controlled drug offences (10),460.0
-2025,Waterford Garda Division,Criminal damage (not arson) (1212),455.0
-2025,Waterford Garda Division,Cultivation or manufacture of drugs (1012),3.0
-2025,Waterford Garda Division,Damage to property and to the environment  offences (12),482.0
-2025,Waterford Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2025,Waterford Garda Division,Dangerous driving leading to death (012),1.0
-2025,Waterford Garda Division,Dangerous or negligent acts (04),578.0
-2025,Waterford Garda Division,Dangerous/careless driving and motorway offences (0414),141.0
-2025,Waterford Garda Division,Discharging a firearm (1121),0.0
-2025,Waterford Garda Division,Disorderly conduct (131),706.0
-2025,Waterford Garda Division,"Driving licence-failure to have, produce, etc. (1411)",100.0
-2025,Waterford Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",133.0
-2025,Waterford Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2025,Waterford Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),133.0
-2025,Waterford Garda Division,Endangering traffic offences (0425),8.0
-2025,Waterford Garda Division,Endangerment with potential for serious harm/death (0421),8.0
-2025,Waterford Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2025,Waterford Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2025,Waterford Garda Division,False imprisonment (0511),1.0
-2025,Waterford Garda Division,Fireworks offences (114),2.0
-2025,Waterford Garda Division,"Fraud, deception and related offences (09)",0.0
-2025,Waterford Garda Division,Harassment and related offences (033),56.0
-2025,Waterford Garda Division,Homicide & related offences (01),3.0
-2025,Waterford Garda Division,Human trafficking offences (0513),0.0
-2025,Waterford Garda Division,Importation of drugs (1011),1.0
-2025,Waterford Garda Division,Infanticide (0113),0.0
-2025,Waterford Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",225.0
-2025,Waterford Garda Division,Kidnapping and related offences (05),1.0
-2025,Waterford Garda Division,Light rail offences (Luas) (1443),0.0
-2025,Waterford Garda Division,Liquor licensing offences (133),2.0
-2025,Waterford Garda Division,Litter offences (1221),0.0
-2025,Waterford Garda Division,Manslaughter (0112),0.0
-2025,Waterford Garda Division,Murder (0111),2.0
-2025,Waterford Garda Division,Murder-attempt (0311),0.0
-2025,Waterford Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2025,Waterford Garda Division,Offences against government and its agents (151),7.0
-2025,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime (15)",178.0
-2025,Waterford Garda Division,Offences not elsewhere classified (16),35.0
-2025,Waterford Garda Division,"Offences while in custody, breach of court orders (157)",170.0
-2025,Waterford Garda Division,Offensive weapons offences (n.e.c.) (113),59.0
-2025,Waterford Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2025,Waterford Garda Division,Other assault (035),378.0
-2025,Waterford Garda Division,Other drug offences (103),10.0
-2025,Waterford Garda Division,Other road offences (1433),412.0
-2025,Waterford Garda Division,Other sexual offences (022),15.0
-2025,Waterford Garda Division,"Other thefts, handling stolen property (084)",347.0
-2025,Waterford Garda Division,Perverting the course of justice (153),1.0
-2025,Waterford Garda Division,Possession of a firearm (1122),5.0
-2025,Waterford Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2025,Waterford Garda Division,Possession of drugs for personal use (1022),349.0
-2025,Waterford Garda Division,Possession of drugs for sale or supply (1021),97.0
-2025,Waterford Garda Division,Prostitution offences (134),0.0
-2025,Waterford Garda Division,Public order and other social code offences (13),759.0
-2025,Waterford Garda Division,Public service vehicle offences (1442),4.0
-2025,Waterford Garda Division,Rape and sexual assault (021),70.0
-2025,Waterford Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2025,Waterford Garda Division,Road and traffic offences (14),831.0
-2025,Waterford Garda Division,Road transport - carriage of goods offences (1441),6.0
-2025,Waterford Garda Division,Roadworthiness/regulatory offences (143),6.0
-2025,Waterford Garda Division,Robbery from the person (0613),24.0
-2025,Waterford Garda Division,Robbery of an establishment or institution (0611),5.0
-2025,Waterford Garda Division,Robbery of cash or goods in transit (0612),0.0
-2025,Waterford Garda Division,"Robbery, extortion and hijacking offences (06)",45.0
-2025,Waterford Garda Division,Sexual offences (02),85.0
-2025,Waterford Garda Division,Social code offences (n.e.c.) (136),17.0
-2025,Waterford Garda Division,Speeding (0415),284.0
-2025,Waterford Garda Division,Theft and related offences (08),1277.0
-2025,Waterford Garda Division,Theft from person (0821),20.0
-2025,Waterford Garda Division,Theft from shop (0822),787.0
-2025,Waterford Garda Division,Theft/taking of vehicle and related offences (081),123.0
-2025,Waterford Garda Division,Threat to kill or cause serious harm (0313),59.0
-2025,Waterford Garda Division,Trespass offences (132),33.0
-2025,Waterford Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2025,Waterford Garda Division,Vehicle tax/registration offences (142),78.0
-2025,Waterford Garda Division,Weapons and explosives offences (11),66.0
+2003,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",378.0
+2003,Waterford Garda Division,Burglary and related offences,850.0
+2003,Waterford Garda Division,Controlled drug offences,659.0
+2003,Waterford Garda Division,Damage to property and to the environment  offences,801.0
+2003,Waterford Garda Division,Dangerous or negligent acts,613.0
+2003,Waterford Garda Division,"Fraud, deception and related offences",139.0
+2003,Waterford Garda Division,Homicide & related offences,5.0
+2003,Waterford Garda Division,Kidnapping and related offences,4.0
+2003,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",300.0
+2003,Waterford Garda Division,Offences not elsewhere classified,44.0
+2003,Waterford Garda Division,Public order and other social code offences,2234.0
+2003,Waterford Garda Division,Road and traffic offences,889.0
+2003,Waterford Garda Division,"Robbery, extortion and hijacking offences",41.0
+2003,Waterford Garda Division,Sexual offences,77.0
+2003,Waterford Garda Division,Theft and related offences,1904.0
+2003,Waterford Garda Division,Weapons and explosives offences,71.0
+2004,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",383.0
+2004,Waterford Garda Division,Burglary and related offences,723.0
+2004,Waterford Garda Division,Controlled drug offences,675.0
+2004,Waterford Garda Division,Damage to property and to the environment  offences,776.0
+2004,Waterford Garda Division,Dangerous or negligent acts,608.0
+2004,Waterford Garda Division,"Fraud, deception and related offences",55.0
+2004,Waterford Garda Division,Homicide & related offences,6.0
+2004,Waterford Garda Division,Kidnapping and related offences,2.0
+2004,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",226.0
+2004,Waterford Garda Division,Offences not elsewhere classified,15.0
+2004,Waterford Garda Division,Public order and other social code offences,2006.0
+2004,Waterford Garda Division,Road and traffic offences,880.0
+2004,Waterford Garda Division,"Robbery, extortion and hijacking offences",36.0
+2004,Waterford Garda Division,Sexual offences,35.0
+2004,Waterford Garda Division,Theft and related offences,1851.0
+2004,Waterford Garda Division,Weapons and explosives offences,86.0
+2005,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",448.0
+2005,Waterford Garda Division,Burglary and related offences,840.0
+2005,Waterford Garda Division,Controlled drug offences,750.0
+2005,Waterford Garda Division,Damage to property and to the environment  offences,1024.0
+2005,Waterford Garda Division,Dangerous or negligent acts,703.0
+2005,Waterford Garda Division,"Fraud, deception and related offences",72.0
+2005,Waterford Garda Division,Homicide & related offences,6.0
+2005,Waterford Garda Division,Kidnapping and related offences,0.0
+2005,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",263.0
+2005,Waterford Garda Division,Offences not elsewhere classified,11.0
+2005,Waterford Garda Division,Public order and other social code offences,2154.0
+2005,Waterford Garda Division,Road and traffic offences,1342.0
+2005,Waterford Garda Division,"Robbery, extortion and hijacking offences",35.0
+2005,Waterford Garda Division,Sexual offences,53.0
+2005,Waterford Garda Division,Theft and related offences,1818.0
+2005,Waterford Garda Division,Weapons and explosives offences,99.0
+2006,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",592.0
+2006,Waterford Garda Division,Burglary and related offences,712.0
+2006,Waterford Garda Division,Controlled drug offences,714.0
+2006,Waterford Garda Division,Damage to property and to the environment  offences,1420.0
+2006,Waterford Garda Division,Dangerous or negligent acts,1397.0
+2006,Waterford Garda Division,"Fraud, deception and related offences",66.0
+2006,Waterford Garda Division,Homicide & related offences,5.0
+2006,Waterford Garda Division,Kidnapping and related offences,3.0
+2006,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",346.0
+2006,Waterford Garda Division,Offences not elsewhere classified,27.0
+2006,Waterford Garda Division,Public order and other social code offences,2472.0
+2006,Waterford Garda Division,Road and traffic offences,3920.0
+2006,Waterford Garda Division,"Robbery, extortion and hijacking offences",67.0
+2006,Waterford Garda Division,Sexual offences,76.0
+2006,Waterford Garda Division,Theft and related offences,2083.0
+2006,Waterford Garda Division,Weapons and explosives offences,105.0
+2007,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",687.0
+2007,Waterford Garda Division,Burglary and related offences,632.0
+2007,Waterford Garda Division,Controlled drug offences,806.0
+2007,Waterford Garda Division,Damage to property and to the environment  offences,1393.0
+2007,Waterford Garda Division,Dangerous or negligent acts,1595.0
+2007,Waterford Garda Division,"Fraud, deception and related offences",113.0
+2007,Waterford Garda Division,Homicide & related offences,2.0
+2007,Waterford Garda Division,Kidnapping and related offences,3.0
+2007,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",334.0
+2007,Waterford Garda Division,Offences not elsewhere classified,78.0
+2007,Waterford Garda Division,Public order and other social code offences,2736.0
+2007,Waterford Garda Division,Road and traffic offences,4495.0
+2007,Waterford Garda Division,"Robbery, extortion and hijacking offences",53.0
+2007,Waterford Garda Division,Sexual offences,37.0
+2007,Waterford Garda Division,Theft and related offences,2098.0
+2007,Waterford Garda Division,Weapons and explosives offences,101.0
+2008,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",603.0
+2008,Waterford Garda Division,Burglary and related offences,702.0
+2008,Waterford Garda Division,Controlled drug offences,851.0
+2008,Waterford Garda Division,Damage to property and to the environment  offences,1324.0
+2008,Waterford Garda Division,Dangerous or negligent acts,1309.0
+2008,Waterford Garda Division,"Fraud, deception and related offences",126.0
+2008,Waterford Garda Division,Homicide & related offences,3.0
+2008,Waterford Garda Division,Kidnapping and related offences,2.0
+2008,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",372.0
+2008,Waterford Garda Division,Offences not elsewhere classified,86.0
+2008,Waterford Garda Division,Public order and other social code offences,2348.0
+2008,Waterford Garda Division,Road and traffic offences,4310.0
+2008,Waterford Garda Division,"Robbery, extortion and hijacking offences",37.0
+2008,Waterford Garda Division,Sexual offences,59.0
+2008,Waterford Garda Division,Theft and related offences,2304.0
+2008,Waterford Garda Division,Weapons and explosives offences,130.0
+2009,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",659.0
+2009,Waterford Garda Division,Burglary and related offences,769.0
+2009,Waterford Garda Division,Controlled drug offences,990.0
+2009,Waterford Garda Division,Damage to property and to the environment  offences,1287.0
+2009,Waterford Garda Division,Dangerous or negligent acts,1723.0
+2009,Waterford Garda Division,"Fraud, deception and related offences",119.0
+2009,Waterford Garda Division,Homicide & related offences,0.0
+2009,Waterford Garda Division,Kidnapping and related offences,1.0
+2009,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",303.0
+2009,Waterford Garda Division,Offences not elsewhere classified,68.0
+2009,Waterford Garda Division,Public order and other social code offences,2060.0
+2009,Waterford Garda Division,Road and traffic offences,3621.0
+2009,Waterford Garda Division,"Robbery, extortion and hijacking offences",64.0
+2009,Waterford Garda Division,Sexual offences,54.0
+2009,Waterford Garda Division,Theft and related offences,2106.0
+2009,Waterford Garda Division,Weapons and explosives offences,135.0
+2010,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",582.0
+2010,Waterford Garda Division,Burglary and related offences,751.0
+2010,Waterford Garda Division,Controlled drug offences,761.0
+2010,Waterford Garda Division,Damage to property and to the environment  offences,1337.0
+2010,Waterford Garda Division,Dangerous or negligent acts,1196.0
+2010,Waterford Garda Division,"Fraud, deception and related offences",109.0
+2010,Waterford Garda Division,Homicide & related offences,2.0
+2010,Waterford Garda Division,Kidnapping and related offences,6.0
+2010,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",329.0
+2010,Waterford Garda Division,Offences not elsewhere classified,69.0
+2010,Waterford Garda Division,Public order and other social code offences,1623.0
+2010,Waterford Garda Division,Road and traffic offences,3346.0
+2010,Waterford Garda Division,"Robbery, extortion and hijacking offences",80.0
+2010,Waterford Garda Division,Sexual offences,55.0
+2010,Waterford Garda Division,Theft and related offences,2087.0
+2010,Waterford Garda Division,Weapons and explosives offences,141.0
+2011,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",615.0
+2011,Waterford Garda Division,Burglary and related offences,721.0
+2011,Waterford Garda Division,Controlled drug offences,719.0
+2011,Waterford Garda Division,Damage to property and to the environment  offences,1089.0
+2011,Waterford Garda Division,Dangerous or negligent acts,1564.0
+2011,Waterford Garda Division,"Fraud, deception and related offences",107.0
+2011,Waterford Garda Division,Homicide & related offences,3.0
+2011,Waterford Garda Division,Kidnapping and related offences,3.0
+2011,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",288.0
+2011,Waterford Garda Division,Offences not elsewhere classified,60.0
+2011,Waterford Garda Division,Public order and other social code offences,1510.0
+2011,Waterford Garda Division,Road and traffic offences,2398.0
+2011,Waterford Garda Division,"Robbery, extortion and hijacking offences",91.0
+2011,Waterford Garda Division,Sexual offences,50.0
+2011,Waterford Garda Division,Theft and related offences,1950.0
+2011,Waterford Garda Division,Weapons and explosives offences,94.0
+2012,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",595.0
+2012,Waterford Garda Division,Burglary and related offences,764.0
+2012,Waterford Garda Division,Controlled drug offences,560.0
+2012,Waterford Garda Division,Damage to property and to the environment  offences,1035.0
+2012,Waterford Garda Division,Dangerous or negligent acts,1023.0
+2012,Waterford Garda Division,"Fraud, deception and related offences",117.0
+2012,Waterford Garda Division,Homicide & related offences,3.0
+2012,Waterford Garda Division,Kidnapping and related offences,2.0
+2012,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",254.0
+2012,Waterford Garda Division,Offences not elsewhere classified,61.0
+2012,Waterford Garda Division,Public order and other social code offences,1271.0
+2012,Waterford Garda Division,Road and traffic offences,2274.0
+2012,Waterford Garda Division,"Robbery, extortion and hijacking offences",83.0
+2012,Waterford Garda Division,Sexual offences,55.0
+2012,Waterford Garda Division,Theft and related offences,2102.0
+2012,Waterford Garda Division,Weapons and explosives offences,130.0
+2013,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",510.0
+2013,Waterford Garda Division,Burglary and related offences,818.0
+2013,Waterford Garda Division,Controlled drug offences,431.0
+2013,Waterford Garda Division,Damage to property and to the environment  offences,944.0
+2013,Waterford Garda Division,Dangerous or negligent acts,1297.0
+2013,Waterford Garda Division,"Fraud, deception and related offences",103.0
+2013,Waterford Garda Division,Homicide & related offences,1.0
+2013,Waterford Garda Division,Kidnapping and related offences,6.0
+2013,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",144.0
+2013,Waterford Garda Division,Offences not elsewhere classified,70.0
+2013,Waterford Garda Division,Public order and other social code offences,1218.0
+2013,Waterford Garda Division,Road and traffic offences,2168.0
+2013,Waterford Garda Division,"Robbery, extortion and hijacking offences",67.0
+2013,Waterford Garda Division,Sexual offences,70.0
+2013,Waterford Garda Division,Theft and related offences,1939.0
+2013,Waterford Garda Division,Weapons and explosives offences,84.0
+2014,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",488.0
+2014,Waterford Garda Division,Burglary and related offences,837.0
+2014,Waterford Garda Division,Controlled drug offences,436.0
+2014,Waterford Garda Division,Damage to property and to the environment  offences,765.0
+2014,Waterford Garda Division,Dangerous or negligent acts,1285.0
+2014,Waterford Garda Division,"Fraud, deception and related offences",93.0
+2014,Waterford Garda Division,Homicide & related offences,6.0
+2014,Waterford Garda Division,Kidnapping and related offences,3.0
+2014,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",144.0
+2014,Waterford Garda Division,Offences not elsewhere classified,75.0
+2014,Waterford Garda Division,Public order and other social code offences,988.0
+2014,Waterford Garda Division,Road and traffic offences,2386.0
+2014,Waterford Garda Division,"Robbery, extortion and hijacking offences",37.0
+2014,Waterford Garda Division,Sexual offences,71.0
+2014,Waterford Garda Division,Theft and related offences,1871.0
+2014,Waterford Garda Division,Weapons and explosives offences,66.0
+2015,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",589.0
+2015,Waterford Garda Division,Burglary and related offences,821.0
+2015,Waterford Garda Division,Controlled drug offences,368.0
+2015,Waterford Garda Division,Damage to property and to the environment  offences,857.0
+2015,Waterford Garda Division,Dangerous or negligent acts,1457.0
+2015,Waterford Garda Division,"Fraud, deception and related offences",123.0
+2015,Waterford Garda Division,Homicide & related offences,0.0
+2015,Waterford Garda Division,Kidnapping and related offences,6.0
+2015,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",154.0
+2015,Waterford Garda Division,Offences not elsewhere classified,72.0
+2015,Waterford Garda Division,Public order and other social code offences,970.0
+2015,Waterford Garda Division,Road and traffic offences,1771.0
+2015,Waterford Garda Division,"Robbery, extortion and hijacking offences",33.0
+2015,Waterford Garda Division,Sexual offences,62.0
+2015,Waterford Garda Division,Theft and related offences,1853.0
+2015,Waterford Garda Division,Weapons and explosives offences,59.0
+2016,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",448.0
+2016,Waterford Garda Division,Burglary and related offences,549.0
+2016,Waterford Garda Division,Controlled drug offences,392.0
+2016,Waterford Garda Division,Damage to property and to the environment  offences,699.0
+2016,Waterford Garda Division,Dangerous or negligent acts,1280.0
+2016,Waterford Garda Division,"Fraud, deception and related offences",81.0
+2016,Waterford Garda Division,Homicide & related offences,3.0
+2016,Waterford Garda Division,Kidnapping and related offences,4.0
+2016,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",179.0
+2016,Waterford Garda Division,Offences not elsewhere classified,75.0
+2016,Waterford Garda Division,Public order and other social code offences,876.0
+2016,Waterford Garda Division,Road and traffic offences,1845.0
+2016,Waterford Garda Division,"Robbery, extortion and hijacking offences",31.0
+2016,Waterford Garda Division,Sexual offences,67.0
+2016,Waterford Garda Division,Theft and related offences,1601.0
+2016,Waterford Garda Division,Weapons and explosives offences,81.0
+2017,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",554.0
+2017,Waterford Garda Division,Burglary and related offences,556.0
+2017,Waterford Garda Division,Controlled drug offences,463.0
+2017,Waterford Garda Division,Damage to property and to the environment  offences,746.0
+2017,Waterford Garda Division,Dangerous or negligent acts,864.0
+2017,Waterford Garda Division,"Fraud, deception and related offences",99.0
+2017,Waterford Garda Division,Homicide & related offences,4.0
+2017,Waterford Garda Division,Kidnapping and related offences,1.0
+2017,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",133.0
+2017,Waterford Garda Division,Offences not elsewhere classified,64.0
+2017,Waterford Garda Division,Public order and other social code offences,956.0
+2017,Waterford Garda Division,Road and traffic offences,1699.0
+2017,Waterford Garda Division,"Robbery, extortion and hijacking offences",44.0
+2017,Waterford Garda Division,Sexual offences,96.0
+2017,Waterford Garda Division,Theft and related offences,1672.0
+2017,Waterford Garda Division,Weapons and explosives offences,70.0
+2018,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",627.0
+2018,Waterford Garda Division,Burglary and related offences,410.0
+2018,Waterford Garda Division,Controlled drug offences,569.0
+2018,Waterford Garda Division,Damage to property and to the environment  offences,690.0
+2018,Waterford Garda Division,Dangerous or negligent acts,1098.0
+2018,Waterford Garda Division,"Fraud, deception and related offences",171.0
+2018,Waterford Garda Division,Homicide & related offences,5.0
+2018,Waterford Garda Division,Kidnapping and related offences,0.0
+2018,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",169.0
+2018,Waterford Garda Division,Offences not elsewhere classified,51.0
+2018,Waterford Garda Division,Public order and other social code offences,949.0
+2018,Waterford Garda Division,Road and traffic offences,1981.0
+2018,Waterford Garda Division,"Robbery, extortion and hijacking offences",49.0
+2018,Waterford Garda Division,Sexual offences,108.0
+2018,Waterford Garda Division,Theft and related offences,1770.0
+2018,Waterford Garda Division,Weapons and explosives offences,73.0
+2019,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",642.0
+2019,Waterford Garda Division,Burglary and related offences,368.0
+2019,Waterford Garda Division,Controlled drug offences,757.0
+2019,Waterford Garda Division,Damage to property and to the environment  offences,657.0
+2019,Waterford Garda Division,Dangerous or negligent acts,1096.0
+2019,Waterford Garda Division,"Fraud, deception and related offences",164.0
+2019,Waterford Garda Division,Homicide & related offences,1.0
+2019,Waterford Garda Division,Kidnapping and related offences,5.0
+2019,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",210.0
+2019,Waterford Garda Division,Offences not elsewhere classified,47.0
+2019,Waterford Garda Division,Public order and other social code offences,963.0
+2019,Waterford Garda Division,Road and traffic offences,1706.0
+2019,Waterford Garda Division,"Robbery, extortion and hijacking offences",35.0
+2019,Waterford Garda Division,Sexual offences,114.0
+2019,Waterford Garda Division,Theft and related offences,1700.0
+2019,Waterford Garda Division,Weapons and explosives offences,74.0
+2020,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",629.0
+2020,Waterford Garda Division,Burglary and related offences,226.0
+2020,Waterford Garda Division,Controlled drug offences,795.0
+2020,Waterford Garda Division,Damage to property and to the environment  offences,620.0
+2020,Waterford Garda Division,Dangerous or negligent acts,1213.0
+2020,Waterford Garda Division,"Fraud, deception and related offences",197.0
+2020,Waterford Garda Division,Homicide & related offences,1.0
+2020,Waterford Garda Division,Kidnapping and related offences,1.0
+2020,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",159.0
+2020,Waterford Garda Division,Offences not elsewhere classified,43.0
+2020,Waterford Garda Division,Public order and other social code offences,923.0
+2020,Waterford Garda Division,Road and traffic offences,1990.0
+2020,Waterford Garda Division,"Robbery, extortion and hijacking offences",40.0
+2020,Waterford Garda Division,Sexual offences,87.0
+2020,Waterford Garda Division,Theft and related offences,1081.0
+2020,Waterford Garda Division,Weapons and explosives offences,110.0
+2021,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",739.0
+2021,Waterford Garda Division,Burglary and related offences,185.0
+2021,Waterford Garda Division,Controlled drug offences,910.0
+2021,Waterford Garda Division,Damage to property and to the environment  offences,561.0
+2021,Waterford Garda Division,Dangerous or negligent acts,1219.0
+2021,Waterford Garda Division,"Fraud, deception and related offences",371.0
+2021,Waterford Garda Division,Homicide & related offences,1.0
+2021,Waterford Garda Division,Kidnapping and related offences,5.0
+2021,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",197.0
+2021,Waterford Garda Division,Offences not elsewhere classified,36.0
+2021,Waterford Garda Division,Public order and other social code offences,1424.0
+2021,Waterford Garda Division,Road and traffic offences,1832.0
+2021,Waterford Garda Division,"Robbery, extortion and hijacking offences",35.0
+2021,Waterford Garda Division,Sexual offences,106.0
+2021,Waterford Garda Division,Theft and related offences,1082.0
+2021,Waterford Garda Division,Weapons and explosives offences,86.0
+2022,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",784.0
+2022,Waterford Garda Division,Burglary and related offences,214.0
+2022,Waterford Garda Division,Controlled drug offences,941.0
+2022,Waterford Garda Division,Damage to property and to the environment  offences,639.0
+2022,Waterford Garda Division,Dangerous or negligent acts,1107.0
+2022,Waterford Garda Division,"Fraud, deception and related offences",280.0
+2022,Waterford Garda Division,Homicide & related offences,1.0
+2022,Waterford Garda Division,Kidnapping and related offences,3.0
+2022,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",229.0
+2022,Waterford Garda Division,Offences not elsewhere classified,39.0
+2022,Waterford Garda Division,Public order and other social code offences,1165.0
+2022,Waterford Garda Division,Road and traffic offences,1542.0
+2022,Waterford Garda Division,"Robbery, extortion and hijacking offences",42.0
+2022,Waterford Garda Division,Sexual offences,132.0
+2022,Waterford Garda Division,Theft and related offences,1585.0
+2022,Waterford Garda Division,Weapons and explosives offences,105.0
+2023,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",707.0
+2023,Waterford Garda Division,Burglary and related offences,188.0
+2023,Waterford Garda Division,Controlled drug offences,909.0
+2023,Waterford Garda Division,Damage to property and to the environment  offences,745.0
+2023,Waterford Garda Division,Dangerous or negligent acts,1004.0
+2023,Waterford Garda Division,"Fraud, deception and related offences",139.0
+2023,Waterford Garda Division,Homicide & related offences,0.0
+2023,Waterford Garda Division,Kidnapping and related offences,7.0
+2023,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",207.0
+2023,Waterford Garda Division,Offences not elsewhere classified,38.0
+2023,Waterford Garda Division,Public order and other social code offences,1023.0
+2023,Waterford Garda Division,Road and traffic offences,1250.0
+2023,Waterford Garda Division,"Robbery, extortion and hijacking offences",58.0
+2023,Waterford Garda Division,Sexual offences,96.0
+2023,Waterford Garda Division,Theft and related offences,1913.0
+2023,Waterford Garda Division,Weapons and explosives offences,118.0
+2024,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",767.0
+2024,Waterford Garda Division,Burglary and related offences,181.0
+2024,Waterford Garda Division,Controlled drug offences,777.0
+2024,Waterford Garda Division,Damage to property and to the environment  offences,738.0
+2024,Waterford Garda Division,Dangerous or negligent acts,915.0
+2024,Waterford Garda Division,"Fraud, deception and related offences",0.0
+2024,Waterford Garda Division,Homicide & related offences,5.0
+2024,Waterford Garda Division,Kidnapping and related offences,9.0
+2024,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",202.0
+2024,Waterford Garda Division,Offences not elsewhere classified,38.0
+2024,Waterford Garda Division,Public order and other social code offences,1141.0
+2024,Waterford Garda Division,Road and traffic offences,1332.0
+2024,Waterford Garda Division,"Robbery, extortion and hijacking offences",45.0
+2024,Waterford Garda Division,Sexual offences,142.0
+2024,Waterford Garda Division,Theft and related offences,1592.0
+2024,Waterford Garda Division,Weapons and explosives offences,91.0
+2025,Waterford Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",644.0
+2025,Waterford Garda Division,Burglary and related offences,122.0
+2025,Waterford Garda Division,Controlled drug offences,460.0
+2025,Waterford Garda Division,Damage to property and to the environment  offences,482.0
+2025,Waterford Garda Division,Dangerous or negligent acts,578.0
+2025,Waterford Garda Division,"Fraud, deception and related offences",0.0
+2025,Waterford Garda Division,Homicide & related offences,3.0
+2025,Waterford Garda Division,Kidnapping and related offences,1.0
+2025,Waterford Garda Division,"Offences against government, justice procedures and organisation of crime",178.0
+2025,Waterford Garda Division,Offences not elsewhere classified,35.0
+2025,Waterford Garda Division,Public order and other social code offences,759.0
+2025,Waterford Garda Division,Road and traffic offences,831.0
+2025,Waterford Garda Division,"Robbery, extortion and hijacking offences",45.0
+2025,Waterford Garda Division,Sexual offences,85.0
+2025,Waterford Garda Division,Theft and related offences,1277.0
+2025,Waterford Garda Division,Weapons and explosives offences,66.0

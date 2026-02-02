@@ -1,1956 +1,369 @@
 Year,Garda Division,Type of Offence,VALUE
-2003,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
-2003,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2003,Galway Garda Division,Aggravated burglary (0711),4.0
-2003,Galway Garda Division,Arson (1211),35.0
-2003,Galway Garda Division,"Assault causing harm, poisoning (034)",189.0
-2003,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",619.0
-2003,Galway Garda Division,Blackmail or extortion (0621),0.0
-2003,Galway Garda Division,Burglary (not aggravated) (0712),973.0
-2003,Galway Garda Division,Burglary and related offences (07),977.0
-2003,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2003,Galway Garda Division,Controlled drug offences (10),341.0
-2003,Galway Garda Division,Criminal damage (not arson) (1212),1191.0
-2003,Galway Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2003,Galway Garda Division,Damage to property and to the environment  offences (12),1227.0
-2003,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2003,Galway Garda Division,Dangerous driving leading to death (012),0.0
-2003,Galway Garda Division,Dangerous or negligent acts (04),1105.0
-2003,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),231.0
-2003,Galway Garda Division,Discharging a firearm (1121),2.0
-2003,Galway Garda Division,Disorderly conduct (131),1629.0
-2003,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",27.0
-2003,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",568.0
-2003,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),7.0
-2003,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),561.0
-2003,Galway Garda Division,Endangering traffic offences (0425),2.0
-2003,Galway Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2003,Galway Garda Division,"Explosives, chemical weapons offences (111)",2.0
-2003,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2003,Galway Garda Division,False imprisonment (0511),3.0
-2003,Galway Garda Division,Fireworks offences (114),0.0
-2003,Galway Garda Division,"Fraud, deception and related offences (09)",129.0
-2003,Galway Garda Division,Harassment and related offences (033),35.0
-2003,Galway Garda Division,Homicide & related offences (01),3.0
-2003,Galway Garda Division,Human trafficking offences (0513),0.0
-2003,Galway Garda Division,Importation of drugs (1011),3.0
-2003,Galway Garda Division,Infanticide (0113),0.0
-2003,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",829.0
-2003,Galway Garda Division,Kidnapping and related offences (05),3.0
-2003,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2003,Galway Garda Division,Liquor licensing offences (133),293.0
-2003,Galway Garda Division,Litter offences (1221),1.0
-2003,Galway Garda Division,Manslaughter (0112),2.0
-2003,Galway Garda Division,Murder (0111),1.0
-2003,Galway Garda Division,Murder-attempt (0311),0.0
-2003,Galway Garda Division,Obstruction under Road Traffic Acts (1432),26.0
-2003,Galway Garda Division,Offences against government and its agents (151),2.0
-2003,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",185.0
-2003,Galway Garda Division,Offences not elsewhere classified (16),95.0
-2003,Galway Garda Division,"Offences while in custody, breach of court orders (157)",177.0
-2003,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),36.0
-2003,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2003,Galway Garda Division,Other assault (035),395.0
-2003,Galway Garda Division,Other drug offences (103),8.0
-2003,Galway Garda Division,Other road offences (1433),277.0
-2003,Galway Garda Division,Other sexual offences (022),1.0
-2003,Galway Garda Division,"Other thefts, handling stolen property (084)",1277.0
-2003,Galway Garda Division,Perverting the course of justice (153),6.0
-2003,Galway Garda Division,Possession of a firearm (1122),20.0
-2003,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2003,Galway Garda Division,Possession of drugs for personal use (1022),268.0
-2003,Galway Garda Division,Possession of drugs for sale or supply (1021),51.0
-2003,Galway Garda Division,Prostitution offences (134),0.0
-2003,Galway Garda Division,Public order and other social code offences (13),1993.0
-2003,Galway Garda Division,Public service vehicle offences (1442),4.0
-2003,Galway Garda Division,Rape and sexual assault (021),69.0
-2003,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",33.0
-2003,Galway Garda Division,Road and traffic offences (14),1347.0
-2003,Galway Garda Division,Road transport - carriage of goods offences (1441),4.0
-2003,Galway Garda Division,Roadworthiness/regulatory offences (143),46.0
-2003,Galway Garda Division,Robbery from the person (0613),42.0
-2003,Galway Garda Division,Robbery of an establishment or institution (0611),14.0
-2003,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2003,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",56.0
-2003,Galway Garda Division,Sexual offences (02),70.0
-2003,Galway Garda Division,Social code offences (n.e.c.) (136),13.0
-2003,Galway Garda Division,Speeding (0415),295.0
-2003,Galway Garda Division,Theft and related offences (08),2707.0
-2003,Galway Garda Division,Theft from person (0821),183.0
-2003,Galway Garda Division,Theft from shop (0822),752.0
-2003,Galway Garda Division,Theft/taking of vehicle and related offences (081),495.0
-2003,Galway Garda Division,Threat to kill or cause serious harm (0313),0.0
-2003,Galway Garda Division,Trespass offences (132),25.0
-2003,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2003,Galway Garda Division,Vehicle tax/registration offences (142),134.0
-2003,Galway Garda Division,Weapons and explosives offences (11),60.0
-2004,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
-2004,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2004,Galway Garda Division,Aggravated burglary (0711),3.0
-2004,Galway Garda Division,Arson (1211),43.0
-2004,Galway Garda Division,"Assault causing harm, poisoning (034)",165.0
-2004,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",651.0
-2004,Galway Garda Division,Blackmail or extortion (0621),0.0
-2004,Galway Garda Division,Burglary (not aggravated) (0712),713.0
-2004,Galway Garda Division,Burglary and related offences (07),720.0
-2004,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2004,Galway Garda Division,Controlled drug offences (10),378.0
-2004,Galway Garda Division,Criminal damage (not arson) (1212),1145.0
-2004,Galway Garda Division,Cultivation or manufacture of drugs (1012),3.0
-2004,Galway Garda Division,Damage to property and to the environment  offences (12),1188.0
-2004,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2004,Galway Garda Division,Dangerous driving leading to death (012),8.0
-2004,Galway Garda Division,Dangerous or negligent acts (04),1239.0
-2004,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),262.0
-2004,Galway Garda Division,Discharging a firearm (1121),7.0
-2004,Galway Garda Division,Disorderly conduct (131),1610.0
-2004,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",32.0
-2004,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",615.0
-2004,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),1.0
-2004,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),614.0
-2004,Galway Garda Division,Endangering traffic offences (0425),4.0
-2004,Galway Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2004,Galway Garda Division,"Explosives, chemical weapons offences (111)",5.0
-2004,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2004,Galway Garda Division,False imprisonment (0511),3.0
-2004,Galway Garda Division,Fireworks offences (114),0.0
-2004,Galway Garda Division,"Fraud, deception and related offences (09)",100.0
-2004,Galway Garda Division,Harassment and related offences (033),42.0
-2004,Galway Garda Division,Homicide & related offences (01),8.0
-2004,Galway Garda Division,Human trafficking offences (0513),0.0
-2004,Galway Garda Division,Importation of drugs (1011),3.0
-2004,Galway Garda Division,Infanticide (0113),0.0
-2004,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",661.0
-2004,Galway Garda Division,Kidnapping and related offences (05),3.0
-2004,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2004,Galway Garda Division,Liquor licensing offences (133),301.0
-2004,Galway Garda Division,Litter offences (1221),0.0
-2004,Galway Garda Division,Manslaughter (0112),0.0
-2004,Galway Garda Division,Murder (0111),0.0
-2004,Galway Garda Division,Murder-attempt (0311),0.0
-2004,Galway Garda Division,Obstruction under Road Traffic Acts (1432),19.0
-2004,Galway Garda Division,Offences against government and its agents (151),8.0
-2004,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",197.0
-2004,Galway Garda Division,Offences not elsewhere classified (16),72.0
-2004,Galway Garda Division,"Offences while in custody, breach of court orders (157)",184.0
-2004,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),27.0
-2004,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2004,Galway Garda Division,Other assault (035),444.0
-2004,Galway Garda Division,Other drug offences (103),21.0
-2004,Galway Garda Division,Other road offences (1433),433.0
-2004,Galway Garda Division,Other sexual offences (022),0.0
-2004,Galway Garda Division,"Other thefts, handling stolen property (084)",1345.0
-2004,Galway Garda Division,Perverting the course of justice (153),5.0
-2004,Galway Garda Division,Possession of a firearm (1122),16.0
-2004,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",4.0
-2004,Galway Garda Division,Possession of drugs for personal use (1022),296.0
-2004,Galway Garda Division,Possession of drugs for sale or supply (1021),55.0
-2004,Galway Garda Division,Prostitution offences (134),1.0
-2004,Galway Garda Division,Public order and other social code offences (13),1969.0
-2004,Galway Garda Division,Public service vehicle offences (1442),3.0
-2004,Galway Garda Division,Rape and sexual assault (021),76.0
-2004,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
-2004,Galway Garda Division,Road and traffic offences (14),1471.0
-2004,Galway Garda Division,Road transport - carriage of goods offences (1441),27.0
-2004,Galway Garda Division,Roadworthiness/regulatory offences (143),96.0
-2004,Galway Garda Division,Robbery from the person (0613),34.0
-2004,Galway Garda Division,Robbery of an establishment or institution (0611),15.0
-2004,Galway Garda Division,Robbery of cash or goods in transit (0612),1.0
-2004,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",51.0
-2004,Galway Garda Division,Sexual offences (02),76.0
-2004,Galway Garda Division,Social code offences (n.e.c.) (136),10.0
-2004,Galway Garda Division,Speeding (0415),347.0
-2004,Galway Garda Division,Theft and related offences (08),2571.0
-2004,Galway Garda Division,Theft from person (0821),136.0
-2004,Galway Garda Division,Theft from shop (0822),687.0
-2004,Galway Garda Division,Theft/taking of vehicle and related offences (081),403.0
-2004,Galway Garda Division,Threat to kill or cause serious harm (0313),0.0
-2004,Galway Garda Division,Trespass offences (132),37.0
-2004,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2004,Galway Garda Division,Vehicle tax/registration offences (142),200.0
-2004,Galway Garda Division,Weapons and explosives offences (11),55.0
-2005,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
-2005,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2005,Galway Garda Division,Aggravated burglary (0711),7.0
-2005,Galway Garda Division,Arson (1211),41.0
-2005,Galway Garda Division,"Assault causing harm, poisoning (034)",172.0
-2005,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",741.0
-2005,Galway Garda Division,Blackmail or extortion (0621),0.0
-2005,Galway Garda Division,Burglary (not aggravated) (0712),1224.0
-2005,Galway Garda Division,Burglary and related offences (07),1235.0
-2005,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2005,Galway Garda Division,Controlled drug offences (10),349.0
-2005,Galway Garda Division,Criminal damage (not arson) (1212),1483.0
-2005,Galway Garda Division,Cultivation or manufacture of drugs (1012),10.0
-2005,Galway Garda Division,Damage to property and to the environment  offences (12),1525.0
-2005,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2005,Galway Garda Division,Dangerous driving leading to death (012),5.0
-2005,Galway Garda Division,Dangerous or negligent acts (04),1399.0
-2005,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),295.0
-2005,Galway Garda Division,Discharging a firearm (1121),3.0
-2005,Galway Garda Division,Disorderly conduct (131),1799.0
-2005,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",49.0
-2005,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",687.0
-2005,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2005,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),687.0
-2005,Galway Garda Division,Endangering traffic offences (0425),5.0
-2005,Galway Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2005,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2005,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2005,Galway Garda Division,False imprisonment (0511),3.0
-2005,Galway Garda Division,Fireworks offences (114),0.0
-2005,Galway Garda Division,"Fraud, deception and related offences (09)",124.0
-2005,Galway Garda Division,Harassment and related offences (033),62.0
-2005,Galway Garda Division,Homicide & related offences (01),8.0
-2005,Galway Garda Division,Human trafficking offences (0513),0.0
-2005,Galway Garda Division,Importation of drugs (1011),2.0
-2005,Galway Garda Division,Infanticide (0113),0.0
-2005,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",928.0
-2005,Galway Garda Division,Kidnapping and related offences (05),3.0
-2005,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2005,Galway Garda Division,Liquor licensing offences (133),428.0
-2005,Galway Garda Division,Litter offences (1221),1.0
-2005,Galway Garda Division,Manslaughter (0112),1.0
-2005,Galway Garda Division,Murder (0111),2.0
-2005,Galway Garda Division,Murder-attempt (0311),0.0
-2005,Galway Garda Division,Obstruction under Road Traffic Acts (1432),24.0
-2005,Galway Garda Division,Offences against government and its agents (151),11.0
-2005,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",188.0
-2005,Galway Garda Division,Offences not elsewhere classified (16),85.0
-2005,Galway Garda Division,"Offences while in custody, breach of court orders (157)",166.0
-2005,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),46.0
-2005,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2005,Galway Garda Division,Other assault (035),503.0
-2005,Galway Garda Division,Other drug offences (103),11.0
-2005,Galway Garda Division,Other road offences (1433),682.0
-2005,Galway Garda Division,Other sexual offences (022),3.0
-2005,Galway Garda Division,"Other thefts, handling stolen property (084)",1428.0
-2005,Galway Garda Division,Perverting the course of justice (153),11.0
-2005,Galway Garda Division,Possession of a firearm (1122),10.0
-2005,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",4.0
-2005,Galway Garda Division,Possession of drugs for personal use (1022),286.0
-2005,Galway Garda Division,Possession of drugs for sale or supply (1021),40.0
-2005,Galway Garda Division,Prostitution offences (134),0.0
-2005,Galway Garda Division,Public order and other social code offences (13),2326.0
-2005,Galway Garda Division,Public service vehicle offences (1442),19.0
-2005,Galway Garda Division,Rape and sexual assault (021),67.0
-2005,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",23.0
-2005,Galway Garda Division,Road and traffic offences (14),2404.0
-2005,Galway Garda Division,Road transport - carriage of goods offences (1441),86.0
-2005,Galway Garda Division,Roadworthiness/regulatory offences (143),167.0
-2005,Galway Garda Division,Robbery from the person (0613),29.0
-2005,Galway Garda Division,Robbery of an establishment or institution (0611),29.0
-2005,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2005,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",58.0
-2005,Galway Garda Division,Sexual offences (02),70.0
-2005,Galway Garda Division,Social code offences (n.e.c.) (136),20.0
-2005,Galway Garda Division,Speeding (0415),402.0
-2005,Galway Garda Division,Theft and related offences (08),2772.0
-2005,Galway Garda Division,Theft from person (0821),111.0
-2005,Galway Garda Division,Theft from shop (0822),878.0
-2005,Galway Garda Division,Theft/taking of vehicle and related offences (081),355.0
-2005,Galway Garda Division,Threat to kill or cause serious harm (0313),4.0
-2005,Galway Garda Division,Trespass offences (132),56.0
-2005,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2005,Galway Garda Division,Vehicle tax/registration offences (142),449.0
-2005,Galway Garda Division,Weapons and explosives offences (11),59.0
-2006,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",17.0
-2006,Galway Garda Division,Abduction of person under 16 years of age (0512),1.0
-2006,Galway Garda Division,Aggravated burglary (0711),4.0
-2006,Galway Garda Division,Arson (1211),74.0
-2006,Galway Garda Division,"Assault causing harm, poisoning (034)",162.0
-2006,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",821.0
-2006,Galway Garda Division,Blackmail or extortion (0621),2.0
-2006,Galway Garda Division,Burglary (not aggravated) (0712),1043.0
-2006,Galway Garda Division,Burglary and related offences (07),1049.0
-2006,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2006,Galway Garda Division,Controlled drug offences (10),424.0
-2006,Galway Garda Division,Criminal damage (not arson) (1212),1548.0
-2006,Galway Garda Division,Cultivation or manufacture of drugs (1012),8.0
-2006,Galway Garda Division,Damage to property and to the environment  offences (12),1627.0
-2006,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2006,Galway Garda Division,Dangerous driving leading to death (012),5.0
-2006,Galway Garda Division,Dangerous or negligent acts (04),2442.0
-2006,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),420.0
-2006,Galway Garda Division,Discharging a firearm (1121),8.0
-2006,Galway Garda Division,Disorderly conduct (131),2346.0
-2006,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",223.0
-2006,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",960.0
-2006,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),12.0
-2006,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),948.0
-2006,Galway Garda Division,Endangering traffic offences (0425),5.0
-2006,Galway Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2006,Galway Garda Division,"Explosives, chemical weapons offences (111)",3.0
-2006,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2006,Galway Garda Division,False imprisonment (0511),1.0
-2006,Galway Garda Division,Fireworks offences (114),0.0
-2006,Galway Garda Division,"Fraud, deception and related offences (09)",177.0
-2006,Galway Garda Division,Harassment and related offences (033),83.0
-2006,Galway Garda Division,Homicide & related offences (01),7.0
-2006,Galway Garda Division,Human trafficking offences (0513),0.0
-2006,Galway Garda Division,Importation of drugs (1011),0.0
-2006,Galway Garda Division,Infanticide (0113),0.0
-2006,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1176.0
-2006,Galway Garda Division,Kidnapping and related offences (05),2.0
-2006,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2006,Galway Garda Division,Liquor licensing offences (133),197.0
-2006,Galway Garda Division,Litter offences (1221),5.0
-2006,Galway Garda Division,Manslaughter (0112),0.0
-2006,Galway Garda Division,Murder (0111),2.0
-2006,Galway Garda Division,Murder-attempt (0311),0.0
-2006,Galway Garda Division,Obstruction under Road Traffic Acts (1432),30.0
-2006,Galway Garda Division,Offences against government and its agents (151),17.0
-2006,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",225.0
-2006,Galway Garda Division,Offences not elsewhere classified (16),156.0
-2006,Galway Garda Division,"Offences while in custody, breach of court orders (157)",198.0
-2006,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),50.0
-2006,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),5.0
-2006,Galway Garda Division,Other assault (035),574.0
-2006,Galway Garda Division,Other drug offences (103),13.0
-2006,Galway Garda Division,Other road offences (1433),1563.0
-2006,Galway Garda Division,Other sexual offences (022),0.0
-2006,Galway Garda Division,"Other thefts, handling stolen property (084)",1744.0
-2006,Galway Garda Division,Perverting the course of justice (153),5.0
-2006,Galway Garda Division,Possession of a firearm (1122),4.0
-2006,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2006,Galway Garda Division,Possession of drugs for personal use (1022),344.0
-2006,Galway Garda Division,Possession of drugs for sale or supply (1021),59.0
-2006,Galway Garda Division,Prostitution offences (134),0.0
-2006,Galway Garda Division,Public order and other social code offences (13),2681.0
-2006,Galway Garda Division,Public service vehicle offences (1442),9.0
-2006,Galway Garda Division,Rape and sexual assault (021),43.0
-2006,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",19.0
-2006,Galway Garda Division,Road and traffic offences (14),4087.0
-2006,Galway Garda Division,Road transport - carriage of goods offences (1441),83.0
-2006,Galway Garda Division,Roadworthiness/regulatory offences (143),39.0
-2006,Galway Garda Division,Robbery from the person (0613),45.0
-2006,Galway Garda Division,Robbery of an establishment or institution (0611),30.0
-2006,Galway Garda Division,Robbery of cash or goods in transit (0612),4.0
-2006,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",81.0
-2006,Galway Garda Division,Sexual offences (02),43.0
-2006,Galway Garda Division,Social code offences (n.e.c.) (136),27.0
-2006,Galway Garda Division,Speeding (0415),1038.0
-2006,Galway Garda Division,Theft and related offences (08),3153.0
-2006,Galway Garda Division,Theft from person (0821),66.0
-2006,Galway Garda Division,Theft from shop (0822),904.0
-2006,Galway Garda Division,Theft/taking of vehicle and related offences (081),439.0
-2006,Galway Garda Division,Threat to kill or cause serious harm (0313),2.0
-2006,Galway Garda Division,Trespass offences (132),92.0
-2006,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2006,Galway Garda Division,Vehicle tax/registration offences (142),964.0
-2006,Galway Garda Division,Weapons and explosives offences (11),65.0
-2007,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",33.0
-2007,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2007,Galway Garda Division,Aggravated burglary (0711),5.0
-2007,Galway Garda Division,Arson (1211),81.0
-2007,Galway Garda Division,"Assault causing harm, poisoning (034)",172.0
-2007,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",915.0
-2007,Galway Garda Division,Blackmail or extortion (0621),2.0
-2007,Galway Garda Division,Burglary (not aggravated) (0712),1090.0
-2007,Galway Garda Division,Burglary and related offences (07),1101.0
-2007,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",4.0
-2007,Galway Garda Division,Controlled drug offences (10),515.0
-2007,Galway Garda Division,Criminal damage (not arson) (1212),1690.0
-2007,Galway Garda Division,Cultivation or manufacture of drugs (1012),14.0
-2007,Galway Garda Division,Damage to property and to the environment  offences (12),1773.0
-2007,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),4.0
-2007,Galway Garda Division,Dangerous driving leading to death (012),3.0
-2007,Galway Garda Division,Dangerous or negligent acts (04),2531.0
-2007,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),660.0
-2007,Galway Garda Division,Discharging a firearm (1121),9.0
-2007,Galway Garda Division,Disorderly conduct (131),2703.0
-2007,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",185.0
-2007,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",941.0
-2007,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),11.0
-2007,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),930.0
-2007,Galway Garda Division,Endangering traffic offences (0425),11.0
-2007,Galway Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2007,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2007,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2007,Galway Garda Division,False imprisonment (0511),1.0
-2007,Galway Garda Division,Fireworks offences (114),7.0
-2007,Galway Garda Division,"Fraud, deception and related offences (09)",285.0
-2007,Galway Garda Division,Harassment and related offences (033),119.0
-2007,Galway Garda Division,Homicide & related offences (01),5.0
-2007,Galway Garda Division,Human trafficking offences (0513),0.0
-2007,Galway Garda Division,Importation of drugs (1011),3.0
-2007,Galway Garda Division,Infanticide (0113),0.0
-2007,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",940.0
-2007,Galway Garda Division,Kidnapping and related offences (05),1.0
-2007,Galway Garda Division,Light rail offences (Luas) (1443),1.0
-2007,Galway Garda Division,Liquor licensing offences (133),140.0
-2007,Galway Garda Division,Litter offences (1221),2.0
-2007,Galway Garda Division,Manslaughter (0112),0.0
-2007,Galway Garda Division,Murder (0111),2.0
-2007,Galway Garda Division,Murder-attempt (0311),0.0
-2007,Galway Garda Division,Obstruction under Road Traffic Acts (1432),19.0
-2007,Galway Garda Division,Offences against government and its agents (151),5.0
-2007,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",271.0
-2007,Galway Garda Division,Offences not elsewhere classified (16),185.0
-2007,Galway Garda Division,"Offences while in custody, breach of court orders (157)",260.0
-2007,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),65.0
-2007,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2007,Galway Garda Division,Other assault (035),624.0
-2007,Galway Garda Division,Other drug offences (103),11.0
-2007,Galway Garda Division,Other road offences (1433),1734.0
-2007,Galway Garda Division,Other sexual offences (022),1.0
-2007,Galway Garda Division,"Other thefts, handling stolen property (084)",1795.0
-2007,Galway Garda Division,Perverting the course of justice (153),6.0
-2007,Galway Garda Division,Possession of a firearm (1122),13.0
-2007,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",6.0
-2007,Galway Garda Division,Possession of drugs for personal use (1022),387.0
-2007,Galway Garda Division,Possession of drugs for sale or supply (1021),100.0
-2007,Galway Garda Division,Prostitution offences (134),0.0
-2007,Galway Garda Division,Public order and other social code offences (13),3033.0
-2007,Galway Garda Division,Public service vehicle offences (1442),74.0
-2007,Galway Garda Division,Rape and sexual assault (021),63.0
-2007,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",31.0
-2007,Galway Garda Division,Road and traffic offences (14),4192.0
-2007,Galway Garda Division,Road transport - carriage of goods offences (1441),88.0
-2007,Galway Garda Division,Roadworthiness/regulatory offences (143),62.0
-2007,Galway Garda Division,Robbery from the person (0613),27.0
-2007,Galway Garda Division,Robbery of an establishment or institution (0611),11.0
-2007,Galway Garda Division,Robbery of cash or goods in transit (0612),1.0
-2007,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",45.0
-2007,Galway Garda Division,Sexual offences (02),64.0
-2007,Galway Garda Division,Social code offences (n.e.c.) (136),29.0
-2007,Galway Garda Division,Speeding (0415),882.0
-2007,Galway Garda Division,Theft and related offences (08),3154.0
-2007,Galway Garda Division,Theft from person (0821),101.0
-2007,Galway Garda Division,Theft from shop (0822),862.0
-2007,Galway Garda Division,Theft/taking of vehicle and related offences (081),396.0
-2007,Galway Garda Division,Threat to kill or cause serious harm (0313),0.0
-2007,Galway Garda Division,Trespass offences (132),130.0
-2007,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2007,Galway Garda Division,Vehicle tax/registration offences (142),1089.0
-2007,Galway Garda Division,Weapons and explosives offences (11),94.0
-2008,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",34.0
-2008,Galway Garda Division,Abduction of person under 16 years of age (0512),1.0
-2008,Galway Garda Division,Aggravated burglary (0711),8.0
-2008,Galway Garda Division,Arson (1211),125.0
-2008,Galway Garda Division,"Assault causing harm, poisoning (034)",188.0
-2008,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1042.0
-2008,Galway Garda Division,Blackmail or extortion (0621),0.0
-2008,Galway Garda Division,Burglary (not aggravated) (0712),1042.0
-2008,Galway Garda Division,Burglary and related offences (07),1060.0
-2008,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2008,Galway Garda Division,Controlled drug offences (10),607.0
-2008,Galway Garda Division,Criminal damage (not arson) (1212),1822.0
-2008,Galway Garda Division,Cultivation or manufacture of drugs (1012),12.0
-2008,Galway Garda Division,Damage to property and to the environment  offences (12),1957.0
-2008,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2008,Galway Garda Division,Dangerous driving leading to death (012),6.0
-2008,Galway Garda Division,Dangerous or negligent acts (04),2078.0
-2008,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),575.0
-2008,Galway Garda Division,Discharging a firearm (1121),6.0
-2008,Galway Garda Division,Disorderly conduct (131),3000.0
-2008,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",168.0
-2008,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",865.0
-2008,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),14.0
-2008,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),851.0
-2008,Galway Garda Division,Endangering traffic offences (0425),10.0
-2008,Galway Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2008,Galway Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2008,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2008,Galway Garda Division,False imprisonment (0511),2.0
-2008,Galway Garda Division,Fireworks offences (114),10.0
-2008,Galway Garda Division,"Fraud, deception and related offences (09)",267.0
-2008,Galway Garda Division,Harassment and related offences (033),203.0
-2008,Galway Garda Division,Homicide & related offences (01),9.0
-2008,Galway Garda Division,Human trafficking offences (0513),0.0
-2008,Galway Garda Division,Importation of drugs (1011),2.0
-2008,Galway Garda Division,Infanticide (0113),0.0
-2008,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",850.0
-2008,Galway Garda Division,Kidnapping and related offences (05),3.0
-2008,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2008,Galway Garda Division,Liquor licensing offences (133),203.0
-2008,Galway Garda Division,Litter offences (1221),10.0
-2008,Galway Garda Division,Manslaughter (0112),0.0
-2008,Galway Garda Division,Murder (0111),3.0
-2008,Galway Garda Division,Murder-attempt (0311),0.0
-2008,Galway Garda Division,Obstruction under Road Traffic Acts (1432),19.0
-2008,Galway Garda Division,Offences against government and its agents (151),8.0
-2008,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",358.0
-2008,Galway Garda Division,Offences not elsewhere classified (16),236.0
-2008,Galway Garda Division,"Offences while in custody, breach of court orders (157)",343.0
-2008,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),77.0
-2008,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2008,Galway Garda Division,Other assault (035),644.0
-2008,Galway Garda Division,Other drug offences (103),22.0
-2008,Galway Garda Division,Other road offences (1433),2392.0
-2008,Galway Garda Division,Other sexual offences (022),2.0
-2008,Galway Garda Division,"Other thefts, handling stolen property (084)",1767.0
-2008,Galway Garda Division,Perverting the course of justice (153),7.0
-2008,Galway Garda Division,Possession of a firearm (1122),9.0
-2008,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",10.0
-2008,Galway Garda Division,Possession of drugs for personal use (1022),490.0
-2008,Galway Garda Division,Possession of drugs for sale or supply (1021),81.0
-2008,Galway Garda Division,Prostitution offences (134),1.0
-2008,Galway Garda Division,Public order and other social code offences (13),3381.0
-2008,Galway Garda Division,Public service vehicle offences (1442),83.0
-2008,Galway Garda Division,Rape and sexual assault (021),52.0
-2008,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",27.0
-2008,Galway Garda Division,Road and traffic offences (14),5052.0
-2008,Galway Garda Division,Road transport - carriage of goods offences (1441),162.0
-2008,Galway Garda Division,Roadworthiness/regulatory offences (143),110.0
-2008,Galway Garda Division,Robbery from the person (0613),37.0
-2008,Galway Garda Division,Robbery of an establishment or institution (0611),9.0
-2008,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2008,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",46.0
-2008,Galway Garda Division,Sexual offences (02),54.0
-2008,Galway Garda Division,Social code offences (n.e.c.) (136),11.0
-2008,Galway Garda Division,Speeding (0415),594.0
-2008,Galway Garda Division,Theft and related offences (08),3248.0
-2008,Galway Garda Division,Theft from person (0821),74.0
-2008,Galway Garda Division,Theft from shop (0822),927.0
-2008,Galway Garda Division,Theft/taking of vehicle and related offences (081),480.0
-2008,Galway Garda Division,Threat to kill or cause serious harm (0313),7.0
-2008,Galway Garda Division,Trespass offences (132),139.0
-2008,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2008,Galway Garda Division,Vehicle tax/registration offences (142),1268.0
-2008,Galway Garda Division,Weapons and explosives offences (11),103.0
-2009,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",14.0
-2009,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2009,Galway Garda Division,Aggravated burglary (0711),20.0
-2009,Galway Garda Division,Arson (1211),139.0
-2009,Galway Garda Division,"Assault causing harm, poisoning (034)",193.0
-2009,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",898.0
-2009,Galway Garda Division,Blackmail or extortion (0621),1.0
-2009,Galway Garda Division,Burglary (not aggravated) (0712),1184.0
-2009,Galway Garda Division,Burglary and related offences (07),1213.0
-2009,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2009,Galway Garda Division,Controlled drug offences (10),450.0
-2009,Galway Garda Division,Criminal damage (not arson) (1212),1508.0
-2009,Galway Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2009,Galway Garda Division,Damage to property and to the environment  offences (12),1656.0
-2009,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2009,Galway Garda Division,Dangerous driving leading to death (012),3.0
-2009,Galway Garda Division,Dangerous or negligent acts (04),1793.0
-2009,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),346.0
-2009,Galway Garda Division,Discharging a firearm (1121),5.0
-2009,Galway Garda Division,Disorderly conduct (131),3285.0
-2009,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",135.0
-2009,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",718.0
-2009,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),16.0
-2009,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),702.0
-2009,Galway Garda Division,Endangering traffic offences (0425),13.0
-2009,Galway Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2009,Galway Garda Division,"Explosives, chemical weapons offences (111)",2.0
-2009,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2009,Galway Garda Division,False imprisonment (0511),2.0
-2009,Galway Garda Division,Fireworks offences (114),20.0
-2009,Galway Garda Division,"Fraud, deception and related offences (09)",263.0
-2009,Galway Garda Division,Harassment and related offences (033),148.0
-2009,Galway Garda Division,Homicide & related offences (01),5.0
-2009,Galway Garda Division,Human trafficking offences (0513),0.0
-2009,Galway Garda Division,Importation of drugs (1011),0.0
-2009,Galway Garda Division,Infanticide (0113),0.0
-2009,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",693.0
-2009,Galway Garda Division,Kidnapping and related offences (05),2.0
-2009,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2009,Galway Garda Division,Liquor licensing offences (133),177.0
-2009,Galway Garda Division,Litter offences (1221),9.0
-2009,Galway Garda Division,Manslaughter (0112),0.0
-2009,Galway Garda Division,Murder (0111),2.0
-2009,Galway Garda Division,Murder-attempt (0311),0.0
-2009,Galway Garda Division,Obstruction under Road Traffic Acts (1432),12.0
-2009,Galway Garda Division,Offences against government and its agents (151),10.0
-2009,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",460.0
-2009,Galway Garda Division,Offences not elsewhere classified (16),215.0
-2009,Galway Garda Division,"Offences while in custody, breach of court orders (157)",446.0
-2009,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),81.0
-2009,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2009,Galway Garda Division,Other assault (035),554.0
-2009,Galway Garda Division,Other drug offences (103),15.0
-2009,Galway Garda Division,Other road offences (1433),2668.0
-2009,Galway Garda Division,Other sexual offences (022),1.0
-2009,Galway Garda Division,"Other thefts, handling stolen property (084)",1809.0
-2009,Galway Garda Division,Perverting the course of justice (153),4.0
-2009,Galway Garda Division,Possession of a firearm (1122),14.0
-2009,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",9.0
-2009,Galway Garda Division,Possession of drugs for personal use (1022),364.0
-2009,Galway Garda Division,Possession of drugs for sale or supply (1021),60.0
-2009,Galway Garda Division,Prostitution offences (134),2.0
-2009,Galway Garda Division,Public order and other social code offences (13),3640.0
-2009,Galway Garda Division,Public service vehicle offences (1442),92.0
-2009,Galway Garda Division,Rape and sexual assault (021),67.0
-2009,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",43.0
-2009,Galway Garda Division,Road and traffic offences (14),5217.0
-2009,Galway Garda Division,Road transport - carriage of goods offences (1441),107.0
-2009,Galway Garda Division,Roadworthiness/regulatory offences (143),276.0
-2009,Galway Garda Division,Robbery from the person (0613),28.0
-2009,Galway Garda Division,Robbery of an establishment or institution (0611),6.0
-2009,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2009,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",36.0
-2009,Galway Garda Division,Sexual offences (02),68.0
-2009,Galway Garda Division,Social code offences (n.e.c.) (136),10.0
-2009,Galway Garda Division,Speeding (0415),701.0
-2009,Galway Garda Division,Theft and related offences (08),3021.0
-2009,Galway Garda Division,Theft from person (0821),71.0
-2009,Galway Garda Division,Theft from shop (0822),799.0
-2009,Galway Garda Division,Theft/taking of vehicle and related offences (081),342.0
-2009,Galway Garda Division,Threat to kill or cause serious harm (0313),3.0
-2009,Galway Garda Division,Trespass offences (132),123.0
-2009,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2009,Galway Garda Division,Vehicle tax/registration offences (142),1234.0
-2009,Galway Garda Division,Weapons and explosives offences (11),122.0
-2010,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",20.0
-2010,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2010,Galway Garda Division,Aggravated burglary (0711),6.0
-2010,Galway Garda Division,Arson (1211),102.0
-2010,Galway Garda Division,"Assault causing harm, poisoning (034)",153.0
-2010,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",819.0
-2010,Galway Garda Division,Blackmail or extortion (0621),2.0
-2010,Galway Garda Division,Burglary (not aggravated) (0712),1105.0
-2010,Galway Garda Division,Burglary and related offences (07),1125.0
-2010,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2010,Galway Garda Division,Controlled drug offences (10),482.0
-2010,Galway Garda Division,Criminal damage (not arson) (1212),1264.0
-2010,Galway Garda Division,Cultivation or manufacture of drugs (1012),19.0
-2010,Galway Garda Division,Damage to property and to the environment  offences (12),1372.0
-2010,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2010,Galway Garda Division,Dangerous driving leading to death (012),1.0
-2010,Galway Garda Division,Dangerous or negligent acts (04),1603.0
-2010,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),272.0
-2010,Galway Garda Division,Discharging a firearm (1121),1.0
-2010,Galway Garda Division,Disorderly conduct (131),3075.0
-2010,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",126.0
-2010,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",609.0
-2010,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),14.0
-2010,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),595.0
-2010,Galway Garda Division,Endangering traffic offences (0425),12.0
-2010,Galway Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2010,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2010,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2010,Galway Garda Division,False imprisonment (0511),0.0
-2010,Galway Garda Division,Fireworks offences (114),26.0
-2010,Galway Garda Division,"Fraud, deception and related offences (09)",237.0
-2010,Galway Garda Division,Harassment and related offences (033),152.0
-2010,Galway Garda Division,Homicide & related offences (01),1.0
-2010,Galway Garda Division,Human trafficking offences (0513),1.0
-2010,Galway Garda Division,Importation of drugs (1011),1.0
-2010,Galway Garda Division,Infanticide (0113),0.0
-2010,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",780.0
-2010,Galway Garda Division,Kidnapping and related offences (05),1.0
-2010,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2010,Galway Garda Division,Liquor licensing offences (133),155.0
-2010,Galway Garda Division,Litter offences (1221),6.0
-2010,Galway Garda Division,Manslaughter (0112),0.0
-2010,Galway Garda Division,Murder (0111),0.0
-2010,Galway Garda Division,Murder-attempt (0311),0.0
-2010,Galway Garda Division,Obstruction under Road Traffic Acts (1432),15.0
-2010,Galway Garda Division,Offences against government and its agents (151),10.0
-2010,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",368.0
-2010,Galway Garda Division,Offences not elsewhere classified (16),253.0
-2010,Galway Garda Division,"Offences while in custody, breach of court orders (157)",354.0
-2010,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),64.0
-2010,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2010,Galway Garda Division,Other assault (035),506.0
-2010,Galway Garda Division,Other drug offences (103),25.0
-2010,Galway Garda Division,Other road offences (1433),2516.0
-2010,Galway Garda Division,Other sexual offences (022),8.0
-2010,Galway Garda Division,"Other thefts, handling stolen property (084)",1648.0
-2010,Galway Garda Division,Perverting the course of justice (153),3.0
-2010,Galway Garda Division,Possession of a firearm (1122),9.0
-2010,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",14.0
-2010,Galway Garda Division,Possession of drugs for personal use (1022),337.0
-2010,Galway Garda Division,Possession of drugs for sale or supply (1021),100.0
-2010,Galway Garda Division,Prostitution offences (134),2.0
-2010,Galway Garda Division,Public order and other social code offences (13),3438.0
-2010,Galway Garda Division,Public service vehicle offences (1442),124.0
-2010,Galway Garda Division,Rape and sexual assault (021),100.0
-2010,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",21.0
-2010,Galway Garda Division,Road and traffic offences (14),5013.0
-2010,Galway Garda Division,Road transport - carriage of goods offences (1441),124.0
-2010,Galway Garda Division,Roadworthiness/regulatory offences (143),115.0
-2010,Galway Garda Division,Robbery from the person (0613),32.0
-2010,Galway Garda Division,Robbery of an establishment or institution (0611),16.0
-2010,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2010,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",52.0
-2010,Galway Garda Division,Sexual offences (02),108.0
-2010,Galway Garda Division,Social code offences (n.e.c.) (136),30.0
-2010,Galway Garda Division,Speeding (0415),689.0
-2010,Galway Garda Division,Theft and related offences (08),2800.0
-2010,Galway Garda Division,Theft from person (0821),66.0
-2010,Galway Garda Division,Theft from shop (0822),768.0
-2010,Galway Garda Division,Theft/taking of vehicle and related offences (081),318.0
-2010,Galway Garda Division,Threat to kill or cause serious harm (0313),8.0
-2010,Galway Garda Division,Trespass offences (132),155.0
-2010,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),1.0
-2010,Galway Garda Division,Vehicle tax/registration offences (142),1213.0
-2010,Galway Garda Division,Weapons and explosives offences (11),100.0
-2011,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
-2011,Galway Garda Division,Abduction of person under 16 years of age (0512),2.0
-2011,Galway Garda Division,Aggravated burglary (0711),9.0
-2011,Galway Garda Division,Arson (1211),92.0
-2011,Galway Garda Division,"Assault causing harm, poisoning (034)",198.0
-2011,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",880.0
-2011,Galway Garda Division,Blackmail or extortion (0621),3.0
-2011,Galway Garda Division,Burglary (not aggravated) (0712),931.0
-2011,Galway Garda Division,Burglary and related offences (07),956.0
-2011,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2011,Galway Garda Division,Controlled drug offences (10),447.0
-2011,Galway Garda Division,Criminal damage (not arson) (1212),1089.0
-2011,Galway Garda Division,Cultivation or manufacture of drugs (1012),28.0
-2011,Galway Garda Division,Damage to property and to the environment  offences (12),1193.0
-2011,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2011,Galway Garda Division,Dangerous driving leading to death (012),2.0
-2011,Galway Garda Division,Dangerous or negligent acts (04),2292.0
-2011,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),262.0
-2011,Galway Garda Division,Discharging a firearm (1121),2.0
-2011,Galway Garda Division,Disorderly conduct (131),2427.0
-2011,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",95.0
-2011,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",475.0
-2011,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),12.0
-2011,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),463.0
-2011,Galway Garda Division,Endangering traffic offences (0425),8.0
-2011,Galway Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2011,Galway Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2011,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2011,Galway Garda Division,False imprisonment (0511),2.0
-2011,Galway Garda Division,Fireworks offences (114),20.0
-2011,Galway Garda Division,"Fraud, deception and related offences (09)",237.0
-2011,Galway Garda Division,Harassment and related offences (033),128.0
-2011,Galway Garda Division,Homicide & related offences (01),5.0
-2011,Galway Garda Division,Human trafficking offences (0513),1.0
-2011,Galway Garda Division,Importation of drugs (1011),0.0
-2011,Galway Garda Division,Infanticide (0113),0.0
-2011,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",660.0
-2011,Galway Garda Division,Kidnapping and related offences (05),5.0
-2011,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2011,Galway Garda Division,Liquor licensing offences (133),106.0
-2011,Galway Garda Division,Litter offences (1221),12.0
-2011,Galway Garda Division,Manslaughter (0112),0.0
-2011,Galway Garda Division,Murder (0111),3.0
-2011,Galway Garda Division,Murder-attempt (0311),0.0
-2011,Galway Garda Division,Obstruction under Road Traffic Acts (1432),14.0
-2011,Galway Garda Division,Offences against government and its agents (151),19.0
-2011,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",385.0
-2011,Galway Garda Division,Offences not elsewhere classified (16),248.0
-2011,Galway Garda Division,"Offences while in custody, breach of court orders (157)",364.0
-2011,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),66.0
-2011,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2011,Galway Garda Division,Other assault (035),541.0
-2011,Galway Garda Division,Other drug offences (103),14.0
-2011,Galway Garda Division,Other road offences (1433),2078.0
-2011,Galway Garda Division,Other sexual offences (022),2.0
-2011,Galway Garda Division,"Other thefts, handling stolen property (084)",1287.0
-2011,Galway Garda Division,Perverting the course of justice (153),2.0
-2011,Galway Garda Division,Possession of a firearm (1122),9.0
-2011,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",16.0
-2011,Galway Garda Division,Possession of drugs for personal use (1022),292.0
-2011,Galway Garda Division,Possession of drugs for sale or supply (1021),113.0
-2011,Galway Garda Division,Prostitution offences (134),5.0
-2011,Galway Garda Division,Public order and other social code offences (13),2678.0
-2011,Galway Garda Division,Public service vehicle offences (1442),109.0
-2011,Galway Garda Division,Rape and sexual assault (021),86.0
-2011,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",11.0
-2011,Galway Garda Division,Road and traffic offences (14),4389.0
-2011,Galway Garda Division,Road transport - carriage of goods offences (1441),134.0
-2011,Galway Garda Division,Roadworthiness/regulatory offences (143),92.0
-2011,Galway Garda Division,Robbery from the person (0613),35.0
-2011,Galway Garda Division,Robbery of an establishment or institution (0611),4.0
-2011,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2011,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",43.0
-2011,Galway Garda Division,Sexual offences (02),88.0
-2011,Galway Garda Division,Social code offences (n.e.c.) (136),10.0
-2011,Galway Garda Division,Speeding (0415),1530.0
-2011,Galway Garda Division,Theft and related offences (08),2351.0
-2011,Galway Garda Division,Theft from person (0821),77.0
-2011,Galway Garda Division,Theft from shop (0822),738.0
-2011,Galway Garda Division,Theft/taking of vehicle and related offences (081),249.0
-2011,Galway Garda Division,Threat to kill or cause serious harm (0313),13.0
-2011,Galway Garda Division,Trespass offences (132),119.0
-2011,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2011,Galway Garda Division,Vehicle tax/registration offences (142),1207.0
-2011,Galway Garda Division,Weapons and explosives offences (11),98.0
-2012,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",18.0
-2012,Galway Garda Division,Abduction of person under 16 years of age (0512),1.0
-2012,Galway Garda Division,Aggravated burglary (0711),12.0
-2012,Galway Garda Division,Arson (1211),81.0
-2012,Galway Garda Division,"Assault causing harm, poisoning (034)",154.0
-2012,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",789.0
-2012,Galway Garda Division,Blackmail or extortion (0621),1.0
-2012,Galway Garda Division,Burglary (not aggravated) (0712),983.0
-2012,Galway Garda Division,Burglary and related offences (07),1007.0
-2012,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2012,Galway Garda Division,Controlled drug offences (10),496.0
-2012,Galway Garda Division,Criminal damage (not arson) (1212),1035.0
-2012,Galway Garda Division,Cultivation or manufacture of drugs (1012),25.0
-2012,Galway Garda Division,Damage to property and to the environment  offences (12),1122.0
-2012,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2012,Galway Garda Division,Dangerous driving leading to death (012),3.0
-2012,Galway Garda Division,Dangerous or negligent acts (04),2162.0
-2012,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),226.0
-2012,Galway Garda Division,Discharging a firearm (1121),3.0
-2012,Galway Garda Division,Disorderly conduct (131),2328.0
-2012,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",126.0
-2012,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",403.0
-2012,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),10.0
-2012,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),393.0
-2012,Galway Garda Division,Endangering traffic offences (0425),13.0
-2012,Galway Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2012,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2012,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2012,Galway Garda Division,False imprisonment (0511),2.0
-2012,Galway Garda Division,Fireworks offences (114),15.0
-2012,Galway Garda Division,"Fraud, deception and related offences (09)",262.0
-2012,Galway Garda Division,Harassment and related offences (033),120.0
-2012,Galway Garda Division,Homicide & related offences (01),3.0
-2012,Galway Garda Division,Human trafficking offences (0513),0.0
-2012,Galway Garda Division,Importation of drugs (1011),0.0
-2012,Galway Garda Division,Infanticide (0113),0.0
-2012,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",541.0
-2012,Galway Garda Division,Kidnapping and related offences (05),3.0
-2012,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2012,Galway Garda Division,Liquor licensing offences (133),172.0
-2012,Galway Garda Division,Litter offences (1221),6.0
-2012,Galway Garda Division,Manslaughter (0112),0.0
-2012,Galway Garda Division,Murder (0111),0.0
-2012,Galway Garda Division,Murder-attempt (0311),0.0
-2012,Galway Garda Division,Obstruction under Road Traffic Acts (1432),19.0
-2012,Galway Garda Division,Offences against government and its agents (151),6.0
-2012,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",319.0
-2012,Galway Garda Division,Offences not elsewhere classified (16),396.0
-2012,Galway Garda Division,"Offences while in custody, breach of court orders (157)",304.0
-2012,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),51.0
-2012,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2012,Galway Garda Division,Other assault (035),500.0
-2012,Galway Garda Division,Other drug offences (103),24.0
-2012,Galway Garda Division,Other road offences (1433),2089.0
-2012,Galway Garda Division,Other sexual offences (022),5.0
-2012,Galway Garda Division,"Other thefts, handling stolen property (084)",1350.0
-2012,Galway Garda Division,Perverting the course of justice (153),9.0
-2012,Galway Garda Division,Possession of a firearm (1122),9.0
-2012,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",12.0
-2012,Galway Garda Division,Possession of drugs for personal use (1022),343.0
-2012,Galway Garda Division,Possession of drugs for sale or supply (1021),104.0
-2012,Galway Garda Division,Prostitution offences (134),2.0
-2012,Galway Garda Division,Public order and other social code offences (13),2651.0
-2012,Galway Garda Division,Public service vehicle offences (1442),100.0
-2012,Galway Garda Division,Rape and sexual assault (021),82.0
-2012,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",35.0
-2012,Galway Garda Division,Road and traffic offences (14),3955.0
-2012,Galway Garda Division,Road transport - carriage of goods offences (1441),134.0
-2012,Galway Garda Division,Roadworthiness/regulatory offences (143),59.0
-2012,Galway Garda Division,Robbery from the person (0613),19.0
-2012,Galway Garda Division,Robbery of an establishment or institution (0611),5.0
-2012,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2012,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",25.0
-2012,Galway Garda Division,Sexual offences (02),87.0
-2012,Galway Garda Division,Social code offences (n.e.c.) (136),19.0
-2012,Galway Garda Division,Speeding (0415),1498.0
-2012,Galway Garda Division,Theft and related offences (08),2425.0
-2012,Galway Garda Division,Theft from person (0821),119.0
-2012,Galway Garda Division,Theft from shop (0822),721.0
-2012,Galway Garda Division,Theft/taking of vehicle and related offences (081),235.0
-2012,Galway Garda Division,Threat to kill or cause serious harm (0313),15.0
-2012,Galway Garda Division,Trespass offences (132),95.0
-2012,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2012,Galway Garda Division,Vehicle tax/registration offences (142),887.0
-2012,Galway Garda Division,Weapons and explosives offences (11),78.0
-2013,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",7.0
-2013,Galway Garda Division,Abduction of person under 16 years of age (0512),3.0
-2013,Galway Garda Division,Aggravated burglary (0711),4.0
-2013,Galway Garda Division,Arson (1211),58.0
-2013,Galway Garda Division,"Assault causing harm, poisoning (034)",119.0
-2013,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",674.0
-2013,Galway Garda Division,Blackmail or extortion (0621),0.0
-2013,Galway Garda Division,Burglary (not aggravated) (0712),869.0
-2013,Galway Garda Division,Burglary and related offences (07),879.0
-2013,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2013,Galway Garda Division,Controlled drug offences (10),526.0
-2013,Galway Garda Division,Criminal damage (not arson) (1212),866.0
-2013,Galway Garda Division,Cultivation or manufacture of drugs (1012),24.0
-2013,Galway Garda Division,Damage to property and to the environment  offences (12),934.0
-2013,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2013,Galway Garda Division,Dangerous driving leading to death (012),1.0
-2013,Galway Garda Division,Dangerous or negligent acts (04),1832.0
-2013,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),189.0
-2013,Galway Garda Division,Discharging a firearm (1121),4.0
-2013,Galway Garda Division,Disorderly conduct (131),1731.0
-2013,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",113.0
-2013,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",445.0
-2013,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),6.0
-2013,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),439.0
-2013,Galway Garda Division,Endangering traffic offences (0425),6.0
-2013,Galway Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2013,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2013,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2013,Galway Garda Division,False imprisonment (0511),2.0
-2013,Galway Garda Division,Fireworks offences (114),7.0
-2013,Galway Garda Division,"Fraud, deception and related offences (09)",230.0
-2013,Galway Garda Division,Harassment and related offences (033),94.0
-2013,Galway Garda Division,Homicide & related offences (01),2.0
-2013,Galway Garda Division,Human trafficking offences (0513),1.0
-2013,Galway Garda Division,Importation of drugs (1011),2.0
-2013,Galway Garda Division,Infanticide (0113),0.0
-2013,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",498.0
-2013,Galway Garda Division,Kidnapping and related offences (05),6.0
-2013,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2013,Galway Garda Division,Liquor licensing offences (133),98.0
-2013,Galway Garda Division,Litter offences (1221),10.0
-2013,Galway Garda Division,Manslaughter (0112),0.0
-2013,Galway Garda Division,Murder (0111),1.0
-2013,Galway Garda Division,Murder-attempt (0311),0.0
-2013,Galway Garda Division,Obstruction under Road Traffic Acts (1432),12.0
-2013,Galway Garda Division,Offences against government and its agents (151),16.0
-2013,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",355.0
-2013,Galway Garda Division,Offences not elsewhere classified (16),246.0
-2013,Galway Garda Division,"Offences while in custody, breach of court orders (157)",335.0
-2013,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),51.0
-2013,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2013,Galway Garda Division,Other assault (035),449.0
-2013,Galway Garda Division,Other drug offences (103),23.0
-2013,Galway Garda Division,Other road offences (1433),2636.0
-2013,Galway Garda Division,Other sexual offences (022),5.0
-2013,Galway Garda Division,"Other thefts, handling stolen property (084)",1312.0
-2013,Galway Garda Division,Perverting the course of justice (153),4.0
-2013,Galway Garda Division,Possession of a firearm (1122),3.0
-2013,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",6.0
-2013,Galway Garda Division,Possession of drugs for personal use (1022),367.0
-2013,Galway Garda Division,Possession of drugs for sale or supply (1021),110.0
-2013,Galway Garda Division,Prostitution offences (134),0.0
-2013,Galway Garda Division,Public order and other social code offences (13),1984.0
-2013,Galway Garda Division,Public service vehicle offences (1442),45.0
-2013,Galway Garda Division,Rape and sexual assault (021),89.0
-2013,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",37.0
-2013,Galway Garda Division,Road and traffic offences (14),4158.0
-2013,Galway Garda Division,Road transport - carriage of goods offences (1441),126.0
-2013,Galway Garda Division,Roadworthiness/regulatory offences (143),128.0
-2013,Galway Garda Division,Robbery from the person (0613),45.0
-2013,Galway Garda Division,Robbery of an establishment or institution (0611),3.0
-2013,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2013,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",49.0
-2013,Galway Garda Division,Sexual offences (02),94.0
-2013,Galway Garda Division,Social code offences (n.e.c.) (136),33.0
-2013,Galway Garda Division,Speeding (0415),1182.0
-2013,Galway Garda Division,Theft and related offences (08),2437.0
-2013,Galway Garda Division,Theft from person (0821),158.0
-2013,Galway Garda Division,Theft from shop (0822),754.0
-2013,Galway Garda Division,Theft/taking of vehicle and related offences (081),213.0
-2013,Galway Garda Division,Threat to kill or cause serious harm (0313),12.0
-2013,Galway Garda Division,Trespass offences (132),85.0
-2013,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2013,Galway Garda Division,Vehicle tax/registration offences (142),600.0
-2013,Galway Garda Division,Weapons and explosives offences (11),65.0
-2014,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",49.0
-2014,Galway Garda Division,Abduction of person under 16 years of age (0512),2.0
-2014,Galway Garda Division,Aggravated burglary (0711),7.0
-2014,Galway Garda Division,Arson (1211),50.0
-2014,Galway Garda Division,"Assault causing harm, poisoning (034)",130.0
-2014,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",739.0
-2014,Galway Garda Division,Blackmail or extortion (0621),0.0
-2014,Galway Garda Division,Burglary (not aggravated) (0712),973.0
-2014,Galway Garda Division,Burglary and related offences (07),993.0
-2014,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2014,Galway Garda Division,Controlled drug offences (10),571.0
-2014,Galway Garda Division,Criminal damage (not arson) (1212),841.0
-2014,Galway Garda Division,Cultivation or manufacture of drugs (1012),24.0
-2014,Galway Garda Division,Damage to property and to the environment  offences (12),903.0
-2014,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2014,Galway Garda Division,Dangerous driving leading to death (012),2.0
-2014,Galway Garda Division,Dangerous or negligent acts (04),2780.0
-2014,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),289.0
-2014,Galway Garda Division,Discharging a firearm (1121),3.0
-2014,Galway Garda Division,Disorderly conduct (131),1623.0
-2014,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",134.0
-2014,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",427.0
-2014,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),16.0
-2014,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),411.0
-2014,Galway Garda Division,Endangering traffic offences (0425),7.0
-2014,Galway Garda Division,Endangerment with potential for serious harm/death (0421),3.0
-2014,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2014,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2014,Galway Garda Division,False imprisonment (0511),3.0
-2014,Galway Garda Division,Fireworks offences (114),8.0
-2014,Galway Garda Division,"Fraud, deception and related offences (09)",317.0
-2014,Galway Garda Division,Harassment and related offences (033),78.0
-2014,Galway Garda Division,Homicide & related offences (01),2.0
-2014,Galway Garda Division,Human trafficking offences (0513),1.0
-2014,Galway Garda Division,Importation of drugs (1011),3.0
-2014,Galway Garda Division,Infanticide (0113),0.0
-2014,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",476.0
-2014,Galway Garda Division,Kidnapping and related offences (05),6.0
-2014,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2014,Galway Garda Division,Liquor licensing offences (133),131.0
-2014,Galway Garda Division,Litter offences (1221),12.0
-2014,Galway Garda Division,Manslaughter (0112),0.0
-2014,Galway Garda Division,Murder (0111),0.0
-2014,Galway Garda Division,Murder-attempt (0311),0.0
-2014,Galway Garda Division,Obstruction under Road Traffic Acts (1432),5.0
-2014,Galway Garda Division,Offences against government and its agents (151),7.0
-2014,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",299.0
-2014,Galway Garda Division,Offences not elsewhere classified (16),252.0
-2014,Galway Garda Division,"Offences while in custody, breach of court orders (157)",291.0
-2014,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),52.0
-2014,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2014,Galway Garda Division,Other assault (035),520.0
-2014,Galway Garda Division,Other drug offences (103),28.0
-2014,Galway Garda Division,Other road offences (1433),2996.0
-2014,Galway Garda Division,Other sexual offences (022),9.0
-2014,Galway Garda Division,"Other thefts, handling stolen property (084)",1320.0
-2014,Galway Garda Division,Perverting the course of justice (153),1.0
-2014,Galway Garda Division,Possession of a firearm (1122),3.0
-2014,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",13.0
-2014,Galway Garda Division,Possession of drugs for personal use (1022),352.0
-2014,Galway Garda Division,Possession of drugs for sale or supply (1021),164.0
-2014,Galway Garda Division,Prostitution offences (134),0.0
-2014,Galway Garda Division,Public order and other social code offences (13),1911.0
-2014,Galway Garda Division,Public service vehicle offences (1442),49.0
-2014,Galway Garda Division,Rape and sexual assault (021),82.0
-2014,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",17.0
-2014,Galway Garda Division,Road and traffic offences (14),4548.0
-2014,Galway Garda Division,Road transport - carriage of goods offences (1441),83.0
-2014,Galway Garda Division,Roadworthiness/regulatory offences (143),162.0
-2014,Galway Garda Division,Robbery from the person (0613),26.0
-2014,Galway Garda Division,Robbery of an establishment or institution (0611),8.0
-2014,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2014,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",34.0
-2014,Galway Garda Division,Sexual offences (02),91.0
-2014,Galway Garda Division,Social code offences (n.e.c.) (136),45.0
-2014,Galway Garda Division,Speeding (0415),2004.0
-2014,Galway Garda Division,Theft and related offences (08),2266.0
-2014,Galway Garda Division,Theft from person (0821),137.0
-2014,Galway Garda Division,Theft from shop (0822),663.0
-2014,Galway Garda Division,Theft/taking of vehicle and related offences (081),146.0
-2014,Galway Garda Division,Threat to kill or cause serious harm (0313),11.0
-2014,Galway Garda Division,Trespass offences (132),95.0
-2014,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2014,Galway Garda Division,Vehicle tax/registration offences (142),643.0
-2014,Galway Garda Division,Weapons and explosives offences (11),66.0
-2015,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",7.0
-2015,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2015,Galway Garda Division,Aggravated burglary (0711),11.0
-2015,Galway Garda Division,Arson (1211),48.0
-2015,Galway Garda Division,"Assault causing harm, poisoning (034)",155.0
-2015,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",792.0
-2015,Galway Garda Division,Blackmail or extortion (0621),2.0
-2015,Galway Garda Division,Burglary (not aggravated) (0712),877.0
-2015,Galway Garda Division,Burglary and related offences (07),896.0
-2015,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2015,Galway Garda Division,Controlled drug offences (10),576.0
-2015,Galway Garda Division,Criminal damage (not arson) (1212),771.0
-2015,Galway Garda Division,Cultivation or manufacture of drugs (1012),18.0
-2015,Galway Garda Division,Damage to property and to the environment  offences (12),827.0
-2015,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2015,Galway Garda Division,Dangerous driving leading to death (012),2.0
-2015,Galway Garda Division,Dangerous or negligent acts (04),2757.0
-2015,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),267.0
-2015,Galway Garda Division,Discharging a firearm (1121),3.0
-2015,Galway Garda Division,Disorderly conduct (131),1605.0
-2015,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",206.0
-2015,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",463.0
-2015,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),11.0
-2015,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),452.0
-2015,Galway Garda Division,Endangering traffic offences (0425),4.0
-2015,Galway Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2015,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2015,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2015,Galway Garda Division,False imprisonment (0511),4.0
-2015,Galway Garda Division,Fireworks offences (114),5.0
-2015,Galway Garda Division,"Fraud, deception and related offences (09)",340.0
-2015,Galway Garda Division,Harassment and related offences (033),76.0
-2015,Galway Garda Division,Homicide & related offences (01),2.0
-2015,Galway Garda Division,Human trafficking offences (0513),0.0
-2015,Galway Garda Division,Importation of drugs (1011),0.0
-2015,Galway Garda Division,Infanticide (0113),0.0
-2015,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",616.0
-2015,Galway Garda Division,Kidnapping and related offences (05),4.0
-2015,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2015,Galway Garda Division,Liquor licensing offences (133),118.0
-2015,Galway Garda Division,Litter offences (1221),8.0
-2015,Galway Garda Division,Manslaughter (0112),0.0
-2015,Galway Garda Division,Murder (0111),0.0
-2015,Galway Garda Division,Murder-attempt (0311),0.0
-2015,Galway Garda Division,Obstruction under Road Traffic Acts (1432),9.0
-2015,Galway Garda Division,Offences against government and its agents (151),9.0
-2015,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",335.0
-2015,Galway Garda Division,Offences not elsewhere classified (16),199.0
-2015,Galway Garda Division,"Offences while in custody, breach of court orders (157)",324.0
-2015,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),45.0
-2015,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2015,Galway Garda Division,Other assault (035),548.0
-2015,Galway Garda Division,Other drug offences (103),32.0
-2015,Galway Garda Division,Other road offences (1433),2953.0
-2015,Galway Garda Division,Other sexual offences (022),1.0
-2015,Galway Garda Division,"Other thefts, handling stolen property (084)",1289.0
-2015,Galway Garda Division,Perverting the course of justice (153),2.0
-2015,Galway Garda Division,Possession of a firearm (1122),2.0
-2015,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",8.0
-2015,Galway Garda Division,Possession of drugs for personal use (1022),403.0
-2015,Galway Garda Division,Possession of drugs for sale or supply (1021),123.0
-2015,Galway Garda Division,Prostitution offences (134),0.0
-2015,Galway Garda Division,Public order and other social code offences (13),1879.0
-2015,Galway Garda Division,Public service vehicle offences (1442),57.0
-2015,Galway Garda Division,Rape and sexual assault (021),97.0
-2015,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",23.0
-2015,Galway Garda Division,Road and traffic offences (14),5140.0
-2015,Galway Garda Division,Road transport - carriage of goods offences (1441),67.0
-2015,Galway Garda Division,Roadworthiness/regulatory offences (143),323.0
-2015,Galway Garda Division,Robbery from the person (0613),21.0
-2015,Galway Garda Division,Robbery of an establishment or institution (0611),13.0
-2015,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2015,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",37.0
-2015,Galway Garda Division,Sexual offences (02),98.0
-2015,Galway Garda Division,Social code offences (n.e.c.) (136),40.0
-2015,Galway Garda Division,Speeding (0415),2012.0
-2015,Galway Garda Division,Theft and related offences (08),2310.0
-2015,Galway Garda Division,Theft from person (0821),147.0
-2015,Galway Garda Division,Theft from shop (0822),770.0
-2015,Galway Garda Division,Theft/taking of vehicle and related offences (081),104.0
-2015,Galway Garda Division,Threat to kill or cause serious harm (0313),13.0
-2015,Galway Garda Division,Trespass offences (132),93.0
-2015,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2015,Galway Garda Division,Vehicle tax/registration offences (142),909.0
-2015,Galway Garda Division,Weapons and explosives offences (11),55.0
-2016,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
-2016,Galway Garda Division,Abduction of person under 16 years of age (0512),1.0
-2016,Galway Garda Division,Aggravated burglary (0711),8.0
-2016,Galway Garda Division,Arson (1211),48.0
-2016,Galway Garda Division,"Assault causing harm, poisoning (034)",134.0
-2016,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",713.0
-2016,Galway Garda Division,Blackmail or extortion (0621),1.0
-2016,Galway Garda Division,Burglary (not aggravated) (0712),505.0
-2016,Galway Garda Division,Burglary and related offences (07),518.0
-2016,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2016,Galway Garda Division,Controlled drug offences (10),610.0
-2016,Galway Garda Division,Criminal damage (not arson) (1212),710.0
-2016,Galway Garda Division,Cultivation or manufacture of drugs (1012),20.0
-2016,Galway Garda Division,Damage to property and to the environment  offences (12),766.0
-2016,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2016,Galway Garda Division,Dangerous driving leading to death (012),1.0
-2016,Galway Garda Division,Dangerous or negligent acts (04),2090.0
-2016,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),258.0
-2016,Galway Garda Division,Discharging a firearm (1121),5.0
-2016,Galway Garda Division,Disorderly conduct (131),1630.0
-2016,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",206.0
-2016,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",450.0
-2016,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),11.0
-2016,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),439.0
-2016,Galway Garda Division,Endangering traffic offences (0425),5.0
-2016,Galway Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2016,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2016,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2016,Galway Garda Division,False imprisonment (0511),2.0
-2016,Galway Garda Division,Fireworks offences (114),5.0
-2016,Galway Garda Division,"Fraud, deception and related offences (09)",242.0
-2016,Galway Garda Division,Harassment and related offences (033),75.0
-2016,Galway Garda Division,Homicide & related offences (01),1.0
-2016,Galway Garda Division,Human trafficking offences (0513),0.0
-2016,Galway Garda Division,Importation of drugs (1011),0.0
-2016,Galway Garda Division,Infanticide (0113),0.0
-2016,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",632.0
-2016,Galway Garda Division,Kidnapping and related offences (05),3.0
-2016,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2016,Galway Garda Division,Liquor licensing offences (133),77.0
-2016,Galway Garda Division,Litter offences (1221),8.0
-2016,Galway Garda Division,Manslaughter (0112),0.0
-2016,Galway Garda Division,Murder (0111),0.0
-2016,Galway Garda Division,Murder-attempt (0311),0.0
-2016,Galway Garda Division,Obstruction under Road Traffic Acts (1432),6.0
-2016,Galway Garda Division,Offences against government and its agents (151),11.0
-2016,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",423.0
-2016,Galway Garda Division,Offences not elsewhere classified (16),161.0
-2016,Galway Garda Division,"Offences while in custody, breach of court orders (157)",410.0
-2016,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),58.0
-2016,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2016,Galway Garda Division,Other assault (035),485.0
-2016,Galway Garda Division,Other drug offences (103),47.0
-2016,Galway Garda Division,Other road offences (1433),2373.0
-2016,Galway Garda Division,Other sexual offences (022),8.0
-2016,Galway Garda Division,"Other thefts, handling stolen property (084)",1002.0
-2016,Galway Garda Division,Perverting the course of justice (153),2.0
-2016,Galway Garda Division,Possession of a firearm (1122),6.0
-2016,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",5.0
-2016,Galway Garda Division,Possession of drugs for personal use (1022),401.0
-2016,Galway Garda Division,Possession of drugs for sale or supply (1021),142.0
-2016,Galway Garda Division,Prostitution offences (134),3.0
-2016,Galway Garda Division,Public order and other social code offences (13),1836.0
-2016,Galway Garda Division,Public service vehicle offences (1442),52.0
-2016,Galway Garda Division,Rape and sexual assault (021),111.0
-2016,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",11.0
-2016,Galway Garda Division,Road and traffic offences (14),4426.0
-2016,Galway Garda Division,Road transport - carriage of goods offences (1441),88.0
-2016,Galway Garda Division,Roadworthiness/regulatory offences (143),195.0
-2016,Galway Garda Division,Robbery from the person (0613),16.0
-2016,Galway Garda Division,Robbery of an establishment or institution (0611),2.0
-2016,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2016,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",20.0
-2016,Galway Garda Division,Sexual offences (02),119.0
-2016,Galway Garda Division,Social code offences (n.e.c.) (136),50.0
-2016,Galway Garda Division,Speeding (0415),1370.0
-2016,Galway Garda Division,Theft and related offences (08),1893.0
-2016,Galway Garda Division,Theft from person (0821),88.0
-2016,Galway Garda Division,Theft from shop (0822),722.0
-2016,Galway Garda Division,Theft/taking of vehicle and related offences (081),81.0
-2016,Galway Garda Division,Threat to kill or cause serious harm (0313),19.0
-2016,Galway Garda Division,Trespass offences (132),65.0
-2016,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),1.0
-2016,Galway Garda Division,Vehicle tax/registration offences (142),874.0
-2016,Galway Garda Division,Weapons and explosives offences (11),74.0
-2017,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
-2017,Galway Garda Division,Abduction of person under 16 years of age (0512),2.0
-2017,Galway Garda Division,Aggravated burglary (0711),9.0
-2017,Galway Garda Division,Arson (1211),55.0
-2017,Galway Garda Division,"Assault causing harm, poisoning (034)",155.0
-2017,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",859.0
-2017,Galway Garda Division,Blackmail or extortion (0621),4.0
-2017,Galway Garda Division,Burglary (not aggravated) (0712),664.0
-2017,Galway Garda Division,Burglary and related offences (07),676.0
-2017,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2017,Galway Garda Division,Controlled drug offences (10),600.0
-2017,Galway Garda Division,Criminal damage (not arson) (1212),872.0
-2017,Galway Garda Division,Cultivation or manufacture of drugs (1012),22.0
-2017,Galway Garda Division,Damage to property and to the environment  offences (12),938.0
-2017,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2017,Galway Garda Division,Dangerous driving leading to death (012),0.0
-2017,Galway Garda Division,Dangerous or negligent acts (04),2064.0
-2017,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),223.0
-2017,Galway Garda Division,Discharging a firearm (1121),3.0
-2017,Galway Garda Division,Disorderly conduct (131),1565.0
-2017,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",239.0
-2017,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",460.0
-2017,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),9.0
-2017,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),451.0
-2017,Galway Garda Division,Endangering traffic offences (0425),7.0
-2017,Galway Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2017,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2017,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2017,Galway Garda Division,False imprisonment (0511),4.0
-2017,Galway Garda Division,Fireworks offences (114),10.0
-2017,Galway Garda Division,"Fraud, deception and related offences (09)",272.0
-2017,Galway Garda Division,Harassment and related offences (033),86.0
-2017,Galway Garda Division,Homicide & related offences (01),1.0
-2017,Galway Garda Division,Human trafficking offences (0513),1.0
-2017,Galway Garda Division,Importation of drugs (1011),0.0
-2017,Galway Garda Division,Infanticide (0113),0.0
-2017,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",724.0
-2017,Galway Garda Division,Kidnapping and related offences (05),7.0
-2017,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2017,Galway Garda Division,Liquor licensing offences (133),34.0
-2017,Galway Garda Division,Litter offences (1221),11.0
-2017,Galway Garda Division,Manslaughter (0112),1.0
-2017,Galway Garda Division,Murder (0111),0.0
-2017,Galway Garda Division,Murder-attempt (0311),0.0
-2017,Galway Garda Division,Obstruction under Road Traffic Acts (1432),5.0
-2017,Galway Garda Division,Offences against government and its agents (151),13.0
-2017,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",458.0
-2017,Galway Garda Division,Offences not elsewhere classified (16),150.0
-2017,Galway Garda Division,"Offences while in custody, breach of court orders (157)",443.0
-2017,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),62.0
-2017,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2017,Galway Garda Division,Other assault (035),587.0
-2017,Galway Garda Division,Other drug offences (103),24.0
-2017,Galway Garda Division,Other road offences (1433),2479.0
-2017,Galway Garda Division,Other sexual offences (022),6.0
-2017,Galway Garda Division,"Other thefts, handling stolen property (084)",1197.0
-2017,Galway Garda Division,Perverting the course of justice (153),2.0
-2017,Galway Garda Division,Possession of a firearm (1122),5.0
-2017,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2017,Galway Garda Division,Possession of drugs for personal use (1022),408.0
-2017,Galway Garda Division,Possession of drugs for sale or supply (1021),146.0
-2017,Galway Garda Division,Prostitution offences (134),2.0
-2017,Galway Garda Division,Public order and other social code offences (13),1836.0
-2017,Galway Garda Division,Public service vehicle offences (1442),32.0
-2017,Galway Garda Division,Rape and sexual assault (021),125.0
-2017,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",12.0
-2017,Galway Garda Division,Road and traffic offences (14),4631.0
-2017,Galway Garda Division,Road transport - carriage of goods offences (1441),70.0
-2017,Galway Garda Division,Roadworthiness/regulatory offences (143),116.0
-2017,Galway Garda Division,Robbery from the person (0613),36.0
-2017,Galway Garda Division,Robbery of an establishment or institution (0611),6.0
-2017,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2017,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",46.0
-2017,Galway Garda Division,Sexual offences (02),131.0
-2017,Galway Garda Division,Social code offences (n.e.c.) (136),119.0
-2017,Galway Garda Division,Speeding (0415),1360.0
-2017,Galway Garda Division,Theft and related offences (08),2126.0
-2017,Galway Garda Division,Theft from person (0821),67.0
-2017,Galway Garda Division,Theft from shop (0822),778.0
-2017,Galway Garda Division,Theft/taking of vehicle and related offences (081),84.0
-2017,Galway Garda Division,Threat to kill or cause serious harm (0313),31.0
-2017,Galway Garda Division,Trespass offences (132),104.0
-2017,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2017,Galway Garda Division,Vehicle tax/registration offences (142),966.0
-2017,Galway Garda Division,Weapons and explosives offences (11),80.0
-2018,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",11.0
-2018,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2018,Galway Garda Division,Aggravated burglary (0711),9.0
-2018,Galway Garda Division,Arson (1211),36.0
-2018,Galway Garda Division,"Assault causing harm, poisoning (034)",184.0
-2018,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",956.0
-2018,Galway Garda Division,Blackmail or extortion (0621),8.0
-2018,Galway Garda Division,Burglary (not aggravated) (0712),588.0
-2018,Galway Garda Division,Burglary and related offences (07),610.0
-2018,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
-2018,Galway Garda Division,Controlled drug offences (10),535.0
-2018,Galway Garda Division,Criminal damage (not arson) (1212),640.0
-2018,Galway Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2018,Galway Garda Division,Damage to property and to the environment  offences (12),684.0
-2018,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2018,Galway Garda Division,Dangerous driving leading to death (012),3.0
-2018,Galway Garda Division,Dangerous or negligent acts (04),1957.0
-2018,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),241.0
-2018,Galway Garda Division,Discharging a firearm (1121),4.0
-2018,Galway Garda Division,Disorderly conduct (131),1529.0
-2018,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",213.0
-2018,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",401.0
-2018,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),7.0
-2018,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),394.0
-2018,Galway Garda Division,Endangering traffic offences (0425),9.0
-2018,Galway Garda Division,Endangerment with potential for serious harm/death (0421),3.0
-2018,Galway Garda Division,"Explosives, chemical weapons offences (111)",3.0
-2018,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2018,Galway Garda Division,False imprisonment (0511),8.0
-2018,Galway Garda Division,Fireworks offences (114),8.0
-2018,Galway Garda Division,"Fraud, deception and related offences (09)",237.0
-2018,Galway Garda Division,Harassment and related offences (033),96.0
-2018,Galway Garda Division,Homicide & related offences (01),4.0
-2018,Galway Garda Division,Human trafficking offences (0513),0.0
-2018,Galway Garda Division,Importation of drugs (1011),0.0
-2018,Galway Garda Division,Infanticide (0113),0.0
-2018,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",642.0
-2018,Galway Garda Division,Kidnapping and related offences (05),8.0
-2018,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2018,Galway Garda Division,Liquor licensing offences (133),34.0
-2018,Galway Garda Division,Litter offences (1221),8.0
-2018,Galway Garda Division,Manslaughter (0112),1.0
-2018,Galway Garda Division,Murder (0111),0.0
-2018,Galway Garda Division,Murder-attempt (0311),0.0
-2018,Galway Garda Division,Obstruction under Road Traffic Acts (1432),5.0
-2018,Galway Garda Division,Offences against government and its agents (151),14.0
-2018,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",312.0
-2018,Galway Garda Division,Offences not elsewhere classified (16),139.0
-2018,Galway Garda Division,"Offences while in custody, breach of court orders (157)",298.0
-2018,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),56.0
-2018,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2018,Galway Garda Division,Other assault (035),647.0
-2018,Galway Garda Division,Other drug offences (103),20.0
-2018,Galway Garda Division,Other road offences (1433),2087.0
-2018,Galway Garda Division,Other sexual offences (022),18.0
-2018,Galway Garda Division,"Other thefts, handling stolen property (084)",1013.0
-2018,Galway Garda Division,Perverting the course of justice (153),0.0
-2018,Galway Garda Division,Possession of a firearm (1122),3.0
-2018,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",13.0
-2018,Galway Garda Division,Possession of drugs for personal use (1022),371.0
-2018,Galway Garda Division,Possession of drugs for sale or supply (1021),133.0
-2018,Galway Garda Division,Prostitution offences (134),1.0
-2018,Galway Garda Division,Public order and other social code offences (13),1750.0
-2018,Galway Garda Division,Public service vehicle offences (1442),30.0
-2018,Galway Garda Division,Rape and sexual assault (021),130.0
-2018,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",20.0
-2018,Galway Garda Division,Road and traffic offences (14),4172.0
-2018,Galway Garda Division,Road transport - carriage of goods offences (1441),48.0
-2018,Galway Garda Division,Roadworthiness/regulatory offences (143),76.0
-2018,Galway Garda Division,Robbery from the person (0613),30.0
-2018,Galway Garda Division,Robbery of an establishment or institution (0611),8.0
-2018,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2018,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",49.0
-2018,Galway Garda Division,Sexual offences (02),148.0
-2018,Galway Garda Division,Social code offences (n.e.c.) (136),68.0
-2018,Galway Garda Division,Speeding (0415),1290.0
-2018,Galway Garda Division,Theft and related offences (08),1927.0
-2018,Galway Garda Division,Theft from person (0821),61.0
-2018,Galway Garda Division,Theft from shop (0822),766.0
-2018,Galway Garda Division,Theft/taking of vehicle and related offences (081),87.0
-2018,Galway Garda Division,Threat to kill or cause serious harm (0313),29.0
-2018,Galway Garda Division,Trespass offences (132),98.0
-2018,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2018,Galway Garda Division,Vehicle tax/registration offences (142),1071.0
-2018,Galway Garda Division,Weapons and explosives offences (11),74.0
-2019,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
-2019,Galway Garda Division,Abduction of person under 16 years of age (0512),2.0
-2019,Galway Garda Division,Aggravated burglary (0711),5.0
-2019,Galway Garda Division,Arson (1211),52.0
-2019,Galway Garda Division,"Assault causing harm, poisoning (034)",193.0
-2019,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",973.0
-2019,Galway Garda Division,Blackmail or extortion (0621),7.0
-2019,Galway Garda Division,Burglary (not aggravated) (0712),523.0
-2019,Galway Garda Division,Burglary and related offences (07),531.0
-2019,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2019,Galway Garda Division,Controlled drug offences (10),560.0
-2019,Galway Garda Division,Criminal damage (not arson) (1212),791.0
-2019,Galway Garda Division,Cultivation or manufacture of drugs (1012),7.0
-2019,Galway Garda Division,Damage to property and to the environment  offences (12),852.0
-2019,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2019,Galway Garda Division,Dangerous driving leading to death (012),1.0
-2019,Galway Garda Division,Dangerous or negligent acts (04),2135.0
-2019,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),291.0
-2019,Galway Garda Division,Discharging a firearm (1121),1.0
-2019,Galway Garda Division,Disorderly conduct (131),1568.0
-2019,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",178.0
-2019,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",394.0
-2019,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),18.0
-2019,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),376.0
-2019,Galway Garda Division,Endangering traffic offences (0425),11.0
-2019,Galway Garda Division,Endangerment with potential for serious harm/death (0421),12.0
-2019,Galway Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2019,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2019,Galway Garda Division,False imprisonment (0511),4.0
-2019,Galway Garda Division,Fireworks offences (114),9.0
-2019,Galway Garda Division,"Fraud, deception and related offences (09)",353.0
-2019,Galway Garda Division,Harassment and related offences (033),98.0
-2019,Galway Garda Division,Homicide & related offences (01),1.0
-2019,Galway Garda Division,Human trafficking offences (0513),1.0
-2019,Galway Garda Division,Importation of drugs (1011),1.0
-2019,Galway Garda Division,Infanticide (0113),0.0
-2019,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",550.0
-2019,Galway Garda Division,Kidnapping and related offences (05),7.0
-2019,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2019,Galway Garda Division,Liquor licensing offences (133),48.0
-2019,Galway Garda Division,Litter offences (1221),9.0
-2019,Galway Garda Division,Manslaughter (0112),0.0
-2019,Galway Garda Division,Murder (0111),0.0
-2019,Galway Garda Division,Murder-attempt (0311),0.0
-2019,Galway Garda Division,Obstruction under Road Traffic Acts (1432),8.0
-2019,Galway Garda Division,Offences against government and its agents (151),24.0
-2019,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",344.0
-2019,Galway Garda Division,Offences not elsewhere classified (16),97.0
-2019,Galway Garda Division,"Offences while in custody, breach of court orders (157)",320.0
-2019,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),68.0
-2019,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2019,Galway Garda Division,Other assault (035),640.0
-2019,Galway Garda Division,Other drug offences (103),22.0
-2019,Galway Garda Division,Other road offences (1433),1813.0
-2019,Galway Garda Division,Other sexual offences (022),23.0
-2019,Galway Garda Division,"Other thefts, handling stolen property (084)",1060.0
-2019,Galway Garda Division,Perverting the course of justice (153),0.0
-2019,Galway Garda Division,Possession of a firearm (1122),4.0
-2019,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2019,Galway Garda Division,Possession of drugs for personal use (1022),413.0
-2019,Galway Garda Division,Possession of drugs for sale or supply (1021),117.0
-2019,Galway Garda Division,Prostitution offences (134),5.0
-2019,Galway Garda Division,Public order and other social code offences (13),1733.0
-2019,Galway Garda Division,Public service vehicle offences (1442),40.0
-2019,Galway Garda Division,Rape and sexual assault (021),169.0
-2019,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",5.0
-2019,Galway Garda Division,Road and traffic offences (14),3568.0
-2019,Galway Garda Division,Road transport - carriage of goods offences (1441),35.0
-2019,Galway Garda Division,Roadworthiness/regulatory offences (143),76.0
-2019,Galway Garda Division,Robbery from the person (0613),31.0
-2019,Galway Garda Division,Robbery of an establishment or institution (0611),1.0
-2019,Galway Garda Division,Robbery of cash or goods in transit (0612),1.0
-2019,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",40.0
-2019,Galway Garda Division,Sexual offences (02),192.0
-2019,Galway Garda Division,Social code offences (n.e.c.) (136),33.0
-2019,Galway Garda Division,Speeding (0415),1420.0
-2019,Galway Garda Division,Theft and related offences (08),2073.0
-2019,Galway Garda Division,Theft from person (0821),87.0
-2019,Galway Garda Division,Theft from shop (0822),839.0
-2019,Galway Garda Division,Theft/taking of vehicle and related offences (081),87.0
-2019,Galway Garda Division,Threat to kill or cause serious harm (0313),42.0
-2019,Galway Garda Division,Trespass offences (132),74.0
-2019,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2019,Galway Garda Division,Vehicle tax/registration offences (142),868.0
-2019,Galway Garda Division,Weapons and explosives offences (11),82.0
-2020,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",7.0
-2020,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2020,Galway Garda Division,Aggravated burglary (0711),13.0
-2020,Galway Garda Division,Arson (1211),38.0
-2020,Galway Garda Division,"Assault causing harm, poisoning (034)",163.0
-2020,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",940.0
-2020,Galway Garda Division,Blackmail or extortion (0621),10.0
-2020,Galway Garda Division,Burglary (not aggravated) (0712),396.0
-2020,Galway Garda Division,Burglary and related offences (07),413.0
-2020,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2020,Galway Garda Division,Controlled drug offences (10),537.0
-2020,Galway Garda Division,Criminal damage (not arson) (1212),722.0
-2020,Galway Garda Division,Cultivation or manufacture of drugs (1012),17.0
-2020,Galway Garda Division,Damage to property and to the environment  offences (12),773.0
-2020,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),4.0
-2020,Galway Garda Division,Dangerous driving leading to death (012),2.0
-2020,Galway Garda Division,Dangerous or negligent acts (04),2324.0
-2020,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),249.0
-2020,Galway Garda Division,Discharging a firearm (1121),3.0
-2020,Galway Garda Division,Disorderly conduct (131),1329.0
-2020,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",165.0
-2020,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",356.0
-2020,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),25.0
-2020,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),331.0
-2020,Galway Garda Division,Endangering traffic offences (0425),8.0
-2020,Galway Garda Division,Endangerment with potential for serious harm/death (0421),9.0
-2020,Galway Garda Division,"Explosives, chemical weapons offences (111)",4.0
-2020,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),1.0
-2020,Galway Garda Division,False imprisonment (0511),2.0
-2020,Galway Garda Division,Fireworks offences (114),12.0
-2020,Galway Garda Division,"Fraud, deception and related offences (09)",367.0
-2020,Galway Garda Division,Harassment and related offences (033),104.0
-2020,Galway Garda Division,Homicide & related offences (01),2.0
-2020,Galway Garda Division,Human trafficking offences (0513),0.0
-2020,Galway Garda Division,Importation of drugs (1011),0.0
-2020,Galway Garda Division,Infanticide (0113),0.0
-2020,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",422.0
-2020,Galway Garda Division,Kidnapping and related offences (05),2.0
-2020,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2020,Galway Garda Division,Liquor licensing offences (133),26.0
-2020,Galway Garda Division,Litter offences (1221),13.0
-2020,Galway Garda Division,Manslaughter (0112),0.0
-2020,Galway Garda Division,Murder (0111),0.0
-2020,Galway Garda Division,Murder-attempt (0311),0.0
-2020,Galway Garda Division,Obstruction under Road Traffic Acts (1432),7.0
-2020,Galway Garda Division,Offences against government and its agents (151),13.0
-2020,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",283.0
-2020,Galway Garda Division,Offences not elsewhere classified (16),98.0
-2020,Galway Garda Division,"Offences while in custody, breach of court orders (157)",270.0
-2020,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),86.0
-2020,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2020,Galway Garda Division,Other assault (035),627.0
-2020,Galway Garda Division,Other drug offences (103),27.0
-2020,Galway Garda Division,Other road offences (1433),1428.0
-2020,Galway Garda Division,Other sexual offences (022),26.0
-2020,Galway Garda Division,"Other thefts, handling stolen property (084)",870.0
-2020,Galway Garda Division,Perverting the course of justice (153),0.0
-2020,Galway Garda Division,Possession of a firearm (1122),6.0
-2020,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",4.0
-2020,Galway Garda Division,Possession of drugs for personal use (1022),348.0
-2020,Galway Garda Division,Possession of drugs for sale or supply (1021),145.0
-2020,Galway Garda Division,Prostitution offences (134),2.0
-2020,Galway Garda Division,Public order and other social code offences (13),1582.0
-2020,Galway Garda Division,Public service vehicle offences (1442),26.0
-2020,Galway Garda Division,Rape and sexual assault (021),123.0
-2020,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",3.0
-2020,Galway Garda Division,Road and traffic offences (14),2934.0
-2020,Galway Garda Division,Road transport - carriage of goods offences (1441),18.0
-2020,Galway Garda Division,Roadworthiness/regulatory offences (143),86.0
-2020,Galway Garda Division,Robbery from the person (0613),28.0
-2020,Galway Garda Division,Robbery of an establishment or institution (0611),9.0
-2020,Galway Garda Division,Robbery of cash or goods in transit (0612),1.0
-2020,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",50.0
-2020,Galway Garda Division,Sexual offences (02),149.0
-2020,Galway Garda Division,Social code offences (n.e.c.) (136),138.0
-2020,Galway Garda Division,Speeding (0415),1689.0
-2020,Galway Garda Division,Theft and related offences (08),1638.0
-2020,Galway Garda Division,Theft from person (0821),33.0
-2020,Galway Garda Division,Theft from shop (0822),658.0
-2020,Galway Garda Division,Theft/taking of vehicle and related offences (081),77.0
-2020,Galway Garda Division,Threat to kill or cause serious harm (0313),46.0
-2020,Galway Garda Division,Trespass offences (132),84.0
-2020,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),1.0
-2020,Galway Garda Division,Vehicle tax/registration offences (142),782.0
-2020,Galway Garda Division,Weapons and explosives offences (11),111.0
-2021,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",9.0
-2021,Galway Garda Division,Abduction of person under 16 years of age (0512),3.0
-2021,Galway Garda Division,Aggravated burglary (0711),8.0
-2021,Galway Garda Division,Arson (1211),43.0
-2021,Galway Garda Division,"Assault causing harm, poisoning (034)",185.0
-2021,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1050.0
-2021,Galway Garda Division,Blackmail or extortion (0621),29.0
-2021,Galway Garda Division,Burglary (not aggravated) (0712),348.0
-2021,Galway Garda Division,Burglary and related offences (07),358.0
-2021,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2021,Galway Garda Division,Controlled drug offences (10),471.0
-2021,Galway Garda Division,Criminal damage (not arson) (1212),632.0
-2021,Galway Garda Division,Cultivation or manufacture of drugs (1012),9.0
-2021,Galway Garda Division,Damage to property and to the environment  offences (12),690.0
-2021,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2021,Galway Garda Division,Dangerous driving leading to death (012),3.0
-2021,Galway Garda Division,Dangerous or negligent acts (04),1895.0
-2021,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),316.0
-2021,Galway Garda Division,Discharging a firearm (1121),1.0
-2021,Galway Garda Division,Disorderly conduct (131),1353.0
-2021,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",129.0
-2021,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",340.0
-2021,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),46.0
-2021,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),294.0
-2021,Galway Garda Division,Endangering traffic offences (0425),8.0
-2021,Galway Garda Division,Endangerment with potential for serious harm/death (0421),7.0
-2021,Galway Garda Division,"Explosives, chemical weapons offences (111)",6.0
-2021,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2021,Galway Garda Division,False imprisonment (0511),5.0
-2021,Galway Garda Division,Fireworks offences (114),9.0
-2021,Galway Garda Division,"Fraud, deception and related offences (09)",1003.0
-2021,Galway Garda Division,Harassment and related offences (033),125.0
-2021,Galway Garda Division,Homicide & related offences (01),3.0
-2021,Galway Garda Division,Human trafficking offences (0513),1.0
-2021,Galway Garda Division,Importation of drugs (1011),0.0
-2021,Galway Garda Division,Infanticide (0113),0.0
-2021,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",341.0
-2021,Galway Garda Division,Kidnapping and related offences (05),9.0
-2021,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2021,Galway Garda Division,Liquor licensing offences (133),18.0
-2021,Galway Garda Division,Litter offences (1221),15.0
-2021,Galway Garda Division,Manslaughter (0112),0.0
-2021,Galway Garda Division,Murder (0111),0.0
-2021,Galway Garda Division,Murder-attempt (0311),0.0
-2021,Galway Garda Division,Obstruction under Road Traffic Acts (1432),4.0
-2021,Galway Garda Division,Offences against government and its agents (151),20.0
-2021,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",397.0
-2021,Galway Garda Division,Offences not elsewhere classified (16),72.0
-2021,Galway Garda Division,"Offences while in custody, breach of court orders (157)",375.0
-2021,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),82.0
-2021,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2021,Galway Garda Division,Other assault (035),673.0
-2021,Galway Garda Division,Other drug offences (103),19.0
-2021,Galway Garda Division,Other road offences (1433),1005.0
-2021,Galway Garda Division,Other sexual offences (022),26.0
-2021,Galway Garda Division,"Other thefts, handling stolen property (084)",740.0
-2021,Galway Garda Division,Perverting the course of justice (153),2.0
-2021,Galway Garda Division,Possession of a firearm (1122),2.0
-2021,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2021,Galway Garda Division,Possession of drugs for personal use (1022),317.0
-2021,Galway Garda Division,Possession of drugs for sale or supply (1021),126.0
-2021,Galway Garda Division,Prostitution offences (134),2.0
-2021,Galway Garda Division,Public order and other social code offences (13),2079.0
-2021,Galway Garda Division,Public service vehicle offences (1442),29.0
-2021,Galway Garda Division,Rape and sexual assault (021),159.0
-2021,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2021,Galway Garda Division,Road and traffic offences (14),2425.0
-2021,Galway Garda Division,Road transport - carriage of goods offences (1441),13.0
-2021,Galway Garda Division,Roadworthiness/regulatory offences (143),89.0
-2021,Galway Garda Division,Robbery from the person (0613),16.0
-2021,Galway Garda Division,Robbery of an establishment or institution (0611),1.0
-2021,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2021,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",47.0
-2021,Galway Garda Division,Sexual offences (02),185.0
-2021,Galway Garda Division,Social code offences (n.e.c.) (136),608.0
-2021,Galway Garda Division,Speeding (0415),1212.0
-2021,Galway Garda Division,Theft and related offences (08),1487.0
-2021,Galway Garda Division,Theft from person (0821),24.0
-2021,Galway Garda Division,Theft from shop (0822),637.0
-2021,Galway Garda Division,Theft/taking of vehicle and related offences (081),86.0
-2021,Galway Garda Division,Threat to kill or cause serious harm (0313),67.0
-2021,Galway Garda Division,Trespass offences (132),98.0
-2021,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2021,Galway Garda Division,Vehicle tax/registration offences (142),815.0
-2021,Galway Garda Division,Weapons and explosives offences (11),100.0
-2022,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",16.0
-2022,Galway Garda Division,Abduction of person under 16 years of age (0512),2.0
-2022,Galway Garda Division,Aggravated burglary (0711),2.0
-2022,Galway Garda Division,Arson (1211),60.0
-2022,Galway Garda Division,"Assault causing harm, poisoning (034)",245.0
-2022,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1148.0
-2022,Galway Garda Division,Blackmail or extortion (0621),26.0
-2022,Galway Garda Division,Burglary (not aggravated) (0712),324.0
-2022,Galway Garda Division,Burglary and related offences (07),328.0
-2022,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2022,Galway Garda Division,Controlled drug offences (10),525.0
-2022,Galway Garda Division,Criminal damage (not arson) (1212),755.0
-2022,Galway Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2022,Galway Garda Division,Damage to property and to the environment  offences (12),823.0
-2022,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2022,Galway Garda Division,Dangerous driving leading to death (012),0.0
-2022,Galway Garda Division,Dangerous or negligent acts (04),2305.0
-2022,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),285.0
-2022,Galway Garda Division,Discharging a firearm (1121),6.0
-2022,Galway Garda Division,Disorderly conduct (131),1384.0
-2022,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",140.0
-2022,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",370.0
-2022,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),43.0
-2022,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),327.0
-2022,Galway Garda Division,Endangering traffic offences (0425),11.0
-2022,Galway Garda Division,Endangerment with potential for serious harm/death (0421),7.0
-2022,Galway Garda Division,"Explosives, chemical weapons offences (111)",10.0
-2022,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2022,Galway Garda Division,False imprisonment (0511),1.0
-2022,Galway Garda Division,Fireworks offences (114),6.0
-2022,Galway Garda Division,"Fraud, deception and related offences (09)",608.0
-2022,Galway Garda Division,Harassment and related offences (033),110.0
-2022,Galway Garda Division,Homicide & related offences (01),0.0
-2022,Galway Garda Division,Human trafficking offences (0513),1.0
-2022,Galway Garda Division,Importation of drugs (1011),0.0
-2022,Galway Garda Division,Infanticide (0113),0.0
-2022,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",348.0
-2022,Galway Garda Division,Kidnapping and related offences (05),4.0
-2022,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2022,Galway Garda Division,Liquor licensing offences (133),18.0
-2022,Galway Garda Division,Litter offences (1221),8.0
-2022,Galway Garda Division,Manslaughter (0112),0.0
-2022,Galway Garda Division,Murder (0111),0.0
-2022,Galway Garda Division,Murder-attempt (0311),0.0
-2022,Galway Garda Division,Obstruction under Road Traffic Acts (1432),7.0
-2022,Galway Garda Division,Offences against government and its agents (151),18.0
-2022,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",352.0
-2022,Galway Garda Division,Offences not elsewhere classified (16),70.0
-2022,Galway Garda Division,"Offences while in custody, breach of court orders (157)",333.0
-2022,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),105.0
-2022,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2022,Galway Garda Division,Other assault (035),715.0
-2022,Galway Garda Division,Other drug offences (103),18.0
-2022,Galway Garda Division,Other road offences (1433),1036.0
-2022,Galway Garda Division,Other sexual offences (022),35.0
-2022,Galway Garda Division,"Other thefts, handling stolen property (084)",934.0
-2022,Galway Garda Division,Perverting the course of justice (153),1.0
-2022,Galway Garda Division,Possession of a firearm (1122),8.0
-2022,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2022,Galway Garda Division,Possession of drugs for personal use (1022),366.0
-2022,Galway Garda Division,Possession of drugs for sale or supply (1021),130.0
-2022,Galway Garda Division,Prostitution offences (134),0.0
-2022,Galway Garda Division,Public order and other social code offences (13),1529.0
-2022,Galway Garda Division,Public service vehicle offences (1442),35.0
-2022,Galway Garda Division,Rape and sexual assault (021),137.0
-2022,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2022,Galway Garda Division,Road and traffic offences (14),2700.0
-2022,Galway Garda Division,Road transport - carriage of goods offences (1441),14.0
-2022,Galway Garda Division,Roadworthiness/regulatory offences (143),99.0
-2022,Galway Garda Division,Robbery from the person (0613),24.0
-2022,Galway Garda Division,Robbery of an establishment or institution (0611),3.0
-2022,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2022,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",54.0
-2022,Galway Garda Division,Sexual offences (02),172.0
-2022,Galway Garda Division,Social code offences (n.e.c.) (136),51.0
-2022,Galway Garda Division,Speeding (0415),1616.0
-2022,Galway Garda Division,Theft and related offences (08),2171.0
-2022,Galway Garda Division,Theft from person (0821),47.0
-2022,Galway Garda Division,Theft from shop (0822),1095.0
-2022,Galway Garda Division,Theft/taking of vehicle and related offences (081),95.0
-2022,Galway Garda Division,Threat to kill or cause serious harm (0313),78.0
-2022,Galway Garda Division,Trespass offences (132),75.0
-2022,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2022,Galway Garda Division,Vehicle tax/registration offences (142),1021.0
-2022,Galway Garda Division,Weapons and explosives offences (11),135.0
-2023,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",15.0
-2023,Galway Garda Division,Abduction of person under 16 years of age (0512),1.0
-2023,Galway Garda Division,Aggravated burglary (0711),6.0
-2023,Galway Garda Division,Arson (1211),54.0
-2023,Galway Garda Division,"Assault causing harm, poisoning (034)",239.0
-2023,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1175.0
-2023,Galway Garda Division,Blackmail or extortion (0621),49.0
-2023,Galway Garda Division,Burglary (not aggravated) (0712),407.0
-2023,Galway Garda Division,Burglary and related offences (07),414.0
-2023,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
-2023,Galway Garda Division,Controlled drug offences (10),684.0
-2023,Galway Garda Division,Criminal damage (not arson) (1212),726.0
-2023,Galway Garda Division,Cultivation or manufacture of drugs (1012),3.0
-2023,Galway Garda Division,Damage to property and to the environment  offences (12),788.0
-2023,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2023,Galway Garda Division,Dangerous driving leading to death (012),5.0
-2023,Galway Garda Division,Dangerous or negligent acts (04),2044.0
-2023,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),291.0
-2023,Galway Garda Division,Discharging a firearm (1121),5.0
-2023,Galway Garda Division,Disorderly conduct (131),1294.0
-2023,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",118.0
-2023,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",430.0
-2023,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),107.0
-2023,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),323.0
-2023,Galway Garda Division,Endangering traffic offences (0425),15.0
-2023,Galway Garda Division,Endangerment with potential for serious harm/death (0421),16.0
-2023,Galway Garda Division,"Explosives, chemical weapons offences (111)",5.0
-2023,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2023,Galway Garda Division,False imprisonment (0511),1.0
-2023,Galway Garda Division,Fireworks offences (114),14.0
-2023,Galway Garda Division,"Fraud, deception and related offences (09)",252.0
-2023,Galway Garda Division,Harassment and related offences (033),138.0
-2023,Galway Garda Division,Homicide & related offences (01),5.0
-2023,Galway Garda Division,Human trafficking offences (0513),0.0
-2023,Galway Garda Division,Importation of drugs (1011),0.0
-2023,Galway Garda Division,Infanticide (0113),0.0
-2023,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",355.0
-2023,Galway Garda Division,Kidnapping and related offences (05),2.0
-2023,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2023,Galway Garda Division,Liquor licensing offences (133),18.0
-2023,Galway Garda Division,Litter offences (1221),8.0
-2023,Galway Garda Division,Manslaughter (0112),0.0
-2023,Galway Garda Division,Murder (0111),0.0
-2023,Galway Garda Division,Murder-attempt (0311),0.0
-2023,Galway Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2023,Galway Garda Division,Offences against government and its agents (151),9.0
-2023,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",320.0
-2023,Galway Garda Division,Offences not elsewhere classified (16),84.0
-2023,Galway Garda Division,"Offences while in custody, breach of court orders (157)",311.0
-2023,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),92.0
-2023,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2023,Galway Garda Division,Other assault (035),735.0
-2023,Galway Garda Division,Other drug offences (103),8.0
-2023,Galway Garda Division,Other road offences (1433),1040.0
-2023,Galway Garda Division,Other sexual offences (022),40.0
-2023,Galway Garda Division,"Other thefts, handling stolen property (084)",899.0
-2023,Galway Garda Division,Perverting the course of justice (153),0.0
-2023,Galway Garda Division,Possession of a firearm (1122),9.0
-2023,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
-2023,Galway Garda Division,Possession of drugs for personal use (1022),465.0
-2023,Galway Garda Division,Possession of drugs for sale or supply (1021),208.0
-2023,Galway Garda Division,Prostitution offences (134),0.0
-2023,Galway Garda Division,Public order and other social code offences (13),1445.0
-2023,Galway Garda Division,Public service vehicle offences (1442),43.0
-2023,Galway Garda Division,Rape and sexual assault (021),170.0
-2023,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",8.0
-2023,Galway Garda Division,Road and traffic offences (14),2534.0
-2023,Galway Garda Division,Road transport - carriage of goods offences (1441),6.0
-2023,Galway Garda Division,Roadworthiness/regulatory offences (143),119.0
-2023,Galway Garda Division,Robbery from the person (0613),12.0
-2023,Galway Garda Division,Robbery of an establishment or institution (0611),4.0
-2023,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2023,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",67.0
-2023,Galway Garda Division,Sexual offences (02),210.0
-2023,Galway Garda Division,Social code offences (n.e.c.) (136),46.0
-2023,Galway Garda Division,Speeding (0415),1275.0
-2023,Galway Garda Division,Theft and related offences (08),2649.0
-2023,Galway Garda Division,Theft from person (0821),53.0
-2023,Galway Garda Division,Theft from shop (0822),1586.0
-2023,Galway Garda Division,Theft/taking of vehicle and related offences (081),111.0
-2023,Galway Garda Division,Threat to kill or cause serious harm (0313),63.0
-2023,Galway Garda Division,Trespass offences (132),79.0
-2023,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2023,Galway Garda Division,Vehicle tax/registration offences (142),852.0
-2023,Galway Garda Division,Weapons and explosives offences (11),125.0
-2024,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2024,Galway Garda Division,Abduction of person under 16 years of age (0512),3.0
-2024,Galway Garda Division,Aggravated burglary (0711),11.0
-2024,Galway Garda Division,Arson (1211),59.0
-2024,Galway Garda Division,"Assault causing harm, poisoning (034)",249.0
-2024,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1146.0
-2024,Galway Garda Division,Blackmail or extortion (0621),29.0
-2024,Galway Garda Division,Burglary (not aggravated) (0712),330.0
-2024,Galway Garda Division,Burglary and related offences (07),344.0
-2024,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
-2024,Galway Garda Division,Controlled drug offences (10),527.0
-2024,Galway Garda Division,Criminal damage (not arson) (1212),739.0
-2024,Galway Garda Division,Cultivation or manufacture of drugs (1012),10.0
-2024,Galway Garda Division,Damage to property and to the environment  offences (12),801.0
-2024,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2024,Galway Garda Division,Dangerous driving leading to death (012),2.0
-2024,Galway Garda Division,Dangerous or negligent acts (04),1902.0
-2024,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),305.0
-2024,Galway Garda Division,Discharging a firearm (1121),2.0
-2024,Galway Garda Division,Disorderly conduct (131),1226.0
-2024,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",103.0
-2024,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",440.0
-2024,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),76.0
-2024,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),364.0
-2024,Galway Garda Division,Endangering traffic offences (0425),15.0
-2024,Galway Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2024,Galway Garda Division,"Explosives, chemical weapons offences (111)",9.0
-2024,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2024,Galway Garda Division,False imprisonment (0511),7.0
-2024,Galway Garda Division,Fireworks offences (114),9.0
-2024,Galway Garda Division,"Fraud, deception and related offences (09)",0.0
-2024,Galway Garda Division,Harassment and related offences (033),129.0
-2024,Galway Garda Division,Homicide & related offences (01),2.0
-2024,Galway Garda Division,Human trafficking offences (0513),2.0
-2024,Galway Garda Division,Importation of drugs (1011),1.0
-2024,Galway Garda Division,Infanticide (0113),0.0
-2024,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",797.0
-2024,Galway Garda Division,Kidnapping and related offences (05),12.0
-2024,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2024,Galway Garda Division,Liquor licensing offences (133),11.0
-2024,Galway Garda Division,Litter offences (1221),3.0
-2024,Galway Garda Division,Manslaughter (0112),0.0
-2024,Galway Garda Division,Murder (0111),0.0
-2024,Galway Garda Division,Murder-attempt (0311),1.0
-2024,Galway Garda Division,Obstruction under Road Traffic Acts (1432),5.0
-2024,Galway Garda Division,Offences against government and its agents (151),5.0
-2024,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",345.0
-2024,Galway Garda Division,Offences not elsewhere classified (16),85.0
-2024,Galway Garda Division,"Offences while in custody, breach of court orders (157)",339.0
-2024,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),100.0
-2024,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2024,Galway Garda Division,Other assault (035),651.0
-2024,Galway Garda Division,Other drug offences (103),19.0
-2024,Galway Garda Division,Other road offences (1433),1109.0
-2024,Galway Garda Division,Other sexual offences (022),31.0
-2024,Galway Garda Division,"Other thefts, handling stolen property (084)",800.0
-2024,Galway Garda Division,Perverting the course of justice (153),1.0
-2024,Galway Garda Division,Possession of a firearm (1122),8.0
-2024,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2024,Galway Garda Division,Possession of drugs for personal use (1022),345.0
-2024,Galway Garda Division,Possession of drugs for sale or supply (1021),152.0
-2024,Galway Garda Division,Prostitution offences (134),1.0
-2024,Galway Garda Division,Public order and other social code offences (13),1400.0
-2024,Galway Garda Division,Public service vehicle offences (1442),37.0
-2024,Galway Garda Division,Rape and sexual assault (021),170.0
-2024,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",19.0
-2024,Galway Garda Division,Road and traffic offences (14),3048.0
-2024,Galway Garda Division,Road transport - carriage of goods offences (1441),5.0
-2024,Galway Garda Division,Roadworthiness/regulatory offences (143),93.0
-2024,Galway Garda Division,Robbery from the person (0613),18.0
-2024,Galway Garda Division,Robbery of an establishment or institution (0611),5.0
-2024,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2024,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",55.0
-2024,Galway Garda Division,Sexual offences (02),201.0
-2024,Galway Garda Division,Social code offences (n.e.c.) (136),58.0
-2024,Galway Garda Division,Speeding (0415),1131.0
-2024,Galway Garda Division,Theft and related offences (08),2431.0
-2024,Galway Garda Division,Theft from person (0821),32.0
-2024,Galway Garda Division,Theft from shop (0822),1510.0
-2024,Galway Garda Division,Theft/taking of vehicle and related offences (081),89.0
-2024,Galway Garda Division,Threat to kill or cause serious harm (0313),116.0
-2024,Galway Garda Division,Trespass offences (132),85.0
-2024,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2024,Galway Garda Division,Vehicle tax/registration offences (142),899.0
-2024,Galway Garda Division,Weapons and explosives offences (11),128.0
-2025,Galway Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2025,Galway Garda Division,Abduction of person under 16 years of age (0512),0.0
-2025,Galway Garda Division,Aggravated burglary (0711),9.0
-2025,Galway Garda Division,Arson (1211),43.0
-2025,Galway Garda Division,"Assault causing harm, poisoning (034)",172.0
-2025,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",843.0
-2025,Galway Garda Division,Blackmail or extortion (0621),32.0
-2025,Galway Garda Division,Burglary (not aggravated) (0712),154.0
-2025,Galway Garda Division,Burglary and related offences (07),167.0
-2025,Galway Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2025,Galway Garda Division,Controlled drug offences (10),543.0
-2025,Galway Garda Division,Criminal damage (not arson) (1212),496.0
-2025,Galway Garda Division,Cultivation or manufacture of drugs (1012),9.0
-2025,Galway Garda Division,Damage to property and to the environment  offences (12),543.0
-2025,Galway Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2025,Galway Garda Division,Dangerous driving leading to death (012),1.0
-2025,Galway Garda Division,Dangerous or negligent acts (04),1057.0
-2025,Galway Garda Division,Dangerous/careless driving and motorway offences (0414),188.0
-2025,Galway Garda Division,Discharging a firearm (1121),2.0
-2025,Galway Garda Division,Disorderly conduct (131),1086.0
-2025,Galway Garda Division,"Driving licence-failure to have, produce, etc. (1411)",92.0
-2025,Galway Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",348.0
-2025,Galway Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2025,Galway Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),348.0
-2025,Galway Garda Division,Endangering traffic offences (0425),9.0
-2025,Galway Garda Division,Endangerment with potential for serious harm/death (0421),8.0
-2025,Galway Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2025,Galway Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2025,Galway Garda Division,False imprisonment (0511),1.0
-2025,Galway Garda Division,Fireworks offences (114),4.0
-2025,Galway Garda Division,"Fraud, deception and related offences (09)",0.0
-2025,Galway Garda Division,Harassment and related offences (033),78.0
-2025,Galway Garda Division,Homicide & related offences (01),1.0
-2025,Galway Garda Division,Human trafficking offences (0513),0.0
-2025,Galway Garda Division,Importation of drugs (1011),0.0
-2025,Galway Garda Division,Infanticide (0113),0.0
-2025,Galway Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",630.0
-2025,Galway Garda Division,Kidnapping and related offences (05),1.0
-2025,Galway Garda Division,Light rail offences (Luas) (1443),0.0
-2025,Galway Garda Division,Liquor licensing offences (133),8.0
-2025,Galway Garda Division,Litter offences (1221),4.0
-2025,Galway Garda Division,Manslaughter (0112),0.0
-2025,Galway Garda Division,Murder (0111),0.0
-2025,Galway Garda Division,Murder-attempt (0311),0.0
-2025,Galway Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2025,Galway Garda Division,Offences against government and its agents (151),4.0
-2025,Galway Garda Division,"Offences against government, justice procedures and organisation of crime (15)",238.0
-2025,Galway Garda Division,Offences not elsewhere classified (16),67.0
-2025,Galway Garda Division,"Offences while in custody, breach of court orders (157)",232.0
-2025,Galway Garda Division,Offensive weapons offences (n.e.c.) (113),75.0
-2025,Galway Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2025,Galway Garda Division,Other assault (035),533.0
-2025,Galway Garda Division,Other drug offences (103),14.0
-2025,Galway Garda Division,Other road offences (1433),867.0
-2025,Galway Garda Division,Other sexual offences (022),11.0
-2025,Galway Garda Division,"Other thefts, handling stolen property (084)",493.0
-2025,Galway Garda Division,Perverting the course of justice (153),1.0
-2025,Galway Garda Division,Possession of a firearm (1122),4.0
-2025,Galway Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",4.0
-2025,Galway Garda Division,Possession of drugs for personal use (1022),372.0
-2025,Galway Garda Division,Possession of drugs for sale or supply (1021),148.0
-2025,Galway Garda Division,Prostitution offences (134),2.0
-2025,Galway Garda Division,Public order and other social code offences (13),1196.0
-2025,Galway Garda Division,Public service vehicle offences (1442),37.0
-2025,Galway Garda Division,Rape and sexual assault (021),118.0
-2025,Galway Garda Division,"Regulated betting/money, collection/trading offences (135)",6.0
-2025,Galway Garda Division,Road and traffic offences (14),2180.0
-2025,Galway Garda Division,Road transport - carriage of goods offences (1441),13.0
-2025,Galway Garda Division,Roadworthiness/regulatory offences (143),58.0
-2025,Galway Garda Division,Robbery from the person (0613),17.0
-2025,Galway Garda Division,Robbery of an establishment or institution (0611),6.0
-2025,Galway Garda Division,Robbery of cash or goods in transit (0612),0.0
-2025,Galway Garda Division,"Robbery, extortion and hijacking offences (06)",56.0
-2025,Galway Garda Division,Sexual offences (02),129.0
-2025,Galway Garda Division,Social code offences (n.e.c.) (136),46.0
-2025,Galway Garda Division,Speeding (0415),497.0
-2025,Galway Garda Division,Theft and related offences (08),1614.0
-2025,Galway Garda Division,Theft from person (0821),17.0
-2025,Galway Garda Division,Theft from shop (0822),1030.0
-2025,Galway Garda Division,Theft/taking of vehicle and related offences (081),74.0
-2025,Galway Garda Division,Threat to kill or cause serious harm (0313),60.0
-2025,Galway Garda Division,Trespass offences (132),48.0
-2025,Galway Garda Division,Unseaworthy/dangerous use of boat or ship (0423),1.0
-2025,Galway Garda Division,Vehicle tax/registration offences (142),482.0
-2025,Galway Garda Division,Weapons and explosives offences (11),86.0
+2003,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",619.0
+2003,Galway Garda Division,Burglary and related offences,977.0
+2003,Galway Garda Division,Controlled drug offences,341.0
+2003,Galway Garda Division,Damage to property and to the environment  offences,1227.0
+2003,Galway Garda Division,Dangerous or negligent acts,1105.0
+2003,Galway Garda Division,"Fraud, deception and related offences",129.0
+2003,Galway Garda Division,Homicide & related offences,3.0
+2003,Galway Garda Division,Kidnapping and related offences,3.0
+2003,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",185.0
+2003,Galway Garda Division,Offences not elsewhere classified,95.0
+2003,Galway Garda Division,Public order and other social code offences,1993.0
+2003,Galway Garda Division,Road and traffic offences,1347.0
+2003,Galway Garda Division,"Robbery, extortion and hijacking offences",56.0
+2003,Galway Garda Division,Sexual offences,70.0
+2003,Galway Garda Division,Theft and related offences,2707.0
+2003,Galway Garda Division,Weapons and explosives offences,60.0
+2004,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",651.0
+2004,Galway Garda Division,Burglary and related offences,720.0
+2004,Galway Garda Division,Controlled drug offences,378.0
+2004,Galway Garda Division,Damage to property and to the environment  offences,1188.0
+2004,Galway Garda Division,Dangerous or negligent acts,1239.0
+2004,Galway Garda Division,"Fraud, deception and related offences",100.0
+2004,Galway Garda Division,Homicide & related offences,8.0
+2004,Galway Garda Division,Kidnapping and related offences,3.0
+2004,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",197.0
+2004,Galway Garda Division,Offences not elsewhere classified,72.0
+2004,Galway Garda Division,Public order and other social code offences,1969.0
+2004,Galway Garda Division,Road and traffic offences,1471.0
+2004,Galway Garda Division,"Robbery, extortion and hijacking offences",51.0
+2004,Galway Garda Division,Sexual offences,76.0
+2004,Galway Garda Division,Theft and related offences,2571.0
+2004,Galway Garda Division,Weapons and explosives offences,55.0
+2005,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",741.0
+2005,Galway Garda Division,Burglary and related offences,1235.0
+2005,Galway Garda Division,Controlled drug offences,349.0
+2005,Galway Garda Division,Damage to property and to the environment  offences,1525.0
+2005,Galway Garda Division,Dangerous or negligent acts,1399.0
+2005,Galway Garda Division,"Fraud, deception and related offences",124.0
+2005,Galway Garda Division,Homicide & related offences,8.0
+2005,Galway Garda Division,Kidnapping and related offences,3.0
+2005,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",188.0
+2005,Galway Garda Division,Offences not elsewhere classified,85.0
+2005,Galway Garda Division,Public order and other social code offences,2326.0
+2005,Galway Garda Division,Road and traffic offences,2404.0
+2005,Galway Garda Division,"Robbery, extortion and hijacking offences",58.0
+2005,Galway Garda Division,Sexual offences,70.0
+2005,Galway Garda Division,Theft and related offences,2772.0
+2005,Galway Garda Division,Weapons and explosives offences,59.0
+2006,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",821.0
+2006,Galway Garda Division,Burglary and related offences,1049.0
+2006,Galway Garda Division,Controlled drug offences,424.0
+2006,Galway Garda Division,Damage to property and to the environment  offences,1627.0
+2006,Galway Garda Division,Dangerous or negligent acts,2442.0
+2006,Galway Garda Division,"Fraud, deception and related offences",177.0
+2006,Galway Garda Division,Homicide & related offences,7.0
+2006,Galway Garda Division,Kidnapping and related offences,2.0
+2006,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",225.0
+2006,Galway Garda Division,Offences not elsewhere classified,156.0
+2006,Galway Garda Division,Public order and other social code offences,2681.0
+2006,Galway Garda Division,Road and traffic offences,4087.0
+2006,Galway Garda Division,"Robbery, extortion and hijacking offences",81.0
+2006,Galway Garda Division,Sexual offences,43.0
+2006,Galway Garda Division,Theft and related offences,3153.0
+2006,Galway Garda Division,Weapons and explosives offences,65.0
+2007,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",915.0
+2007,Galway Garda Division,Burglary and related offences,1101.0
+2007,Galway Garda Division,Controlled drug offences,515.0
+2007,Galway Garda Division,Damage to property and to the environment  offences,1773.0
+2007,Galway Garda Division,Dangerous or negligent acts,2531.0
+2007,Galway Garda Division,"Fraud, deception and related offences",285.0
+2007,Galway Garda Division,Homicide & related offences,5.0
+2007,Galway Garda Division,Kidnapping and related offences,1.0
+2007,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",271.0
+2007,Galway Garda Division,Offences not elsewhere classified,185.0
+2007,Galway Garda Division,Public order and other social code offences,3033.0
+2007,Galway Garda Division,Road and traffic offences,4192.0
+2007,Galway Garda Division,"Robbery, extortion and hijacking offences",45.0
+2007,Galway Garda Division,Sexual offences,64.0
+2007,Galway Garda Division,Theft and related offences,3154.0
+2007,Galway Garda Division,Weapons and explosives offences,94.0
+2008,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1042.0
+2008,Galway Garda Division,Burglary and related offences,1060.0
+2008,Galway Garda Division,Controlled drug offences,607.0
+2008,Galway Garda Division,Damage to property and to the environment  offences,1957.0
+2008,Galway Garda Division,Dangerous or negligent acts,2078.0
+2008,Galway Garda Division,"Fraud, deception and related offences",267.0
+2008,Galway Garda Division,Homicide & related offences,9.0
+2008,Galway Garda Division,Kidnapping and related offences,3.0
+2008,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",358.0
+2008,Galway Garda Division,Offences not elsewhere classified,236.0
+2008,Galway Garda Division,Public order and other social code offences,3381.0
+2008,Galway Garda Division,Road and traffic offences,5052.0
+2008,Galway Garda Division,"Robbery, extortion and hijacking offences",46.0
+2008,Galway Garda Division,Sexual offences,54.0
+2008,Galway Garda Division,Theft and related offences,3248.0
+2008,Galway Garda Division,Weapons and explosives offences,103.0
+2009,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",898.0
+2009,Galway Garda Division,Burglary and related offences,1213.0
+2009,Galway Garda Division,Controlled drug offences,450.0
+2009,Galway Garda Division,Damage to property and to the environment  offences,1656.0
+2009,Galway Garda Division,Dangerous or negligent acts,1793.0
+2009,Galway Garda Division,"Fraud, deception and related offences",263.0
+2009,Galway Garda Division,Homicide & related offences,5.0
+2009,Galway Garda Division,Kidnapping and related offences,2.0
+2009,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",460.0
+2009,Galway Garda Division,Offences not elsewhere classified,215.0
+2009,Galway Garda Division,Public order and other social code offences,3640.0
+2009,Galway Garda Division,Road and traffic offences,5217.0
+2009,Galway Garda Division,"Robbery, extortion and hijacking offences",36.0
+2009,Galway Garda Division,Sexual offences,68.0
+2009,Galway Garda Division,Theft and related offences,3021.0
+2009,Galway Garda Division,Weapons and explosives offences,122.0
+2010,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",819.0
+2010,Galway Garda Division,Burglary and related offences,1125.0
+2010,Galway Garda Division,Controlled drug offences,482.0
+2010,Galway Garda Division,Damage to property and to the environment  offences,1372.0
+2010,Galway Garda Division,Dangerous or negligent acts,1603.0
+2010,Galway Garda Division,"Fraud, deception and related offences",237.0
+2010,Galway Garda Division,Homicide & related offences,1.0
+2010,Galway Garda Division,Kidnapping and related offences,1.0
+2010,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",368.0
+2010,Galway Garda Division,Offences not elsewhere classified,253.0
+2010,Galway Garda Division,Public order and other social code offences,3438.0
+2010,Galway Garda Division,Road and traffic offences,5013.0
+2010,Galway Garda Division,"Robbery, extortion and hijacking offences",52.0
+2010,Galway Garda Division,Sexual offences,108.0
+2010,Galway Garda Division,Theft and related offences,2800.0
+2010,Galway Garda Division,Weapons and explosives offences,100.0
+2011,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",880.0
+2011,Galway Garda Division,Burglary and related offences,956.0
+2011,Galway Garda Division,Controlled drug offences,447.0
+2011,Galway Garda Division,Damage to property and to the environment  offences,1193.0
+2011,Galway Garda Division,Dangerous or negligent acts,2292.0
+2011,Galway Garda Division,"Fraud, deception and related offences",237.0
+2011,Galway Garda Division,Homicide & related offences,5.0
+2011,Galway Garda Division,Kidnapping and related offences,5.0
+2011,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",385.0
+2011,Galway Garda Division,Offences not elsewhere classified,248.0
+2011,Galway Garda Division,Public order and other social code offences,2678.0
+2011,Galway Garda Division,Road and traffic offences,4389.0
+2011,Galway Garda Division,"Robbery, extortion and hijacking offences",43.0
+2011,Galway Garda Division,Sexual offences,88.0
+2011,Galway Garda Division,Theft and related offences,2351.0
+2011,Galway Garda Division,Weapons and explosives offences,98.0
+2012,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",789.0
+2012,Galway Garda Division,Burglary and related offences,1007.0
+2012,Galway Garda Division,Controlled drug offences,496.0
+2012,Galway Garda Division,Damage to property and to the environment  offences,1122.0
+2012,Galway Garda Division,Dangerous or negligent acts,2162.0
+2012,Galway Garda Division,"Fraud, deception and related offences",262.0
+2012,Galway Garda Division,Homicide & related offences,3.0
+2012,Galway Garda Division,Kidnapping and related offences,3.0
+2012,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",319.0
+2012,Galway Garda Division,Offences not elsewhere classified,396.0
+2012,Galway Garda Division,Public order and other social code offences,2651.0
+2012,Galway Garda Division,Road and traffic offences,3955.0
+2012,Galway Garda Division,"Robbery, extortion and hijacking offences",25.0
+2012,Galway Garda Division,Sexual offences,87.0
+2012,Galway Garda Division,Theft and related offences,2425.0
+2012,Galway Garda Division,Weapons and explosives offences,78.0
+2013,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",674.0
+2013,Galway Garda Division,Burglary and related offences,879.0
+2013,Galway Garda Division,Controlled drug offences,526.0
+2013,Galway Garda Division,Damage to property and to the environment  offences,934.0
+2013,Galway Garda Division,Dangerous or negligent acts,1832.0
+2013,Galway Garda Division,"Fraud, deception and related offences",230.0
+2013,Galway Garda Division,Homicide & related offences,2.0
+2013,Galway Garda Division,Kidnapping and related offences,6.0
+2013,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",355.0
+2013,Galway Garda Division,Offences not elsewhere classified,246.0
+2013,Galway Garda Division,Public order and other social code offences,1984.0
+2013,Galway Garda Division,Road and traffic offences,4158.0
+2013,Galway Garda Division,"Robbery, extortion and hijacking offences",49.0
+2013,Galway Garda Division,Sexual offences,94.0
+2013,Galway Garda Division,Theft and related offences,2437.0
+2013,Galway Garda Division,Weapons and explosives offences,65.0
+2014,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",739.0
+2014,Galway Garda Division,Burglary and related offences,993.0
+2014,Galway Garda Division,Controlled drug offences,571.0
+2014,Galway Garda Division,Damage to property and to the environment  offences,903.0
+2014,Galway Garda Division,Dangerous or negligent acts,2780.0
+2014,Galway Garda Division,"Fraud, deception and related offences",317.0
+2014,Galway Garda Division,Homicide & related offences,2.0
+2014,Galway Garda Division,Kidnapping and related offences,6.0
+2014,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",299.0
+2014,Galway Garda Division,Offences not elsewhere classified,252.0
+2014,Galway Garda Division,Public order and other social code offences,1911.0
+2014,Galway Garda Division,Road and traffic offences,4548.0
+2014,Galway Garda Division,"Robbery, extortion and hijacking offences",34.0
+2014,Galway Garda Division,Sexual offences,91.0
+2014,Galway Garda Division,Theft and related offences,2266.0
+2014,Galway Garda Division,Weapons and explosives offences,66.0
+2015,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",792.0
+2015,Galway Garda Division,Burglary and related offences,896.0
+2015,Galway Garda Division,Controlled drug offences,576.0
+2015,Galway Garda Division,Damage to property and to the environment  offences,827.0
+2015,Galway Garda Division,Dangerous or negligent acts,2757.0
+2015,Galway Garda Division,"Fraud, deception and related offences",340.0
+2015,Galway Garda Division,Homicide & related offences,2.0
+2015,Galway Garda Division,Kidnapping and related offences,4.0
+2015,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",335.0
+2015,Galway Garda Division,Offences not elsewhere classified,199.0
+2015,Galway Garda Division,Public order and other social code offences,1879.0
+2015,Galway Garda Division,Road and traffic offences,5140.0
+2015,Galway Garda Division,"Robbery, extortion and hijacking offences",37.0
+2015,Galway Garda Division,Sexual offences,98.0
+2015,Galway Garda Division,Theft and related offences,2310.0
+2015,Galway Garda Division,Weapons and explosives offences,55.0
+2016,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",713.0
+2016,Galway Garda Division,Burglary and related offences,518.0
+2016,Galway Garda Division,Controlled drug offences,610.0
+2016,Galway Garda Division,Damage to property and to the environment  offences,766.0
+2016,Galway Garda Division,Dangerous or negligent acts,2090.0
+2016,Galway Garda Division,"Fraud, deception and related offences",242.0
+2016,Galway Garda Division,Homicide & related offences,1.0
+2016,Galway Garda Division,Kidnapping and related offences,3.0
+2016,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",423.0
+2016,Galway Garda Division,Offences not elsewhere classified,161.0
+2016,Galway Garda Division,Public order and other social code offences,1836.0
+2016,Galway Garda Division,Road and traffic offences,4426.0
+2016,Galway Garda Division,"Robbery, extortion and hijacking offences",20.0
+2016,Galway Garda Division,Sexual offences,119.0
+2016,Galway Garda Division,Theft and related offences,1893.0
+2016,Galway Garda Division,Weapons and explosives offences,74.0
+2017,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",859.0
+2017,Galway Garda Division,Burglary and related offences,676.0
+2017,Galway Garda Division,Controlled drug offences,600.0
+2017,Galway Garda Division,Damage to property and to the environment  offences,938.0
+2017,Galway Garda Division,Dangerous or negligent acts,2064.0
+2017,Galway Garda Division,"Fraud, deception and related offences",272.0
+2017,Galway Garda Division,Homicide & related offences,1.0
+2017,Galway Garda Division,Kidnapping and related offences,7.0
+2017,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",458.0
+2017,Galway Garda Division,Offences not elsewhere classified,150.0
+2017,Galway Garda Division,Public order and other social code offences,1836.0
+2017,Galway Garda Division,Road and traffic offences,4631.0
+2017,Galway Garda Division,"Robbery, extortion and hijacking offences",46.0
+2017,Galway Garda Division,Sexual offences,131.0
+2017,Galway Garda Division,Theft and related offences,2126.0
+2017,Galway Garda Division,Weapons and explosives offences,80.0
+2018,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",956.0
+2018,Galway Garda Division,Burglary and related offences,610.0
+2018,Galway Garda Division,Controlled drug offences,535.0
+2018,Galway Garda Division,Damage to property and to the environment  offences,684.0
+2018,Galway Garda Division,Dangerous or negligent acts,1957.0
+2018,Galway Garda Division,"Fraud, deception and related offences",237.0
+2018,Galway Garda Division,Homicide & related offences,4.0
+2018,Galway Garda Division,Kidnapping and related offences,8.0
+2018,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",312.0
+2018,Galway Garda Division,Offences not elsewhere classified,139.0
+2018,Galway Garda Division,Public order and other social code offences,1750.0
+2018,Galway Garda Division,Road and traffic offences,4172.0
+2018,Galway Garda Division,"Robbery, extortion and hijacking offences",49.0
+2018,Galway Garda Division,Sexual offences,148.0
+2018,Galway Garda Division,Theft and related offences,1927.0
+2018,Galway Garda Division,Weapons and explosives offences,74.0
+2019,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",973.0
+2019,Galway Garda Division,Burglary and related offences,531.0
+2019,Galway Garda Division,Controlled drug offences,560.0
+2019,Galway Garda Division,Damage to property and to the environment  offences,852.0
+2019,Galway Garda Division,Dangerous or negligent acts,2135.0
+2019,Galway Garda Division,"Fraud, deception and related offences",353.0
+2019,Galway Garda Division,Homicide & related offences,1.0
+2019,Galway Garda Division,Kidnapping and related offences,7.0
+2019,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",344.0
+2019,Galway Garda Division,Offences not elsewhere classified,97.0
+2019,Galway Garda Division,Public order and other social code offences,1733.0
+2019,Galway Garda Division,Road and traffic offences,3568.0
+2019,Galway Garda Division,"Robbery, extortion and hijacking offences",40.0
+2019,Galway Garda Division,Sexual offences,192.0
+2019,Galway Garda Division,Theft and related offences,2073.0
+2019,Galway Garda Division,Weapons and explosives offences,82.0
+2020,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",940.0
+2020,Galway Garda Division,Burglary and related offences,413.0
+2020,Galway Garda Division,Controlled drug offences,537.0
+2020,Galway Garda Division,Damage to property and to the environment  offences,773.0
+2020,Galway Garda Division,Dangerous or negligent acts,2324.0
+2020,Galway Garda Division,"Fraud, deception and related offences",367.0
+2020,Galway Garda Division,Homicide & related offences,2.0
+2020,Galway Garda Division,Kidnapping and related offences,2.0
+2020,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",283.0
+2020,Galway Garda Division,Offences not elsewhere classified,98.0
+2020,Galway Garda Division,Public order and other social code offences,1582.0
+2020,Galway Garda Division,Road and traffic offences,2934.0
+2020,Galway Garda Division,"Robbery, extortion and hijacking offences",50.0
+2020,Galway Garda Division,Sexual offences,149.0
+2020,Galway Garda Division,Theft and related offences,1638.0
+2020,Galway Garda Division,Weapons and explosives offences,111.0
+2021,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1050.0
+2021,Galway Garda Division,Burglary and related offences,358.0
+2021,Galway Garda Division,Controlled drug offences,471.0
+2021,Galway Garda Division,Damage to property and to the environment  offences,690.0
+2021,Galway Garda Division,Dangerous or negligent acts,1895.0
+2021,Galway Garda Division,"Fraud, deception and related offences",1003.0
+2021,Galway Garda Division,Homicide & related offences,3.0
+2021,Galway Garda Division,Kidnapping and related offences,9.0
+2021,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",397.0
+2021,Galway Garda Division,Offences not elsewhere classified,72.0
+2021,Galway Garda Division,Public order and other social code offences,2079.0
+2021,Galway Garda Division,Road and traffic offences,2425.0
+2021,Galway Garda Division,"Robbery, extortion and hijacking offences",47.0
+2021,Galway Garda Division,Sexual offences,185.0
+2021,Galway Garda Division,Theft and related offences,1487.0
+2021,Galway Garda Division,Weapons and explosives offences,100.0
+2022,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1148.0
+2022,Galway Garda Division,Burglary and related offences,328.0
+2022,Galway Garda Division,Controlled drug offences,525.0
+2022,Galway Garda Division,Damage to property and to the environment  offences,823.0
+2022,Galway Garda Division,Dangerous or negligent acts,2305.0
+2022,Galway Garda Division,"Fraud, deception and related offences",608.0
+2022,Galway Garda Division,Homicide & related offences,0.0
+2022,Galway Garda Division,Kidnapping and related offences,4.0
+2022,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",352.0
+2022,Galway Garda Division,Offences not elsewhere classified,70.0
+2022,Galway Garda Division,Public order and other social code offences,1529.0
+2022,Galway Garda Division,Road and traffic offences,2700.0
+2022,Galway Garda Division,"Robbery, extortion and hijacking offences",54.0
+2022,Galway Garda Division,Sexual offences,172.0
+2022,Galway Garda Division,Theft and related offences,2171.0
+2022,Galway Garda Division,Weapons and explosives offences,135.0
+2023,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1175.0
+2023,Galway Garda Division,Burglary and related offences,414.0
+2023,Galway Garda Division,Controlled drug offences,684.0
+2023,Galway Garda Division,Damage to property and to the environment  offences,788.0
+2023,Galway Garda Division,Dangerous or negligent acts,2044.0
+2023,Galway Garda Division,"Fraud, deception and related offences",252.0
+2023,Galway Garda Division,Homicide & related offences,5.0
+2023,Galway Garda Division,Kidnapping and related offences,2.0
+2023,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",320.0
+2023,Galway Garda Division,Offences not elsewhere classified,84.0
+2023,Galway Garda Division,Public order and other social code offences,1445.0
+2023,Galway Garda Division,Road and traffic offences,2534.0
+2023,Galway Garda Division,"Robbery, extortion and hijacking offences",67.0
+2023,Galway Garda Division,Sexual offences,210.0
+2023,Galway Garda Division,Theft and related offences,2649.0
+2023,Galway Garda Division,Weapons and explosives offences,125.0
+2024,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",1146.0
+2024,Galway Garda Division,Burglary and related offences,344.0
+2024,Galway Garda Division,Controlled drug offences,527.0
+2024,Galway Garda Division,Damage to property and to the environment  offences,801.0
+2024,Galway Garda Division,Dangerous or negligent acts,1902.0
+2024,Galway Garda Division,"Fraud, deception and related offences",0.0
+2024,Galway Garda Division,Homicide & related offences,2.0
+2024,Galway Garda Division,Kidnapping and related offences,12.0
+2024,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",345.0
+2024,Galway Garda Division,Offences not elsewhere classified,85.0
+2024,Galway Garda Division,Public order and other social code offences,1400.0
+2024,Galway Garda Division,Road and traffic offences,3048.0
+2024,Galway Garda Division,"Robbery, extortion and hijacking offences",55.0
+2024,Galway Garda Division,Sexual offences,201.0
+2024,Galway Garda Division,Theft and related offences,2431.0
+2024,Galway Garda Division,Weapons and explosives offences,128.0
+2025,Galway Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",843.0
+2025,Galway Garda Division,Burglary and related offences,167.0
+2025,Galway Garda Division,Controlled drug offences,543.0
+2025,Galway Garda Division,Damage to property and to the environment  offences,543.0
+2025,Galway Garda Division,Dangerous or negligent acts,1057.0
+2025,Galway Garda Division,"Fraud, deception and related offences",0.0
+2025,Galway Garda Division,Homicide & related offences,1.0
+2025,Galway Garda Division,Kidnapping and related offences,1.0
+2025,Galway Garda Division,"Offences against government, justice procedures and organisation of crime",238.0
+2025,Galway Garda Division,Offences not elsewhere classified,67.0
+2025,Galway Garda Division,Public order and other social code offences,1196.0
+2025,Galway Garda Division,Road and traffic offences,2180.0
+2025,Galway Garda Division,"Robbery, extortion and hijacking offences",56.0
+2025,Galway Garda Division,Sexual offences,129.0
+2025,Galway Garda Division,Theft and related offences,1614.0
+2025,Galway Garda Division,Weapons and explosives offences,86.0

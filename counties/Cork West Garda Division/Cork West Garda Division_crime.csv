@@ -1,1956 +1,369 @@
 Year,Garda Division,Type of Offence,VALUE
-2003,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",1.0
-2003,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2003,Cork West Garda Division,Aggravated burglary (0711),7.0
-2003,Cork West Garda Division,Arson (1211),26.0
-2003,Cork West Garda Division,"Assault causing harm, poisoning (034)",95.0
-2003,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",337.0
-2003,Cork West Garda Division,Blackmail or extortion (0621),0.0
-2003,Cork West Garda Division,Burglary (not aggravated) (0712),253.0
-2003,Cork West Garda Division,Burglary and related offences (07),261.0
-2003,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2003,Cork West Garda Division,Controlled drug offences (10),306.0
-2003,Cork West Garda Division,Criminal damage (not arson) (1212),406.0
-2003,Cork West Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2003,Cork West Garda Division,Damage to property and to the environment  offences (12),434.0
-2003,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2003,Cork West Garda Division,Dangerous driving leading to death (012),1.0
-2003,Cork West Garda Division,Dangerous or negligent acts (04),433.0
-2003,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),85.0
-2003,Cork West Garda Division,Discharging a firearm (1121),7.0
-2003,Cork West Garda Division,Disorderly conduct (131),657.0
-2003,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",17.0
-2003,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",269.0
-2003,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),2.0
-2003,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),267.0
-2003,Cork West Garda Division,Endangering traffic offences (0425),1.0
-2003,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2003,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2003,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2003,Cork West Garda Division,False imprisonment (0511),0.0
-2003,Cork West Garda Division,Fireworks offences (114),0.0
-2003,Cork West Garda Division,"Fraud, deception and related offences (09)",50.0
-2003,Cork West Garda Division,Harassment and related offences (033),58.0
-2003,Cork West Garda Division,Homicide & related offences (01),1.0
-2003,Cork West Garda Division,Human trafficking offences (0513),0.0
-2003,Cork West Garda Division,Importation of drugs (1011),0.0
-2003,Cork West Garda Division,Infanticide (0113),0.0
-2003,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",229.0
-2003,Cork West Garda Division,Kidnapping and related offences (05),0.0
-2003,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2003,Cork West Garda Division,Liquor licensing offences (133),113.0
-2003,Cork West Garda Division,Litter offences (1221),2.0
-2003,Cork West Garda Division,Manslaughter (0112),0.0
-2003,Cork West Garda Division,Murder (0111),0.0
-2003,Cork West Garda Division,Murder-attempt (0311),0.0
-2003,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2003,Cork West Garda Division,Offences against government and its agents (151),1.0
-2003,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",57.0
-2003,Cork West Garda Division,Offences not elsewhere classified (16),33.0
-2003,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",50.0
-2003,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),14.0
-2003,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2003,Cork West Garda Division,Other assault (035),184.0
-2003,Cork West Garda Division,Other drug offences (103),7.0
-2003,Cork West Garda Division,Other road offences (1433),263.0
-2003,Cork West Garda Division,Other sexual offences (022),4.0
-2003,Cork West Garda Division,"Other thefts, handling stolen property (084)",524.0
-2003,Cork West Garda Division,Perverting the course of justice (153),6.0
-2003,Cork West Garda Division,Possession of a firearm (1122),10.0
-2003,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
-2003,Cork West Garda Division,Possession of drugs for personal use (1022),251.0
-2003,Cork West Garda Division,Possession of drugs for sale or supply (1021),37.0
-2003,Cork West Garda Division,Prostitution offences (134),0.0
-2003,Cork West Garda Division,Public order and other social code offences (13),785.0
-2003,Cork West Garda Division,Public service vehicle offences (1442),1.0
-2003,Cork West Garda Division,Rape and sexual assault (021),21.0
-2003,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2003,Cork West Garda Division,Road and traffic offences (14),602.0
-2003,Cork West Garda Division,Road transport - carriage of goods offences (1441),0.0
-2003,Cork West Garda Division,Roadworthiness/regulatory offences (143),9.0
-2003,Cork West Garda Division,Robbery from the person (0613),2.0
-2003,Cork West Garda Division,Robbery of an establishment or institution (0611),0.0
-2003,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2003,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",2.0
-2003,Cork West Garda Division,Sexual offences (02),25.0
-2003,Cork West Garda Division,Social code offences (n.e.c.) (136),1.0
-2003,Cork West Garda Division,Speeding (0415),76.0
-2003,Cork West Garda Division,Theft and related offences (08),713.0
-2003,Cork West Garda Division,Theft from person (0821),38.0
-2003,Cork West Garda Division,Theft from shop (0822),88.0
-2003,Cork West Garda Division,Theft/taking of vehicle and related offences (081),63.0
-2003,Cork West Garda Division,Threat to kill or cause serious harm (0313),0.0
-2003,Cork West Garda Division,Trespass offences (132),13.0
-2003,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2003,Cork West Garda Division,Vehicle tax/registration offences (142),83.0
-2003,Cork West Garda Division,Weapons and explosives offences (11),31.0
-2004,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",2.0
-2004,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2004,Cork West Garda Division,Aggravated burglary (0711),1.0
-2004,Cork West Garda Division,Arson (1211),22.0
-2004,Cork West Garda Division,"Assault causing harm, poisoning (034)",101.0
-2004,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",310.0
-2004,Cork West Garda Division,Blackmail or extortion (0621),2.0
-2004,Cork West Garda Division,Burglary (not aggravated) (0712),274.0
-2004,Cork West Garda Division,Burglary and related offences (07),275.0
-2004,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2004,Cork West Garda Division,Controlled drug offences (10),194.0
-2004,Cork West Garda Division,Criminal damage (not arson) (1212),491.0
-2004,Cork West Garda Division,Cultivation or manufacture of drugs (1012),3.0
-2004,Cork West Garda Division,Damage to property and to the environment  offences (12),515.0
-2004,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2004,Cork West Garda Division,Dangerous driving leading to death (012),5.0
-2004,Cork West Garda Division,Dangerous or negligent acts (04),421.0
-2004,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),83.0
-2004,Cork West Garda Division,Discharging a firearm (1121),3.0
-2004,Cork West Garda Division,Disorderly conduct (131),656.0
-2004,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",42.0
-2004,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",268.0
-2004,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),4.0
-2004,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),264.0
-2004,Cork West Garda Division,Endangering traffic offences (0425),1.0
-2004,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2004,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2004,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2004,Cork West Garda Division,False imprisonment (0511),0.0
-2004,Cork West Garda Division,Fireworks offences (114),0.0
-2004,Cork West Garda Division,"Fraud, deception and related offences (09)",33.0
-2004,Cork West Garda Division,Harassment and related offences (033),34.0
-2004,Cork West Garda Division,Homicide & related offences (01),5.0
-2004,Cork West Garda Division,Human trafficking offences (0513),0.0
-2004,Cork West Garda Division,Importation of drugs (1011),0.0
-2004,Cork West Garda Division,Infanticide (0113),0.0
-2004,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",251.0
-2004,Cork West Garda Division,Kidnapping and related offences (05),0.0
-2004,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2004,Cork West Garda Division,Liquor licensing offences (133),179.0
-2004,Cork West Garda Division,Litter offences (1221),2.0
-2004,Cork West Garda Division,Manslaughter (0112),0.0
-2004,Cork West Garda Division,Murder (0111),0.0
-2004,Cork West Garda Division,Murder-attempt (0311),0.0
-2004,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2004,Cork West Garda Division,Offences against government and its agents (151),3.0
-2004,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",47.0
-2004,Cork West Garda Division,Offences not elsewhere classified (16),42.0
-2004,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",44.0
-2004,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),18.0
-2004,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2004,Cork West Garda Division,Other assault (035),174.0
-2004,Cork West Garda Division,Other drug offences (103),3.0
-2004,Cork West Garda Division,Other road offences (1433),311.0
-2004,Cork West Garda Division,Other sexual offences (022),1.0
-2004,Cork West Garda Division,"Other thefts, handling stolen property (084)",487.0
-2004,Cork West Garda Division,Perverting the course of justice (153),0.0
-2004,Cork West Garda Division,Possession of a firearm (1122),6.0
-2004,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2004,Cork West Garda Division,Possession of drugs for personal use (1022),166.0
-2004,Cork West Garda Division,Possession of drugs for sale or supply (1021),22.0
-2004,Cork West Garda Division,Prostitution offences (134),1.0
-2004,Cork West Garda Division,Public order and other social code offences (13),863.0
-2004,Cork West Garda Division,Public service vehicle offences (1442),3.0
-2004,Cork West Garda Division,Rape and sexual assault (021),33.0
-2004,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",3.0
-2004,Cork West Garda Division,Road and traffic offences (14),728.0
-2004,Cork West Garda Division,Road transport - carriage of goods offences (1441),3.0
-2004,Cork West Garda Division,Roadworthiness/regulatory offences (143),31.0
-2004,Cork West Garda Division,Robbery from the person (0613),3.0
-2004,Cork West Garda Division,Robbery of an establishment or institution (0611),0.0
-2004,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2004,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",5.0
-2004,Cork West Garda Division,Sexual offences (02),34.0
-2004,Cork West Garda Division,Social code offences (n.e.c.) (136),4.0
-2004,Cork West Garda Division,Speeding (0415),67.0
-2004,Cork West Garda Division,Theft and related offences (08),765.0
-2004,Cork West Garda Division,Theft from person (0821),64.0
-2004,Cork West Garda Division,Theft from shop (0822),132.0
-2004,Cork West Garda Division,Theft/taking of vehicle and related offences (081),82.0
-2004,Cork West Garda Division,Threat to kill or cause serious harm (0313),1.0
-2004,Cork West Garda Division,Trespass offences (132),20.0
-2004,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2004,Cork West Garda Division,Vehicle tax/registration offences (142),85.0
-2004,Cork West Garda Division,Weapons and explosives offences (11),27.0
-2005,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",1.0
-2005,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2005,Cork West Garda Division,Aggravated burglary (0711),0.0
-2005,Cork West Garda Division,Arson (1211),28.0
-2005,Cork West Garda Division,"Assault causing harm, poisoning (034)",89.0
-2005,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",289.0
-2005,Cork West Garda Division,Blackmail or extortion (0621),0.0
-2005,Cork West Garda Division,Burglary (not aggravated) (0712),284.0
-2005,Cork West Garda Division,Burglary and related offences (07),286.0
-2005,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2005,Cork West Garda Division,Controlled drug offences (10),435.0
-2005,Cork West Garda Division,Criminal damage (not arson) (1212),421.0
-2005,Cork West Garda Division,Cultivation or manufacture of drugs (1012),1.0
-2005,Cork West Garda Division,Damage to property and to the environment  offences (12),449.0
-2005,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2005,Cork West Garda Division,Dangerous driving leading to death (012),2.0
-2005,Cork West Garda Division,Dangerous or negligent acts (04),438.0
-2005,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),101.0
-2005,Cork West Garda Division,Discharging a firearm (1121),9.0
-2005,Cork West Garda Division,Disorderly conduct (131),870.0
-2005,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",45.0
-2005,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",275.0
-2005,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2005,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),275.0
-2005,Cork West Garda Division,Endangering traffic offences (0425),1.0
-2005,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2005,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2005,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2005,Cork West Garda Division,False imprisonment (0511),0.0
-2005,Cork West Garda Division,Fireworks offences (114),0.0
-2005,Cork West Garda Division,"Fraud, deception and related offences (09)",60.0
-2005,Cork West Garda Division,Harassment and related offences (033),30.0
-2005,Cork West Garda Division,Homicide & related offences (01),3.0
-2005,Cork West Garda Division,Human trafficking offences (0513),0.0
-2005,Cork West Garda Division,Importation of drugs (1011),0.0
-2005,Cork West Garda Division,Infanticide (0113),0.0
-2005,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",367.0
-2005,Cork West Garda Division,Kidnapping and related offences (05),0.0
-2005,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2005,Cork West Garda Division,Liquor licensing offences (133),181.0
-2005,Cork West Garda Division,Litter offences (1221),0.0
-2005,Cork West Garda Division,Manslaughter (0112),1.0
-2005,Cork West Garda Division,Murder (0111),0.0
-2005,Cork West Garda Division,Murder-attempt (0311),0.0
-2005,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2005,Cork West Garda Division,Offences against government and its agents (151),4.0
-2005,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",57.0
-2005,Cork West Garda Division,Offences not elsewhere classified (16),51.0
-2005,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",49.0
-2005,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),14.0
-2005,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2005,Cork West Garda Division,Other assault (035),168.0
-2005,Cork West Garda Division,Other drug offences (103),5.0
-2005,Cork West Garda Division,Other road offences (1433),418.0
-2005,Cork West Garda Division,Other sexual offences (022),3.0
-2005,Cork West Garda Division,"Other thefts, handling stolen property (084)",480.0
-2005,Cork West Garda Division,Perverting the course of justice (153),4.0
-2005,Cork West Garda Division,Possession of a firearm (1122),14.0
-2005,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
-2005,Cork West Garda Division,Possession of drugs for personal use (1022),393.0
-2005,Cork West Garda Division,Possession of drugs for sale or supply (1021),36.0
-2005,Cork West Garda Division,Prostitution offences (134),0.0
-2005,Cork West Garda Division,Public order and other social code offences (13),1077.0
-2005,Cork West Garda Division,Public service vehicle offences (1442),1.0
-2005,Cork West Garda Division,Rape and sexual assault (021),27.0
-2005,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2005,Cork West Garda Division,Road and traffic offences (14),1035.0
-2005,Cork West Garda Division,Road transport - carriage of goods offences (1441),24.0
-2005,Cork West Garda Division,Roadworthiness/regulatory offences (143),20.0
-2005,Cork West Garda Division,Robbery from the person (0613),3.0
-2005,Cork West Garda Division,Robbery of an establishment or institution (0611),5.0
-2005,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2005,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",8.0
-2005,Cork West Garda Division,Sexual offences (02),30.0
-2005,Cork West Garda Division,Social code offences (n.e.c.) (136),0.0
-2005,Cork West Garda Division,Speeding (0415),58.0
-2005,Cork West Garda Division,Theft and related offences (08),746.0
-2005,Cork West Garda Division,Theft from person (0821),23.0
-2005,Cork West Garda Division,Theft from shop (0822),146.0
-2005,Cork West Garda Division,Theft/taking of vehicle and related offences (081),97.0
-2005,Cork West Garda Division,Threat to kill or cause serious harm (0313),2.0
-2005,Cork West Garda Division,Trespass offences (132),25.0
-2005,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2005,Cork West Garda Division,Vehicle tax/registration offences (142),160.0
-2005,Cork West Garda Division,Weapons and explosives offences (11),37.0
-2006,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",4.0
-2006,Cork West Garda Division,Abduction of person under 16 years of age (0512),1.0
-2006,Cork West Garda Division,Aggravated burglary (0711),2.0
-2006,Cork West Garda Division,Arson (1211),49.0
-2006,Cork West Garda Division,"Assault causing harm, poisoning (034)",89.0
-2006,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",318.0
-2006,Cork West Garda Division,Blackmail or extortion (0621),0.0
-2006,Cork West Garda Division,Burglary (not aggravated) (0712),302.0
-2006,Cork West Garda Division,Burglary and related offences (07),308.0
-2006,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2006,Cork West Garda Division,Controlled drug offences (10),240.0
-2006,Cork West Garda Division,Criminal damage (not arson) (1212),641.0
-2006,Cork West Garda Division,Cultivation or manufacture of drugs (1012),7.0
-2006,Cork West Garda Division,Damage to property and to the environment  offences (12),693.0
-2006,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2006,Cork West Garda Division,Dangerous driving leading to death (012),1.0
-2006,Cork West Garda Division,Dangerous or negligent acts (04),1273.0
-2006,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),160.0
-2006,Cork West Garda Division,Discharging a firearm (1121),1.0
-2006,Cork West Garda Division,Disorderly conduct (131),1075.0
-2006,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",217.0
-2006,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",432.0
-2006,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2006,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),432.0
-2006,Cork West Garda Division,Endangering traffic offences (0425),3.0
-2006,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2006,Cork West Garda Division,"Explosives, chemical weapons offences (111)",2.0
-2006,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2006,Cork West Garda Division,False imprisonment (0511),1.0
-2006,Cork West Garda Division,Fireworks offences (114),0.0
-2006,Cork West Garda Division,"Fraud, deception and related offences (09)",88.0
-2006,Cork West Garda Division,Harassment and related offences (033),58.0
-2006,Cork West Garda Division,Homicide & related offences (01),2.0
-2006,Cork West Garda Division,Human trafficking offences (0513),0.0
-2006,Cork West Garda Division,Importation of drugs (1011),0.0
-2006,Cork West Garda Division,Infanticide (0113),0.0
-2006,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",694.0
-2006,Cork West Garda Division,Kidnapping and related offences (05),2.0
-2006,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2006,Cork West Garda Division,Liquor licensing offences (133),162.0
-2006,Cork West Garda Division,Litter offences (1221),3.0
-2006,Cork West Garda Division,Manslaughter (0112),1.0
-2006,Cork West Garda Division,Murder (0111),0.0
-2006,Cork West Garda Division,Murder-attempt (0311),0.0
-2006,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2006,Cork West Garda Division,Offences against government and its agents (151),5.0
-2006,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",75.0
-2006,Cork West Garda Division,Offences not elsewhere classified (16),44.0
-2006,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",63.0
-2006,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),24.0
-2006,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2006,Cork West Garda Division,Other assault (035),171.0
-2006,Cork West Garda Division,Other drug offences (103),5.0
-2006,Cork West Garda Division,Other road offences (1433),853.0
-2006,Cork West Garda Division,Other sexual offences (022),1.0
-2006,Cork West Garda Division,"Other thefts, handling stolen property (084)",643.0
-2006,Cork West Garda Division,Perverting the course of justice (153),7.0
-2006,Cork West Garda Division,Possession of a firearm (1122),3.0
-2006,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",4.0
-2006,Cork West Garda Division,Possession of drugs for personal use (1022),206.0
-2006,Cork West Garda Division,Possession of drugs for sale or supply (1021),22.0
-2006,Cork West Garda Division,Prostitution offences (134),0.0
-2006,Cork West Garda Division,Public order and other social code offences (13),1268.0
-2006,Cork West Garda Division,Public service vehicle offences (1442),2.0
-2006,Cork West Garda Division,Rape and sexual assault (021),25.0
-2006,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2006,Cork West Garda Division,Road and traffic offences (14),2403.0
-2006,Cork West Garda Division,Road transport - carriage of goods offences (1441),72.0
-2006,Cork West Garda Division,Roadworthiness/regulatory offences (143),72.0
-2006,Cork West Garda Division,Robbery from the person (0613),3.0
-2006,Cork West Garda Division,Robbery of an establishment or institution (0611),2.0
-2006,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2006,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",5.0
-2006,Cork West Garda Division,Sexual offences (02),26.0
-2006,Cork West Garda Division,Social code offences (n.e.c.) (136),5.0
-2006,Cork West Garda Division,Speeding (0415),672.0
-2006,Cork West Garda Division,Theft and related offences (08),908.0
-2006,Cork West Garda Division,Theft from person (0821),25.0
-2006,Cork West Garda Division,Theft from shop (0822),163.0
-2006,Cork West Garda Division,Theft/taking of vehicle and related offences (081),77.0
-2006,Cork West Garda Division,Threat to kill or cause serious harm (0313),0.0
-2006,Cork West Garda Division,Trespass offences (132),24.0
-2006,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2006,Cork West Garda Division,Vehicle tax/registration offences (142),490.0
-2006,Cork West Garda Division,Weapons and explosives offences (11),30.0
-2007,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",9.0
-2007,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2007,Cork West Garda Division,Aggravated burglary (0711),0.0
-2007,Cork West Garda Division,Arson (1211),36.0
-2007,Cork West Garda Division,"Assault causing harm, poisoning (034)",92.0
-2007,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",425.0
-2007,Cork West Garda Division,Blackmail or extortion (0621),0.0
-2007,Cork West Garda Division,Burglary (not aggravated) (0712),286.0
-2007,Cork West Garda Division,Burglary and related offences (07),287.0
-2007,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2007,Cork West Garda Division,Controlled drug offences (10),278.0
-2007,Cork West Garda Division,Criminal damage (not arson) (1212),557.0
-2007,Cork West Garda Division,Cultivation or manufacture of drugs (1012),15.0
-2007,Cork West Garda Division,Damage to property and to the environment  offences (12),600.0
-2007,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2007,Cork West Garda Division,Dangerous driving leading to death (012),0.0
-2007,Cork West Garda Division,Dangerous or negligent acts (04),1262.0
-2007,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),343.0
-2007,Cork West Garda Division,Discharging a firearm (1121),2.0
-2007,Cork West Garda Division,Disorderly conduct (131),1031.0
-2007,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",260.0
-2007,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",389.0
-2007,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),3.0
-2007,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),386.0
-2007,Cork West Garda Division,Endangering traffic offences (0425),2.0
-2007,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2007,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2007,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2007,Cork West Garda Division,False imprisonment (0511),1.0
-2007,Cork West Garda Division,Fireworks offences (114),0.0
-2007,Cork West Garda Division,"Fraud, deception and related offences (09)",93.0
-2007,Cork West Garda Division,Harassment and related offences (033),62.0
-2007,Cork West Garda Division,Homicide & related offences (01),3.0
-2007,Cork West Garda Division,Human trafficking offences (0513),0.0
-2007,Cork West Garda Division,Importation of drugs (1011),0.0
-2007,Cork West Garda Division,Infanticide (0113),0.0
-2007,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",521.0
-2007,Cork West Garda Division,Kidnapping and related offences (05),1.0
-2007,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2007,Cork West Garda Division,Liquor licensing offences (133),177.0
-2007,Cork West Garda Division,Litter offences (1221),7.0
-2007,Cork West Garda Division,Manslaughter (0112),0.0
-2007,Cork West Garda Division,Murder (0111),3.0
-2007,Cork West Garda Division,Murder-attempt (0311),0.0
-2007,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2007,Cork West Garda Division,Offences against government and its agents (151),2.0
-2007,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",70.0
-2007,Cork West Garda Division,Offences not elsewhere classified (16),68.0
-2007,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",66.0
-2007,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),27.0
-2007,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2007,Cork West Garda Division,Other assault (035),271.0
-2007,Cork West Garda Division,Other drug offences (103),4.0
-2007,Cork West Garda Division,Other road offences (1433),1013.0
-2007,Cork West Garda Division,Other sexual offences (022),3.0
-2007,Cork West Garda Division,"Other thefts, handling stolen property (084)",549.0
-2007,Cork West Garda Division,Perverting the course of justice (153),2.0
-2007,Cork West Garda Division,Possession of a firearm (1122),7.0
-2007,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
-2007,Cork West Garda Division,Possession of drugs for personal use (1022),229.0
-2007,Cork West Garda Division,Possession of drugs for sale or supply (1021),30.0
-2007,Cork West Garda Division,Prostitution offences (134),0.0
-2007,Cork West Garda Division,Public order and other social code offences (13),1260.0
-2007,Cork West Garda Division,Public service vehicle offences (1442),5.0
-2007,Cork West Garda Division,Rape and sexual assault (021),12.0
-2007,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",7.0
-2007,Cork West Garda Division,Road and traffic offences (14),2593.0
-2007,Cork West Garda Division,Road transport - carriage of goods offences (1441),97.0
-2007,Cork West Garda Division,Roadworthiness/regulatory offences (143),78.0
-2007,Cork West Garda Division,Robbery from the person (0613),3.0
-2007,Cork West Garda Division,Robbery of an establishment or institution (0611),2.0
-2007,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2007,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",5.0
-2007,Cork West Garda Division,Sexual offences (02),15.0
-2007,Cork West Garda Division,Social code offences (n.e.c.) (136),4.0
-2007,Cork West Garda Division,Speeding (0415),519.0
-2007,Cork West Garda Division,Theft and related offences (08),798.0
-2007,Cork West Garda Division,Theft from person (0821),11.0
-2007,Cork West Garda Division,Theft from shop (0822),153.0
-2007,Cork West Garda Division,Theft/taking of vehicle and related offences (081),85.0
-2007,Cork West Garda Division,Threat to kill or cause serious harm (0313),0.0
-2007,Cork West Garda Division,Trespass offences (132),41.0
-2007,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2007,Cork West Garda Division,Vehicle tax/registration offences (142),617.0
-2007,Cork West Garda Division,Weapons and explosives offences (11),36.0
-2008,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",14.0
-2008,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2008,Cork West Garda Division,Aggravated burglary (0711),3.0
-2008,Cork West Garda Division,Arson (1211),35.0
-2008,Cork West Garda Division,"Assault causing harm, poisoning (034)",94.0
-2008,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",441.0
-2008,Cork West Garda Division,Blackmail or extortion (0621),2.0
-2008,Cork West Garda Division,Burglary (not aggravated) (0712),284.0
-2008,Cork West Garda Division,Burglary and related offences (07),288.0
-2008,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2008,Cork West Garda Division,Controlled drug offences (10),535.0
-2008,Cork West Garda Division,Criminal damage (not arson) (1212),596.0
-2008,Cork West Garda Division,Cultivation or manufacture of drugs (1012),18.0
-2008,Cork West Garda Division,Damage to property and to the environment  offences (12),647.0
-2008,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2008,Cork West Garda Division,Dangerous driving leading to death (012),2.0
-2008,Cork West Garda Division,Dangerous or negligent acts (04),1129.0
-2008,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),202.0
-2008,Cork West Garda Division,Discharging a firearm (1121),1.0
-2008,Cork West Garda Division,Disorderly conduct (131),1109.0
-2008,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",231.0
-2008,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",429.0
-2008,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),12.0
-2008,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),417.0
-2008,Cork West Garda Division,Endangering traffic offences (0425),7.0
-2008,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2008,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2008,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2008,Cork West Garda Division,False imprisonment (0511),1.0
-2008,Cork West Garda Division,Fireworks offences (114),2.0
-2008,Cork West Garda Division,"Fraud, deception and related offences (09)",86.0
-2008,Cork West Garda Division,Harassment and related offences (033),82.0
-2008,Cork West Garda Division,Homicide & related offences (01),3.0
-2008,Cork West Garda Division,Human trafficking offences (0513),0.0
-2008,Cork West Garda Division,Importation of drugs (1011),1.0
-2008,Cork West Garda Division,Infanticide (0113),0.0
-2008,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",520.0
-2008,Cork West Garda Division,Kidnapping and related offences (05),1.0
-2008,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2008,Cork West Garda Division,Liquor licensing offences (133),179.0
-2008,Cork West Garda Division,Litter offences (1221),16.0
-2008,Cork West Garda Division,Manslaughter (0112),1.0
-2008,Cork West Garda Division,Murder (0111),0.0
-2008,Cork West Garda Division,Murder-attempt (0311),0.0
-2008,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2008,Cork West Garda Division,Offences against government and its agents (151),10.0
-2008,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",90.0
-2008,Cork West Garda Division,Offences not elsewhere classified (16),86.0
-2008,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",77.0
-2008,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),43.0
-2008,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2008,Cork West Garda Division,Other assault (035),264.0
-2008,Cork West Garda Division,Other drug offences (103),11.0
-2008,Cork West Garda Division,Other road offences (1433),1424.0
-2008,Cork West Garda Division,Other sexual offences (022),3.0
-2008,Cork West Garda Division,"Other thefts, handling stolen property (084)",602.0
-2008,Cork West Garda Division,Perverting the course of justice (153),3.0
-2008,Cork West Garda Division,Possession of a firearm (1122),6.0
-2008,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
-2008,Cork West Garda Division,Possession of drugs for personal use (1022),459.0
-2008,Cork West Garda Division,Possession of drugs for sale or supply (1021),46.0
-2008,Cork West Garda Division,Prostitution offences (134),0.0
-2008,Cork West Garda Division,Public order and other social code offences (13),1351.0
-2008,Cork West Garda Division,Public service vehicle offences (1442),8.0
-2008,Cork West Garda Division,Rape and sexual assault (021),22.0
-2008,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",4.0
-2008,Cork West Garda Division,Road and traffic offences (14),3075.0
-2008,Cork West Garda Division,Road transport - carriage of goods offences (1441),116.0
-2008,Cork West Garda Division,Roadworthiness/regulatory offences (143),38.0
-2008,Cork West Garda Division,Robbery from the person (0613),4.0
-2008,Cork West Garda Division,Robbery of an establishment or institution (0611),6.0
-2008,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2008,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",12.0
-2008,Cork West Garda Division,Sexual offences (02),25.0
-2008,Cork West Garda Division,Social code offences (n.e.c.) (136),6.0
-2008,Cork West Garda Division,Speeding (0415),477.0
-2008,Cork West Garda Division,Theft and related offences (08),821.0
-2008,Cork West Garda Division,Theft from person (0821),15.0
-2008,Cork West Garda Division,Theft from shop (0822),115.0
-2008,Cork West Garda Division,Theft/taking of vehicle and related offences (081),89.0
-2008,Cork West Garda Division,Threat to kill or cause serious harm (0313),1.0
-2008,Cork West Garda Division,Trespass offences (132),53.0
-2008,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2008,Cork West Garda Division,Vehicle tax/registration offences (142),735.0
-2008,Cork West Garda Division,Weapons and explosives offences (11),52.0
-2009,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
-2009,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2009,Cork West Garda Division,Aggravated burglary (0711),1.0
-2009,Cork West Garda Division,Arson (1211),39.0
-2009,Cork West Garda Division,"Assault causing harm, poisoning (034)",80.0
-2009,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",411.0
-2009,Cork West Garda Division,Blackmail or extortion (0621),0.0
-2009,Cork West Garda Division,Burglary (not aggravated) (0712),252.0
-2009,Cork West Garda Division,Burglary and related offences (07),256.0
-2009,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2009,Cork West Garda Division,Controlled drug offences (10),471.0
-2009,Cork West Garda Division,Criminal damage (not arson) (1212),518.0
-2009,Cork West Garda Division,Cultivation or manufacture of drugs (1012),16.0
-2009,Cork West Garda Division,Damage to property and to the environment  offences (12),563.0
-2009,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2009,Cork West Garda Division,Dangerous driving leading to death (012),1.0
-2009,Cork West Garda Division,Dangerous or negligent acts (04),823.0
-2009,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),112.0
-2009,Cork West Garda Division,Discharging a firearm (1121),1.0
-2009,Cork West Garda Division,Disorderly conduct (131),950.0
-2009,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",151.0
-2009,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",284.0
-2009,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),11.0
-2009,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),273.0
-2009,Cork West Garda Division,Endangering traffic offences (0425),8.0
-2009,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2009,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2009,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2009,Cork West Garda Division,False imprisonment (0511),1.0
-2009,Cork West Garda Division,Fireworks offences (114),1.0
-2009,Cork West Garda Division,"Fraud, deception and related offences (09)",73.0
-2009,Cork West Garda Division,Harassment and related offences (033),64.0
-2009,Cork West Garda Division,Homicide & related offences (01),2.0
-2009,Cork West Garda Division,Human trafficking offences (0513),0.0
-2009,Cork West Garda Division,Importation of drugs (1011),1.0
-2009,Cork West Garda Division,Infanticide (0113),0.0
-2009,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",371.0
-2009,Cork West Garda Division,Kidnapping and related offences (05),1.0
-2009,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2009,Cork West Garda Division,Liquor licensing offences (133),123.0
-2009,Cork West Garda Division,Litter offences (1221),6.0
-2009,Cork West Garda Division,Manslaughter (0112),0.0
-2009,Cork West Garda Division,Murder (0111),1.0
-2009,Cork West Garda Division,Murder-attempt (0311),0.0
-2009,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2009,Cork West Garda Division,Offences against government and its agents (151),13.0
-2009,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",91.0
-2009,Cork West Garda Division,Offences not elsewhere classified (16),77.0
-2009,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",73.0
-2009,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),38.0
-2009,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
-2009,Cork West Garda Division,Other assault (035),266.0
-2009,Cork West Garda Division,Other drug offences (103),16.0
-2009,Cork West Garda Division,Other road offences (1433),1099.0
-2009,Cork West Garda Division,Other sexual offences (022),1.0
-2009,Cork West Garda Division,"Other thefts, handling stolen property (084)",625.0
-2009,Cork West Garda Division,Perverting the course of justice (153),4.0
-2009,Cork West Garda Division,Possession of a firearm (1122),2.0
-2009,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2009,Cork West Garda Division,Possession of drugs for personal use (1022),400.0
-2009,Cork West Garda Division,Possession of drugs for sale or supply (1021),38.0
-2009,Cork West Garda Division,Prostitution offences (134),0.0
-2009,Cork West Garda Division,Public order and other social code offences (13),1132.0
-2009,Cork West Garda Division,Public service vehicle offences (1442),8.0
-2009,Cork West Garda Division,Rape and sexual assault (021),32.0
-2009,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",4.0
-2009,Cork West Garda Division,Road and traffic offences (14),2228.0
-2009,Cork West Garda Division,Road transport - carriage of goods offences (1441),66.0
-2009,Cork West Garda Division,Roadworthiness/regulatory offences (143),33.0
-2009,Cork West Garda Division,Robbery from the person (0613),6.0
-2009,Cork West Garda Division,Robbery of an establishment or institution (0611),4.0
-2009,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2009,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",10.0
-2009,Cork West Garda Division,Sexual offences (02),33.0
-2009,Cork West Garda Division,Social code offences (n.e.c.) (136),3.0
-2009,Cork West Garda Division,Speeding (0415),412.0
-2009,Cork West Garda Division,Theft and related offences (08),880.0
-2009,Cork West Garda Division,Theft from person (0821),5.0
-2009,Cork West Garda Division,Theft from shop (0822),158.0
-2009,Cork West Garda Division,Theft/taking of vehicle and related offences (081),92.0
-2009,Cork West Garda Division,Threat to kill or cause serious harm (0313),1.0
-2009,Cork West Garda Division,Trespass offences (132),52.0
-2009,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2009,Cork West Garda Division,Vehicle tax/registration offences (142),499.0
-2009,Cork West Garda Division,Weapons and explosives offences (11),42.0
-2010,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",2.0
-2010,Cork West Garda Division,Abduction of person under 16 years of age (0512),1.0
-2010,Cork West Garda Division,Aggravated burglary (0711),3.0
-2010,Cork West Garda Division,Arson (1211),24.0
-2010,Cork West Garda Division,"Assault causing harm, poisoning (034)",55.0
-2010,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",335.0
-2010,Cork West Garda Division,Blackmail or extortion (0621),2.0
-2010,Cork West Garda Division,Burglary (not aggravated) (0712),226.0
-2010,Cork West Garda Division,Burglary and related offences (07),230.0
-2010,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2010,Cork West Garda Division,Controlled drug offences (10),450.0
-2010,Cork West Garda Division,Criminal damage (not arson) (1212),434.0
-2010,Cork West Garda Division,Cultivation or manufacture of drugs (1012),45.0
-2010,Cork West Garda Division,Damage to property and to the environment  offences (12),465.0
-2010,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2010,Cork West Garda Division,Dangerous driving leading to death (012),1.0
-2010,Cork West Garda Division,Dangerous or negligent acts (04),673.0
-2010,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),121.0
-2010,Cork West Garda Division,Discharging a firearm (1121),1.0
-2010,Cork West Garda Division,Disorderly conduct (131),868.0
-2010,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",190.0
-2010,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",267.0
-2010,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),6.0
-2010,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),261.0
-2010,Cork West Garda Division,Endangering traffic offences (0425),2.0
-2010,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2010,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2010,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2010,Cork West Garda Division,False imprisonment (0511),1.0
-2010,Cork West Garda Division,Fireworks offences (114),5.0
-2010,Cork West Garda Division,"Fraud, deception and related offences (09)",51.0
-2010,Cork West Garda Division,Harassment and related offences (033),74.0
-2010,Cork West Garda Division,Homicide & related offences (01),1.0
-2010,Cork West Garda Division,Human trafficking offences (0513),1.0
-2010,Cork West Garda Division,Importation of drugs (1011),0.0
-2010,Cork West Garda Division,Infanticide (0113),0.0
-2010,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",406.0
-2010,Cork West Garda Division,Kidnapping and related offences (05),3.0
-2010,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2010,Cork West Garda Division,Liquor licensing offences (133),89.0
-2010,Cork West Garda Division,Litter offences (1221),7.0
-2010,Cork West Garda Division,Manslaughter (0112),0.0
-2010,Cork West Garda Division,Murder (0111),0.0
-2010,Cork West Garda Division,Murder-attempt (0311),0.0
-2010,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2010,Cork West Garda Division,Offences against government and its agents (151),14.0
-2010,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",82.0
-2010,Cork West Garda Division,Offences not elsewhere classified (16),72.0
-2010,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",67.0
-2010,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),30.0
-2010,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2010,Cork West Garda Division,Other assault (035),204.0
-2010,Cork West Garda Division,Other drug offences (103),10.0
-2010,Cork West Garda Division,Other road offences (1433),1132.0
-2010,Cork West Garda Division,Other sexual offences (022),5.0
-2010,Cork West Garda Division,"Other thefts, handling stolen property (084)",482.0
-2010,Cork West Garda Division,Perverting the course of justice (153),1.0
-2010,Cork West Garda Division,Possession of a firearm (1122),2.0
-2010,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
-2010,Cork West Garda Division,Possession of drugs for personal use (1022),338.0
-2010,Cork West Garda Division,Possession of drugs for sale or supply (1021),57.0
-2010,Cork West Garda Division,Prostitution offences (134),0.0
-2010,Cork West Garda Division,Public order and other social code offences (13),1010.0
-2010,Cork West Garda Division,Public service vehicle offences (1442),9.0
-2010,Cork West Garda Division,Rape and sexual assault (021),35.0
-2010,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",4.0
-2010,Cork West Garda Division,Road and traffic offences (14),2456.0
-2010,Cork West Garda Division,Road transport - carriage of goods offences (1441),90.0
-2010,Cork West Garda Division,Roadworthiness/regulatory offences (143),62.0
-2010,Cork West Garda Division,Robbery from the person (0613),15.0
-2010,Cork West Garda Division,Robbery of an establishment or institution (0611),1.0
-2010,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2010,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",19.0
-2010,Cork West Garda Division,Sexual offences (02),40.0
-2010,Cork West Garda Division,Social code offences (n.e.c.) (136),5.0
-2010,Cork West Garda Division,Speeding (0415),279.0
-2010,Cork West Garda Division,Theft and related offences (08),675.0
-2010,Cork West Garda Division,Theft from person (0821),2.0
-2010,Cork West Garda Division,Theft from shop (0822),111.0
-2010,Cork West Garda Division,Theft/taking of vehicle and related offences (081),80.0
-2010,Cork West Garda Division,Threat to kill or cause serious harm (0313),2.0
-2010,Cork West Garda Division,Trespass offences (132),44.0
-2010,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2010,Cork West Garda Division,Vehicle tax/registration offences (142),564.0
-2010,Cork West Garda Division,Weapons and explosives offences (11),38.0
-2011,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",0.0
-2011,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2011,Cork West Garda Division,Aggravated burglary (0711),5.0
-2011,Cork West Garda Division,Arson (1211),26.0
-2011,Cork West Garda Division,"Assault causing harm, poisoning (034)",65.0
-2011,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",313.0
-2011,Cork West Garda Division,Blackmail or extortion (0621),0.0
-2011,Cork West Garda Division,Burglary (not aggravated) (0712),285.0
-2011,Cork West Garda Division,Burglary and related offences (07),290.0
-2011,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2011,Cork West Garda Division,Controlled drug offences (10),356.0
-2011,Cork West Garda Division,Criminal damage (not arson) (1212),473.0
-2011,Cork West Garda Division,Cultivation or manufacture of drugs (1012),39.0
-2011,Cork West Garda Division,Damage to property and to the environment  offences (12),509.0
-2011,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2011,Cork West Garda Division,Dangerous driving leading to death (012),2.0
-2011,Cork West Garda Division,Dangerous or negligent acts (04),1037.0
-2011,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),110.0
-2011,Cork West Garda Division,Discharging a firearm (1121),0.0
-2011,Cork West Garda Division,Disorderly conduct (131),794.0
-2011,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",158.0
-2011,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",210.0
-2011,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),7.0
-2011,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),203.0
-2011,Cork West Garda Division,Endangering traffic offences (0425),2.0
-2011,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2011,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2011,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2011,Cork West Garda Division,False imprisonment (0511),0.0
-2011,Cork West Garda Division,Fireworks offences (114),3.0
-2011,Cork West Garda Division,"Fraud, deception and related offences (09)",74.0
-2011,Cork West Garda Division,Harassment and related offences (033),46.0
-2011,Cork West Garda Division,Homicide & related offences (01),6.0
-2011,Cork West Garda Division,Human trafficking offences (0513),0.0
-2011,Cork West Garda Division,Importation of drugs (1011),0.0
-2011,Cork West Garda Division,Infanticide (0113),0.0
-2011,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",404.0
-2011,Cork West Garda Division,Kidnapping and related offences (05),0.0
-2011,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2011,Cork West Garda Division,Liquor licensing offences (133),93.0
-2011,Cork West Garda Division,Litter offences (1221),10.0
-2011,Cork West Garda Division,Manslaughter (0112),2.0
-2011,Cork West Garda Division,Murder (0111),2.0
-2011,Cork West Garda Division,Murder-attempt (0311),0.0
-2011,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2011,Cork West Garda Division,Offences against government and its agents (151),8.0
-2011,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",95.0
-2011,Cork West Garda Division,Offences not elsewhere classified (16),115.0
-2011,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",86.0
-2011,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),33.0
-2011,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2011,Cork West Garda Division,Other assault (035),197.0
-2011,Cork West Garda Division,Other drug offences (103),7.0
-2011,Cork West Garda Division,Other road offences (1433),1213.0
-2011,Cork West Garda Division,Other sexual offences (022),7.0
-2011,Cork West Garda Division,"Other thefts, handling stolen property (084)",659.0
-2011,Cork West Garda Division,Perverting the course of justice (153),1.0
-2011,Cork West Garda Division,Possession of a firearm (1122),4.0
-2011,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2011,Cork West Garda Division,Possession of drugs for personal use (1022),252.0
-2011,Cork West Garda Division,Possession of drugs for sale or supply (1021),58.0
-2011,Cork West Garda Division,Prostitution offences (134),0.0
-2011,Cork West Garda Division,Public order and other social code offences (13),935.0
-2011,Cork West Garda Division,Public service vehicle offences (1442),13.0
-2011,Cork West Garda Division,Rape and sexual assault (021),38.0
-2011,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",3.0
-2011,Cork West Garda Division,Road and traffic offences (14),2598.0
-2011,Cork West Garda Division,Road transport - carriage of goods offences (1441),129.0
-2011,Cork West Garda Division,Roadworthiness/regulatory offences (143),86.0
-2011,Cork West Garda Division,Robbery from the person (0613),4.0
-2011,Cork West Garda Division,Robbery of an establishment or institution (0611),3.0
-2011,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2011,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",7.0
-2011,Cork West Garda Division,Sexual offences (02),45.0
-2011,Cork West Garda Division,Social code offences (n.e.c.) (136),5.0
-2011,Cork West Garda Division,Speeding (0415),714.0
-2011,Cork West Garda Division,Theft and related offences (08),848.0
-2011,Cork West Garda Division,Theft from person (0821),6.0
-2011,Cork West Garda Division,Theft from shop (0822),128.0
-2011,Cork West Garda Division,Theft/taking of vehicle and related offences (081),55.0
-2011,Cork West Garda Division,Threat to kill or cause serious harm (0313),5.0
-2011,Cork West Garda Division,Trespass offences (132),40.0
-2011,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2011,Cork West Garda Division,Vehicle tax/registration offences (142),592.0
-2011,Cork West Garda Division,Weapons and explosives offences (11),40.0
-2012,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",1.0
-2012,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2012,Cork West Garda Division,Aggravated burglary (0711),0.0
-2012,Cork West Garda Division,Arson (1211),24.0
-2012,Cork West Garda Division,"Assault causing harm, poisoning (034)",49.0
-2012,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",308.0
-2012,Cork West Garda Division,Blackmail or extortion (0621),1.0
-2012,Cork West Garda Division,Burglary (not aggravated) (0712),251.0
-2012,Cork West Garda Division,Burglary and related offences (07),256.0
-2012,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2012,Cork West Garda Division,Controlled drug offences (10),293.0
-2012,Cork West Garda Division,Criminal damage (not arson) (1212),356.0
-2012,Cork West Garda Division,Cultivation or manufacture of drugs (1012),31.0
-2012,Cork West Garda Division,Damage to property and to the environment  offences (12),390.0
-2012,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2012,Cork West Garda Division,Dangerous driving leading to death (012),3.0
-2012,Cork West Garda Division,Dangerous or negligent acts (04),942.0
-2012,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),143.0
-2012,Cork West Garda Division,Discharging a firearm (1121),0.0
-2012,Cork West Garda Division,Disorderly conduct (131),706.0
-2012,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",208.0
-2012,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",220.0
-2012,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),4.0
-2012,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),216.0
-2012,Cork West Garda Division,Endangering traffic offences (0425),1.0
-2012,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2012,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2012,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2012,Cork West Garda Division,False imprisonment (0511),0.0
-2012,Cork West Garda Division,Fireworks offences (114),1.0
-2012,Cork West Garda Division,"Fraud, deception and related offences (09)",72.0
-2012,Cork West Garda Division,Harassment and related offences (033),57.0
-2012,Cork West Garda Division,Homicide & related offences (01),3.0
-2012,Cork West Garda Division,Human trafficking offences (0513),0.0
-2012,Cork West Garda Division,Importation of drugs (1011),0.0
-2012,Cork West Garda Division,Infanticide (0113),0.0
-2012,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",351.0
-2012,Cork West Garda Division,Kidnapping and related offences (05),0.0
-2012,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2012,Cork West Garda Division,Liquor licensing offences (133),64.0
-2012,Cork West Garda Division,Litter offences (1221),10.0
-2012,Cork West Garda Division,Manslaughter (0112),0.0
-2012,Cork West Garda Division,Murder (0111),0.0
-2012,Cork West Garda Division,Murder-attempt (0311),0.0
-2012,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2012,Cork West Garda Division,Offences against government and its agents (151),5.0
-2012,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",101.0
-2012,Cork West Garda Division,Offences not elsewhere classified (16),145.0
-2012,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",92.0
-2012,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),25.0
-2012,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2012,Cork West Garda Division,Other assault (035),199.0
-2012,Cork West Garda Division,Other drug offences (103),5.0
-2012,Cork West Garda Division,Other road offences (1433),1199.0
-2012,Cork West Garda Division,Other sexual offences (022),1.0
-2012,Cork West Garda Division,"Other thefts, handling stolen property (084)",505.0
-2012,Cork West Garda Division,Perverting the course of justice (153),4.0
-2012,Cork West Garda Division,Possession of a firearm (1122),6.0
-2012,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",5.0
-2012,Cork West Garda Division,Possession of drugs for personal use (1022),200.0
-2012,Cork West Garda Division,Possession of drugs for sale or supply (1021),57.0
-2012,Cork West Garda Division,Prostitution offences (134),0.0
-2012,Cork West Garda Division,Public order and other social code offences (13),837.0
-2012,Cork West Garda Division,Public service vehicle offences (1442),18.0
-2012,Cork West Garda Division,Rape and sexual assault (021),40.0
-2012,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2012,Cork West Garda Division,Road and traffic offences (14),2561.0
-2012,Cork West Garda Division,Road transport - carriage of goods offences (1441),103.0
-2012,Cork West Garda Division,Roadworthiness/regulatory offences (143),73.0
-2012,Cork West Garda Division,Robbery from the person (0613),1.0
-2012,Cork West Garda Division,Robbery of an establishment or institution (0611),1.0
-2012,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2012,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",3.0
-2012,Cork West Garda Division,Sexual offences (02),41.0
-2012,Cork West Garda Division,Social code offences (n.e.c.) (136),7.0
-2012,Cork West Garda Division,Speeding (0415),577.0
-2012,Cork West Garda Division,Theft and related offences (08),723.0
-2012,Cork West Garda Division,Theft from person (0821),12.0
-2012,Cork West Garda Division,Theft from shop (0822),148.0
-2012,Cork West Garda Division,Theft/taking of vehicle and related offences (081),58.0
-2012,Cork West Garda Division,Threat to kill or cause serious harm (0313),3.0
-2012,Cork West Garda Division,Trespass offences (132),58.0
-2012,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2012,Cork West Garda Division,Vehicle tax/registration offences (142),609.0
-2012,Cork West Garda Division,Weapons and explosives offences (11),32.0
-2013,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2013,Cork West Garda Division,Abduction of person under 16 years of age (0512),2.0
-2013,Cork West Garda Division,Aggravated burglary (0711),0.0
-2013,Cork West Garda Division,Arson (1211),26.0
-2013,Cork West Garda Division,"Assault causing harm, poisoning (034)",65.0
-2013,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",289.0
-2013,Cork West Garda Division,Blackmail or extortion (0621),0.0
-2013,Cork West Garda Division,Burglary (not aggravated) (0712),232.0
-2013,Cork West Garda Division,Burglary and related offences (07),232.0
-2013,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2013,Cork West Garda Division,Controlled drug offences (10),253.0
-2013,Cork West Garda Division,Criminal damage (not arson) (1212),345.0
-2013,Cork West Garda Division,Cultivation or manufacture of drugs (1012),36.0
-2013,Cork West Garda Division,Damage to property and to the environment  offences (12),380.0
-2013,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2013,Cork West Garda Division,Dangerous driving leading to death (012),2.0
-2013,Cork West Garda Division,Dangerous or negligent acts (04),934.0
-2013,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),106.0
-2013,Cork West Garda Division,Discharging a firearm (1121),1.0
-2013,Cork West Garda Division,Disorderly conduct (131),567.0
-2013,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",150.0
-2013,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",229.0
-2013,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),3.0
-2013,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),226.0
-2013,Cork West Garda Division,Endangering traffic offences (0425),3.0
-2013,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),0.0
-2013,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2013,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2013,Cork West Garda Division,False imprisonment (0511),2.0
-2013,Cork West Garda Division,Fireworks offences (114),1.0
-2013,Cork West Garda Division,"Fraud, deception and related offences (09)",77.0
-2013,Cork West Garda Division,Harassment and related offences (033),38.0
-2013,Cork West Garda Division,Homicide & related offences (01),3.0
-2013,Cork West Garda Division,Human trafficking offences (0513),0.0
-2013,Cork West Garda Division,Importation of drugs (1011),0.0
-2013,Cork West Garda Division,Infanticide (0113),0.0
-2013,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",238.0
-2013,Cork West Garda Division,Kidnapping and related offences (05),4.0
-2013,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2013,Cork West Garda Division,Liquor licensing offences (133),90.0
-2013,Cork West Garda Division,Litter offences (1221),9.0
-2013,Cork West Garda Division,Manslaughter (0112),0.0
-2013,Cork West Garda Division,Murder (0111),1.0
-2013,Cork West Garda Division,Murder-attempt (0311),0.0
-2013,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2013,Cork West Garda Division,Offences against government and its agents (151),3.0
-2013,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",101.0
-2013,Cork West Garda Division,Offences not elsewhere classified (16),82.0
-2013,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",96.0
-2013,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),30.0
-2013,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2013,Cork West Garda Division,Other assault (035),182.0
-2013,Cork West Garda Division,Other drug offences (103),4.0
-2013,Cork West Garda Division,Other road offences (1433),1176.0
-2013,Cork West Garda Division,Other sexual offences (022),1.0
-2013,Cork West Garda Division,"Other thefts, handling stolen property (084)",520.0
-2013,Cork West Garda Division,Perverting the course of justice (153),2.0
-2013,Cork West Garda Division,Possession of a firearm (1122),0.0
-2013,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2013,Cork West Garda Division,Possession of drugs for personal use (1022),162.0
-2013,Cork West Garda Division,Possession of drugs for sale or supply (1021),51.0
-2013,Cork West Garda Division,Prostitution offences (134),0.0
-2013,Cork West Garda Division,Public order and other social code offences (13),696.0
-2013,Cork West Garda Division,Public service vehicle offences (1442),30.0
-2013,Cork West Garda Division,Rape and sexual assault (021),25.0
-2013,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2013,Cork West Garda Division,Road and traffic offences (14),2187.0
-2013,Cork West Garda Division,Road transport - carriage of goods offences (1441),178.0
-2013,Cork West Garda Division,Roadworthiness/regulatory offences (143),82.0
-2013,Cork West Garda Division,Robbery from the person (0613),2.0
-2013,Cork West Garda Division,Robbery of an establishment or institution (0611),1.0
-2013,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2013,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",3.0
-2013,Cork West Garda Division,Sexual offences (02),26.0
-2013,Cork West Garda Division,Social code offences (n.e.c.) (136),3.0
-2013,Cork West Garda Division,Speeding (0415),591.0
-2013,Cork West Garda Division,Theft and related offences (08),761.0
-2013,Cork West Garda Division,Theft from person (0821),10.0
-2013,Cork West Garda Division,Theft from shop (0822),165.0
-2013,Cork West Garda Division,Theft/taking of vehicle and related offences (081),66.0
-2013,Cork West Garda Division,Threat to kill or cause serious harm (0313),4.0
-2013,Cork West Garda Division,Trespass offences (132),34.0
-2013,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2013,Cork West Garda Division,Vehicle tax/registration offences (142),333.0
-2013,Cork West Garda Division,Weapons and explosives offences (11),32.0
-2014,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",1.0
-2014,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2014,Cork West Garda Division,Aggravated burglary (0711),1.0
-2014,Cork West Garda Division,Arson (1211),13.0
-2014,Cork West Garda Division,"Assault causing harm, poisoning (034)",49.0
-2014,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",297.0
-2014,Cork West Garda Division,Blackmail or extortion (0621),0.0
-2014,Cork West Garda Division,Burglary (not aggravated) (0712),235.0
-2014,Cork West Garda Division,Burglary and related offences (07),239.0
-2014,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2014,Cork West Garda Division,Controlled drug offences (10),247.0
-2014,Cork West Garda Division,Criminal damage (not arson) (1212),341.0
-2014,Cork West Garda Division,Cultivation or manufacture of drugs (1012),17.0
-2014,Cork West Garda Division,Damage to property and to the environment  offences (12),366.0
-2014,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2014,Cork West Garda Division,Dangerous driving leading to death (012),1.0
-2014,Cork West Garda Division,Dangerous or negligent acts (04),931.0
-2014,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),124.0
-2014,Cork West Garda Division,Discharging a firearm (1121),2.0
-2014,Cork West Garda Division,Disorderly conduct (131),548.0
-2014,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",224.0
-2014,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",181.0
-2014,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),1.0
-2014,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),180.0
-2014,Cork West Garda Division,Endangering traffic offences (0425),1.0
-2014,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2014,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2014,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2014,Cork West Garda Division,False imprisonment (0511),1.0
-2014,Cork West Garda Division,Fireworks offences (114),1.0
-2014,Cork West Garda Division,"Fraud, deception and related offences (09)",82.0
-2014,Cork West Garda Division,Harassment and related offences (033),43.0
-2014,Cork West Garda Division,Homicide & related offences (01),1.0
-2014,Cork West Garda Division,Human trafficking offences (0513),0.0
-2014,Cork West Garda Division,Importation of drugs (1011),0.0
-2014,Cork West Garda Division,Infanticide (0113),0.0
-2014,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",194.0
-2014,Cork West Garda Division,Kidnapping and related offences (05),1.0
-2014,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2014,Cork West Garda Division,Liquor licensing offences (133),62.0
-2014,Cork West Garda Division,Litter offences (1221),12.0
-2014,Cork West Garda Division,Manslaughter (0112),0.0
-2014,Cork West Garda Division,Murder (0111),0.0
-2014,Cork West Garda Division,Murder-attempt (0311),0.0
-2014,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2014,Cork West Garda Division,Offences against government and its agents (151),5.0
-2014,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",109.0
-2014,Cork West Garda Division,Offences not elsewhere classified (16),85.0
-2014,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",103.0
-2014,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),13.0
-2014,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2014,Cork West Garda Division,Other assault (035),204.0
-2014,Cork West Garda Division,Other drug offences (103),5.0
-2014,Cork West Garda Division,Other road offences (1433),1344.0
-2014,Cork West Garda Division,Other sexual offences (022),1.0
-2014,Cork West Garda Division,"Other thefts, handling stolen property (084)",469.0
-2014,Cork West Garda Division,Perverting the course of justice (153),1.0
-2014,Cork West Garda Division,Possession of a firearm (1122),1.0
-2014,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",3.0
-2014,Cork West Garda Division,Possession of drugs for personal use (1022),176.0
-2014,Cork West Garda Division,Possession of drugs for sale or supply (1021),49.0
-2014,Cork West Garda Division,Prostitution offences (134),0.0
-2014,Cork West Garda Division,Public order and other social code offences (13),637.0
-2014,Cork West Garda Division,Public service vehicle offences (1442),23.0
-2014,Cork West Garda Division,Rape and sexual assault (021),31.0
-2014,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2014,Cork West Garda Division,Road and traffic offences (14),2474.0
-2014,Cork West Garda Division,Road transport - carriage of goods offences (1441),212.0
-2014,Cork West Garda Division,Roadworthiness/regulatory offences (143),119.0
-2014,Cork West Garda Division,Robbery from the person (0613),1.0
-2014,Cork West Garda Division,Robbery of an establishment or institution (0611),0.0
-2014,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2014,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",1.0
-2014,Cork West Garda Division,Sexual offences (02),32.0
-2014,Cork West Garda Division,Social code offences (n.e.c.) (136),2.0
-2014,Cork West Garda Division,Speeding (0415),622.0
-2014,Cork West Garda Division,Theft and related offences (08),720.0
-2014,Cork West Garda Division,Theft from person (0821),4.0
-2014,Cork West Garda Division,Theft from shop (0822),182.0
-2014,Cork West Garda Division,Theft/taking of vehicle and related offences (081),65.0
-2014,Cork West Garda Division,Threat to kill or cause serious harm (0313),1.0
-2014,Cork West Garda Division,Trespass offences (132),24.0
-2014,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2014,Cork West Garda Division,Vehicle tax/registration offences (142),357.0
-2014,Cork West Garda Division,Weapons and explosives offences (11),17.0
-2015,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
-2015,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2015,Cork West Garda Division,Aggravated burglary (0711),0.0
-2015,Cork West Garda Division,Arson (1211),18.0
-2015,Cork West Garda Division,"Assault causing harm, poisoning (034)",65.0
-2015,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",386.0
-2015,Cork West Garda Division,Blackmail or extortion (0621),2.0
-2015,Cork West Garda Division,Burglary (not aggravated) (0712),186.0
-2015,Cork West Garda Division,Burglary and related offences (07),186.0
-2015,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2015,Cork West Garda Division,Controlled drug offences (10),294.0
-2015,Cork West Garda Division,Criminal damage (not arson) (1212),276.0
-2015,Cork West Garda Division,Cultivation or manufacture of drugs (1012),19.0
-2015,Cork West Garda Division,Damage to property and to the environment  offences (12),302.0
-2015,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2015,Cork West Garda Division,Dangerous driving leading to death (012),0.0
-2015,Cork West Garda Division,Dangerous or negligent acts (04),1096.0
-2015,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),150.0
-2015,Cork West Garda Division,Discharging a firearm (1121),1.0
-2015,Cork West Garda Division,Disorderly conduct (131),470.0
-2015,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",146.0
-2015,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",197.0
-2015,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),4.0
-2015,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),193.0
-2015,Cork West Garda Division,Endangering traffic offences (0425),0.0
-2015,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2015,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2015,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2015,Cork West Garda Division,False imprisonment (0511),1.0
-2015,Cork West Garda Division,Fireworks offences (114),0.0
-2015,Cork West Garda Division,"Fraud, deception and related offences (09)",135.0
-2015,Cork West Garda Division,Harassment and related offences (033),56.0
-2015,Cork West Garda Division,Homicide & related offences (01),0.0
-2015,Cork West Garda Division,Human trafficking offences (0513),0.0
-2015,Cork West Garda Division,Importation of drugs (1011),0.0
-2015,Cork West Garda Division,Infanticide (0113),0.0
-2015,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",258.0
-2015,Cork West Garda Division,Kidnapping and related offences (05),1.0
-2015,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2015,Cork West Garda Division,Liquor licensing offences (133),63.0
-2015,Cork West Garda Division,Litter offences (1221),8.0
-2015,Cork West Garda Division,Manslaughter (0112),0.0
-2015,Cork West Garda Division,Murder (0111),0.0
-2015,Cork West Garda Division,Murder-attempt (0311),0.0
-2015,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2015,Cork West Garda Division,Offences against government and its agents (151),8.0
-2015,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",84.0
-2015,Cork West Garda Division,Offences not elsewhere classified (16),79.0
-2015,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",72.0
-2015,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),11.0
-2015,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2015,Cork West Garda Division,Other assault (035),257.0
-2015,Cork West Garda Division,Other drug offences (103),9.0
-2015,Cork West Garda Division,Other road offences (1433),955.0
-2015,Cork West Garda Division,Other sexual offences (022),4.0
-2015,Cork West Garda Division,"Other thefts, handling stolen property (084)",382.0
-2015,Cork West Garda Division,Perverting the course of justice (153),4.0
-2015,Cork West Garda Division,Possession of a firearm (1122),2.0
-2015,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2015,Cork West Garda Division,Possession of drugs for personal use (1022),211.0
-2015,Cork West Garda Division,Possession of drugs for sale or supply (1021),55.0
-2015,Cork West Garda Division,Prostitution offences (134),0.0
-2015,Cork West Garda Division,Public order and other social code offences (13),571.0
-2015,Cork West Garda Division,Public service vehicle offences (1442),19.0
-2015,Cork West Garda Division,Rape and sexual assault (021),41.0
-2015,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2015,Cork West Garda Division,Road and traffic offences (14),1888.0
-2015,Cork West Garda Division,Road transport - carriage of goods offences (1441),176.0
-2015,Cork West Garda Division,Roadworthiness/regulatory offences (143),95.0
-2015,Cork West Garda Division,Robbery from the person (0613),3.0
-2015,Cork West Garda Division,Robbery of an establishment or institution (0611),0.0
-2015,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2015,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",5.0
-2015,Cork West Garda Division,Sexual offences (02),45.0
-2015,Cork West Garda Division,Social code offences (n.e.c.) (136),4.0
-2015,Cork West Garda Division,Speeding (0415),739.0
-2015,Cork West Garda Division,Theft and related offences (08),572.0
-2015,Cork West Garda Division,Theft from person (0821),8.0
-2015,Cork West Garda Division,Theft from shop (0822),150.0
-2015,Cork West Garda Division,Theft/taking of vehicle and related offences (081),32.0
-2015,Cork West Garda Division,Threat to kill or cause serious harm (0313),8.0
-2015,Cork West Garda Division,Trespass offences (132),33.0
-2015,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2015,Cork West Garda Division,Vehicle tax/registration offences (142),237.0
-2015,Cork West Garda Division,Weapons and explosives offences (11),14.0
-2016,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",1.0
-2016,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2016,Cork West Garda Division,Aggravated burglary (0711),2.0
-2016,Cork West Garda Division,Arson (1211),25.0
-2016,Cork West Garda Division,"Assault causing harm, poisoning (034)",62.0
-2016,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",344.0
-2016,Cork West Garda Division,Blackmail or extortion (0621),2.0
-2016,Cork West Garda Division,Burglary (not aggravated) (0712),134.0
-2016,Cork West Garda Division,Burglary and related offences (07),137.0
-2016,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2016,Cork West Garda Division,Controlled drug offences (10),265.0
-2016,Cork West Garda Division,Criminal damage (not arson) (1212),239.0
-2016,Cork West Garda Division,Cultivation or manufacture of drugs (1012),9.0
-2016,Cork West Garda Division,Damage to property and to the environment  offences (12),269.0
-2016,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2016,Cork West Garda Division,Dangerous driving leading to death (012),3.0
-2016,Cork West Garda Division,Dangerous or negligent acts (04),888.0
-2016,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),156.0
-2016,Cork West Garda Division,Discharging a firearm (1121),3.0
-2016,Cork West Garda Division,Disorderly conduct (131),399.0
-2016,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",152.0
-2016,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",205.0
-2016,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),3.0
-2016,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),202.0
-2016,Cork West Garda Division,Endangering traffic offences (0425),4.0
-2016,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2016,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2016,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2016,Cork West Garda Division,False imprisonment (0511),2.0
-2016,Cork West Garda Division,Fireworks offences (114),0.0
-2016,Cork West Garda Division,"Fraud, deception and related offences (09)",77.0
-2016,Cork West Garda Division,Harassment and related offences (033),47.0
-2016,Cork West Garda Division,Homicide & related offences (01),3.0
-2016,Cork West Garda Division,Human trafficking offences (0513),1.0
-2016,Cork West Garda Division,Importation of drugs (1011),0.0
-2016,Cork West Garda Division,Infanticide (0113),0.0
-2016,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",327.0
-2016,Cork West Garda Division,Kidnapping and related offences (05),3.0
-2016,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2016,Cork West Garda Division,Liquor licensing offences (133),41.0
-2016,Cork West Garda Division,Litter offences (1221),5.0
-2016,Cork West Garda Division,Manslaughter (0112),0.0
-2016,Cork West Garda Division,Murder (0111),0.0
-2016,Cork West Garda Division,Murder-attempt (0311),0.0
-2016,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2016,Cork West Garda Division,Offences against government and its agents (151),13.0
-2016,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",84.0
-2016,Cork West Garda Division,Offences not elsewhere classified (16),91.0
-2016,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",67.0
-2016,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),10.0
-2016,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),2.0
-2016,Cork West Garda Division,Other assault (035),230.0
-2016,Cork West Garda Division,Other drug offences (103),0.0
-2016,Cork West Garda Division,Other road offences (1433),924.0
-2016,Cork West Garda Division,Other sexual offences (022),11.0
-2016,Cork West Garda Division,"Other thefts, handling stolen property (084)",284.0
-2016,Cork West Garda Division,Perverting the course of justice (153),2.0
-2016,Cork West Garda Division,Possession of a firearm (1122),2.0
-2016,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
-2016,Cork West Garda Division,Possession of drugs for personal use (1022),215.0
-2016,Cork West Garda Division,Possession of drugs for sale or supply (1021),41.0
-2016,Cork West Garda Division,Prostitution offences (134),1.0
-2016,Cork West Garda Division,Public order and other social code offences (13),467.0
-2016,Cork West Garda Division,Public service vehicle offences (1442),9.0
-2016,Cork West Garda Division,Rape and sexual assault (021),44.0
-2016,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",3.0
-2016,Cork West Garda Division,Road and traffic offences (14),2018.0
-2016,Cork West Garda Division,Road transport - carriage of goods offences (1441),136.0
-2016,Cork West Garda Division,Roadworthiness/regulatory offences (143),91.0
-2016,Cork West Garda Division,Robbery from the person (0613),2.0
-2016,Cork West Garda Division,Robbery of an establishment or institution (0611),2.0
-2016,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2016,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",6.0
-2016,Cork West Garda Division,Sexual offences (02),55.0
-2016,Cork West Garda Division,Social code offences (n.e.c.) (136),2.0
-2016,Cork West Garda Division,Speeding (0415),516.0
-2016,Cork West Garda Division,Theft and related offences (08),410.0
-2016,Cork West Garda Division,Theft from person (0821),5.0
-2016,Cork West Garda Division,Theft from shop (0822),102.0
-2016,Cork West Garda Division,Theft/taking of vehicle and related offences (081),19.0
-2016,Cork West Garda Division,Threat to kill or cause serious harm (0313),5.0
-2016,Cork West Garda Division,Trespass offences (132),21.0
-2016,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2016,Cork West Garda Division,Vehicle tax/registration offences (142),377.0
-2016,Cork West Garda Division,Weapons and explosives offences (11),15.0
-2017,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",7.0
-2017,Cork West Garda Division,Abduction of person under 16 years of age (0512),1.0
-2017,Cork West Garda Division,Aggravated burglary (0711),2.0
-2017,Cork West Garda Division,Arson (1211),12.0
-2017,Cork West Garda Division,"Assault causing harm, poisoning (034)",66.0
-2017,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",405.0
-2017,Cork West Garda Division,Blackmail or extortion (0621),3.0
-2017,Cork West Garda Division,Burglary (not aggravated) (0712),112.0
-2017,Cork West Garda Division,Burglary and related offences (07),114.0
-2017,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2017,Cork West Garda Division,Controlled drug offences (10),339.0
-2017,Cork West Garda Division,Criminal damage (not arson) (1212),256.0
-2017,Cork West Garda Division,Cultivation or manufacture of drugs (1012),10.0
-2017,Cork West Garda Division,Damage to property and to the environment  offences (12),273.0
-2017,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2017,Cork West Garda Division,Dangerous driving leading to death (012),0.0
-2017,Cork West Garda Division,Dangerous or negligent acts (04),816.0
-2017,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),149.0
-2017,Cork West Garda Division,Discharging a firearm (1121),3.0
-2017,Cork West Garda Division,Disorderly conduct (131),473.0
-2017,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",141.0
-2017,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",222.0
-2017,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),18.0
-2017,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),204.0
-2017,Cork West Garda Division,Endangering traffic offences (0425),1.0
-2017,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),5.0
-2017,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2017,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2017,Cork West Garda Division,False imprisonment (0511),3.0
-2017,Cork West Garda Division,Fireworks offences (114),1.0
-2017,Cork West Garda Division,"Fraud, deception and related offences (09)",61.0
-2017,Cork West Garda Division,Harassment and related offences (033),55.0
-2017,Cork West Garda Division,Homicide & related offences (01),2.0
-2017,Cork West Garda Division,Human trafficking offences (0513),1.0
-2017,Cork West Garda Division,Importation of drugs (1011),0.0
-2017,Cork West Garda Division,Infanticide (0113),0.0
-2017,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",307.0
-2017,Cork West Garda Division,Kidnapping and related offences (05),5.0
-2017,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2017,Cork West Garda Division,Liquor licensing offences (133),43.0
-2017,Cork West Garda Division,Litter offences (1221),5.0
-2017,Cork West Garda Division,Manslaughter (0112),0.0
-2017,Cork West Garda Division,Murder (0111),2.0
-2017,Cork West Garda Division,Murder-attempt (0311),0.0
-2017,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),4.0
-2017,Cork West Garda Division,Offences against government and its agents (151),2.0
-2017,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",112.0
-2017,Cork West Garda Division,Offences not elsewhere classified (16),65.0
-2017,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",108.0
-2017,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),16.0
-2017,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2017,Cork West Garda Division,Other assault (035),273.0
-2017,Cork West Garda Division,Other drug offences (103),13.0
-2017,Cork West Garda Division,Other road offences (1433),779.0
-2017,Cork West Garda Division,Other sexual offences (022),10.0
-2017,Cork West Garda Division,"Other thefts, handling stolen property (084)",246.0
-2017,Cork West Garda Division,Perverting the course of justice (153),2.0
-2017,Cork West Garda Division,Possession of a firearm (1122),1.0
-2017,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2017,Cork West Garda Division,Possession of drugs for personal use (1022),261.0
-2017,Cork West Garda Division,Possession of drugs for sale or supply (1021),55.0
-2017,Cork West Garda Division,Prostitution offences (134),0.0
-2017,Cork West Garda Division,Public order and other social code offences (13),545.0
-2017,Cork West Garda Division,Public service vehicle offences (1442),6.0
-2017,Cork West Garda Division,Rape and sexual assault (021),63.0
-2017,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
-2017,Cork West Garda Division,Road and traffic offences (14),1732.0
-2017,Cork West Garda Division,Road transport - carriage of goods offences (1441),101.0
-2017,Cork West Garda Division,Roadworthiness/regulatory offences (143),74.0
-2017,Cork West Garda Division,Robbery from the person (0613),2.0
-2017,Cork West Garda Division,Robbery of an establishment or institution (0611),1.0
-2017,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2017,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",6.0
-2017,Cork West Garda Division,Sexual offences (02),73.0
-2017,Cork West Garda Division,Social code offences (n.e.c.) (136),6.0
-2017,Cork West Garda Division,Speeding (0415),432.0
-2017,Cork West Garda Division,Theft and related offences (08),419.0
-2017,Cork West Garda Division,Theft from person (0821),6.0
-2017,Cork West Garda Division,Theft from shop (0822),146.0
-2017,Cork West Garda Division,Theft/taking of vehicle and related offences (081),21.0
-2017,Cork West Garda Division,Threat to kill or cause serious harm (0313),11.0
-2017,Cork West Garda Division,Trespass offences (132),21.0
-2017,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2017,Cork West Garda Division,Vehicle tax/registration offences (142),320.0
-2017,Cork West Garda Division,Weapons and explosives offences (11),21.0
-2018,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",16.0
-2018,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2018,Cork West Garda Division,Aggravated burglary (0711),2.0
-2018,Cork West Garda Division,Arson (1211),13.0
-2018,Cork West Garda Division,"Assault causing harm, poisoning (034)",77.0
-2018,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",368.0
-2018,Cork West Garda Division,Blackmail or extortion (0621),2.0
-2018,Cork West Garda Division,Burglary (not aggravated) (0712),114.0
-2018,Cork West Garda Division,Burglary and related offences (07),117.0
-2018,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2018,Cork West Garda Division,Controlled drug offences (10),341.0
-2018,Cork West Garda Division,Criminal damage (not arson) (1212),253.0
-2018,Cork West Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2018,Cork West Garda Division,Damage to property and to the environment  offences (12),278.0
-2018,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),5.0
-2018,Cork West Garda Division,Dangerous driving leading to death (012),1.0
-2018,Cork West Garda Division,Dangerous or negligent acts (04),1069.0
-2018,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),144.0
-2018,Cork West Garda Division,Discharging a firearm (1121),0.0
-2018,Cork West Garda Division,Disorderly conduct (131),515.0
-2018,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",116.0
-2018,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",221.0
-2018,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),33.0
-2018,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),188.0
-2018,Cork West Garda Division,Endangering traffic offences (0425),2.0
-2018,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),6.0
-2018,Cork West Garda Division,"Explosives, chemical weapons offences (111)",1.0
-2018,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2018,Cork West Garda Division,False imprisonment (0511),1.0
-2018,Cork West Garda Division,Fireworks offences (114),0.0
-2018,Cork West Garda Division,"Fraud, deception and related offences (09)",76.0
-2018,Cork West Garda Division,Harassment and related offences (033),41.0
-2018,Cork West Garda Division,Homicide & related offences (01),3.0
-2018,Cork West Garda Division,Human trafficking offences (0513),3.0
-2018,Cork West Garda Division,Importation of drugs (1011),1.0
-2018,Cork West Garda Division,Infanticide (0113),0.0
-2018,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",282.0
-2018,Cork West Garda Division,Kidnapping and related offences (05),4.0
-2018,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2018,Cork West Garda Division,Liquor licensing offences (133),30.0
-2018,Cork West Garda Division,Litter offences (1221),12.0
-2018,Cork West Garda Division,Manslaughter (0112),0.0
-2018,Cork West Garda Division,Murder (0111),2.0
-2018,Cork West Garda Division,Murder-attempt (0311),0.0
-2018,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2018,Cork West Garda Division,Offences against government and its agents (151),7.0
-2018,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",134.0
-2018,Cork West Garda Division,Offences not elsewhere classified (16),62.0
-2018,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",125.0
-2018,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),26.0
-2018,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2018,Cork West Garda Division,Other assault (035),237.0
-2018,Cork West Garda Division,Other drug offences (103),4.0
-2018,Cork West Garda Division,Other road offences (1433),675.0
-2018,Cork West Garda Division,Other sexual offences (022),5.0
-2018,Cork West Garda Division,"Other thefts, handling stolen property (084)",277.0
-2018,Cork West Garda Division,Perverting the course of justice (153),2.0
-2018,Cork West Garda Division,Possession of a firearm (1122),2.0
-2018,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
-2018,Cork West Garda Division,Possession of drugs for personal use (1022),271.0
-2018,Cork West Garda Division,Possession of drugs for sale or supply (1021),54.0
-2018,Cork West Garda Division,Prostitution offences (134),0.0
-2018,Cork West Garda Division,Public order and other social code offences (13),580.0
-2018,Cork West Garda Division,Public service vehicle offences (1442),14.0
-2018,Cork West Garda Division,Rape and sexual assault (021),55.0
-2018,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",5.0
-2018,Cork West Garda Division,Road and traffic offences (14),1486.0
-2018,Cork West Garda Division,Road transport - carriage of goods offences (1441),23.0
-2018,Cork West Garda Division,Roadworthiness/regulatory offences (143),69.0
-2018,Cork West Garda Division,Robbery from the person (0613),2.0
-2018,Cork West Garda Division,Robbery of an establishment or institution (0611),1.0
-2018,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2018,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",5.0
-2018,Cork West Garda Division,Sexual offences (02),60.0
-2018,Cork West Garda Division,Social code offences (n.e.c.) (136),6.0
-2018,Cork West Garda Division,Speeding (0415),675.0
-2018,Cork West Garda Division,Theft and related offences (08),478.0
-2018,Cork West Garda Division,Theft from person (0821),5.0
-2018,Cork West Garda Division,Theft from shop (0822),163.0
-2018,Cork West Garda Division,Theft/taking of vehicle and related offences (081),33.0
-2018,Cork West Garda Division,Threat to kill or cause serious harm (0313),13.0
-2018,Cork West Garda Division,Trespass offences (132),24.0
-2018,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2018,Cork West Garda Division,Vehicle tax/registration offences (142),307.0
-2018,Cork West Garda Division,Weapons and explosives offences (11),29.0
-2019,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
-2019,Cork West Garda Division,Abduction of person under 16 years of age (0512),1.0
-2019,Cork West Garda Division,Aggravated burglary (0711),0.0
-2019,Cork West Garda Division,Arson (1211),15.0
-2019,Cork West Garda Division,"Assault causing harm, poisoning (034)",70.0
-2019,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",358.0
-2019,Cork West Garda Division,Blackmail or extortion (0621),1.0
-2019,Cork West Garda Division,Burglary (not aggravated) (0712),99.0
-2019,Cork West Garda Division,Burglary and related offences (07),99.0
-2019,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2019,Cork West Garda Division,Controlled drug offences (10),341.0
-2019,Cork West Garda Division,Criminal damage (not arson) (1212),277.0
-2019,Cork West Garda Division,Cultivation or manufacture of drugs (1012),18.0
-2019,Cork West Garda Division,Damage to property and to the environment  offences (12),302.0
-2019,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2019,Cork West Garda Division,Dangerous driving leading to death (012),1.0
-2019,Cork West Garda Division,Dangerous or negligent acts (04),1027.0
-2019,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),155.0
-2019,Cork West Garda Division,Discharging a firearm (1121),0.0
-2019,Cork West Garda Division,Disorderly conduct (131),520.0
-2019,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",76.0
-2019,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",257.0
-2019,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),66.0
-2019,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),191.0
-2019,Cork West Garda Division,Endangering traffic offences (0425),1.0
-2019,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),3.0
-2019,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2019,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2019,Cork West Garda Division,False imprisonment (0511),1.0
-2019,Cork West Garda Division,Fireworks offences (114),1.0
-2019,Cork West Garda Division,"Fraud, deception and related offences (09)",108.0
-2019,Cork West Garda Division,Harassment and related offences (033),50.0
-2019,Cork West Garda Division,Homicide & related offences (01),1.0
-2019,Cork West Garda Division,Human trafficking offences (0513),0.0
-2019,Cork West Garda Division,Importation of drugs (1011),0.0
-2019,Cork West Garda Division,Infanticide (0113),0.0
-2019,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",229.0
-2019,Cork West Garda Division,Kidnapping and related offences (05),2.0
-2019,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2019,Cork West Garda Division,Liquor licensing offences (133),27.0
-2019,Cork West Garda Division,Litter offences (1221),10.0
-2019,Cork West Garda Division,Manslaughter (0112),0.0
-2019,Cork West Garda Division,Murder (0111),0.0
-2019,Cork West Garda Division,Murder-attempt (0311),0.0
-2019,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),2.0
-2019,Cork West Garda Division,Offences against government and its agents (151),4.0
-2019,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",80.0
-2019,Cork West Garda Division,Offences not elsewhere classified (16),57.0
-2019,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",75.0
-2019,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),15.0
-2019,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2019,Cork West Garda Division,Other assault (035),226.0
-2019,Cork West Garda Division,Other drug offences (103),6.0
-2019,Cork West Garda Division,Other road offences (1433),566.0
-2019,Cork West Garda Division,Other sexual offences (022),27.0
-2019,Cork West Garda Division,"Other thefts, handling stolen property (084)",264.0
-2019,Cork West Garda Division,Perverting the course of justice (153),1.0
-2019,Cork West Garda Division,Possession of a firearm (1122),2.0
-2019,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2019,Cork West Garda Division,Possession of drugs for personal use (1022),261.0
-2019,Cork West Garda Division,Possession of drugs for sale or supply (1021),56.0
-2019,Cork West Garda Division,Prostitution offences (134),0.0
-2019,Cork West Garda Division,Public order and other social code offences (13),583.0
-2019,Cork West Garda Division,Public service vehicle offences (1442),6.0
-2019,Cork West Garda Division,Rape and sexual assault (021),37.0
-2019,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",4.0
-2019,Cork West Garda Division,Road and traffic offences (14),1163.0
-2019,Cork West Garda Division,Road transport - carriage of goods offences (1441),15.0
-2019,Cork West Garda Division,Roadworthiness/regulatory offences (143),43.0
-2019,Cork West Garda Division,Robbery from the person (0613),4.0
-2019,Cork West Garda Division,Robbery of an establishment or institution (0611),1.0
-2019,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2019,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",6.0
-2019,Cork West Garda Division,Sexual offences (02),64.0
-2019,Cork West Garda Division,Social code offences (n.e.c.) (136),5.0
-2019,Cork West Garda Division,Speeding (0415),603.0
-2019,Cork West Garda Division,Theft and related offences (08),394.0
-2019,Cork West Garda Division,Theft from person (0821),0.0
-2019,Cork West Garda Division,Theft from shop (0822),99.0
-2019,Cork West Garda Division,Theft/taking of vehicle and related offences (081),31.0
-2019,Cork West Garda Division,Threat to kill or cause serious harm (0313),12.0
-2019,Cork West Garda Division,Trespass offences (132),27.0
-2019,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2019,Cork West Garda Division,Vehicle tax/registration offences (142),226.0
-2019,Cork West Garda Division,Weapons and explosives offences (11),18.0
-2020,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
-2020,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2020,Cork West Garda Division,Aggravated burglary (0711),1.0
-2020,Cork West Garda Division,Arson (1211),15.0
-2020,Cork West Garda Division,"Assault causing harm, poisoning (034)",58.0
-2020,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",321.0
-2020,Cork West Garda Division,Blackmail or extortion (0621),6.0
-2020,Cork West Garda Division,Burglary (not aggravated) (0712),53.0
-2020,Cork West Garda Division,Burglary and related offences (07),54.0
-2020,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2020,Cork West Garda Division,Controlled drug offences (10),346.0
-2020,Cork West Garda Division,Criminal damage (not arson) (1212),218.0
-2020,Cork West Garda Division,Cultivation or manufacture of drugs (1012),21.0
-2020,Cork West Garda Division,Damage to property and to the environment  offences (12),241.0
-2020,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
-2020,Cork West Garda Division,Dangerous driving leading to death (012),1.0
-2020,Cork West Garda Division,Dangerous or negligent acts (04),699.0
-2020,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),115.0
-2020,Cork West Garda Division,Discharging a firearm (1121),0.0
-2020,Cork West Garda Division,Disorderly conduct (131),317.0
-2020,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",75.0
-2020,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",211.0
-2020,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),90.0
-2020,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),121.0
-2020,Cork West Garda Division,Endangering traffic offences (0425),2.0
-2020,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),11.0
-2020,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2020,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2020,Cork West Garda Division,False imprisonment (0511),0.0
-2020,Cork West Garda Division,Fireworks offences (114),1.0
-2020,Cork West Garda Division,"Fraud, deception and related offences (09)",138.0
-2020,Cork West Garda Division,Harassment and related offences (033),48.0
-2020,Cork West Garda Division,Homicide & related offences (01),1.0
-2020,Cork West Garda Division,Human trafficking offences (0513),0.0
-2020,Cork West Garda Division,Importation of drugs (1011),0.0
-2020,Cork West Garda Division,Infanticide (0113),0.0
-2020,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",180.0
-2020,Cork West Garda Division,Kidnapping and related offences (05),0.0
-2020,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2020,Cork West Garda Division,Liquor licensing offences (133),8.0
-2020,Cork West Garda Division,Litter offences (1221),8.0
-2020,Cork West Garda Division,Manslaughter (0112),0.0
-2020,Cork West Garda Division,Murder (0111),0.0
-2020,Cork West Garda Division,Murder-attempt (0311),0.0
-2020,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2020,Cork West Garda Division,Offences against government and its agents (151),3.0
-2020,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",101.0
-2020,Cork West Garda Division,Offences not elsewhere classified (16),61.0
-2020,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",98.0
-2020,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),13.0
-2020,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2020,Cork West Garda Division,Other assault (035),197.0
-2020,Cork West Garda Division,Other drug offences (103),5.0
-2020,Cork West Garda Division,Other road offences (1433),452.0
-2020,Cork West Garda Division,Other sexual offences (022),8.0
-2020,Cork West Garda Division,"Other thefts, handling stolen property (084)",207.0
-2020,Cork West Garda Division,Perverting the course of justice (153),0.0
-2020,Cork West Garda Division,Possession of a firearm (1122),3.0
-2020,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2020,Cork West Garda Division,Possession of drugs for personal use (1022),227.0
-2020,Cork West Garda Division,Possession of drugs for sale or supply (1021),93.0
-2020,Cork West Garda Division,Prostitution offences (134),0.0
-2020,Cork West Garda Division,Public order and other social code offences (13),389.0
-2020,Cork West Garda Division,Public service vehicle offences (1442),4.0
-2020,Cork West Garda Division,Rape and sexual assault (021),53.0
-2020,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2020,Cork West Garda Division,Road and traffic offences (14),937.0
-2020,Cork West Garda Division,Road transport - carriage of goods offences (1441),12.0
-2020,Cork West Garda Division,Roadworthiness/regulatory offences (143),36.0
-2020,Cork West Garda Division,Robbery from the person (0613),9.0
-2020,Cork West Garda Division,Robbery of an establishment or institution (0611),1.0
-2020,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2020,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",16.0
-2020,Cork West Garda Division,Sexual offences (02),61.0
-2020,Cork West Garda Division,Social code offences (n.e.c.) (136),30.0
-2020,Cork West Garda Division,Speeding (0415),348.0
-2020,Cork West Garda Division,Theft and related offences (08),346.0
-2020,Cork West Garda Division,Theft from person (0821),2.0
-2020,Cork West Garda Division,Theft from shop (0822),104.0
-2020,Cork West Garda Division,Theft/taking of vehicle and related offences (081),33.0
-2020,Cork West Garda Division,Threat to kill or cause serious harm (0313),18.0
-2020,Cork West Garda Division,Trespass offences (132),33.0
-2020,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2020,Cork West Garda Division,Vehicle tax/registration offences (142),178.0
-2020,Cork West Garda Division,Weapons and explosives offences (11),17.0
-2021,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",2.0
-2021,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2021,Cork West Garda Division,Aggravated burglary (0711),3.0
-2021,Cork West Garda Division,Arson (1211),15.0
-2021,Cork West Garda Division,"Assault causing harm, poisoning (034)",55.0
-2021,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",343.0
-2021,Cork West Garda Division,Blackmail or extortion (0621),7.0
-2021,Cork West Garda Division,Burglary (not aggravated) (0712),61.0
-2021,Cork West Garda Division,Burglary and related offences (07),64.0
-2021,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2021,Cork West Garda Division,Controlled drug offences (10),311.0
-2021,Cork West Garda Division,Criminal damage (not arson) (1212),236.0
-2021,Cork West Garda Division,Cultivation or manufacture of drugs (1012),14.0
-2021,Cork West Garda Division,Damage to property and to the environment  offences (12),262.0
-2021,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2021,Cork West Garda Division,Dangerous driving leading to death (012),0.0
-2021,Cork West Garda Division,Dangerous or negligent acts (04),708.0
-2021,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),148.0
-2021,Cork West Garda Division,Discharging a firearm (1121),1.0
-2021,Cork West Garda Division,Disorderly conduct (131),293.0
-2021,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",56.0
-2021,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",204.0
-2021,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),101.0
-2021,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),103.0
-2021,Cork West Garda Division,Endangering traffic offences (0425),3.0
-2021,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),2.0
-2021,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2021,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2021,Cork West Garda Division,False imprisonment (0511),4.0
-2021,Cork West Garda Division,Fireworks offences (114),0.0
-2021,Cork West Garda Division,"Fraud, deception and related offences (09)",351.0
-2021,Cork West Garda Division,Harassment and related offences (033),61.0
-2021,Cork West Garda Division,Homicide & related offences (01),0.0
-2021,Cork West Garda Division,Human trafficking offences (0513),0.0
-2021,Cork West Garda Division,Importation of drugs (1011),0.0
-2021,Cork West Garda Division,Infanticide (0113),0.0
-2021,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",190.0
-2021,Cork West Garda Division,Kidnapping and related offences (05),4.0
-2021,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2021,Cork West Garda Division,Liquor licensing offences (133),15.0
-2021,Cork West Garda Division,Litter offences (1221),11.0
-2021,Cork West Garda Division,Manslaughter (0112),0.0
-2021,Cork West Garda Division,Murder (0111),0.0
-2021,Cork West Garda Division,Murder-attempt (0311),1.0
-2021,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2021,Cork West Garda Division,Offences against government and its agents (151),3.0
-2021,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",83.0
-2021,Cork West Garda Division,Offences not elsewhere classified (16),60.0
-2021,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",78.0
-2021,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),16.0
-2021,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2021,Cork West Garda Division,Other assault (035),212.0
-2021,Cork West Garda Division,Other drug offences (103),5.0
-2021,Cork West Garda Division,Other road offences (1433),295.0
-2021,Cork West Garda Division,Other sexual offences (022),12.0
-2021,Cork West Garda Division,"Other thefts, handling stolen property (084)",172.0
-2021,Cork West Garda Division,Perverting the course of justice (153),2.0
-2021,Cork West Garda Division,Possession of a firearm (1122),2.0
-2021,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2021,Cork West Garda Division,Possession of drugs for personal use (1022),223.0
-2021,Cork West Garda Division,Possession of drugs for sale or supply (1021),69.0
-2021,Cork West Garda Division,Prostitution offences (134),0.0
-2021,Cork West Garda Division,Public order and other social code offences (13),586.0
-2021,Cork West Garda Division,Public service vehicle offences (1442),5.0
-2021,Cork West Garda Division,Rape and sexual assault (021),71.0
-2021,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",3.0
-2021,Cork West Garda Division,Road and traffic offences (14),730.0
-2021,Cork West Garda Division,Road transport - carriage of goods offences (1441),5.0
-2021,Cork West Garda Division,Roadworthiness/regulatory offences (143),31.0
-2021,Cork West Garda Division,Robbery from the person (0613),0.0
-2021,Cork West Garda Division,Robbery of an establishment or institution (0611),1.0
-2021,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2021,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",8.0
-2021,Cork West Garda Division,Sexual offences (02),83.0
-2021,Cork West Garda Division,Social code offences (n.e.c.) (136),252.0
-2021,Cork West Garda Division,Speeding (0415),349.0
-2021,Cork West Garda Division,Theft and related offences (08),286.0
-2021,Cork West Garda Division,Theft from person (0821),3.0
-2021,Cork West Garda Division,Theft from shop (0822),94.0
-2021,Cork West Garda Division,Theft/taking of vehicle and related offences (081),17.0
-2021,Cork West Garda Division,Threat to kill or cause serious harm (0313),14.0
-2021,Cork West Garda Division,Trespass offences (132),23.0
-2021,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2021,Cork West Garda Division,Vehicle tax/registration offences (142),148.0
-2021,Cork West Garda Division,Weapons and explosives offences (11),19.0
-2022,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
-2022,Cork West Garda Division,Abduction of person under 16 years of age (0512),1.0
-2022,Cork West Garda Division,Aggravated burglary (0711),2.0
-2022,Cork West Garda Division,Arson (1211),14.0
-2022,Cork West Garda Division,"Assault causing harm, poisoning (034)",61.0
-2022,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",414.0
-2022,Cork West Garda Division,Blackmail or extortion (0621),12.0
-2022,Cork West Garda Division,Burglary (not aggravated) (0712),66.0
-2022,Cork West Garda Division,Burglary and related offences (07),68.0
-2022,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
-2022,Cork West Garda Division,Controlled drug offences (10),267.0
-2022,Cork West Garda Division,Criminal damage (not arson) (1212),191.0
-2022,Cork West Garda Division,Cultivation or manufacture of drugs (1012),8.0
-2022,Cork West Garda Division,Damage to property and to the environment  offences (12),210.0
-2022,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
-2022,Cork West Garda Division,Dangerous driving leading to death (012),2.0
-2022,Cork West Garda Division,Dangerous or negligent acts (04),861.0
-2022,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),146.0
-2022,Cork West Garda Division,Discharging a firearm (1121),1.0
-2022,Cork West Garda Division,Disorderly conduct (131),296.0
-2022,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",47.0
-2022,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",180.0
-2022,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),46.0
-2022,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),134.0
-2022,Cork West Garda Division,Endangering traffic offences (0425),2.0
-2022,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),1.0
-2022,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2022,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2022,Cork West Garda Division,False imprisonment (0511),3.0
-2022,Cork West Garda Division,Fireworks offences (114),1.0
-2022,Cork West Garda Division,"Fraud, deception and related offences (09)",215.0
-2022,Cork West Garda Division,Harassment and related offences (033),56.0
-2022,Cork West Garda Division,Homicide & related offences (01),2.0
-2022,Cork West Garda Division,Human trafficking offences (0513),2.0
-2022,Cork West Garda Division,Importation of drugs (1011),0.0
-2022,Cork West Garda Division,Infanticide (0113),0.0
-2022,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",140.0
-2022,Cork West Garda Division,Kidnapping and related offences (05),6.0
-2022,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2022,Cork West Garda Division,Liquor licensing offences (133),8.0
-2022,Cork West Garda Division,Litter offences (1221),5.0
-2022,Cork West Garda Division,Manslaughter (0112),0.0
-2022,Cork West Garda Division,Murder (0111),0.0
-2022,Cork West Garda Division,Murder-attempt (0311),0.0
-2022,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),1.0
-2022,Cork West Garda Division,Offences against government and its agents (151),23.0
-2022,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",119.0
-2022,Cork West Garda Division,Offences not elsewhere classified (16),38.0
-2022,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",94.0
-2022,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),21.0
-2022,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2022,Cork West Garda Division,Other assault (035),265.0
-2022,Cork West Garda Division,Other drug offences (103),5.0
-2022,Cork West Garda Division,Other road offences (1433),255.0
-2022,Cork West Garda Division,Other sexual offences (022),20.0
-2022,Cork West Garda Division,"Other thefts, handling stolen property (084)",188.0
-2022,Cork West Garda Division,Perverting the course of justice (153),2.0
-2022,Cork West Garda Division,Possession of a firearm (1122),5.0
-2022,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2022,Cork West Garda Division,Possession of drugs for personal use (1022),178.0
-2022,Cork West Garda Division,Possession of drugs for sale or supply (1021),76.0
-2022,Cork West Garda Division,Prostitution offences (134),0.0
-2022,Cork West Garda Division,Public order and other social code offences (13),336.0
-2022,Cork West Garda Division,Public service vehicle offences (1442),8.0
-2022,Cork West Garda Division,Rape and sexual assault (021),54.0
-2022,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2022,Cork West Garda Division,Road and traffic offences (14),602.0
-2022,Cork West Garda Division,Road transport - carriage of goods offences (1441),1.0
-2022,Cork West Garda Division,Roadworthiness/regulatory offences (143),13.0
-2022,Cork West Garda Division,Robbery from the person (0613),4.0
-2022,Cork West Garda Division,Robbery of an establishment or institution (0611),0.0
-2022,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2022,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",17.0
-2022,Cork West Garda Division,Sexual offences (02),74.0
-2022,Cork West Garda Division,Social code offences (n.e.c.) (136),8.0
-2022,Cork West Garda Division,Speeding (0415),523.0
-2022,Cork West Garda Division,Theft and related offences (08),360.0
-2022,Cork West Garda Division,Theft from person (0821),2.0
-2022,Cork West Garda Division,Theft from shop (0822),145.0
-2022,Cork West Garda Division,Theft/taking of vehicle and related offences (081),25.0
-2022,Cork West Garda Division,Threat to kill or cause serious harm (0313),32.0
-2022,Cork West Garda Division,Trespass offences (132),24.0
-2022,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2022,Cork West Garda Division,Vehicle tax/registration offences (142),137.0
-2022,Cork West Garda Division,Weapons and explosives offences (11),28.0
-2023,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",9.0
-2023,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2023,Cork West Garda Division,Aggravated burglary (0711),0.0
-2023,Cork West Garda Division,Arson (1211),9.0
-2023,Cork West Garda Division,"Assault causing harm, poisoning (034)",79.0
-2023,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",395.0
-2023,Cork West Garda Division,Blackmail or extortion (0621),20.0
-2023,Cork West Garda Division,Burglary (not aggravated) (0712),73.0
-2023,Cork West Garda Division,Burglary and related offences (07),74.0
-2023,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2023,Cork West Garda Division,Controlled drug offences (10),258.0
-2023,Cork West Garda Division,Criminal damage (not arson) (1212),212.0
-2023,Cork West Garda Division,Cultivation or manufacture of drugs (1012),11.0
-2023,Cork West Garda Division,Damage to property and to the environment  offences (12),224.0
-2023,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),4.0
-2023,Cork West Garda Division,Dangerous driving leading to death (012),2.0
-2023,Cork West Garda Division,Dangerous or negligent acts (04),658.0
-2023,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),138.0
-2023,Cork West Garda Division,Discharging a firearm (1121),1.0
-2023,Cork West Garda Division,Disorderly conduct (131),316.0
-2023,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",59.0
-2023,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",171.0
-2023,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),37.0
-2023,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),134.0
-2023,Cork West Garda Division,Endangering traffic offences (0425),1.0
-2023,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),3.0
-2023,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2023,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2023,Cork West Garda Division,False imprisonment (0511),0.0
-2023,Cork West Garda Division,Fireworks offences (114),3.0
-2023,Cork West Garda Division,"Fraud, deception and related offences (09)",105.0
-2023,Cork West Garda Division,Harassment and related offences (033),55.0
-2023,Cork West Garda Division,Homicide & related offences (01),2.0
-2023,Cork West Garda Division,Human trafficking offences (0513),0.0
-2023,Cork West Garda Division,Importation of drugs (1011),0.0
-2023,Cork West Garda Division,Infanticide (0113),0.0
-2023,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",116.0
-2023,Cork West Garda Division,Kidnapping and related offences (05),0.0
-2023,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2023,Cork West Garda Division,Liquor licensing offences (133),12.0
-2023,Cork West Garda Division,Litter offences (1221),3.0
-2023,Cork West Garda Division,Manslaughter (0112),0.0
-2023,Cork West Garda Division,Murder (0111),0.0
-2023,Cork West Garda Division,Murder-attempt (0311),0.0
-2023,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),10.0
-2023,Cork West Garda Division,Offences against government and its agents (151),0.0
-2023,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",92.0
-2023,Cork West Garda Division,Offences not elsewhere classified (16),49.0
-2023,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",92.0
-2023,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),14.0
-2023,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2023,Cork West Garda Division,Other assault (035),237.0
-2023,Cork West Garda Division,Other drug offences (103),2.0
-2023,Cork West Garda Division,Other road offences (1433),236.0
-2023,Cork West Garda Division,Other sexual offences (022),6.0
-2023,Cork West Garda Division,"Other thefts, handling stolen property (084)",218.0
-2023,Cork West Garda Division,Perverting the course of justice (153),0.0
-2023,Cork West Garda Division,Possession of a firearm (1122),0.0
-2023,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
-2023,Cork West Garda Division,Possession of drugs for personal use (1022),191.0
-2023,Cork West Garda Division,Possession of drugs for sale or supply (1021),54.0
-2023,Cork West Garda Division,Prostitution offences (134),0.0
-2023,Cork West Garda Division,Public order and other social code offences (13),372.0
-2023,Cork West Garda Division,Public service vehicle offences (1442),3.0
-2023,Cork West Garda Division,Rape and sexual assault (021),49.0
-2023,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
-2023,Cork West Garda Division,Road and traffic offences (14),634.0
-2023,Cork West Garda Division,Road transport - carriage of goods offences (1441),5.0
-2023,Cork West Garda Division,Roadworthiness/regulatory offences (143),20.0
-2023,Cork West Garda Division,Robbery from the person (0613),0.0
-2023,Cork West Garda Division,Robbery of an establishment or institution (0611),0.0
-2023,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2023,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",20.0
-2023,Cork West Garda Division,Sexual offences (02),55.0
-2023,Cork West Garda Division,Social code offences (n.e.c.) (136),3.0
-2023,Cork West Garda Division,Speeding (0415),332.0
-2023,Cork West Garda Division,Theft and related offences (08),420.0
-2023,Cork West Garda Division,Theft from person (0821),2.0
-2023,Cork West Garda Division,Theft from shop (0822),161.0
-2023,Cork West Garda Division,Theft/taking of vehicle and related offences (081),39.0
-2023,Cork West Garda Division,Threat to kill or cause serious harm (0313),24.0
-2023,Cork West Garda Division,Trespass offences (132),40.0
-2023,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2023,Cork West Garda Division,Vehicle tax/registration offences (142),185.0
-2023,Cork West Garda Division,Weapons and explosives offences (11),18.0
-2024,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",3.0
-2024,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2024,Cork West Garda Division,Aggravated burglary (0711),2.0
-2024,Cork West Garda Division,Arson (1211),14.0
-2024,Cork West Garda Division,"Assault causing harm, poisoning (034)",62.0
-2024,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",354.0
-2024,Cork West Garda Division,Blackmail or extortion (0621),16.0
-2024,Cork West Garda Division,Burglary (not aggravated) (0712),51.0
-2024,Cork West Garda Division,Burglary and related offences (07),53.0
-2024,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2024,Cork West Garda Division,Controlled drug offences (10),223.0
-2024,Cork West Garda Division,Criminal damage (not arson) (1212),174.0
-2024,Cork West Garda Division,Cultivation or manufacture of drugs (1012),6.0
-2024,Cork West Garda Division,Damage to property and to the environment  offences (12),190.0
-2024,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
-2024,Cork West Garda Division,Dangerous driving leading to death (012),1.0
-2024,Cork West Garda Division,Dangerous or negligent acts (04),659.0
-2024,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),133.0
-2024,Cork West Garda Division,Discharging a firearm (1121),0.0
-2024,Cork West Garda Division,Disorderly conduct (131),321.0
-2024,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",52.0
-2024,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",185.0
-2024,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),53.0
-2024,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),132.0
-2024,Cork West Garda Division,Endangering traffic offences (0425),1.0
-2024,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),4.0
-2024,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2024,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2024,Cork West Garda Division,False imprisonment (0511),0.0
-2024,Cork West Garda Division,Fireworks offences (114),1.0
-2024,Cork West Garda Division,"Fraud, deception and related offences (09)",0.0
-2024,Cork West Garda Division,Harassment and related offences (033),49.0
-2024,Cork West Garda Division,Homicide & related offences (01),2.0
-2024,Cork West Garda Division,Human trafficking offences (0513),1.0
-2024,Cork West Garda Division,Importation of drugs (1011),1.0
-2024,Cork West Garda Division,Infanticide (0113),0.0
-2024,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",120.0
-2024,Cork West Garda Division,Kidnapping and related offences (05),1.0
-2024,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2024,Cork West Garda Division,Liquor licensing offences (133),9.0
-2024,Cork West Garda Division,Litter offences (1221),2.0
-2024,Cork West Garda Division,Manslaughter (0112),0.0
-2024,Cork West Garda Division,Murder (0111),1.0
-2024,Cork West Garda Division,Murder-attempt (0311),0.0
-2024,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),3.0
-2024,Cork West Garda Division,Offences against government and its agents (151),3.0
-2024,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",104.0
-2024,Cork West Garda Division,Offences not elsewhere classified (16),48.0
-2024,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",100.0
-2024,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),14.0
-2024,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2024,Cork West Garda Division,Other assault (035),210.0
-2024,Cork West Garda Division,Other drug offences (103),5.0
-2024,Cork West Garda Division,Other road offences (1433),322.0
-2024,Cork West Garda Division,Other sexual offences (022),12.0
-2024,Cork West Garda Division,"Other thefts, handling stolen property (084)",206.0
-2024,Cork West Garda Division,Perverting the course of justice (153),1.0
-2024,Cork West Garda Division,Possession of a firearm (1122),0.0
-2024,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2024,Cork West Garda Division,Possession of drugs for personal use (1022),162.0
-2024,Cork West Garda Division,Possession of drugs for sale or supply (1021),49.0
-2024,Cork West Garda Division,Prostitution offences (134),0.0
-2024,Cork West Garda Division,Public order and other social code offences (13),354.0
-2024,Cork West Garda Division,Public service vehicle offences (1442),7.0
-2024,Cork West Garda Division,Rape and sexual assault (021),60.0
-2024,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2024,Cork West Garda Division,Road and traffic offences (14),657.0
-2024,Cork West Garda Division,Road transport - carriage of goods offences (1441),1.0
-2024,Cork West Garda Division,Roadworthiness/regulatory offences (143),13.0
-2024,Cork West Garda Division,Robbery from the person (0613),2.0
-2024,Cork West Garda Division,Robbery of an establishment or institution (0611),2.0
-2024,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2024,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",20.0
-2024,Cork West Garda Division,Sexual offences (02),72.0
-2024,Cork West Garda Division,Social code offences (n.e.c.) (136),5.0
-2024,Cork West Garda Division,Speeding (0415),332.0
-2024,Cork West Garda Division,Theft and related offences (08),411.0
-2024,Cork West Garda Division,Theft from person (0821),2.0
-2024,Cork West Garda Division,Theft from shop (0822),144.0
-2024,Cork West Garda Division,Theft/taking of vehicle and related offences (081),59.0
-2024,Cork West Garda Division,Threat to kill or cause serious harm (0313),33.0
-2024,Cork West Garda Division,Trespass offences (132),19.0
-2024,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2024,Cork West Garda Division,Vehicle tax/registration offences (142),139.0
-2024,Cork West Garda Division,Weapons and explosives offences (11),15.0
-2025,Cork West Garda Division,"Abandoning a child, child neglect and cruelty (0422)",2.0
-2025,Cork West Garda Division,Abduction of person under 16 years of age (0512),0.0
-2025,Cork West Garda Division,Aggravated burglary (0711),0.0
-2025,Cork West Garda Division,Arson (1211),15.0
-2025,Cork West Garda Division,"Assault causing harm, poisoning (034)",37.0
-2025,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",223.0
-2025,Cork West Garda Division,Blackmail or extortion (0621),17.0
-2025,Cork West Garda Division,Burglary (not aggravated) (0712),33.0
-2025,Cork West Garda Division,Burglary and related offences (07),33.0
-2025,Cork West Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
-2025,Cork West Garda Division,Controlled drug offences (10),162.0
-2025,Cork West Garda Division,Criminal damage (not arson) (1212),147.0
-2025,Cork West Garda Division,Cultivation or manufacture of drugs (1012),1.0
-2025,Cork West Garda Division,Damage to property and to the environment  offences (12),165.0
-2025,Cork West Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
-2025,Cork West Garda Division,Dangerous driving leading to death (012),0.0
-2025,Cork West Garda Division,Dangerous or negligent acts (04),700.0
-2025,Cork West Garda Division,Dangerous/careless driving and motorway offences (0414),119.0
-2025,Cork West Garda Division,Discharging a firearm (1121),1.0
-2025,Cork West Garda Division,Disorderly conduct (131),188.0
-2025,Cork West Garda Division,"Driving licence-failure to have, produce, etc. (1411)",30.0
-2025,Cork West Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",124.0
-2025,Cork West Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
-2025,Cork West Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),124.0
-2025,Cork West Garda Division,Endangering traffic offences (0425),0.0
-2025,Cork West Garda Division,Endangerment with potential for serious harm/death (0421),8.0
-2025,Cork West Garda Division,"Explosives, chemical weapons offences (111)",0.0
-2025,Cork West Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
-2025,Cork West Garda Division,False imprisonment (0511),3.0
-2025,Cork West Garda Division,Fireworks offences (114),3.0
-2025,Cork West Garda Division,"Fraud, deception and related offences (09)",0.0
-2025,Cork West Garda Division,Harassment and related offences (033),29.0
-2025,Cork West Garda Division,Homicide & related offences (01),0.0
-2025,Cork West Garda Division,Human trafficking offences (0513),0.0
-2025,Cork West Garda Division,Importation of drugs (1011),0.0
-2025,Cork West Garda Division,Infanticide (0113),0.0
-2025,Cork West Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",125.0
-2025,Cork West Garda Division,Kidnapping and related offences (05),3.0
-2025,Cork West Garda Division,Light rail offences (Luas) (1443),0.0
-2025,Cork West Garda Division,Liquor licensing offences (133),4.0
-2025,Cork West Garda Division,Litter offences (1221),3.0
-2025,Cork West Garda Division,Manslaughter (0112),0.0
-2025,Cork West Garda Division,Murder (0111),0.0
-2025,Cork West Garda Division,Murder-attempt (0311),0.0
-2025,Cork West Garda Division,Obstruction under Road Traffic Acts (1432),0.0
-2025,Cork West Garda Division,Offences against government and its agents (151),3.0
-2025,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime (15)",48.0
-2025,Cork West Garda Division,Offences not elsewhere classified (16),42.0
-2025,Cork West Garda Division,"Offences while in custody, breach of court orders (157)",45.0
-2025,Cork West Garda Division,Offensive weapons offences (n.e.c.) (113),6.0
-2025,Cork West Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
-2025,Cork West Garda Division,Other assault (035),135.0
-2025,Cork West Garda Division,Other drug offences (103),6.0
-2025,Cork West Garda Division,Other road offences (1433),182.0
-2025,Cork West Garda Division,Other sexual offences (022),4.0
-2025,Cork West Garda Division,"Other thefts, handling stolen property (084)",118.0
-2025,Cork West Garda Division,Perverting the course of justice (153),0.0
-2025,Cork West Garda Division,Possession of a firearm (1122),1.0
-2025,Cork West Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",0.0
-2025,Cork West Garda Division,Possession of drugs for personal use (1022),112.0
-2025,Cork West Garda Division,Possession of drugs for sale or supply (1021),43.0
-2025,Cork West Garda Division,Prostitution offences (134),1.0
-2025,Cork West Garda Division,Public order and other social code offences (13),213.0
-2025,Cork West Garda Division,Public service vehicle offences (1442),3.0
-2025,Cork West Garda Division,Rape and sexual assault (021),50.0
-2025,Cork West Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
-2025,Cork West Garda Division,Road and traffic offences (14),456.0
-2025,Cork West Garda Division,Road transport - carriage of goods offences (1441),4.0
-2025,Cork West Garda Division,Roadworthiness/regulatory offences (143),17.0
-2025,Cork West Garda Division,Robbery from the person (0613),2.0
-2025,Cork West Garda Division,Robbery of an establishment or institution (0611),0.0
-2025,Cork West Garda Division,Robbery of cash or goods in transit (0612),0.0
-2025,Cork West Garda Division,"Robbery, extortion and hijacking offences (06)",19.0
-2025,Cork West Garda Division,Sexual offences (02),54.0
-2025,Cork West Garda Division,Social code offences (n.e.c.) (136),5.0
-2025,Cork West Garda Division,Speeding (0415),447.0
-2025,Cork West Garda Division,Theft and related offences (08),242.0
-2025,Cork West Garda Division,Theft from person (0821),2.0
-2025,Cork West Garda Division,Theft from shop (0822),78.0
-2025,Cork West Garda Division,Theft/taking of vehicle and related offences (081),44.0
-2025,Cork West Garda Division,Threat to kill or cause serious harm (0313),22.0
-2025,Cork West Garda Division,Trespass offences (132),15.0
-2025,Cork West Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
-2025,Cork West Garda Division,Vehicle tax/registration offences (142),95.0
-2025,Cork West Garda Division,Weapons and explosives offences (11),11.0
+2003,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",337.0
+2003,Cork West Garda Division,Burglary and related offences,261.0
+2003,Cork West Garda Division,Controlled drug offences,306.0
+2003,Cork West Garda Division,Damage to property and to the environment  offences,434.0
+2003,Cork West Garda Division,Dangerous or negligent acts,433.0
+2003,Cork West Garda Division,"Fraud, deception and related offences",50.0
+2003,Cork West Garda Division,Homicide & related offences,1.0
+2003,Cork West Garda Division,Kidnapping and related offences,0.0
+2003,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",57.0
+2003,Cork West Garda Division,Offences not elsewhere classified,33.0
+2003,Cork West Garda Division,Public order and other social code offences,785.0
+2003,Cork West Garda Division,Road and traffic offences,602.0
+2003,Cork West Garda Division,"Robbery, extortion and hijacking offences",2.0
+2003,Cork West Garda Division,Sexual offences,25.0
+2003,Cork West Garda Division,Theft and related offences,713.0
+2003,Cork West Garda Division,Weapons and explosives offences,31.0
+2004,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",310.0
+2004,Cork West Garda Division,Burglary and related offences,275.0
+2004,Cork West Garda Division,Controlled drug offences,194.0
+2004,Cork West Garda Division,Damage to property and to the environment  offences,515.0
+2004,Cork West Garda Division,Dangerous or negligent acts,421.0
+2004,Cork West Garda Division,"Fraud, deception and related offences",33.0
+2004,Cork West Garda Division,Homicide & related offences,5.0
+2004,Cork West Garda Division,Kidnapping and related offences,0.0
+2004,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",47.0
+2004,Cork West Garda Division,Offences not elsewhere classified,42.0
+2004,Cork West Garda Division,Public order and other social code offences,863.0
+2004,Cork West Garda Division,Road and traffic offences,728.0
+2004,Cork West Garda Division,"Robbery, extortion and hijacking offences",5.0
+2004,Cork West Garda Division,Sexual offences,34.0
+2004,Cork West Garda Division,Theft and related offences,765.0
+2004,Cork West Garda Division,Weapons and explosives offences,27.0
+2005,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",289.0
+2005,Cork West Garda Division,Burglary and related offences,286.0
+2005,Cork West Garda Division,Controlled drug offences,435.0
+2005,Cork West Garda Division,Damage to property and to the environment  offences,449.0
+2005,Cork West Garda Division,Dangerous or negligent acts,438.0
+2005,Cork West Garda Division,"Fraud, deception and related offences",60.0
+2005,Cork West Garda Division,Homicide & related offences,3.0
+2005,Cork West Garda Division,Kidnapping and related offences,0.0
+2005,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",57.0
+2005,Cork West Garda Division,Offences not elsewhere classified,51.0
+2005,Cork West Garda Division,Public order and other social code offences,1077.0
+2005,Cork West Garda Division,Road and traffic offences,1035.0
+2005,Cork West Garda Division,"Robbery, extortion and hijacking offences",8.0
+2005,Cork West Garda Division,Sexual offences,30.0
+2005,Cork West Garda Division,Theft and related offences,746.0
+2005,Cork West Garda Division,Weapons and explosives offences,37.0
+2006,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",318.0
+2006,Cork West Garda Division,Burglary and related offences,308.0
+2006,Cork West Garda Division,Controlled drug offences,240.0
+2006,Cork West Garda Division,Damage to property and to the environment  offences,693.0
+2006,Cork West Garda Division,Dangerous or negligent acts,1273.0
+2006,Cork West Garda Division,"Fraud, deception and related offences",88.0
+2006,Cork West Garda Division,Homicide & related offences,2.0
+2006,Cork West Garda Division,Kidnapping and related offences,2.0
+2006,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",75.0
+2006,Cork West Garda Division,Offences not elsewhere classified,44.0
+2006,Cork West Garda Division,Public order and other social code offences,1268.0
+2006,Cork West Garda Division,Road and traffic offences,2403.0
+2006,Cork West Garda Division,"Robbery, extortion and hijacking offences",5.0
+2006,Cork West Garda Division,Sexual offences,26.0
+2006,Cork West Garda Division,Theft and related offences,908.0
+2006,Cork West Garda Division,Weapons and explosives offences,30.0
+2007,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",425.0
+2007,Cork West Garda Division,Burglary and related offences,287.0
+2007,Cork West Garda Division,Controlled drug offences,278.0
+2007,Cork West Garda Division,Damage to property and to the environment  offences,600.0
+2007,Cork West Garda Division,Dangerous or negligent acts,1262.0
+2007,Cork West Garda Division,"Fraud, deception and related offences",93.0
+2007,Cork West Garda Division,Homicide & related offences,3.0
+2007,Cork West Garda Division,Kidnapping and related offences,1.0
+2007,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",70.0
+2007,Cork West Garda Division,Offences not elsewhere classified,68.0
+2007,Cork West Garda Division,Public order and other social code offences,1260.0
+2007,Cork West Garda Division,Road and traffic offences,2593.0
+2007,Cork West Garda Division,"Robbery, extortion and hijacking offences",5.0
+2007,Cork West Garda Division,Sexual offences,15.0
+2007,Cork West Garda Division,Theft and related offences,798.0
+2007,Cork West Garda Division,Weapons and explosives offences,36.0
+2008,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",441.0
+2008,Cork West Garda Division,Burglary and related offences,288.0
+2008,Cork West Garda Division,Controlled drug offences,535.0
+2008,Cork West Garda Division,Damage to property and to the environment  offences,647.0
+2008,Cork West Garda Division,Dangerous or negligent acts,1129.0
+2008,Cork West Garda Division,"Fraud, deception and related offences",86.0
+2008,Cork West Garda Division,Homicide & related offences,3.0
+2008,Cork West Garda Division,Kidnapping and related offences,1.0
+2008,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",90.0
+2008,Cork West Garda Division,Offences not elsewhere classified,86.0
+2008,Cork West Garda Division,Public order and other social code offences,1351.0
+2008,Cork West Garda Division,Road and traffic offences,3075.0
+2008,Cork West Garda Division,"Robbery, extortion and hijacking offences",12.0
+2008,Cork West Garda Division,Sexual offences,25.0
+2008,Cork West Garda Division,Theft and related offences,821.0
+2008,Cork West Garda Division,Weapons and explosives offences,52.0
+2009,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",411.0
+2009,Cork West Garda Division,Burglary and related offences,256.0
+2009,Cork West Garda Division,Controlled drug offences,471.0
+2009,Cork West Garda Division,Damage to property and to the environment  offences,563.0
+2009,Cork West Garda Division,Dangerous or negligent acts,823.0
+2009,Cork West Garda Division,"Fraud, deception and related offences",73.0
+2009,Cork West Garda Division,Homicide & related offences,2.0
+2009,Cork West Garda Division,Kidnapping and related offences,1.0
+2009,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",91.0
+2009,Cork West Garda Division,Offences not elsewhere classified,77.0
+2009,Cork West Garda Division,Public order and other social code offences,1132.0
+2009,Cork West Garda Division,Road and traffic offences,2228.0
+2009,Cork West Garda Division,"Robbery, extortion and hijacking offences",10.0
+2009,Cork West Garda Division,Sexual offences,33.0
+2009,Cork West Garda Division,Theft and related offences,880.0
+2009,Cork West Garda Division,Weapons and explosives offences,42.0
+2010,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",335.0
+2010,Cork West Garda Division,Burglary and related offences,230.0
+2010,Cork West Garda Division,Controlled drug offences,450.0
+2010,Cork West Garda Division,Damage to property and to the environment  offences,465.0
+2010,Cork West Garda Division,Dangerous or negligent acts,673.0
+2010,Cork West Garda Division,"Fraud, deception and related offences",51.0
+2010,Cork West Garda Division,Homicide & related offences,1.0
+2010,Cork West Garda Division,Kidnapping and related offences,3.0
+2010,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",82.0
+2010,Cork West Garda Division,Offences not elsewhere classified,72.0
+2010,Cork West Garda Division,Public order and other social code offences,1010.0
+2010,Cork West Garda Division,Road and traffic offences,2456.0
+2010,Cork West Garda Division,"Robbery, extortion and hijacking offences",19.0
+2010,Cork West Garda Division,Sexual offences,40.0
+2010,Cork West Garda Division,Theft and related offences,675.0
+2010,Cork West Garda Division,Weapons and explosives offences,38.0
+2011,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",313.0
+2011,Cork West Garda Division,Burglary and related offences,290.0
+2011,Cork West Garda Division,Controlled drug offences,356.0
+2011,Cork West Garda Division,Damage to property and to the environment  offences,509.0
+2011,Cork West Garda Division,Dangerous or negligent acts,1037.0
+2011,Cork West Garda Division,"Fraud, deception and related offences",74.0
+2011,Cork West Garda Division,Homicide & related offences,6.0
+2011,Cork West Garda Division,Kidnapping and related offences,0.0
+2011,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",95.0
+2011,Cork West Garda Division,Offences not elsewhere classified,115.0
+2011,Cork West Garda Division,Public order and other social code offences,935.0
+2011,Cork West Garda Division,Road and traffic offences,2598.0
+2011,Cork West Garda Division,"Robbery, extortion and hijacking offences",7.0
+2011,Cork West Garda Division,Sexual offences,45.0
+2011,Cork West Garda Division,Theft and related offences,848.0
+2011,Cork West Garda Division,Weapons and explosives offences,40.0
+2012,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",308.0
+2012,Cork West Garda Division,Burglary and related offences,256.0
+2012,Cork West Garda Division,Controlled drug offences,293.0
+2012,Cork West Garda Division,Damage to property and to the environment  offences,390.0
+2012,Cork West Garda Division,Dangerous or negligent acts,942.0
+2012,Cork West Garda Division,"Fraud, deception and related offences",72.0
+2012,Cork West Garda Division,Homicide & related offences,3.0
+2012,Cork West Garda Division,Kidnapping and related offences,0.0
+2012,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",101.0
+2012,Cork West Garda Division,Offences not elsewhere classified,145.0
+2012,Cork West Garda Division,Public order and other social code offences,837.0
+2012,Cork West Garda Division,Road and traffic offences,2561.0
+2012,Cork West Garda Division,"Robbery, extortion and hijacking offences",3.0
+2012,Cork West Garda Division,Sexual offences,41.0
+2012,Cork West Garda Division,Theft and related offences,723.0
+2012,Cork West Garda Division,Weapons and explosives offences,32.0
+2013,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",289.0
+2013,Cork West Garda Division,Burglary and related offences,232.0
+2013,Cork West Garda Division,Controlled drug offences,253.0
+2013,Cork West Garda Division,Damage to property and to the environment  offences,380.0
+2013,Cork West Garda Division,Dangerous or negligent acts,934.0
+2013,Cork West Garda Division,"Fraud, deception and related offences",77.0
+2013,Cork West Garda Division,Homicide & related offences,3.0
+2013,Cork West Garda Division,Kidnapping and related offences,4.0
+2013,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",101.0
+2013,Cork West Garda Division,Offences not elsewhere classified,82.0
+2013,Cork West Garda Division,Public order and other social code offences,696.0
+2013,Cork West Garda Division,Road and traffic offences,2187.0
+2013,Cork West Garda Division,"Robbery, extortion and hijacking offences",3.0
+2013,Cork West Garda Division,Sexual offences,26.0
+2013,Cork West Garda Division,Theft and related offences,761.0
+2013,Cork West Garda Division,Weapons and explosives offences,32.0
+2014,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",297.0
+2014,Cork West Garda Division,Burglary and related offences,239.0
+2014,Cork West Garda Division,Controlled drug offences,247.0
+2014,Cork West Garda Division,Damage to property and to the environment  offences,366.0
+2014,Cork West Garda Division,Dangerous or negligent acts,931.0
+2014,Cork West Garda Division,"Fraud, deception and related offences",82.0
+2014,Cork West Garda Division,Homicide & related offences,1.0
+2014,Cork West Garda Division,Kidnapping and related offences,1.0
+2014,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",109.0
+2014,Cork West Garda Division,Offences not elsewhere classified,85.0
+2014,Cork West Garda Division,Public order and other social code offences,637.0
+2014,Cork West Garda Division,Road and traffic offences,2474.0
+2014,Cork West Garda Division,"Robbery, extortion and hijacking offences",1.0
+2014,Cork West Garda Division,Sexual offences,32.0
+2014,Cork West Garda Division,Theft and related offences,720.0
+2014,Cork West Garda Division,Weapons and explosives offences,17.0
+2015,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",386.0
+2015,Cork West Garda Division,Burglary and related offences,186.0
+2015,Cork West Garda Division,Controlled drug offences,294.0
+2015,Cork West Garda Division,Damage to property and to the environment  offences,302.0
+2015,Cork West Garda Division,Dangerous or negligent acts,1096.0
+2015,Cork West Garda Division,"Fraud, deception and related offences",135.0
+2015,Cork West Garda Division,Homicide & related offences,0.0
+2015,Cork West Garda Division,Kidnapping and related offences,1.0
+2015,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",84.0
+2015,Cork West Garda Division,Offences not elsewhere classified,79.0
+2015,Cork West Garda Division,Public order and other social code offences,571.0
+2015,Cork West Garda Division,Road and traffic offences,1888.0
+2015,Cork West Garda Division,"Robbery, extortion and hijacking offences",5.0
+2015,Cork West Garda Division,Sexual offences,45.0
+2015,Cork West Garda Division,Theft and related offences,572.0
+2015,Cork West Garda Division,Weapons and explosives offences,14.0
+2016,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",344.0
+2016,Cork West Garda Division,Burglary and related offences,137.0
+2016,Cork West Garda Division,Controlled drug offences,265.0
+2016,Cork West Garda Division,Damage to property and to the environment  offences,269.0
+2016,Cork West Garda Division,Dangerous or negligent acts,888.0
+2016,Cork West Garda Division,"Fraud, deception and related offences",77.0
+2016,Cork West Garda Division,Homicide & related offences,3.0
+2016,Cork West Garda Division,Kidnapping and related offences,3.0
+2016,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",84.0
+2016,Cork West Garda Division,Offences not elsewhere classified,91.0
+2016,Cork West Garda Division,Public order and other social code offences,467.0
+2016,Cork West Garda Division,Road and traffic offences,2018.0
+2016,Cork West Garda Division,"Robbery, extortion and hijacking offences",6.0
+2016,Cork West Garda Division,Sexual offences,55.0
+2016,Cork West Garda Division,Theft and related offences,410.0
+2016,Cork West Garda Division,Weapons and explosives offences,15.0
+2017,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",405.0
+2017,Cork West Garda Division,Burglary and related offences,114.0
+2017,Cork West Garda Division,Controlled drug offences,339.0
+2017,Cork West Garda Division,Damage to property and to the environment  offences,273.0
+2017,Cork West Garda Division,Dangerous or negligent acts,816.0
+2017,Cork West Garda Division,"Fraud, deception and related offences",61.0
+2017,Cork West Garda Division,Homicide & related offences,2.0
+2017,Cork West Garda Division,Kidnapping and related offences,5.0
+2017,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",112.0
+2017,Cork West Garda Division,Offences not elsewhere classified,65.0
+2017,Cork West Garda Division,Public order and other social code offences,545.0
+2017,Cork West Garda Division,Road and traffic offences,1732.0
+2017,Cork West Garda Division,"Robbery, extortion and hijacking offences",6.0
+2017,Cork West Garda Division,Sexual offences,73.0
+2017,Cork West Garda Division,Theft and related offences,419.0
+2017,Cork West Garda Division,Weapons and explosives offences,21.0
+2018,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",368.0
+2018,Cork West Garda Division,Burglary and related offences,117.0
+2018,Cork West Garda Division,Controlled drug offences,341.0
+2018,Cork West Garda Division,Damage to property and to the environment  offences,278.0
+2018,Cork West Garda Division,Dangerous or negligent acts,1069.0
+2018,Cork West Garda Division,"Fraud, deception and related offences",76.0
+2018,Cork West Garda Division,Homicide & related offences,3.0
+2018,Cork West Garda Division,Kidnapping and related offences,4.0
+2018,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",134.0
+2018,Cork West Garda Division,Offences not elsewhere classified,62.0
+2018,Cork West Garda Division,Public order and other social code offences,580.0
+2018,Cork West Garda Division,Road and traffic offences,1486.0
+2018,Cork West Garda Division,"Robbery, extortion and hijacking offences",5.0
+2018,Cork West Garda Division,Sexual offences,60.0
+2018,Cork West Garda Division,Theft and related offences,478.0
+2018,Cork West Garda Division,Weapons and explosives offences,29.0
+2019,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",358.0
+2019,Cork West Garda Division,Burglary and related offences,99.0
+2019,Cork West Garda Division,Controlled drug offences,341.0
+2019,Cork West Garda Division,Damage to property and to the environment  offences,302.0
+2019,Cork West Garda Division,Dangerous or negligent acts,1027.0
+2019,Cork West Garda Division,"Fraud, deception and related offences",108.0
+2019,Cork West Garda Division,Homicide & related offences,1.0
+2019,Cork West Garda Division,Kidnapping and related offences,2.0
+2019,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",80.0
+2019,Cork West Garda Division,Offences not elsewhere classified,57.0
+2019,Cork West Garda Division,Public order and other social code offences,583.0
+2019,Cork West Garda Division,Road and traffic offences,1163.0
+2019,Cork West Garda Division,"Robbery, extortion and hijacking offences",6.0
+2019,Cork West Garda Division,Sexual offences,64.0
+2019,Cork West Garda Division,Theft and related offences,394.0
+2019,Cork West Garda Division,Weapons and explosives offences,18.0
+2020,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",321.0
+2020,Cork West Garda Division,Burglary and related offences,54.0
+2020,Cork West Garda Division,Controlled drug offences,346.0
+2020,Cork West Garda Division,Damage to property and to the environment  offences,241.0
+2020,Cork West Garda Division,Dangerous or negligent acts,699.0
+2020,Cork West Garda Division,"Fraud, deception and related offences",138.0
+2020,Cork West Garda Division,Homicide & related offences,1.0
+2020,Cork West Garda Division,Kidnapping and related offences,0.0
+2020,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",101.0
+2020,Cork West Garda Division,Offences not elsewhere classified,61.0
+2020,Cork West Garda Division,Public order and other social code offences,389.0
+2020,Cork West Garda Division,Road and traffic offences,937.0
+2020,Cork West Garda Division,"Robbery, extortion and hijacking offences",16.0
+2020,Cork West Garda Division,Sexual offences,61.0
+2020,Cork West Garda Division,Theft and related offences,346.0
+2020,Cork West Garda Division,Weapons and explosives offences,17.0
+2021,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",343.0
+2021,Cork West Garda Division,Burglary and related offences,64.0
+2021,Cork West Garda Division,Controlled drug offences,311.0
+2021,Cork West Garda Division,Damage to property and to the environment  offences,262.0
+2021,Cork West Garda Division,Dangerous or negligent acts,708.0
+2021,Cork West Garda Division,"Fraud, deception and related offences",351.0
+2021,Cork West Garda Division,Homicide & related offences,0.0
+2021,Cork West Garda Division,Kidnapping and related offences,4.0
+2021,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",83.0
+2021,Cork West Garda Division,Offences not elsewhere classified,60.0
+2021,Cork West Garda Division,Public order and other social code offences,586.0
+2021,Cork West Garda Division,Road and traffic offences,730.0
+2021,Cork West Garda Division,"Robbery, extortion and hijacking offences",8.0
+2021,Cork West Garda Division,Sexual offences,83.0
+2021,Cork West Garda Division,Theft and related offences,286.0
+2021,Cork West Garda Division,Weapons and explosives offences,19.0
+2022,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",414.0
+2022,Cork West Garda Division,Burglary and related offences,68.0
+2022,Cork West Garda Division,Controlled drug offences,267.0
+2022,Cork West Garda Division,Damage to property and to the environment  offences,210.0
+2022,Cork West Garda Division,Dangerous or negligent acts,861.0
+2022,Cork West Garda Division,"Fraud, deception and related offences",215.0
+2022,Cork West Garda Division,Homicide & related offences,2.0
+2022,Cork West Garda Division,Kidnapping and related offences,6.0
+2022,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",119.0
+2022,Cork West Garda Division,Offences not elsewhere classified,38.0
+2022,Cork West Garda Division,Public order and other social code offences,336.0
+2022,Cork West Garda Division,Road and traffic offences,602.0
+2022,Cork West Garda Division,"Robbery, extortion and hijacking offences",17.0
+2022,Cork West Garda Division,Sexual offences,74.0
+2022,Cork West Garda Division,Theft and related offences,360.0
+2022,Cork West Garda Division,Weapons and explosives offences,28.0
+2023,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",395.0
+2023,Cork West Garda Division,Burglary and related offences,74.0
+2023,Cork West Garda Division,Controlled drug offences,258.0
+2023,Cork West Garda Division,Damage to property and to the environment  offences,224.0
+2023,Cork West Garda Division,Dangerous or negligent acts,658.0
+2023,Cork West Garda Division,"Fraud, deception and related offences",105.0
+2023,Cork West Garda Division,Homicide & related offences,2.0
+2023,Cork West Garda Division,Kidnapping and related offences,0.0
+2023,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",92.0
+2023,Cork West Garda Division,Offences not elsewhere classified,49.0
+2023,Cork West Garda Division,Public order and other social code offences,372.0
+2023,Cork West Garda Division,Road and traffic offences,634.0
+2023,Cork West Garda Division,"Robbery, extortion and hijacking offences",20.0
+2023,Cork West Garda Division,Sexual offences,55.0
+2023,Cork West Garda Division,Theft and related offences,420.0
+2023,Cork West Garda Division,Weapons and explosives offences,18.0
+2024,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",354.0
+2024,Cork West Garda Division,Burglary and related offences,53.0
+2024,Cork West Garda Division,Controlled drug offences,223.0
+2024,Cork West Garda Division,Damage to property and to the environment  offences,190.0
+2024,Cork West Garda Division,Dangerous or negligent acts,659.0
+2024,Cork West Garda Division,"Fraud, deception and related offences",0.0
+2024,Cork West Garda Division,Homicide & related offences,2.0
+2024,Cork West Garda Division,Kidnapping and related offences,1.0
+2024,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",104.0
+2024,Cork West Garda Division,Offences not elsewhere classified,48.0
+2024,Cork West Garda Division,Public order and other social code offences,354.0
+2024,Cork West Garda Division,Road and traffic offences,657.0
+2024,Cork West Garda Division,"Robbery, extortion and hijacking offences",20.0
+2024,Cork West Garda Division,Sexual offences,72.0
+2024,Cork West Garda Division,Theft and related offences,411.0
+2024,Cork West Garda Division,Weapons and explosives offences,15.0
+2025,Cork West Garda Division,"Attempts/threats to murder, assaults, harassments and related offences",223.0
+2025,Cork West Garda Division,Burglary and related offences,33.0
+2025,Cork West Garda Division,Controlled drug offences,162.0
+2025,Cork West Garda Division,Damage to property and to the environment  offences,165.0
+2025,Cork West Garda Division,Dangerous or negligent acts,700.0
+2025,Cork West Garda Division,"Fraud, deception and related offences",0.0
+2025,Cork West Garda Division,Homicide & related offences,0.0
+2025,Cork West Garda Division,Kidnapping and related offences,3.0
+2025,Cork West Garda Division,"Offences against government, justice procedures and organisation of crime",48.0
+2025,Cork West Garda Division,Offences not elsewhere classified,42.0
+2025,Cork West Garda Division,Public order and other social code offences,213.0
+2025,Cork West Garda Division,Road and traffic offences,456.0
+2025,Cork West Garda Division,"Robbery, extortion and hijacking offences",19.0
+2025,Cork West Garda Division,Sexual offences,54.0
+2025,Cork West Garda Division,Theft and related offences,242.0
+2025,Cork West Garda Division,Weapons and explosives offences,11.0
