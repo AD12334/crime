@@ -1,0 +1,1956 @@
+Year,Garda Division,Type of Offence,VALUE
+2003,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
+2003,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2003,Limerick Garda Division,Aggravated burglary (0711),10.0
+2003,Limerick Garda Division,Arson (1211),130.0
+2003,Limerick Garda Division,"Assault causing harm, poisoning (034)",177.0
+2003,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",709.0
+2003,Limerick Garda Division,Blackmail or extortion (0621),0.0
+2003,Limerick Garda Division,Burglary (not aggravated) (0712),1060.0
+2003,Limerick Garda Division,Burglary and related offences (07),1076.0
+2003,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",6.0
+2003,Limerick Garda Division,Controlled drug offences (10),408.0
+2003,Limerick Garda Division,Criminal damage (not arson) (1212),2058.0
+2003,Limerick Garda Division,Cultivation or manufacture of drugs (1012),4.0
+2003,Limerick Garda Division,Damage to property and to the environment  offences (12),2192.0
+2003,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2003,Limerick Garda Division,Dangerous driving leading to death (012),2.0
+2003,Limerick Garda Division,Dangerous or negligent acts (04),1224.0
+2003,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),195.0
+2003,Limerick Garda Division,Discharging a firearm (1121),37.0
+2003,Limerick Garda Division,Disorderly conduct (131),1406.0
+2003,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",47.0
+2003,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",479.0
+2003,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),1.0
+2003,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),478.0
+2003,Limerick Garda Division,Endangering traffic offences (0425),3.0
+2003,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),2.0
+2003,Limerick Garda Division,"Explosives, chemical weapons offences (111)",3.0
+2003,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2003,Limerick Garda Division,False imprisonment (0511),6.0
+2003,Limerick Garda Division,Fireworks offences (114),0.0
+2003,Limerick Garda Division,"Fraud, deception and related offences (09)",208.0
+2003,Limerick Garda Division,Harassment and related offences (033),65.0
+2003,Limerick Garda Division,Homicide & related offences (01),10.0
+2003,Limerick Garda Division,Human trafficking offences (0513),0.0
+2003,Limerick Garda Division,Importation of drugs (1011),0.0
+2003,Limerick Garda Division,Infanticide (0113),0.0
+2003,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",716.0
+2003,Limerick Garda Division,Kidnapping and related offences (05),7.0
+2003,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2003,Limerick Garda Division,Liquor licensing offences (133),164.0
+2003,Limerick Garda Division,Litter offences (1221),4.0
+2003,Limerick Garda Division,Manslaughter (0112),1.0
+2003,Limerick Garda Division,Murder (0111),7.0
+2003,Limerick Garda Division,Murder-attempt (0311),0.0
+2003,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),4.0
+2003,Limerick Garda Division,Offences against government and its agents (151),22.0
+2003,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",278.0
+2003,Limerick Garda Division,Offences not elsewhere classified (16),32.0
+2003,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",247.0
+2003,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),94.0
+2003,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2003,Limerick Garda Division,Other assault (035),439.0
+2003,Limerick Garda Division,Other drug offences (103),8.0
+2003,Limerick Garda Division,Other road offences (1433),714.0
+2003,Limerick Garda Division,Other sexual offences (022),8.0
+2003,Limerick Garda Division,"Other thefts, handling stolen property (084)",1985.0
+2003,Limerick Garda Division,Perverting the course of justice (153),9.0
+2003,Limerick Garda Division,Possession of a firearm (1122),16.0
+2003,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",6.0
+2003,Limerick Garda Division,Possession of drugs for personal use (1022),328.0
+2003,Limerick Garda Division,Possession of drugs for sale or supply (1021),68.0
+2003,Limerick Garda Division,Prostitution offences (134),1.0
+2003,Limerick Garda Division,Public order and other social code offences (13),1632.0
+2003,Limerick Garda Division,Public service vehicle offences (1442),4.0
+2003,Limerick Garda Division,Rape and sexual assault (021),54.0
+2003,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",9.0
+2003,Limerick Garda Division,Road and traffic offences (14),1818.0
+2003,Limerick Garda Division,Road transport - carriage of goods offences (1441),70.0
+2003,Limerick Garda Division,Roadworthiness/regulatory offences (143),89.0
+2003,Limerick Garda Division,Robbery from the person (0613),49.0
+2003,Limerick Garda Division,Robbery of an establishment or institution (0611),49.0
+2003,Limerick Garda Division,Robbery of cash or goods in transit (0612),2.0
+2003,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",106.0
+2003,Limerick Garda Division,Sexual offences (02),62.0
+2003,Limerick Garda Division,Social code offences (n.e.c.) (136),15.0
+2003,Limerick Garda Division,Speeding (0415),537.0
+2003,Limerick Garda Division,Theft and related offences (08),3870.0
+2003,Limerick Garda Division,Theft from person (0821),403.0
+2003,Limerick Garda Division,Theft from shop (0822),741.0
+2003,Limerick Garda Division,Theft/taking of vehicle and related offences (081),741.0
+2003,Limerick Garda Division,Threat to kill or cause serious harm (0313),28.0
+2003,Limerick Garda Division,Trespass offences (132),37.0
+2003,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2003,Limerick Garda Division,Vehicle tax/registration offences (142),174.0
+2003,Limerick Garda Division,Weapons and explosives offences (11),150.0
+2004,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",8.0
+2004,Limerick Garda Division,Abduction of person under 16 years of age (0512),3.0
+2004,Limerick Garda Division,Aggravated burglary (0711),11.0
+2004,Limerick Garda Division,Arson (1211),92.0
+2004,Limerick Garda Division,"Assault causing harm, poisoning (034)",175.0
+2004,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",650.0
+2004,Limerick Garda Division,Blackmail or extortion (0621),0.0
+2004,Limerick Garda Division,Burglary (not aggravated) (0712),1084.0
+2004,Limerick Garda Division,Burglary and related offences (07),1097.0
+2004,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
+2004,Limerick Garda Division,Controlled drug offences (10),649.0
+2004,Limerick Garda Division,Criminal damage (not arson) (1212),1989.0
+2004,Limerick Garda Division,Cultivation or manufacture of drugs (1012),3.0
+2004,Limerick Garda Division,Damage to property and to the environment  offences (12),2096.0
+2004,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),5.0
+2004,Limerick Garda Division,Dangerous driving leading to death (012),6.0
+2004,Limerick Garda Division,Dangerous or negligent acts (04),1397.0
+2004,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),205.0
+2004,Limerick Garda Division,Discharging a firearm (1121),60.0
+2004,Limerick Garda Division,Disorderly conduct (131),1500.0
+2004,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",44.0
+2004,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",543.0
+2004,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
+2004,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),543.0
+2004,Limerick Garda Division,Endangering traffic offences (0425),2.0
+2004,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),2.0
+2004,Limerick Garda Division,"Explosives, chemical weapons offences (111)",11.0
+2004,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2004,Limerick Garda Division,False imprisonment (0511),5.0
+2004,Limerick Garda Division,Fireworks offences (114),0.0
+2004,Limerick Garda Division,"Fraud, deception and related offences (09)",170.0
+2004,Limerick Garda Division,Harassment and related offences (033),48.0
+2004,Limerick Garda Division,Homicide & related offences (01),10.0
+2004,Limerick Garda Division,Human trafficking offences (0513),0.0
+2004,Limerick Garda Division,Importation of drugs (1011),1.0
+2004,Limerick Garda Division,Infanticide (0113),0.0
+2004,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",922.0
+2004,Limerick Garda Division,Kidnapping and related offences (05),8.0
+2004,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2004,Limerick Garda Division,Liquor licensing offences (133),365.0
+2004,Limerick Garda Division,Litter offences (1221),15.0
+2004,Limerick Garda Division,Manslaughter (0112),0.0
+2004,Limerick Garda Division,Murder (0111),4.0
+2004,Limerick Garda Division,Murder-attempt (0311),0.0
+2004,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),6.0
+2004,Limerick Garda Division,Offences against government and its agents (151),15.0
+2004,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",226.0
+2004,Limerick Garda Division,Offences not elsewhere classified (16),42.0
+2004,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",205.0
+2004,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),124.0
+2004,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
+2004,Limerick Garda Division,Other assault (035),405.0
+2004,Limerick Garda Division,Other drug offences (103),16.0
+2004,Limerick Garda Division,Other road offences (1433),1219.0
+2004,Limerick Garda Division,Other sexual offences (022),14.0
+2004,Limerick Garda Division,"Other thefts, handling stolen property (084)",1552.0
+2004,Limerick Garda Division,Perverting the course of justice (153),5.0
+2004,Limerick Garda Division,Possession of a firearm (1122),26.0
+2004,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",2.0
+2004,Limerick Garda Division,Possession of drugs for personal use (1022),532.0
+2004,Limerick Garda Division,Possession of drugs for sale or supply (1021),97.0
+2004,Limerick Garda Division,Prostitution offences (134),0.0
+2004,Limerick Garda Division,Public order and other social code offences (13),1967.0
+2004,Limerick Garda Division,Public service vehicle offences (1442),5.0
+2004,Limerick Garda Division,Rape and sexual assault (021),59.0
+2004,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",17.0
+2004,Limerick Garda Division,Road and traffic offences (14),2619.0
+2004,Limerick Garda Division,Road transport - carriage of goods offences (1441),111.0
+2004,Limerick Garda Division,Roadworthiness/regulatory offences (143),82.0
+2004,Limerick Garda Division,Robbery from the person (0613),52.0
+2004,Limerick Garda Division,Robbery of an establishment or institution (0611),56.0
+2004,Limerick Garda Division,Robbery of cash or goods in transit (0612),1.0
+2004,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",112.0
+2004,Limerick Garda Division,Sexual offences (02),73.0
+2004,Limerick Garda Division,Social code offences (n.e.c.) (136),7.0
+2004,Limerick Garda Division,Speeding (0415),632.0
+2004,Limerick Garda Division,Theft and related offences (08),3390.0
+2004,Limerick Garda Division,Theft from person (0821),381.0
+2004,Limerick Garda Division,Theft from shop (0822),816.0
+2004,Limerick Garda Division,Theft/taking of vehicle and related offences (081),641.0
+2004,Limerick Garda Division,Threat to kill or cause serious harm (0313),22.0
+2004,Limerick Garda Division,Trespass offences (132),78.0
+2004,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2004,Limerick Garda Division,Vehicle tax/registration offences (142),230.0
+2004,Limerick Garda Division,Weapons and explosives offences (11),221.0
+2005,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",18.0
+2005,Limerick Garda Division,Abduction of person under 16 years of age (0512),0.0
+2005,Limerick Garda Division,Aggravated burglary (0711),19.0
+2005,Limerick Garda Division,Arson (1211),137.0
+2005,Limerick Garda Division,"Assault causing harm, poisoning (034)",174.0
+2005,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",794.0
+2005,Limerick Garda Division,Blackmail or extortion (0621),3.0
+2005,Limerick Garda Division,Burglary (not aggravated) (0712),1361.0
+2005,Limerick Garda Division,Burglary and related offences (07),1385.0
+2005,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
+2005,Limerick Garda Division,Controlled drug offences (10),751.0
+2005,Limerick Garda Division,Criminal damage (not arson) (1212),2613.0
+2005,Limerick Garda Division,Cultivation or manufacture of drugs (1012),2.0
+2005,Limerick Garda Division,Damage to property and to the environment  offences (12),2760.0
+2005,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2005,Limerick Garda Division,Dangerous driving leading to death (012),2.0
+2005,Limerick Garda Division,Dangerous or negligent acts (04),1494.0
+2005,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),297.0
+2005,Limerick Garda Division,Discharging a firearm (1121),72.0
+2005,Limerick Garda Division,Disorderly conduct (131),1842.0
+2005,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",144.0
+2005,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",655.0
+2005,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),1.0
+2005,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),654.0
+2005,Limerick Garda Division,Endangering traffic offences (0425),12.0
+2005,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),0.0
+2005,Limerick Garda Division,"Explosives, chemical weapons offences (111)",10.0
+2005,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2005,Limerick Garda Division,False imprisonment (0511),4.0
+2005,Limerick Garda Division,Fireworks offences (114),0.0
+2005,Limerick Garda Division,"Fraud, deception and related offences (09)",211.0
+2005,Limerick Garda Division,Harassment and related offences (033),115.0
+2005,Limerick Garda Division,Homicide & related offences (01),5.0
+2005,Limerick Garda Division,Human trafficking offences (0513),0.0
+2005,Limerick Garda Division,Importation of drugs (1011),2.0
+2005,Limerick Garda Division,Infanticide (0113),0.0
+2005,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1064.0
+2005,Limerick Garda Division,Kidnapping and related offences (05),4.0
+2005,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2005,Limerick Garda Division,Liquor licensing offences (133),267.0
+2005,Limerick Garda Division,Litter offences (1221),10.0
+2005,Limerick Garda Division,Manslaughter (0112),2.0
+2005,Limerick Garda Division,Murder (0111),1.0
+2005,Limerick Garda Division,Murder-attempt (0311),0.0
+2005,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),10.0
+2005,Limerick Garda Division,Offences against government and its agents (151),8.0
+2005,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",197.0
+2005,Limerick Garda Division,Offences not elsewhere classified (16),78.0
+2005,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",183.0
+2005,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),134.0
+2005,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2005,Limerick Garda Division,Other assault (035),468.0
+2005,Limerick Garda Division,Other drug offences (103),15.0
+2005,Limerick Garda Division,Other road offences (1433),2249.0
+2005,Limerick Garda Division,Other sexual offences (022),1.0
+2005,Limerick Garda Division,"Other thefts, handling stolen property (084)",2109.0
+2005,Limerick Garda Division,Perverting the course of justice (153),6.0
+2005,Limerick Garda Division,Possession of a firearm (1122),38.0
+2005,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",5.0
+2005,Limerick Garda Division,Possession of drugs for personal use (1022),595.0
+2005,Limerick Garda Division,Possession of drugs for sale or supply (1021),137.0
+2005,Limerick Garda Division,Prostitution offences (134),3.0
+2005,Limerick Garda Division,Public order and other social code offences (13),2202.0
+2005,Limerick Garda Division,Public service vehicle offences (1442),20.0
+2005,Limerick Garda Division,Rape and sexual assault (021),59.0
+2005,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",15.0
+2005,Limerick Garda Division,Road and traffic offences (14),4292.0
+2005,Limerick Garda Division,Road transport - carriage of goods offences (1441),217.0
+2005,Limerick Garda Division,Roadworthiness/regulatory offences (143),225.0
+2005,Limerick Garda Division,Robbery from the person (0613),51.0
+2005,Limerick Garda Division,Robbery of an establishment or institution (0611),32.0
+2005,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2005,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",87.0
+2005,Limerick Garda Division,Sexual offences (02),60.0
+2005,Limerick Garda Division,Social code offences (n.e.c.) (136),10.0
+2005,Limerick Garda Division,Speeding (0415),512.0
+2005,Limerick Garda Division,Theft and related offences (08),4391.0
+2005,Limerick Garda Division,Theft from person (0821),357.0
+2005,Limerick Garda Division,Theft from shop (0822),972.0
+2005,Limerick Garda Division,Theft/taking of vehicle and related offences (081),953.0
+2005,Limerick Garda Division,Threat to kill or cause serious harm (0313),37.0
+2005,Limerick Garda Division,Trespass offences (132),65.0
+2005,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2005,Limerick Garda Division,Vehicle tax/registration offences (142),363.0
+2005,Limerick Garda Division,Weapons and explosives offences (11),254.0
+2006,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",17.0
+2006,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2006,Limerick Garda Division,Aggravated burglary (0711),17.0
+2006,Limerick Garda Division,Arson (1211),192.0
+2006,Limerick Garda Division,"Assault causing harm, poisoning (034)",213.0
+2006,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",874.0
+2006,Limerick Garda Division,Blackmail or extortion (0621),0.0
+2006,Limerick Garda Division,Burglary (not aggravated) (0712),1222.0
+2006,Limerick Garda Division,Burglary and related offences (07),1244.0
+2006,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",5.0
+2006,Limerick Garda Division,Controlled drug offences (10),630.0
+2006,Limerick Garda Division,Criminal damage (not arson) (1212),2856.0
+2006,Limerick Garda Division,Cultivation or manufacture of drugs (1012),1.0
+2006,Limerick Garda Division,Damage to property and to the environment  offences (12),3060.0
+2006,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
+2006,Limerick Garda Division,Dangerous driving leading to death (012),4.0
+2006,Limerick Garda Division,Dangerous or negligent acts (04),2111.0
+2006,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),334.0
+2006,Limerick Garda Division,Discharging a firearm (1121),86.0
+2006,Limerick Garda Division,Disorderly conduct (131),2096.0
+2006,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",440.0
+2006,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",804.0
+2006,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
+2006,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),804.0
+2006,Limerick Garda Division,Endangering traffic offences (0425),8.0
+2006,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),1.0
+2006,Limerick Garda Division,"Explosives, chemical weapons offences (111)",4.0
+2006,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2006,Limerick Garda Division,False imprisonment (0511),5.0
+2006,Limerick Garda Division,Fireworks offences (114),2.0
+2006,Limerick Garda Division,"Fraud, deception and related offences (09)",164.0
+2006,Limerick Garda Division,Harassment and related offences (033),130.0
+2006,Limerick Garda Division,Homicide & related offences (01),10.0
+2006,Limerick Garda Division,Human trafficking offences (0513),0.0
+2006,Limerick Garda Division,Importation of drugs (1011),0.0
+2006,Limerick Garda Division,Infanticide (0113),0.0
+2006,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1398.0
+2006,Limerick Garda Division,Kidnapping and related offences (05),6.0
+2006,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2006,Limerick Garda Division,Liquor licensing offences (133),256.0
+2006,Limerick Garda Division,Litter offences (1221),12.0
+2006,Limerick Garda Division,Manslaughter (0112),0.0
+2006,Limerick Garda Division,Murder (0111),6.0
+2006,Limerick Garda Division,Murder-attempt (0311),1.0
+2006,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),9.0
+2006,Limerick Garda Division,Offences against government and its agents (151),9.0
+2006,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",249.0
+2006,Limerick Garda Division,Offences not elsewhere classified (16),57.0
+2006,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",229.0
+2006,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),141.0
+2006,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2006,Limerick Garda Division,Other assault (035),498.0
+2006,Limerick Garda Division,Other drug offences (103),11.0
+2006,Limerick Garda Division,Other road offences (1433),4254.0
+2006,Limerick Garda Division,Other sexual offences (022),0.0
+2006,Limerick Garda Division,"Other thefts, handling stolen property (084)",2440.0
+2006,Limerick Garda Division,Perverting the course of justice (153),11.0
+2006,Limerick Garda Division,Possession of a firearm (1122),44.0
+2006,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",5.0
+2006,Limerick Garda Division,Possession of drugs for personal use (1022),512.0
+2006,Limerick Garda Division,Possession of drugs for sale or supply (1021),106.0
+2006,Limerick Garda Division,Prostitution offences (134),13.0
+2006,Limerick Garda Division,Public order and other social code offences (13),2514.0
+2006,Limerick Garda Division,Public service vehicle offences (1442),22.0
+2006,Limerick Garda Division,Rape and sexual assault (021),57.0
+2006,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",17.0
+2006,Limerick Garda Division,Road and traffic offences (14),7129.0
+2006,Limerick Garda Division,Road transport - carriage of goods offences (1441),275.0
+2006,Limerick Garda Division,Roadworthiness/regulatory offences (143),107.0
+2006,Limerick Garda Division,Robbery from the person (0613),62.0
+2006,Limerick Garda Division,Robbery of an establishment or institution (0611),39.0
+2006,Limerick Garda Division,Robbery of cash or goods in transit (0612),1.0
+2006,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",107.0
+2006,Limerick Garda Division,Sexual offences (02),57.0
+2006,Limerick Garda Division,Social code offences (n.e.c.) (136),3.0
+2006,Limerick Garda Division,Speeding (0415),946.0
+2006,Limerick Garda Division,Theft and related offences (08),4906.0
+2006,Limerick Garda Division,Theft from person (0821),259.0
+2006,Limerick Garda Division,Theft from shop (0822),1184.0
+2006,Limerick Garda Division,Theft/taking of vehicle and related offences (081),1023.0
+2006,Limerick Garda Division,Threat to kill or cause serious harm (0313),32.0
+2006,Limerick Garda Division,Trespass offences (132),129.0
+2006,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2006,Limerick Garda Division,Vehicle tax/registration offences (142),624.0
+2006,Limerick Garda Division,Weapons and explosives offences (11),277.0
+2007,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",31.0
+2007,Limerick Garda Division,Abduction of person under 16 years of age (0512),0.0
+2007,Limerick Garda Division,Aggravated burglary (0711),10.0
+2007,Limerick Garda Division,Arson (1211),209.0
+2007,Limerick Garda Division,"Assault causing harm, poisoning (034)",203.0
+2007,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1009.0
+2007,Limerick Garda Division,Blackmail or extortion (0621),0.0
+2007,Limerick Garda Division,Burglary (not aggravated) (0712),1231.0
+2007,Limerick Garda Division,Burglary and related offences (07),1251.0
+2007,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
+2007,Limerick Garda Division,Controlled drug offences (10),845.0
+2007,Limerick Garda Division,Criminal damage (not arson) (1212),2780.0
+2007,Limerick Garda Division,Cultivation or manufacture of drugs (1012),6.0
+2007,Limerick Garda Division,Damage to property and to the environment  offences (12),3005.0
+2007,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),5.0
+2007,Limerick Garda Division,Dangerous driving leading to death (012),3.0
+2007,Limerick Garda Division,Dangerous or negligent acts (04),2109.0
+2007,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),513.0
+2007,Limerick Garda Division,Discharging a firearm (1121),100.0
+2007,Limerick Garda Division,Disorderly conduct (131),2062.0
+2007,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",472.0
+2007,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",845.0
+2007,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),23.0
+2007,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),822.0
+2007,Limerick Garda Division,Endangering traffic offences (0425),10.0
+2007,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),3.0
+2007,Limerick Garda Division,"Explosives, chemical weapons offences (111)",5.0
+2007,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2007,Limerick Garda Division,False imprisonment (0511),7.0
+2007,Limerick Garda Division,Fireworks offences (114),22.0
+2007,Limerick Garda Division,"Fraud, deception and related offences (09)",244.0
+2007,Limerick Garda Division,Harassment and related offences (033),171.0
+2007,Limerick Garda Division,Homicide & related offences (01),10.0
+2007,Limerick Garda Division,Human trafficking offences (0513),0.0
+2007,Limerick Garda Division,Importation of drugs (1011),0.0
+2007,Limerick Garda Division,Infanticide (0113),0.0
+2007,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1144.0
+2007,Limerick Garda Division,Kidnapping and related offences (05),7.0
+2007,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2007,Limerick Garda Division,Liquor licensing offences (133),219.0
+2007,Limerick Garda Division,Litter offences (1221),16.0
+2007,Limerick Garda Division,Manslaughter (0112),2.0
+2007,Limerick Garda Division,Murder (0111),5.0
+2007,Limerick Garda Division,Murder-attempt (0311),0.0
+2007,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),11.0
+2007,Limerick Garda Division,Offences against government and its agents (151),18.0
+2007,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",317.0
+2007,Limerick Garda Division,Offences not elsewhere classified (16),109.0
+2007,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",288.0
+2007,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),144.0
+2007,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2007,Limerick Garda Division,Other assault (035),591.0
+2007,Limerick Garda Division,Other drug offences (103),19.0
+2007,Limerick Garda Division,Other road offences (1433),4405.0
+2007,Limerick Garda Division,Other sexual offences (022),4.0
+2007,Limerick Garda Division,"Other thefts, handling stolen property (084)",2126.0
+2007,Limerick Garda Division,Perverting the course of justice (153),11.0
+2007,Limerick Garda Division,Possession of a firearm (1122),40.0
+2007,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",10.0
+2007,Limerick Garda Division,Possession of drugs for personal use (1022),611.0
+2007,Limerick Garda Division,Possession of drugs for sale or supply (1021),209.0
+2007,Limerick Garda Division,Prostitution offences (134),14.0
+2007,Limerick Garda Division,Public order and other social code offences (13),2476.0
+2007,Limerick Garda Division,Public service vehicle offences (1442),36.0
+2007,Limerick Garda Division,Rape and sexual assault (021),83.0
+2007,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",24.0
+2007,Limerick Garda Division,Road and traffic offences (14),7293.0
+2007,Limerick Garda Division,Road transport - carriage of goods offences (1441),406.0
+2007,Limerick Garda Division,Roadworthiness/regulatory offences (143),86.0
+2007,Limerick Garda Division,Robbery from the person (0613),75.0
+2007,Limerick Garda Division,Robbery of an establishment or institution (0611),40.0
+2007,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2007,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",117.0
+2007,Limerick Garda Division,Sexual offences (02),87.0
+2007,Limerick Garda Division,Social code offences (n.e.c.) (136),25.0
+2007,Limerick Garda Division,Speeding (0415),702.0
+2007,Limerick Garda Division,Theft and related offences (08),4277.0
+2007,Limerick Garda Division,Theft from person (0821),195.0
+2007,Limerick Garda Division,Theft from shop (0822),969.0
+2007,Limerick Garda Division,Theft/taking of vehicle and related offences (081),987.0
+2007,Limerick Garda Division,Threat to kill or cause serious harm (0313),44.0
+2007,Limerick Garda Division,Trespass offences (132),132.0
+2007,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2007,Limerick Garda Division,Vehicle tax/registration offences (142),733.0
+2007,Limerick Garda Division,Weapons and explosives offences (11),311.0
+2008,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",24.0
+2008,Limerick Garda Division,Abduction of person under 16 years of age (0512),2.0
+2008,Limerick Garda Division,Aggravated burglary (0711),25.0
+2008,Limerick Garda Division,Arson (1211),290.0
+2008,Limerick Garda Division,"Assault causing harm, poisoning (034)",219.0
+2008,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1107.0
+2008,Limerick Garda Division,Blackmail or extortion (0621),4.0
+2008,Limerick Garda Division,Burglary (not aggravated) (0712),1394.0
+2008,Limerick Garda Division,Burglary and related offences (07),1440.0
+2008,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",11.0
+2008,Limerick Garda Division,Controlled drug offences (10),886.0
+2008,Limerick Garda Division,Criminal damage (not arson) (1212),2653.0
+2008,Limerick Garda Division,Cultivation or manufacture of drugs (1012),3.0
+2008,Limerick Garda Division,Damage to property and to the environment  offences (12),2974.0
+2008,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
+2008,Limerick Garda Division,Dangerous driving leading to death (012),1.0
+2008,Limerick Garda Division,Dangerous or negligent acts (04),2163.0
+2008,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),384.0
+2008,Limerick Garda Division,Discharging a firearm (1121),36.0
+2008,Limerick Garda Division,Disorderly conduct (131),2409.0
+2008,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",551.0
+2008,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",892.0
+2008,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),61.0
+2008,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),831.0
+2008,Limerick Garda Division,Endangering traffic offences (0425),13.0
+2008,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),3.0
+2008,Limerick Garda Division,"Explosives, chemical weapons offences (111)",1.0
+2008,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2008,Limerick Garda Division,False imprisonment (0511),4.0
+2008,Limerick Garda Division,Fireworks offences (114),32.0
+2008,Limerick Garda Division,"Fraud, deception and related offences (09)",260.0
+2008,Limerick Garda Division,Harassment and related offences (033),181.0
+2008,Limerick Garda Division,Homicide & related offences (01),8.0
+2008,Limerick Garda Division,Human trafficking offences (0513),0.0
+2008,Limerick Garda Division,Importation of drugs (1011),0.0
+2008,Limerick Garda Division,Infanticide (0113),0.0
+2008,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1289.0
+2008,Limerick Garda Division,Kidnapping and related offences (05),6.0
+2008,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2008,Limerick Garda Division,Liquor licensing offences (133),240.0
+2008,Limerick Garda Division,Litter offences (1221),31.0
+2008,Limerick Garda Division,Manslaughter (0112),2.0
+2008,Limerick Garda Division,Murder (0111),5.0
+2008,Limerick Garda Division,Murder-attempt (0311),0.0
+2008,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),10.0
+2008,Limerick Garda Division,Offences against government and its agents (151),68.0
+2008,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",503.0
+2008,Limerick Garda Division,Offences not elsewhere classified (16),196.0
+2008,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",420.0
+2008,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),142.0
+2008,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2008,Limerick Garda Division,Other assault (035),654.0
+2008,Limerick Garda Division,Other drug offences (103),12.0
+2008,Limerick Garda Division,Other road offences (1433),6907.0
+2008,Limerick Garda Division,Other sexual offences (022),1.0
+2008,Limerick Garda Division,"Other thefts, handling stolen property (084)",2117.0
+2008,Limerick Garda Division,Perverting the course of justice (153),15.0
+2008,Limerick Garda Division,Possession of a firearm (1122),39.0
+2008,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",21.0
+2008,Limerick Garda Division,Possession of drugs for personal use (1022),602.0
+2008,Limerick Garda Division,Possession of drugs for sale or supply (1021),269.0
+2008,Limerick Garda Division,Prostitution offences (134),4.0
+2008,Limerick Garda Division,Public order and other social code offences (13),2911.0
+2008,Limerick Garda Division,Public service vehicle offences (1442),46.0
+2008,Limerick Garda Division,Rape and sexual assault (021),75.0
+2008,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",41.0
+2008,Limerick Garda Division,Road and traffic offences (14),10836.0
+2008,Limerick Garda Division,Road transport - carriage of goods offences (1441),851.0
+2008,Limerick Garda Division,Roadworthiness/regulatory offences (143),111.0
+2008,Limerick Garda Division,Robbery from the person (0613),102.0
+2008,Limerick Garda Division,Robbery of an establishment or institution (0611),44.0
+2008,Limerick Garda Division,Robbery of cash or goods in transit (0612),1.0
+2008,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",162.0
+2008,Limerick Garda Division,Sexual offences (02),76.0
+2008,Limerick Garda Division,Social code offences (n.e.c.) (136),3.0
+2008,Limerick Garda Division,Speeding (0415),845.0
+2008,Limerick Garda Division,Theft and related offences (08),4187.0
+2008,Limerick Garda Division,Theft from person (0821),134.0
+2008,Limerick Garda Division,Theft from shop (0822),928.0
+2008,Limerick Garda Division,Theft/taking of vehicle and related offences (081),1008.0
+2008,Limerick Garda Division,Threat to kill or cause serious harm (0313),53.0
+2008,Limerick Garda Division,Trespass offences (132),214.0
+2008,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2008,Limerick Garda Division,Vehicle tax/registration offences (142),1071.0
+2008,Limerick Garda Division,Weapons and explosives offences (11),250.0
+2009,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",11.0
+2009,Limerick Garda Division,Abduction of person under 16 years of age (0512),0.0
+2009,Limerick Garda Division,Aggravated burglary (0711),23.0
+2009,Limerick Garda Division,Arson (1211),303.0
+2009,Limerick Garda Division,"Assault causing harm, poisoning (034)",174.0
+2009,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",955.0
+2009,Limerick Garda Division,Blackmail or extortion (0621),0.0
+2009,Limerick Garda Division,Burglary (not aggravated) (0712),1495.0
+2009,Limerick Garda Division,Burglary and related offences (07),1534.0
+2009,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",6.0
+2009,Limerick Garda Division,Controlled drug offences (10),960.0
+2009,Limerick Garda Division,Criminal damage (not arson) (1212),2405.0
+2009,Limerick Garda Division,Cultivation or manufacture of drugs (1012),15.0
+2009,Limerick Garda Division,Damage to property and to the environment  offences (12),2727.0
+2009,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2009,Limerick Garda Division,Dangerous driving leading to death (012),6.0
+2009,Limerick Garda Division,Dangerous or negligent acts (04),1586.0
+2009,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),270.0
+2009,Limerick Garda Division,Discharging a firearm (1121),26.0
+2009,Limerick Garda Division,Disorderly conduct (131),2517.0
+2009,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",338.0
+2009,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",651.0
+2009,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),60.0
+2009,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),591.0
+2009,Limerick Garda Division,Endangering traffic offences (0425),7.0
+2009,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),1.0
+2009,Limerick Garda Division,"Explosives, chemical weapons offences (111)",5.0
+2009,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2009,Limerick Garda Division,False imprisonment (0511),6.0
+2009,Limerick Garda Division,Fireworks offences (114),38.0
+2009,Limerick Garda Division,"Fraud, deception and related offences (09)",211.0
+2009,Limerick Garda Division,Harassment and related offences (033),132.0
+2009,Limerick Garda Division,Homicide & related offences (01),11.0
+2009,Limerick Garda Division,Human trafficking offences (0513),0.0
+2009,Limerick Garda Division,Importation of drugs (1011),0.0
+2009,Limerick Garda Division,Infanticide (0113),0.0
+2009,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",970.0
+2009,Limerick Garda Division,Kidnapping and related offences (05),6.0
+2009,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2009,Limerick Garda Division,Liquor licensing offences (133),195.0
+2009,Limerick Garda Division,Litter offences (1221),19.0
+2009,Limerick Garda Division,Manslaughter (0112),1.0
+2009,Limerick Garda Division,Murder (0111),4.0
+2009,Limerick Garda Division,Murder-attempt (0311),0.0
+2009,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),8.0
+2009,Limerick Garda Division,Offences against government and its agents (151),47.0
+2009,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",489.0
+2009,Limerick Garda Division,Offences not elsewhere classified (16),290.0
+2009,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",433.0
+2009,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),151.0
+2009,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2009,Limerick Garda Division,Other assault (035),622.0
+2009,Limerick Garda Division,Other drug offences (103),33.0
+2009,Limerick Garda Division,Other road offences (1433),5788.0
+2009,Limerick Garda Division,Other sexual offences (022),1.0
+2009,Limerick Garda Division,"Other thefts, handling stolen property (084)",2083.0
+2009,Limerick Garda Division,Perverting the course of justice (153),9.0
+2009,Limerick Garda Division,Possession of a firearm (1122),30.0
+2009,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",16.0
+2009,Limerick Garda Division,Possession of drugs for personal use (1022),677.0
+2009,Limerick Garda Division,Possession of drugs for sale or supply (1021),235.0
+2009,Limerick Garda Division,Prostitution offences (134),14.0
+2009,Limerick Garda Division,Public order and other social code offences (13),2972.0
+2009,Limerick Garda Division,Public service vehicle offences (1442),84.0
+2009,Limerick Garda Division,Rape and sexual assault (021),81.0
+2009,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",22.0
+2009,Limerick Garda Division,Road and traffic offences (14),8713.0
+2009,Limerick Garda Division,Road transport - carriage of goods offences (1441),392.0
+2009,Limerick Garda Division,Roadworthiness/regulatory offences (143),128.0
+2009,Limerick Garda Division,Robbery from the person (0613),87.0
+2009,Limerick Garda Division,Robbery of an establishment or institution (0611),43.0
+2009,Limerick Garda Division,Robbery of cash or goods in transit (0612),1.0
+2009,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",137.0
+2009,Limerick Garda Division,Sexual offences (02),82.0
+2009,Limerick Garda Division,Social code offences (n.e.c.) (136),6.0
+2009,Limerick Garda Division,Speeding (0415),646.0
+2009,Limerick Garda Division,Theft and related offences (08),4319.0
+2009,Limerick Garda Division,Theft from person (0821),150.0
+2009,Limerick Garda Division,Theft from shop (0822),1128.0
+2009,Limerick Garda Division,Theft/taking of vehicle and related offences (081),958.0
+2009,Limerick Garda Division,Threat to kill or cause serious harm (0313),27.0
+2009,Limerick Garda Division,Trespass offences (132),218.0
+2009,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2009,Limerick Garda Division,Vehicle tax/registration offences (142),1005.0
+2009,Limerick Garda Division,Weapons and explosives offences (11),250.0
+2010,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",12.0
+2010,Limerick Garda Division,Abduction of person under 16 years of age (0512),3.0
+2010,Limerick Garda Division,Aggravated burglary (0711),23.0
+2010,Limerick Garda Division,Arson (1211),192.0
+2010,Limerick Garda Division,"Assault causing harm, poisoning (034)",166.0
+2010,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1003.0
+2010,Limerick Garda Division,Blackmail or extortion (0621),3.0
+2010,Limerick Garda Division,Burglary (not aggravated) (0712),1290.0
+2010,Limerick Garda Division,Burglary and related offences (07),1327.0
+2010,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
+2010,Limerick Garda Division,Controlled drug offences (10),1088.0
+2010,Limerick Garda Division,Criminal damage (not arson) (1212),2273.0
+2010,Limerick Garda Division,Cultivation or manufacture of drugs (1012),20.0
+2010,Limerick Garda Division,Damage to property and to the environment  offences (12),2488.0
+2010,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
+2010,Limerick Garda Division,Dangerous driving leading to death (012),5.0
+2010,Limerick Garda Division,Dangerous or negligent acts (04),1869.0
+2010,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),302.0
+2010,Limerick Garda Division,Discharging a firearm (1121),18.0
+2010,Limerick Garda Division,Disorderly conduct (131),2423.0
+2010,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",361.0
+2010,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",503.0
+2010,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),46.0
+2010,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),457.0
+2010,Limerick Garda Division,Endangering traffic offences (0425),26.0
+2010,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),6.0
+2010,Limerick Garda Division,"Explosives, chemical weapons offences (111)",4.0
+2010,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2010,Limerick Garda Division,False imprisonment (0511),3.0
+2010,Limerick Garda Division,Fireworks offences (114),41.0
+2010,Limerick Garda Division,"Fraud, deception and related offences (09)",236.0
+2010,Limerick Garda Division,Harassment and related offences (033),151.0
+2010,Limerick Garda Division,Homicide & related offences (01),12.0
+2010,Limerick Garda Division,Human trafficking offences (0513),1.0
+2010,Limerick Garda Division,Importation of drugs (1011),0.0
+2010,Limerick Garda Division,Infanticide (0113),0.0
+2010,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",870.0
+2010,Limerick Garda Division,Kidnapping and related offences (05),7.0
+2010,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2010,Limerick Garda Division,Liquor licensing offences (133),160.0
+2010,Limerick Garda Division,Litter offences (1221),23.0
+2010,Limerick Garda Division,Manslaughter (0112),0.0
+2010,Limerick Garda Division,Murder (0111),7.0
+2010,Limerick Garda Division,Murder-attempt (0311),1.0
+2010,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),15.0
+2010,Limerick Garda Division,Offences against government and its agents (151),29.0
+2010,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",455.0
+2010,Limerick Garda Division,Offences not elsewhere classified (16),289.0
+2010,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",412.0
+2010,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),180.0
+2010,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2010,Limerick Garda Division,Other assault (035),648.0
+2010,Limerick Garda Division,Other drug offences (103),45.0
+2010,Limerick Garda Division,Other road offences (1433),5066.0
+2010,Limerick Garda Division,Other sexual offences (022),2.0
+2010,Limerick Garda Division,"Other thefts, handling stolen property (084)",2098.0
+2010,Limerick Garda Division,Perverting the course of justice (153),14.0
+2010,Limerick Garda Division,Possession of a firearm (1122),20.0
+2010,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",14.0
+2010,Limerick Garda Division,Possession of drugs for personal use (1022),769.0
+2010,Limerick Garda Division,Possession of drugs for sale or supply (1021),254.0
+2010,Limerick Garda Division,Prostitution offences (134),49.0
+2010,Limerick Garda Division,Public order and other social code offences (13),2859.0
+2010,Limerick Garda Division,Public service vehicle offences (1442),76.0
+2010,Limerick Garda Division,Rape and sexual assault (021),101.0
+2010,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",23.0
+2010,Limerick Garda Division,Road and traffic offences (14),9032.0
+2010,Limerick Garda Division,Road transport - carriage of goods offences (1441),1304.0
+2010,Limerick Garda Division,Roadworthiness/regulatory offences (143),176.0
+2010,Limerick Garda Division,Robbery from the person (0613),117.0
+2010,Limerick Garda Division,Robbery of an establishment or institution (0611),41.0
+2010,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2010,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",164.0
+2010,Limerick Garda Division,Sexual offences (02),103.0
+2010,Limerick Garda Division,Social code offences (n.e.c.) (136),16.0
+2010,Limerick Garda Division,Speeding (0415),1019.0
+2010,Limerick Garda Division,Theft and related offences (08),4222.0
+2010,Limerick Garda Division,Theft from person (0821),165.0
+2010,Limerick Garda Division,Theft from shop (0822),1127.0
+2010,Limerick Garda Division,Theft/taking of vehicle and related offences (081),832.0
+2010,Limerick Garda Division,Threat to kill or cause serious harm (0313),37.0
+2010,Limerick Garda Division,Trespass offences (132),188.0
+2010,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2010,Limerick Garda Division,Vehicle tax/registration offences (142),1164.0
+2010,Limerick Garda Division,Weapons and explosives offences (11),263.0
+2011,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",7.0
+2011,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2011,Limerick Garda Division,Aggravated burglary (0711),13.0
+2011,Limerick Garda Division,Arson (1211),165.0
+2011,Limerick Garda Division,"Assault causing harm, poisoning (034)",184.0
+2011,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",897.0
+2011,Limerick Garda Division,Blackmail or extortion (0621),2.0
+2011,Limerick Garda Division,Burglary (not aggravated) (0712),1447.0
+2011,Limerick Garda Division,Burglary and related offences (07),1486.0
+2011,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",9.0
+2011,Limerick Garda Division,Controlled drug offences (10),993.0
+2011,Limerick Garda Division,Criminal damage (not arson) (1212),2145.0
+2011,Limerick Garda Division,Cultivation or manufacture of drugs (1012),19.0
+2011,Limerick Garda Division,Damage to property and to the environment  offences (12),2324.0
+2011,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2011,Limerick Garda Division,Dangerous driving leading to death (012),1.0
+2011,Limerick Garda Division,Dangerous or negligent acts (04),4034.0
+2011,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),366.0
+2011,Limerick Garda Division,Discharging a firearm (1121),14.0
+2011,Limerick Garda Division,Disorderly conduct (131),2306.0
+2011,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",436.0
+2011,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",435.0
+2011,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),37.0
+2011,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),398.0
+2011,Limerick Garda Division,Endangering traffic offences (0425),15.0
+2011,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),3.0
+2011,Limerick Garda Division,"Explosives, chemical weapons offences (111)",2.0
+2011,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2011,Limerick Garda Division,False imprisonment (0511),6.0
+2011,Limerick Garda Division,Fireworks offences (114),17.0
+2011,Limerick Garda Division,"Fraud, deception and related offences (09)",207.0
+2011,Limerick Garda Division,Harassment and related offences (033),116.0
+2011,Limerick Garda Division,Homicide & related offences (01),5.0
+2011,Limerick Garda Division,Human trafficking offences (0513),1.0
+2011,Limerick Garda Division,Importation of drugs (1011),0.0
+2011,Limerick Garda Division,Infanticide (0113),0.0
+2011,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",966.0
+2011,Limerick Garda Division,Kidnapping and related offences (05),8.0
+2011,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2011,Limerick Garda Division,Liquor licensing offences (133),189.0
+2011,Limerick Garda Division,Litter offences (1221),14.0
+2011,Limerick Garda Division,Manslaughter (0112),0.0
+2011,Limerick Garda Division,Murder (0111),4.0
+2011,Limerick Garda Division,Murder-attempt (0311),0.0
+2011,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),16.0
+2011,Limerick Garda Division,Offences against government and its agents (151),23.0
+2011,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",442.0
+2011,Limerick Garda Division,Offences not elsewhere classified (16),304.0
+2011,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",410.0
+2011,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),181.0
+2011,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),2.0
+2011,Limerick Garda Division,Other assault (035),555.0
+2011,Limerick Garda Division,Other drug offences (103),36.0
+2011,Limerick Garda Division,Other road offences (1433),4693.0
+2011,Limerick Garda Division,Other sexual offences (022),8.0
+2011,Limerick Garda Division,"Other thefts, handling stolen property (084)",2235.0
+2011,Limerick Garda Division,Perverting the course of justice (153),7.0
+2011,Limerick Garda Division,Possession of a firearm (1122),23.0
+2011,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",26.0
+2011,Limerick Garda Division,Possession of drugs for personal use (1022),692.0
+2011,Limerick Garda Division,Possession of drugs for sale or supply (1021),246.0
+2011,Limerick Garda Division,Prostitution offences (134),64.0
+2011,Limerick Garda Division,Public order and other social code offences (13),2792.0
+2011,Limerick Garda Division,Public service vehicle offences (1442),54.0
+2011,Limerick Garda Division,Rape and sexual assault (021),119.0
+2011,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",14.0
+2011,Limerick Garda Division,Road and traffic offences (14),9401.0
+2011,Limerick Garda Division,Road transport - carriage of goods offences (1441),1282.0
+2011,Limerick Garda Division,Roadworthiness/regulatory offences (143),268.0
+2011,Limerick Garda Division,Robbery from the person (0613),94.0
+2011,Limerick Garda Division,Robbery of an establishment or institution (0611),29.0
+2011,Limerick Garda Division,Robbery of cash or goods in transit (0612),1.0
+2011,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",135.0
+2011,Limerick Garda Division,Sexual offences (02),127.0
+2011,Limerick Garda Division,Social code offences (n.e.c.) (136),16.0
+2011,Limerick Garda Division,Speeding (0415),3208.0
+2011,Limerick Garda Division,Theft and related offences (08),4153.0
+2011,Limerick Garda Division,Theft from person (0821),106.0
+2011,Limerick Garda Division,Theft from shop (0822),1004.0
+2011,Limerick Garda Division,Theft/taking of vehicle and related offences (081),808.0
+2011,Limerick Garda Division,Threat to kill or cause serious harm (0313),42.0
+2011,Limerick Garda Division,Trespass offences (132),203.0
+2011,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2011,Limerick Garda Division,Vehicle tax/registration offences (142),1686.0
+2011,Limerick Garda Division,Weapons and explosives offences (11),237.0
+2012,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",16.0
+2012,Limerick Garda Division,Abduction of person under 16 years of age (0512),2.0
+2012,Limerick Garda Division,Aggravated burglary (0711),8.0
+2012,Limerick Garda Division,Arson (1211),176.0
+2012,Limerick Garda Division,"Assault causing harm, poisoning (034)",135.0
+2012,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",845.0
+2012,Limerick Garda Division,Blackmail or extortion (0621),1.0
+2012,Limerick Garda Division,Burglary (not aggravated) (0712),1167.0
+2012,Limerick Garda Division,Burglary and related offences (07),1229.0
+2012,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
+2012,Limerick Garda Division,Controlled drug offences (10),870.0
+2012,Limerick Garda Division,Criminal damage (not arson) (1212),1894.0
+2012,Limerick Garda Division,Cultivation or manufacture of drugs (1012),20.0
+2012,Limerick Garda Division,Damage to property and to the environment  offences (12),2082.0
+2012,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2012,Limerick Garda Division,Dangerous driving leading to death (012),1.0
+2012,Limerick Garda Division,Dangerous or negligent acts (04),2756.0
+2012,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),290.0
+2012,Limerick Garda Division,Discharging a firearm (1121),7.0
+2012,Limerick Garda Division,Disorderly conduct (131),2042.0
+2012,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",413.0
+2012,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",371.0
+2012,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),25.0
+2012,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),346.0
+2012,Limerick Garda Division,Endangering traffic offences (0425),9.0
+2012,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),3.0
+2012,Limerick Garda Division,"Explosives, chemical weapons offences (111)",6.0
+2012,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2012,Limerick Garda Division,False imprisonment (0511),8.0
+2012,Limerick Garda Division,Fireworks offences (114),27.0
+2012,Limerick Garda Division,"Fraud, deception and related offences (09)",175.0
+2012,Limerick Garda Division,Harassment and related offences (033),126.0
+2012,Limerick Garda Division,Homicide & related offences (01),2.0
+2012,Limerick Garda Division,Human trafficking offences (0513),0.0
+2012,Limerick Garda Division,Importation of drugs (1011),0.0
+2012,Limerick Garda Division,Infanticide (0113),0.0
+2012,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",787.0
+2012,Limerick Garda Division,Kidnapping and related offences (05),10.0
+2012,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2012,Limerick Garda Division,Liquor licensing offences (133),128.0
+2012,Limerick Garda Division,Litter offences (1221),12.0
+2012,Limerick Garda Division,Manslaughter (0112),0.0
+2012,Limerick Garda Division,Murder (0111),1.0
+2012,Limerick Garda Division,Murder-attempt (0311),1.0
+2012,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),9.0
+2012,Limerick Garda Division,Offences against government and its agents (151),70.0
+2012,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",435.0
+2012,Limerick Garda Division,Offences not elsewhere classified (16),260.0
+2012,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",353.0
+2012,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),163.0
+2012,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
+2012,Limerick Garda Division,Other assault (035),570.0
+2012,Limerick Garda Division,Other drug offences (103),34.0
+2012,Limerick Garda Division,Other road offences (1433),4792.0
+2012,Limerick Garda Division,Other sexual offences (022),5.0
+2012,Limerick Garda Division,"Other thefts, handling stolen property (084)",2298.0
+2012,Limerick Garda Division,Perverting the course of justice (153),11.0
+2012,Limerick Garda Division,Possession of a firearm (1122),10.0
+2012,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",54.0
+2012,Limerick Garda Division,Possession of drugs for personal use (1022),614.0
+2012,Limerick Garda Division,Possession of drugs for sale or supply (1021),202.0
+2012,Limerick Garda Division,Prostitution offences (134),14.0
+2012,Limerick Garda Division,Public order and other social code offences (13),2407.0
+2012,Limerick Garda Division,Public service vehicle offences (1442),82.0
+2012,Limerick Garda Division,Rape and sexual assault (021),146.0
+2012,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",10.0
+2012,Limerick Garda Division,Road and traffic offences (14),9272.0
+2012,Limerick Garda Division,Road transport - carriage of goods offences (1441),998.0
+2012,Limerick Garda Division,Roadworthiness/regulatory offences (143),164.0
+2012,Limerick Garda Division,Robbery from the person (0613),75.0
+2012,Limerick Garda Division,Robbery of an establishment or institution (0611),17.0
+2012,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2012,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",95.0
+2012,Limerick Garda Division,Sexual offences (02),151.0
+2012,Limerick Garda Division,Social code offences (n.e.c.) (136),31.0
+2012,Limerick Garda Division,Speeding (0415),2067.0
+2012,Limerick Garda Division,Theft and related offences (08),4041.0
+2012,Limerick Garda Division,Theft from person (0821),130.0
+2012,Limerick Garda Division,Theft from shop (0822),1103.0
+2012,Limerick Garda Division,Theft/taking of vehicle and related offences (081),510.0
+2012,Limerick Garda Division,Threat to kill or cause serious harm (0313),13.0
+2012,Limerick Garda Division,Trespass offences (132),182.0
+2012,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2012,Limerick Garda Division,Vehicle tax/registration offences (142),2027.0
+2012,Limerick Garda Division,Weapons and explosives offences (11),213.0
+2013,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
+2013,Limerick Garda Division,Abduction of person under 16 years of age (0512),0.0
+2013,Limerick Garda Division,Aggravated burglary (0711),13.0
+2013,Limerick Garda Division,Arson (1211),130.0
+2013,Limerick Garda Division,"Assault causing harm, poisoning (034)",157.0
+2013,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",773.0
+2013,Limerick Garda Division,Blackmail or extortion (0621),1.0
+2013,Limerick Garda Division,Burglary (not aggravated) (0712),1056.0
+2013,Limerick Garda Division,Burglary and related offences (07),1096.0
+2013,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",4.0
+2013,Limerick Garda Division,Controlled drug offences (10),695.0
+2013,Limerick Garda Division,Criminal damage (not arson) (1212),1690.0
+2013,Limerick Garda Division,Cultivation or manufacture of drugs (1012),14.0
+2013,Limerick Garda Division,Damage to property and to the environment  offences (12),1833.0
+2013,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2013,Limerick Garda Division,Dangerous driving leading to death (012),1.0
+2013,Limerick Garda Division,Dangerous or negligent acts (04),2993.0
+2013,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),277.0
+2013,Limerick Garda Division,Discharging a firearm (1121),12.0
+2013,Limerick Garda Division,Disorderly conduct (131),1724.0
+2013,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",384.0
+2013,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",298.0
+2013,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),34.0
+2013,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),264.0
+2013,Limerick Garda Division,Endangering traffic offences (0425),17.0
+2013,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),2.0
+2013,Limerick Garda Division,"Explosives, chemical weapons offences (111)",5.0
+2013,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2013,Limerick Garda Division,False imprisonment (0511),6.0
+2013,Limerick Garda Division,Fireworks offences (114),8.0
+2013,Limerick Garda Division,"Fraud, deception and related offences (09)",218.0
+2013,Limerick Garda Division,Harassment and related offences (033),79.0
+2013,Limerick Garda Division,Homicide & related offences (01),3.0
+2013,Limerick Garda Division,Human trafficking offences (0513),0.0
+2013,Limerick Garda Division,Importation of drugs (1011),1.0
+2013,Limerick Garda Division,Infanticide (0113),0.0
+2013,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",639.0
+2013,Limerick Garda Division,Kidnapping and related offences (05),6.0
+2013,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2013,Limerick Garda Division,Liquor licensing offences (133),78.0
+2013,Limerick Garda Division,Litter offences (1221),13.0
+2013,Limerick Garda Division,Manslaughter (0112),1.0
+2013,Limerick Garda Division,Murder (0111),1.0
+2013,Limerick Garda Division,Murder-attempt (0311),0.0
+2013,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),10.0
+2013,Limerick Garda Division,Offences against government and its agents (151),76.0
+2013,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1004.0
+2013,Limerick Garda Division,Offences not elsewhere classified (16),363.0
+2013,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",923.0
+2013,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),140.0
+2013,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2013,Limerick Garda Division,Other assault (035),513.0
+2013,Limerick Garda Division,Other drug offences (103),11.0
+2013,Limerick Garda Division,Other road offences (1433),3887.0
+2013,Limerick Garda Division,Other sexual offences (022),2.0
+2013,Limerick Garda Division,"Other thefts, handling stolen property (084)",2220.0
+2013,Limerick Garda Division,Perverting the course of justice (153),5.0
+2013,Limerick Garda Division,Possession of a firearm (1122),14.0
+2013,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",27.0
+2013,Limerick Garda Division,Possession of drugs for personal use (1022),475.0
+2013,Limerick Garda Division,Possession of drugs for sale or supply (1021),194.0
+2013,Limerick Garda Division,Prostitution offences (134),14.0
+2013,Limerick Garda Division,Public order and other social code offences (13),2161.0
+2013,Limerick Garda Division,Public service vehicle offences (1442),41.0
+2013,Limerick Garda Division,Rape and sexual assault (021),84.0
+2013,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",19.0
+2013,Limerick Garda Division,Road and traffic offences (14),7013.0
+2013,Limerick Garda Division,Road transport - carriage of goods offences (1441),1152.0
+2013,Limerick Garda Division,Roadworthiness/regulatory offences (143),225.0
+2013,Limerick Garda Division,Robbery from the person (0613),73.0
+2013,Limerick Garda Division,Robbery of an establishment or institution (0611),30.0
+2013,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2013,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",108.0
+2013,Limerick Garda Division,Sexual offences (02),86.0
+2013,Limerick Garda Division,Social code offences (n.e.c.) (136),117.0
+2013,Limerick Garda Division,Speeding (0415),2393.0
+2013,Limerick Garda Division,Theft and related offences (08),3825.0
+2013,Limerick Garda Division,Theft from person (0821),136.0
+2013,Limerick Garda Division,Theft from shop (0822),1035.0
+2013,Limerick Garda Division,Theft/taking of vehicle and related offences (081),434.0
+2013,Limerick Garda Division,Threat to kill or cause serious harm (0313),24.0
+2013,Limerick Garda Division,Trespass offences (132),209.0
+2013,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2013,Limerick Garda Division,Vehicle tax/registration offences (142),675.0
+2013,Limerick Garda Division,Weapons and explosives offences (11),179.0
+2014,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
+2014,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2014,Limerick Garda Division,Aggravated burglary (0711),12.0
+2014,Limerick Garda Division,Arson (1211),97.0
+2014,Limerick Garda Division,"Assault causing harm, poisoning (034)",140.0
+2014,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",643.0
+2014,Limerick Garda Division,Blackmail or extortion (0621),0.0
+2014,Limerick Garda Division,Burglary (not aggravated) (0712),1043.0
+2014,Limerick Garda Division,Burglary and related offences (07),1094.0
+2014,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
+2014,Limerick Garda Division,Controlled drug offences (10),634.0
+2014,Limerick Garda Division,Criminal damage (not arson) (1212),1394.0
+2014,Limerick Garda Division,Cultivation or manufacture of drugs (1012),6.0
+2014,Limerick Garda Division,Damage to property and to the environment  offences (12),1503.0
+2014,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
+2014,Limerick Garda Division,Dangerous driving leading to death (012),3.0
+2014,Limerick Garda Division,Dangerous or negligent acts (04),3393.0
+2014,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),348.0
+2014,Limerick Garda Division,Discharging a firearm (1121),10.0
+2014,Limerick Garda Division,Disorderly conduct (131),1442.0
+2014,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",472.0
+2014,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",298.0
+2014,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),21.0
+2014,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),277.0
+2014,Limerick Garda Division,Endangering traffic offences (0425),18.0
+2014,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),3.0
+2014,Limerick Garda Division,"Explosives, chemical weapons offences (111)",4.0
+2014,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2014,Limerick Garda Division,False imprisonment (0511),3.0
+2014,Limerick Garda Division,Fireworks offences (114),17.0
+2014,Limerick Garda Division,"Fraud, deception and related offences (09)",182.0
+2014,Limerick Garda Division,Harassment and related offences (033),50.0
+2014,Limerick Garda Division,Homicide & related offences (01),3.0
+2014,Limerick Garda Division,Human trafficking offences (0513),1.0
+2014,Limerick Garda Division,Importation of drugs (1011),0.0
+2014,Limerick Garda Division,Infanticide (0113),0.0
+2014,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",707.0
+2014,Limerick Garda Division,Kidnapping and related offences (05),5.0
+2014,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2014,Limerick Garda Division,Liquor licensing offences (133),75.0
+2014,Limerick Garda Division,Litter offences (1221),12.0
+2014,Limerick Garda Division,Manslaughter (0112),0.0
+2014,Limerick Garda Division,Murder (0111),0.0
+2014,Limerick Garda Division,Murder-attempt (0311),0.0
+2014,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),7.0
+2014,Limerick Garda Division,Offences against government and its agents (151),100.0
+2014,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",983.0
+2014,Limerick Garda Division,Offences not elsewhere classified (16),273.0
+2014,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",883.0
+2014,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),143.0
+2014,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2014,Limerick Garda Division,Other assault (035),434.0
+2014,Limerick Garda Division,Other drug offences (103),16.0
+2014,Limerick Garda Division,Other road offences (1433),3490.0
+2014,Limerick Garda Division,Other sexual offences (022),2.0
+2014,Limerick Garda Division,"Other thefts, handling stolen property (084)",2259.0
+2014,Limerick Garda Division,Perverting the course of justice (153),0.0
+2014,Limerick Garda Division,Possession of a firearm (1122),9.0
+2014,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",39.0
+2014,Limerick Garda Division,Possession of drugs for personal use (1022),427.0
+2014,Limerick Garda Division,Possession of drugs for sale or supply (1021),185.0
+2014,Limerick Garda Division,Prostitution offences (134),4.0
+2014,Limerick Garda Division,Public order and other social code offences (13),1910.0
+2014,Limerick Garda Division,Public service vehicle offences (1442),91.0
+2014,Limerick Garda Division,Rape and sexual assault (021),69.0
+2014,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",12.0
+2014,Limerick Garda Division,Road and traffic offences (14),6948.0
+2014,Limerick Garda Division,Road transport - carriage of goods offences (1441),1362.0
+2014,Limerick Garda Division,Roadworthiness/regulatory offences (143),194.0
+2014,Limerick Garda Division,Robbery from the person (0613),67.0
+2014,Limerick Garda Division,Robbery of an establishment or institution (0611),11.0
+2014,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2014,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",79.0
+2014,Limerick Garda Division,Sexual offences (02),71.0
+2014,Limerick Garda Division,Social code offences (n.e.c.) (136),224.0
+2014,Limerick Garda Division,Speeding (0415),2714.0
+2014,Limerick Garda Division,Theft and related offences (08),4100.0
+2014,Limerick Garda Division,Theft from person (0821),109.0
+2014,Limerick Garda Division,Theft from shop (0822),1184.0
+2014,Limerick Garda Division,Theft/taking of vehicle and related offences (081),548.0
+2014,Limerick Garda Division,Threat to kill or cause serious harm (0313),19.0
+2014,Limerick Garda Division,Trespass offences (132),153.0
+2014,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2014,Limerick Garda Division,Vehicle tax/registration offences (142),625.0
+2014,Limerick Garda Division,Weapons and explosives offences (11),183.0
+2015,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",5.0
+2015,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2015,Limerick Garda Division,Aggravated burglary (0711),6.0
+2015,Limerick Garda Division,Arson (1211),112.0
+2015,Limerick Garda Division,"Assault causing harm, poisoning (034)",164.0
+2015,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",785.0
+2015,Limerick Garda Division,Blackmail or extortion (0621),2.0
+2015,Limerick Garda Division,Burglary (not aggravated) (0712),1066.0
+2015,Limerick Garda Division,Burglary and related offences (07),1103.0
+2015,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",0.0
+2015,Limerick Garda Division,Controlled drug offences (10),682.0
+2015,Limerick Garda Division,Criminal damage (not arson) (1212),1531.0
+2015,Limerick Garda Division,Cultivation or manufacture of drugs (1012),0.0
+2015,Limerick Garda Division,Damage to property and to the environment  offences (12),1655.0
+2015,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2015,Limerick Garda Division,Dangerous driving leading to death (012),3.0
+2015,Limerick Garda Division,Dangerous or negligent acts (04),4250.0
+2015,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),308.0
+2015,Limerick Garda Division,Discharging a firearm (1121),15.0
+2015,Limerick Garda Division,Disorderly conduct (131),1268.0
+2015,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",291.0
+2015,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",329.0
+2015,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),22.0
+2015,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),307.0
+2015,Limerick Garda Division,Endangering traffic offences (0425),34.0
+2015,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),11.0
+2015,Limerick Garda Division,"Explosives, chemical weapons offences (111)",1.0
+2015,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2015,Limerick Garda Division,False imprisonment (0511),5.0
+2015,Limerick Garda Division,Fireworks offences (114),7.0
+2015,Limerick Garda Division,"Fraud, deception and related offences (09)",275.0
+2015,Limerick Garda Division,Harassment and related offences (033),50.0
+2015,Limerick Garda Division,Homicide & related offences (01),6.0
+2015,Limerick Garda Division,Human trafficking offences (0513),0.0
+2015,Limerick Garda Division,Importation of drugs (1011),0.0
+2015,Limerick Garda Division,Infanticide (0113),0.0
+2015,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",798.0
+2015,Limerick Garda Division,Kidnapping and related offences (05),6.0
+2015,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2015,Limerick Garda Division,Liquor licensing offences (133),74.0
+2015,Limerick Garda Division,Litter offences (1221),12.0
+2015,Limerick Garda Division,Manslaughter (0112),0.0
+2015,Limerick Garda Division,Murder (0111),3.0
+2015,Limerick Garda Division,Murder-attempt (0311),0.0
+2015,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),6.0
+2015,Limerick Garda Division,Offences against government and its agents (151),93.0
+2015,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1267.0
+2015,Limerick Garda Division,Offences not elsewhere classified (16),287.0
+2015,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",1173.0
+2015,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),107.0
+2015,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2015,Limerick Garda Division,Other assault (035),536.0
+2015,Limerick Garda Division,Other drug offences (103),16.0
+2015,Limerick Garda Division,Other road offences (1433),3106.0
+2015,Limerick Garda Division,Other sexual offences (022),9.0
+2015,Limerick Garda Division,"Other thefts, handling stolen property (084)",2030.0
+2015,Limerick Garda Division,Perverting the course of justice (153),1.0
+2015,Limerick Garda Division,Possession of a firearm (1122),11.0
+2015,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",31.0
+2015,Limerick Garda Division,Possession of drugs for personal use (1022),502.0
+2015,Limerick Garda Division,Possession of drugs for sale or supply (1021),164.0
+2015,Limerick Garda Division,Prostitution offences (134),3.0
+2015,Limerick Garda Division,Public order and other social code offences (13),1762.0
+2015,Limerick Garda Division,Public service vehicle offences (1442),63.0
+2015,Limerick Garda Division,Rape and sexual assault (021),114.0
+2015,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",3.0
+2015,Limerick Garda Division,Road and traffic offences (14),6102.0
+2015,Limerick Garda Division,Road transport - carriage of goods offences (1441),961.0
+2015,Limerick Garda Division,Roadworthiness/regulatory offences (143),139.0
+2015,Limerick Garda Division,Robbery from the person (0613),63.0
+2015,Limerick Garda Division,Robbery of an establishment or institution (0611),16.0
+2015,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2015,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",81.0
+2015,Limerick Garda Division,Sexual offences (02),123.0
+2015,Limerick Garda Division,Social code offences (n.e.c.) (136),268.0
+2015,Limerick Garda Division,Speeding (0415),3563.0
+2015,Limerick Garda Division,Theft and related offences (08),3952.0
+2015,Limerick Garda Division,Theft from person (0821),89.0
+2015,Limerick Garda Division,Theft from shop (0822),1331.0
+2015,Limerick Garda Division,Theft/taking of vehicle and related offences (081),502.0
+2015,Limerick Garda Division,Threat to kill or cause serious harm (0313),35.0
+2015,Limerick Garda Division,Trespass offences (132),146.0
+2015,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2015,Limerick Garda Division,Vehicle tax/registration offences (142),738.0
+2015,Limerick Garda Division,Weapons and explosives offences (11),141.0
+2016,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",10.0
+2016,Limerick Garda Division,Abduction of person under 16 years of age (0512),0.0
+2016,Limerick Garda Division,Aggravated burglary (0711),10.0
+2016,Limerick Garda Division,Arson (1211),87.0
+2016,Limerick Garda Division,"Assault causing harm, poisoning (034)",179.0
+2016,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",788.0
+2016,Limerick Garda Division,Blackmail or extortion (0621),6.0
+2016,Limerick Garda Division,Burglary (not aggravated) (0712),737.0
+2016,Limerick Garda Division,Burglary and related offences (07),761.0
+2016,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",4.0
+2016,Limerick Garda Division,Controlled drug offences (10),777.0
+2016,Limerick Garda Division,Criminal damage (not arson) (1212),1107.0
+2016,Limerick Garda Division,Cultivation or manufacture of drugs (1012),6.0
+2016,Limerick Garda Division,Damage to property and to the environment  offences (12),1205.0
+2016,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2016,Limerick Garda Division,Dangerous driving leading to death (012),2.0
+2016,Limerick Garda Division,Dangerous or negligent acts (04),2839.0
+2016,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),283.0
+2016,Limerick Garda Division,Discharging a firearm (1121),7.0
+2016,Limerick Garda Division,Disorderly conduct (131),1058.0
+2016,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",348.0
+2016,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",374.0
+2016,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),29.0
+2016,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),345.0
+2016,Limerick Garda Division,Endangering traffic offences (0425),24.0
+2016,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),9.0
+2016,Limerick Garda Division,"Explosives, chemical weapons offences (111)",1.0
+2016,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2016,Limerick Garda Division,False imprisonment (0511),3.0
+2016,Limerick Garda Division,Fireworks offences (114),8.0
+2016,Limerick Garda Division,"Fraud, deception and related offences (09)",186.0
+2016,Limerick Garda Division,Harassment and related offences (033),80.0
+2016,Limerick Garda Division,Homicide & related offences (01),5.0
+2016,Limerick Garda Division,Human trafficking offences (0513),0.0
+2016,Limerick Garda Division,Importation of drugs (1011),0.0
+2016,Limerick Garda Division,Infanticide (0113),0.0
+2016,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",838.0
+2016,Limerick Garda Division,Kidnapping and related offences (05),3.0
+2016,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2016,Limerick Garda Division,Liquor licensing offences (133),60.0
+2016,Limerick Garda Division,Litter offences (1221),11.0
+2016,Limerick Garda Division,Manslaughter (0112),2.0
+2016,Limerick Garda Division,Murder (0111),1.0
+2016,Limerick Garda Division,Murder-attempt (0311),1.0
+2016,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),9.0
+2016,Limerick Garda Division,Offences against government and its agents (151),46.0
+2016,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1245.0
+2016,Limerick Garda Division,Offences not elsewhere classified (16),184.0
+2016,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",1197.0
+2016,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),95.0
+2016,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2016,Limerick Garda Division,Other assault (035),495.0
+2016,Limerick Garda Division,Other drug offences (103),24.0
+2016,Limerick Garda Division,Other road offences (1433),3133.0
+2016,Limerick Garda Division,Other sexual offences (022),13.0
+2016,Limerick Garda Division,"Other thefts, handling stolen property (084)",1341.0
+2016,Limerick Garda Division,Perverting the course of justice (153),2.0
+2016,Limerick Garda Division,Possession of a firearm (1122),9.0
+2016,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",14.0
+2016,Limerick Garda Division,Possession of drugs for personal use (1022),562.0
+2016,Limerick Garda Division,Possession of drugs for sale or supply (1021),185.0
+2016,Limerick Garda Division,Prostitution offences (134),2.0
+2016,Limerick Garda Division,Public order and other social code offences (13),1348.0
+2016,Limerick Garda Division,Public service vehicle offences (1442),60.0
+2016,Limerick Garda Division,Rape and sexual assault (021),105.0
+2016,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",5.0
+2016,Limerick Garda Division,Road and traffic offences (14),5883.0
+2016,Limerick Garda Division,Road transport - carriage of goods offences (1441),703.0
+2016,Limerick Garda Division,Roadworthiness/regulatory offences (143),127.0
+2016,Limerick Garda Division,Robbery from the person (0613),42.0
+2016,Limerick Garda Division,Robbery of an establishment or institution (0611),14.0
+2016,Limerick Garda Division,Robbery of cash or goods in transit (0612),1.0
+2016,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",67.0
+2016,Limerick Garda Division,Sexual offences (02),118.0
+2016,Limerick Garda Division,Social code offences (n.e.c.) (136),140.0
+2016,Limerick Garda Division,Speeding (0415),2139.0
+2016,Limerick Garda Division,Theft and related offences (08),2734.0
+2016,Limerick Garda Division,Theft from person (0821),58.0
+2016,Limerick Garda Division,Theft from shop (0822),1113.0
+2016,Limerick Garda Division,Theft/taking of vehicle and related offences (081),222.0
+2016,Limerick Garda Division,Threat to kill or cause serious harm (0313),33.0
+2016,Limerick Garda Division,Trespass offences (132),83.0
+2016,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2016,Limerick Garda Division,Vehicle tax/registration offences (142),665.0
+2016,Limerick Garda Division,Weapons and explosives offences (11),120.0
+2017,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",15.0
+2017,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2017,Limerick Garda Division,Aggravated burglary (0711),10.0
+2017,Limerick Garda Division,Arson (1211),77.0
+2017,Limerick Garda Division,"Assault causing harm, poisoning (034)",167.0
+2017,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",956.0
+2017,Limerick Garda Division,Blackmail or extortion (0621),4.0
+2017,Limerick Garda Division,Burglary (not aggravated) (0712),793.0
+2017,Limerick Garda Division,Burglary and related offences (07),819.0
+2017,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",1.0
+2017,Limerick Garda Division,Controlled drug offences (10),778.0
+2017,Limerick Garda Division,Criminal damage (not arson) (1212),1204.0
+2017,Limerick Garda Division,Cultivation or manufacture of drugs (1012),6.0
+2017,Limerick Garda Division,Damage to property and to the environment  offences (12),1291.0
+2017,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2017,Limerick Garda Division,Dangerous driving leading to death (012),1.0
+2017,Limerick Garda Division,Dangerous or negligent acts (04),2284.0
+2017,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),260.0
+2017,Limerick Garda Division,Discharging a firearm (1121),2.0
+2017,Limerick Garda Division,Disorderly conduct (131),954.0
+2017,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",297.0
+2017,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",342.0
+2017,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),11.0
+2017,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),331.0
+2017,Limerick Garda Division,Endangering traffic offences (0425),19.0
+2017,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),6.0
+2017,Limerick Garda Division,"Explosives, chemical weapons offences (111)",3.0
+2017,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2017,Limerick Garda Division,False imprisonment (0511),6.0
+2017,Limerick Garda Division,Fireworks offences (114),10.0
+2017,Limerick Garda Division,"Fraud, deception and related offences (09)",283.0
+2017,Limerick Garda Division,Harassment and related offences (033),71.0
+2017,Limerick Garda Division,Homicide & related offences (01),4.0
+2017,Limerick Garda Division,Human trafficking offences (0513),1.0
+2017,Limerick Garda Division,Importation of drugs (1011),0.0
+2017,Limerick Garda Division,Infanticide (0113),0.0
+2017,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",1024.0
+2017,Limerick Garda Division,Kidnapping and related offences (05),8.0
+2017,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2017,Limerick Garda Division,Liquor licensing offences (133),58.0
+2017,Limerick Garda Division,Litter offences (1221),10.0
+2017,Limerick Garda Division,Manslaughter (0112),1.0
+2017,Limerick Garda Division,Murder (0111),2.0
+2017,Limerick Garda Division,Murder-attempt (0311),1.0
+2017,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),6.0
+2017,Limerick Garda Division,Offences against government and its agents (151),19.0
+2017,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1167.0
+2017,Limerick Garda Division,Offences not elsewhere classified (16),206.0
+2017,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",1145.0
+2017,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),93.0
+2017,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2017,Limerick Garda Division,Other assault (035),686.0
+2017,Limerick Garda Division,Other drug offences (103),16.0
+2017,Limerick Garda Division,Other road offences (1433),2823.0
+2017,Limerick Garda Division,Other sexual offences (022),10.0
+2017,Limerick Garda Division,"Other thefts, handling stolen property (084)",1664.0
+2017,Limerick Garda Division,Perverting the course of justice (153),3.0
+2017,Limerick Garda Division,Possession of a firearm (1122),11.0
+2017,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",16.0
+2017,Limerick Garda Division,Possession of drugs for personal use (1022),576.0
+2017,Limerick Garda Division,Possession of drugs for sale or supply (1021),180.0
+2017,Limerick Garda Division,Prostitution offences (134),6.0
+2017,Limerick Garda Division,Public order and other social code offences (13),1274.0
+2017,Limerick Garda Division,Public service vehicle offences (1442),36.0
+2017,Limerick Garda Division,Rape and sexual assault (021),118.0
+2017,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
+2017,Limerick Garda Division,Road and traffic offences (14),5539.0
+2017,Limerick Garda Division,Road transport - carriage of goods offences (1441),532.0
+2017,Limerick Garda Division,Roadworthiness/regulatory offences (143),67.0
+2017,Limerick Garda Division,Robbery from the person (0613),49.0
+2017,Limerick Garda Division,Robbery of an establishment or institution (0611),21.0
+2017,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2017,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",75.0
+2017,Limerick Garda Division,Sexual offences (02),128.0
+2017,Limerick Garda Division,Social code offences (n.e.c.) (136),137.0
+2017,Limerick Garda Division,Speeding (0415),1642.0
+2017,Limerick Garda Division,Theft and related offences (08),3142.0
+2017,Limerick Garda Division,Theft from person (0821),70.0
+2017,Limerick Garda Division,Theft from shop (0822),1235.0
+2017,Limerick Garda Division,Theft/taking of vehicle and related offences (081),173.0
+2017,Limerick Garda Division,Threat to kill or cause serious harm (0313),31.0
+2017,Limerick Garda Division,Trespass offences (132),117.0
+2017,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2017,Limerick Garda Division,Vehicle tax/registration offences (142),754.0
+2017,Limerick Garda Division,Weapons and explosives offences (11),119.0
+2018,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",7.0
+2018,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2018,Limerick Garda Division,Aggravated burglary (0711),7.0
+2018,Limerick Garda Division,Arson (1211),91.0
+2018,Limerick Garda Division,"Assault causing harm, poisoning (034)",184.0
+2018,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",938.0
+2018,Limerick Garda Division,Blackmail or extortion (0621),3.0
+2018,Limerick Garda Division,Burglary (not aggravated) (0712),917.0
+2018,Limerick Garda Division,Burglary and related offences (07),937.0
+2018,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
+2018,Limerick Garda Division,Controlled drug offences (10),630.0
+2018,Limerick Garda Division,Criminal damage (not arson) (1212),1211.0
+2018,Limerick Garda Division,Cultivation or manufacture of drugs (1012),6.0
+2018,Limerick Garda Division,Damage to property and to the environment  offences (12),1305.0
+2018,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2018,Limerick Garda Division,Dangerous driving leading to death (012),3.0
+2018,Limerick Garda Division,Dangerous or negligent acts (04),2398.0
+2018,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),324.0
+2018,Limerick Garda Division,Discharging a firearm (1121),4.0
+2018,Limerick Garda Division,Disorderly conduct (131),991.0
+2018,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",377.0
+2018,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",308.0
+2018,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),19.0
+2018,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),289.0
+2018,Limerick Garda Division,Endangering traffic offences (0425),40.0
+2018,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),8.0
+2018,Limerick Garda Division,"Explosives, chemical weapons offences (111)",0.0
+2018,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2018,Limerick Garda Division,False imprisonment (0511),8.0
+2018,Limerick Garda Division,Fireworks offences (114),25.0
+2018,Limerick Garda Division,"Fraud, deception and related offences (09)",235.0
+2018,Limerick Garda Division,Harassment and related offences (033),80.0
+2018,Limerick Garda Division,Homicide & related offences (01),5.0
+2018,Limerick Garda Division,Human trafficking offences (0513),0.0
+2018,Limerick Garda Division,Importation of drugs (1011),0.0
+2018,Limerick Garda Division,Infanticide (0113),0.0
+2018,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",979.0
+2018,Limerick Garda Division,Kidnapping and related offences (05),9.0
+2018,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2018,Limerick Garda Division,Liquor licensing offences (133),49.0
+2018,Limerick Garda Division,Litter offences (1221),3.0
+2018,Limerick Garda Division,Manslaughter (0112),0.0
+2018,Limerick Garda Division,Murder (0111),2.0
+2018,Limerick Garda Division,Murder-attempt (0311),0.0
+2018,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),5.0
+2018,Limerick Garda Division,Offences against government and its agents (151),42.0
+2018,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1388.0
+2018,Limerick Garda Division,Offences not elsewhere classified (16),210.0
+2018,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",1344.0
+2018,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),81.0
+2018,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2018,Limerick Garda Division,Other assault (035),589.0
+2018,Limerick Garda Division,Other drug offences (103),13.0
+2018,Limerick Garda Division,Other road offences (1433),2667.0
+2018,Limerick Garda Division,Other sexual offences (022),10.0
+2018,Limerick Garda Division,"Other thefts, handling stolen property (084)",1560.0
+2018,Limerick Garda Division,Perverting the course of justice (153),2.0
+2018,Limerick Garda Division,Possession of a firearm (1122),12.0
+2018,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",13.0
+2018,Limerick Garda Division,Possession of drugs for personal use (1022),460.0
+2018,Limerick Garda Division,Possession of drugs for sale or supply (1021),151.0
+2018,Limerick Garda Division,Prostitution offences (134),1.0
+2018,Limerick Garda Division,Public order and other social code offences (13),1394.0
+2018,Limerick Garda Division,Public service vehicle offences (1442),50.0
+2018,Limerick Garda Division,Rape and sexual assault (021),125.0
+2018,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",5.0
+2018,Limerick Garda Division,Road and traffic offences (14),4988.0
+2018,Limerick Garda Division,Road transport - carriage of goods offences (1441),193.0
+2018,Limerick Garda Division,Roadworthiness/regulatory offences (143),71.0
+2018,Limerick Garda Division,Robbery from the person (0613),54.0
+2018,Limerick Garda Division,Robbery of an establishment or institution (0611),20.0
+2018,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2018,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",80.0
+2018,Limerick Garda Division,Sexual offences (02),135.0
+2018,Limerick Garda Division,Social code offences (n.e.c.) (136),243.0
+2018,Limerick Garda Division,Speeding (0415),1711.0
+2018,Limerick Garda Division,Theft and related offences (08),3222.0
+2018,Limerick Garda Division,Theft from person (0821),80.0
+2018,Limerick Garda Division,Theft from shop (0822),1379.0
+2018,Limerick Garda Division,Theft/taking of vehicle and related offences (081),203.0
+2018,Limerick Garda Division,Threat to kill or cause serious harm (0313),85.0
+2018,Limerick Garda Division,Trespass offences (132),105.0
+2018,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2018,Limerick Garda Division,Vehicle tax/registration offences (142),646.0
+2018,Limerick Garda Division,Weapons and explosives offences (11),122.0
+2019,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",9.0
+2019,Limerick Garda Division,Abduction of person under 16 years of age (0512),3.0
+2019,Limerick Garda Division,Aggravated burglary (0711),8.0
+2019,Limerick Garda Division,Arson (1211),71.0
+2019,Limerick Garda Division,"Assault causing harm, poisoning (034)",245.0
+2019,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",952.0
+2019,Limerick Garda Division,Blackmail or extortion (0621),10.0
+2019,Limerick Garda Division,Burglary (not aggravated) (0712),796.0
+2019,Limerick Garda Division,Burglary and related offences (07),810.0
+2019,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",2.0
+2019,Limerick Garda Division,Controlled drug offences (10),781.0
+2019,Limerick Garda Division,Criminal damage (not arson) (1212),1022.0
+2019,Limerick Garda Division,Cultivation or manufacture of drugs (1012),7.0
+2019,Limerick Garda Division,Damage to property and to the environment  offences (12),1105.0
+2019,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),1.0
+2019,Limerick Garda Division,Dangerous driving leading to death (012),2.0
+2019,Limerick Garda Division,Dangerous or negligent acts (04),2191.0
+2019,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),277.0
+2019,Limerick Garda Division,Discharging a firearm (1121),4.0
+2019,Limerick Garda Division,Disorderly conduct (131),939.0
+2019,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",312.0
+2019,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",316.0
+2019,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),79.0
+2019,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),237.0
+2019,Limerick Garda Division,Endangering traffic offences (0425),25.0
+2019,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),12.0
+2019,Limerick Garda Division,"Explosives, chemical weapons offences (111)",3.0
+2019,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2019,Limerick Garda Division,False imprisonment (0511),8.0
+2019,Limerick Garda Division,Fireworks offences (114),14.0
+2019,Limerick Garda Division,"Fraud, deception and related offences (09)",302.0
+2019,Limerick Garda Division,Harassment and related offences (033),73.0
+2019,Limerick Garda Division,Homicide & related offences (01),4.0
+2019,Limerick Garda Division,Human trafficking offences (0513),1.0
+2019,Limerick Garda Division,Importation of drugs (1011),0.0
+2019,Limerick Garda Division,Infanticide (0113),0.0
+2019,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",806.0
+2019,Limerick Garda Division,Kidnapping and related offences (05),12.0
+2019,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2019,Limerick Garda Division,Liquor licensing offences (133),29.0
+2019,Limerick Garda Division,Litter offences (1221),12.0
+2019,Limerick Garda Division,Manslaughter (0112),0.0
+2019,Limerick Garda Division,Murder (0111),2.0
+2019,Limerick Garda Division,Murder-attempt (0311),0.0
+2019,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),7.0
+2019,Limerick Garda Division,Offences against government and its agents (151),26.0
+2019,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",1103.0
+2019,Limerick Garda Division,Offences not elsewhere classified (16),130.0
+2019,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",1044.0
+2019,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),94.0
+2019,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2019,Limerick Garda Division,Other assault (035),561.0
+2019,Limerick Garda Division,Other drug offences (103),12.0
+2019,Limerick Garda Division,Other road offences (1433),2913.0
+2019,Limerick Garda Division,Other sexual offences (022),24.0
+2019,Limerick Garda Division,"Other thefts, handling stolen property (084)",1233.0
+2019,Limerick Garda Division,Perverting the course of justice (153),33.0
+2019,Limerick Garda Division,Possession of a firearm (1122),13.0
+2019,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",6.0
+2019,Limerick Garda Division,Possession of drugs for personal use (1022),597.0
+2019,Limerick Garda Division,Possession of drugs for sale or supply (1021),165.0
+2019,Limerick Garda Division,Prostitution offences (134),1.0
+2019,Limerick Garda Division,Public order and other social code offences (13),1226.0
+2019,Limerick Garda Division,Public service vehicle offences (1442),36.0
+2019,Limerick Garda Division,Rape and sexual assault (021),118.0
+2019,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
+2019,Limerick Garda Division,Road and traffic offences (14),4840.0
+2019,Limerick Garda Division,Road transport - carriage of goods offences (1441),159.0
+2019,Limerick Garda Division,Roadworthiness/regulatory offences (143),38.0
+2019,Limerick Garda Division,Robbery from the person (0613),53.0
+2019,Limerick Garda Division,Robbery of an establishment or institution (0611),14.0
+2019,Limerick Garda Division,Robbery of cash or goods in transit (0612),2.0
+2019,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",81.0
+2019,Limerick Garda Division,Sexual offences (02),142.0
+2019,Limerick Garda Division,Social code offences (n.e.c.) (136),177.0
+2019,Limerick Garda Division,Speeding (0415),1551.0
+2019,Limerick Garda Division,Theft and related offences (08),2990.0
+2019,Limerick Garda Division,Theft from person (0821),64.0
+2019,Limerick Garda Division,Theft from shop (0822),1550.0
+2019,Limerick Garda Division,Theft/taking of vehicle and related offences (081),143.0
+2019,Limerick Garda Division,Threat to kill or cause serious harm (0313),73.0
+2019,Limerick Garda Division,Trespass offences (132),78.0
+2019,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2019,Limerick Garda Division,Vehicle tax/registration offences (142),569.0
+2019,Limerick Garda Division,Weapons and explosives offences (11),128.0
+2020,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",26.0
+2020,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2020,Limerick Garda Division,Aggravated burglary (0711),10.0
+2020,Limerick Garda Division,Arson (1211),49.0
+2020,Limerick Garda Division,"Assault causing harm, poisoning (034)",171.0
+2020,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",785.0
+2020,Limerick Garda Division,Blackmail or extortion (0621),12.0
+2020,Limerick Garda Division,Burglary (not aggravated) (0712),559.0
+2020,Limerick Garda Division,Burglary and related offences (07),576.0
+2020,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
+2020,Limerick Garda Division,Controlled drug offences (10),876.0
+2020,Limerick Garda Division,Criminal damage (not arson) (1212),886.0
+2020,Limerick Garda Division,Cultivation or manufacture of drugs (1012),19.0
+2020,Limerick Garda Division,Damage to property and to the environment  offences (12),949.0
+2020,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),2.0
+2020,Limerick Garda Division,Dangerous driving leading to death (012),2.0
+2020,Limerick Garda Division,Dangerous or negligent acts (04),1893.0
+2020,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),236.0
+2020,Limerick Garda Division,Discharging a firearm (1121),4.0
+2020,Limerick Garda Division,Disorderly conduct (131),836.0
+2020,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",216.0
+2020,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",313.0
+2020,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),154.0
+2020,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),159.0
+2020,Limerick Garda Division,Endangering traffic offences (0425),32.0
+2020,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),22.0
+2020,Limerick Garda Division,"Explosives, chemical weapons offences (111)",1.0
+2020,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2020,Limerick Garda Division,False imprisonment (0511),6.0
+2020,Limerick Garda Division,Fireworks offences (114),11.0
+2020,Limerick Garda Division,"Fraud, deception and related offences (09)",299.0
+2020,Limerick Garda Division,Harassment and related offences (033),73.0
+2020,Limerick Garda Division,Homicide & related offences (01),2.0
+2020,Limerick Garda Division,Human trafficking offences (0513),0.0
+2020,Limerick Garda Division,Importation of drugs (1011),0.0
+2020,Limerick Garda Division,Infanticide (0113),0.0
+2020,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",522.0
+2020,Limerick Garda Division,Kidnapping and related offences (05),7.0
+2020,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2020,Limerick Garda Division,Liquor licensing offences (133),12.0
+2020,Limerick Garda Division,Litter offences (1221),14.0
+2020,Limerick Garda Division,Manslaughter (0112),0.0
+2020,Limerick Garda Division,Murder (0111),0.0
+2020,Limerick Garda Division,Murder-attempt (0311),2.0
+2020,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),4.0
+2020,Limerick Garda Division,Offences against government and its agents (151),37.0
+2020,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",962.0
+2020,Limerick Garda Division,Offences not elsewhere classified (16),129.0
+2020,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",922.0
+2020,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),96.0
+2020,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2020,Limerick Garda Division,Other assault (035),465.0
+2020,Limerick Garda Division,Other drug offences (103),22.0
+2020,Limerick Garda Division,Other road offences (1433),1755.0
+2020,Limerick Garda Division,Other sexual offences (022),24.0
+2020,Limerick Garda Division,"Other thefts, handling stolen property (084)",1172.0
+2020,Limerick Garda Division,Perverting the course of justice (153),3.0
+2020,Limerick Garda Division,Possession of a firearm (1122),18.0
+2020,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",7.0
+2020,Limerick Garda Division,Possession of drugs for personal use (1022),627.0
+2020,Limerick Garda Division,Possession of drugs for sale or supply (1021),208.0
+2020,Limerick Garda Division,Prostitution offences (134),3.0
+2020,Limerick Garda Division,Public order and other social code offences (13),1453.0
+2020,Limerick Garda Division,Public service vehicle offences (1442),20.0
+2020,Limerick Garda Division,Rape and sexual assault (021),109.0
+2020,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
+2020,Limerick Garda Division,Road and traffic offences (14),3267.0
+2020,Limerick Garda Division,Road transport - carriage of goods offences (1441),37.0
+2020,Limerick Garda Division,Roadworthiness/regulatory offences (143),90.0
+2020,Limerick Garda Division,Robbery from the person (0613),35.0
+2020,Limerick Garda Division,Robbery of an establishment or institution (0611),7.0
+2020,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2020,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",57.0
+2020,Limerick Garda Division,Sexual offences (02),133.0
+2020,Limerick Garda Division,Social code offences (n.e.c.) (136),528.0
+2020,Limerick Garda Division,Speeding (0415),1262.0
+2020,Limerick Garda Division,Theft and related offences (08),2689.0
+2020,Limerick Garda Division,Theft from person (0821),36.0
+2020,Limerick Garda Division,Theft from shop (0822),1361.0
+2020,Limerick Garda Division,Theft/taking of vehicle and related offences (081),120.0
+2020,Limerick Garda Division,Threat to kill or cause serious harm (0313),74.0
+2020,Limerick Garda Division,Trespass offences (132),74.0
+2020,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2020,Limerick Garda Division,Vehicle tax/registration offences (142),623.0
+2020,Limerick Garda Division,Weapons and explosives offences (11),130.0
+2021,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",18.0
+2021,Limerick Garda Division,Abduction of person under 16 years of age (0512),0.0
+2021,Limerick Garda Division,Aggravated burglary (0711),10.0
+2021,Limerick Garda Division,Arson (1211),68.0
+2021,Limerick Garda Division,"Assault causing harm, poisoning (034)",201.0
+2021,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",926.0
+2021,Limerick Garda Division,Blackmail or extortion (0621),8.0
+2021,Limerick Garda Division,Burglary (not aggravated) (0712),421.0
+2021,Limerick Garda Division,Burglary and related offences (07),435.0
+2021,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",5.0
+2021,Limerick Garda Division,Controlled drug offences (10),828.0
+2021,Limerick Garda Division,Criminal damage (not arson) (1212),1098.0
+2021,Limerick Garda Division,Cultivation or manufacture of drugs (1012),6.0
+2021,Limerick Garda Division,Damage to property and to the environment  offences (12),1179.0
+2021,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
+2021,Limerick Garda Division,Dangerous driving leading to death (012),1.0
+2021,Limerick Garda Division,Dangerous or negligent acts (04),1913.0
+2021,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),244.0
+2021,Limerick Garda Division,Discharging a firearm (1121),4.0
+2021,Limerick Garda Division,Disorderly conduct (131),883.0
+2021,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",178.0
+2021,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",315.0
+2021,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),139.0
+2021,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),176.0
+2021,Limerick Garda Division,Endangering traffic offences (0425),43.0
+2021,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),19.0
+2021,Limerick Garda Division,"Explosives, chemical weapons offences (111)",1.0
+2021,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2021,Limerick Garda Division,False imprisonment (0511),11.0
+2021,Limerick Garda Division,Fireworks offences (114),17.0
+2021,Limerick Garda Division,"Fraud, deception and related offences (09)",692.0
+2021,Limerick Garda Division,Harassment and related offences (033),114.0
+2021,Limerick Garda Division,Homicide & related offences (01),3.0
+2021,Limerick Garda Division,Human trafficking offences (0513),0.0
+2021,Limerick Garda Division,Importation of drugs (1011),0.0
+2021,Limerick Garda Division,Infanticide (0113),0.0
+2021,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",398.0
+2021,Limerick Garda Division,Kidnapping and related offences (05),11.0
+2021,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2021,Limerick Garda Division,Liquor licensing offences (133),18.0
+2021,Limerick Garda Division,Litter offences (1221),13.0
+2021,Limerick Garda Division,Manslaughter (0112),1.0
+2021,Limerick Garda Division,Murder (0111),1.0
+2021,Limerick Garda Division,Murder-attempt (0311),1.0
+2021,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),7.0
+2021,Limerick Garda Division,Offences against government and its agents (151),25.0
+2021,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",981.0
+2021,Limerick Garda Division,Offences not elsewhere classified (16),118.0
+2021,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",954.0
+2021,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),96.0
+2021,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2021,Limerick Garda Division,Other assault (035),512.0
+2021,Limerick Garda Division,Other drug offences (103),7.0
+2021,Limerick Garda Division,Other road offences (1433),1490.0
+2021,Limerick Garda Division,Other sexual offences (022),19.0
+2021,Limerick Garda Division,"Other thefts, handling stolen property (084)",1080.0
+2021,Limerick Garda Division,Perverting the course of justice (153),2.0
+2021,Limerick Garda Division,Possession of a firearm (1122),12.0
+2021,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",4.0
+2021,Limerick Garda Division,Possession of drugs for personal use (1022),632.0
+2021,Limerick Garda Division,Possession of drugs for sale or supply (1021),183.0
+2021,Limerick Garda Division,Prostitution offences (134),0.0
+2021,Limerick Garda Division,Public order and other social code offences (13),1836.0
+2021,Limerick Garda Division,Public service vehicle offences (1442),29.0
+2021,Limerick Garda Division,Rape and sexual assault (021),133.0
+2021,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
+2021,Limerick Garda Division,Road and traffic offences (14),2660.0
+2021,Limerick Garda Division,Road transport - carriage of goods offences (1441),28.0
+2021,Limerick Garda Division,Roadworthiness/regulatory offences (143),58.0
+2021,Limerick Garda Division,Robbery from the person (0613),22.0
+2021,Limerick Garda Division,Robbery of an establishment or institution (0611),9.0
+2021,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2021,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",44.0
+2021,Limerick Garda Division,Sexual offences (02),152.0
+2021,Limerick Garda Division,Social code offences (n.e.c.) (136),851.0
+2021,Limerick Garda Division,Speeding (0415),1271.0
+2021,Limerick Garda Division,Theft and related offences (08),2757.0
+2021,Limerick Garda Division,Theft from person (0821),50.0
+2021,Limerick Garda Division,Theft from shop (0822),1479.0
+2021,Limerick Garda Division,Theft/taking of vehicle and related offences (081),148.0
+2021,Limerick Garda Division,Threat to kill or cause serious harm (0313),98.0
+2021,Limerick Garda Division,Trespass offences (132),83.0
+2021,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2021,Limerick Garda Division,Vehicle tax/registration offences (142),472.0
+2021,Limerick Garda Division,Weapons and explosives offences (11),130.0
+2022,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",20.0
+2022,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2022,Limerick Garda Division,Aggravated burglary (0711),10.0
+2022,Limerick Garda Division,Arson (1211),63.0
+2022,Limerick Garda Division,"Assault causing harm, poisoning (034)",238.0
+2022,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1120.0
+2022,Limerick Garda Division,Blackmail or extortion (0621),27.0
+2022,Limerick Garda Division,Burglary (not aggravated) (0712),419.0
+2022,Limerick Garda Division,Burglary and related offences (07),430.0
+2022,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",5.0
+2022,Limerick Garda Division,Controlled drug offences (10),518.0
+2022,Limerick Garda Division,Criminal damage (not arson) (1212),927.0
+2022,Limerick Garda Division,Cultivation or manufacture of drugs (1012),3.0
+2022,Limerick Garda Division,Damage to property and to the environment  offences (12),994.0
+2022,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
+2022,Limerick Garda Division,Dangerous driving leading to death (012),3.0
+2022,Limerick Garda Division,Dangerous or negligent acts (04),1897.0
+2022,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),191.0
+2022,Limerick Garda Division,Discharging a firearm (1121),2.0
+2022,Limerick Garda Division,Disorderly conduct (131),868.0
+2022,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",214.0
+2022,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",267.0
+2022,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),78.0
+2022,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),189.0
+2022,Limerick Garda Division,Endangering traffic offences (0425),36.0
+2022,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),22.0
+2022,Limerick Garda Division,"Explosives, chemical weapons offences (111)",0.0
+2022,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2022,Limerick Garda Division,False imprisonment (0511),6.0
+2022,Limerick Garda Division,Fireworks offences (114),7.0
+2022,Limerick Garda Division,"Fraud, deception and related offences (09)",515.0
+2022,Limerick Garda Division,Harassment and related offences (033),84.0
+2022,Limerick Garda Division,Homicide & related offences (01),4.0
+2022,Limerick Garda Division,Human trafficking offences (0513),0.0
+2022,Limerick Garda Division,Importation of drugs (1011),0.0
+2022,Limerick Garda Division,Infanticide (0113),0.0
+2022,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",330.0
+2022,Limerick Garda Division,Kidnapping and related offences (05),7.0
+2022,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2022,Limerick Garda Division,Liquor licensing offences (133),13.0
+2022,Limerick Garda Division,Litter offences (1221),4.0
+2022,Limerick Garda Division,Manslaughter (0112),1.0
+2022,Limerick Garda Division,Murder (0111),0.0
+2022,Limerick Garda Division,Murder-attempt (0311),0.0
+2022,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),7.0
+2022,Limerick Garda Division,Offences against government and its agents (151),20.0
+2022,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",925.0
+2022,Limerick Garda Division,Offences not elsewhere classified (16),90.0
+2022,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",903.0
+2022,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),80.0
+2022,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2022,Limerick Garda Division,Other assault (035),710.0
+2022,Limerick Garda Division,Other drug offences (103),8.0
+2022,Limerick Garda Division,Other road offences (1433),1482.0
+2022,Limerick Garda Division,Other sexual offences (022),30.0
+2022,Limerick Garda Division,"Other thefts, handling stolen property (084)",1253.0
+2022,Limerick Garda Division,Perverting the course of justice (153),2.0
+2022,Limerick Garda Division,Possession of a firearm (1122),9.0
+2022,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
+2022,Limerick Garda Division,Possession of drugs for personal use (1022),371.0
+2022,Limerick Garda Division,Possession of drugs for sale or supply (1021),136.0
+2022,Limerick Garda Division,Prostitution offences (134),0.0
+2022,Limerick Garda Division,Public order and other social code offences (13),1184.0
+2022,Limerick Garda Division,Public service vehicle offences (1442),41.0
+2022,Limerick Garda Division,Rape and sexual assault (021),133.0
+2022,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",2.0
+2022,Limerick Garda Division,Road and traffic offences (14),2513.0
+2022,Limerick Garda Division,Road transport - carriage of goods offences (1441),13.0
+2022,Limerick Garda Division,Roadworthiness/regulatory offences (143),29.0
+2022,Limerick Garda Division,Robbery from the person (0613),33.0
+2022,Limerick Garda Division,Robbery of an establishment or institution (0611),10.0
+2022,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2022,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",75.0
+2022,Limerick Garda Division,Sexual offences (02),163.0
+2022,Limerick Garda Division,Social code offences (n.e.c.) (136),209.0
+2022,Limerick Garda Division,Speeding (0415),1358.0
+2022,Limerick Garda Division,Theft and related offences (08),3594.0
+2022,Limerick Garda Division,Theft from person (0821),48.0
+2022,Limerick Garda Division,Theft from shop (0822),2094.0
+2022,Limerick Garda Division,Theft/taking of vehicle and related offences (081),199.0
+2022,Limerick Garda Division,Threat to kill or cause serious harm (0313),88.0
+2022,Limerick Garda Division,Trespass offences (132),92.0
+2022,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2022,Limerick Garda Division,Vehicle tax/registration offences (142),397.0
+2022,Limerick Garda Division,Weapons and explosives offences (11),98.0
+2023,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",12.0
+2023,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2023,Limerick Garda Division,Aggravated burglary (0711),11.0
+2023,Limerick Garda Division,Arson (1211),91.0
+2023,Limerick Garda Division,"Assault causing harm, poisoning (034)",251.0
+2023,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1111.0
+2023,Limerick Garda Division,Blackmail or extortion (0621),28.0
+2023,Limerick Garda Division,Burglary (not aggravated) (0712),441.0
+2023,Limerick Garda Division,Burglary and related offences (07),463.0
+2023,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",3.0
+2023,Limerick Garda Division,Controlled drug offences (10),770.0
+2023,Limerick Garda Division,Criminal damage (not arson) (1212),1161.0
+2023,Limerick Garda Division,Cultivation or manufacture of drugs (1012),5.0
+2023,Limerick Garda Division,Damage to property and to the environment  offences (12),1259.0
+2023,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2023,Limerick Garda Division,Dangerous driving leading to death (012),1.0
+2023,Limerick Garda Division,Dangerous or negligent acts (04),1652.0
+2023,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),251.0
+2023,Limerick Garda Division,Discharging a firearm (1121),9.0
+2023,Limerick Garda Division,Disorderly conduct (131),924.0
+2023,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",160.0
+2023,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",248.0
+2023,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),96.0
+2023,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),152.0
+2023,Limerick Garda Division,Endangering traffic offences (0425),33.0
+2023,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),19.0
+2023,Limerick Garda Division,"Explosives, chemical weapons offences (111)",5.0
+2023,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2023,Limerick Garda Division,False imprisonment (0511),9.0
+2023,Limerick Garda Division,Fireworks offences (114),16.0
+2023,Limerick Garda Division,"Fraud, deception and related offences (09)",203.0
+2023,Limerick Garda Division,Harassment and related offences (033),92.0
+2023,Limerick Garda Division,Homicide & related offences (01),3.0
+2023,Limerick Garda Division,Human trafficking offences (0513),0.0
+2023,Limerick Garda Division,Importation of drugs (1011),1.0
+2023,Limerick Garda Division,Infanticide (0113),0.0
+2023,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",290.0
+2023,Limerick Garda Division,Kidnapping and related offences (05),10.0
+2023,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2023,Limerick Garda Division,Liquor licensing offences (133),6.0
+2023,Limerick Garda Division,Litter offences (1221),7.0
+2023,Limerick Garda Division,Manslaughter (0112),0.0
+2023,Limerick Garda Division,Murder (0111),2.0
+2023,Limerick Garda Division,Murder-attempt (0311),0.0
+2023,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),4.0
+2023,Limerick Garda Division,Offences against government and its agents (151),15.0
+2023,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",771.0
+2023,Limerick Garda Division,Offences not elsewhere classified (16),101.0
+2023,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",754.0
+2023,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),100.0
+2023,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
+2023,Limerick Garda Division,Other assault (035),686.0
+2023,Limerick Garda Division,Other drug offences (103),23.0
+2023,Limerick Garda Division,Other road offences (1433),1397.0
+2023,Limerick Garda Division,Other sexual offences (022),14.0
+2023,Limerick Garda Division,"Other thefts, handling stolen property (084)",1354.0
+2023,Limerick Garda Division,Perverting the course of justice (153),1.0
+2023,Limerick Garda Division,Possession of a firearm (1122),3.0
+2023,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",11.0
+2023,Limerick Garda Division,Possession of drugs for personal use (1022),557.0
+2023,Limerick Garda Division,Possession of drugs for sale or supply (1021),184.0
+2023,Limerick Garda Division,Prostitution offences (134),0.0
+2023,Limerick Garda Division,Public order and other social code offences (13),1193.0
+2023,Limerick Garda Division,Public service vehicle offences (1442),29.0
+2023,Limerick Garda Division,Rape and sexual assault (021),158.0
+2023,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",1.0
+2023,Limerick Garda Division,Road and traffic offences (14),2287.0
+2023,Limerick Garda Division,Road transport - carriage of goods offences (1441),10.0
+2023,Limerick Garda Division,Roadworthiness/regulatory offences (143),30.0
+2023,Limerick Garda Division,Robbery from the person (0613),50.0
+2023,Limerick Garda Division,Robbery of an establishment or institution (0611),14.0
+2023,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2023,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",95.0
+2023,Limerick Garda Division,Sexual offences (02),172.0
+2023,Limerick Garda Division,Social code offences (n.e.c.) (136),154.0
+2023,Limerick Garda Division,Speeding (0415),1089.0
+2023,Limerick Garda Division,Theft and related offences (08),3836.0
+2023,Limerick Garda Division,Theft from person (0821),61.0
+2023,Limerick Garda Division,Theft from shop (0822),1858.0
+2023,Limerick Garda Division,Theft/taking of vehicle and related offences (081),563.0
+2023,Limerick Garda Division,Threat to kill or cause serious harm (0313),82.0
+2023,Limerick Garda Division,Trespass offences (132),108.0
+2023,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2023,Limerick Garda Division,Vehicle tax/registration offences (142),367.0
+2023,Limerick Garda Division,Weapons and explosives offences (11),133.0
+2024,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",6.0
+2024,Limerick Garda Division,Abduction of person under 16 years of age (0512),0.0
+2024,Limerick Garda Division,Aggravated burglary (0711),19.0
+2024,Limerick Garda Division,Arson (1211),101.0
+2024,Limerick Garda Division,"Assault causing harm, poisoning (034)",245.0
+2024,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",1060.0
+2024,Limerick Garda Division,Blackmail or extortion (0621),17.0
+2024,Limerick Garda Division,Burglary (not aggravated) (0712),554.0
+2024,Limerick Garda Division,Burglary and related offences (07),578.0
+2024,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",6.0
+2024,Limerick Garda Division,Controlled drug offences (10),579.0
+2024,Limerick Garda Division,Criminal damage (not arson) (1212),1010.0
+2024,Limerick Garda Division,Cultivation or manufacture of drugs (1012),3.0
+2024,Limerick Garda Division,Damage to property and to the environment  offences (12),1115.0
+2024,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),3.0
+2024,Limerick Garda Division,Dangerous driving leading to death (012),1.0
+2024,Limerick Garda Division,Dangerous or negligent acts (04),1707.0
+2024,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),292.0
+2024,Limerick Garda Division,Discharging a firearm (1121),17.0
+2024,Limerick Garda Division,Disorderly conduct (131),838.0
+2024,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",154.0
+2024,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",249.0
+2024,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),100.0
+2024,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),149.0
+2024,Limerick Garda Division,Endangering traffic offences (0425),23.0
+2024,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),23.0
+2024,Limerick Garda Division,"Explosives, chemical weapons offences (111)",11.0
+2024,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2024,Limerick Garda Division,False imprisonment (0511),5.0
+2024,Limerick Garda Division,Fireworks offences (114),17.0
+2024,Limerick Garda Division,"Fraud, deception and related offences (09)",0.0
+2024,Limerick Garda Division,Harassment and related offences (033),88.0
+2024,Limerick Garda Division,Homicide & related offences (01),2.0
+2024,Limerick Garda Division,Human trafficking offences (0513),0.0
+2024,Limerick Garda Division,Importation of drugs (1011),0.0
+2024,Limerick Garda Division,Infanticide (0113),0.0
+2024,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",447.0
+2024,Limerick Garda Division,Kidnapping and related offences (05),5.0
+2024,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2024,Limerick Garda Division,Liquor licensing offences (133),5.0
+2024,Limerick Garda Division,Litter offences (1221),4.0
+2024,Limerick Garda Division,Manslaughter (0112),0.0
+2024,Limerick Garda Division,Murder (0111),1.0
+2024,Limerick Garda Division,Murder-attempt (0311),1.0
+2024,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),8.0
+2024,Limerick Garda Division,Offences against government and its agents (151),8.0
+2024,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",814.0
+2024,Limerick Garda Division,Offences not elsewhere classified (16),121.0
+2024,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",804.0
+2024,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),96.0
+2024,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),1.0
+2024,Limerick Garda Division,Other assault (035),651.0
+2024,Limerick Garda Division,Other drug offences (103),21.0
+2024,Limerick Garda Division,Other road offences (1433),1502.0
+2024,Limerick Garda Division,Other sexual offences (022),15.0
+2024,Limerick Garda Division,"Other thefts, handling stolen property (084)",1342.0
+2024,Limerick Garda Division,Perverting the course of justice (153),1.0
+2024,Limerick Garda Division,Possession of a firearm (1122),9.0
+2024,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",5.0
+2024,Limerick Garda Division,Possession of drugs for personal use (1022),413.0
+2024,Limerick Garda Division,Possession of drugs for sale or supply (1021),142.0
+2024,Limerick Garda Division,Prostitution offences (134),12.0
+2024,Limerick Garda Division,Public order and other social code offences (13),1211.0
+2024,Limerick Garda Division,Public service vehicle offences (1442),24.0
+2024,Limerick Garda Division,Rape and sexual assault (021),145.0
+2024,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
+2024,Limerick Garda Division,Road and traffic offences (14),2480.0
+2024,Limerick Garda Division,Road transport - carriage of goods offences (1441),7.0
+2024,Limerick Garda Division,Roadworthiness/regulatory offences (143),30.0
+2024,Limerick Garda Division,Robbery from the person (0613),37.0
+2024,Limerick Garda Division,Robbery of an establishment or institution (0611),12.0
+2024,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2024,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",72.0
+2024,Limerick Garda Division,Sexual offences (02),160.0
+2024,Limerick Garda Division,Social code offences (n.e.c.) (136),232.0
+2024,Limerick Garda Division,Speeding (0415),1111.0
+2024,Limerick Garda Division,Theft and related offences (08),3986.0
+2024,Limerick Garda Division,Theft from person (0821),55.0
+2024,Limerick Garda Division,Theft from shop (0822),2087.0
+2024,Limerick Garda Division,Theft/taking of vehicle and related offences (081),502.0
+2024,Limerick Garda Division,Threat to kill or cause serious harm (0313),75.0
+2024,Limerick Garda Division,Trespass offences (132),124.0
+2024,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2024,Limerick Garda Division,Vehicle tax/registration offences (142),308.0
+2024,Limerick Garda Division,Weapons and explosives offences (11),150.0
+2025,Limerick Garda Division,"Abandoning a child, child neglect and cruelty (0422)",3.0
+2025,Limerick Garda Division,Abduction of person under 16 years of age (0512),1.0
+2025,Limerick Garda Division,Aggravated burglary (0711),10.0
+2025,Limerick Garda Division,Arson (1211),76.0
+2025,Limerick Garda Division,"Assault causing harm, poisoning (034)",166.0
+2025,Limerick Garda Division,"Attempts/threats to murder, assaults, harassments and related offences (03)",685.0
+2025,Limerick Garda Division,Blackmail or extortion (0621),20.0
+2025,Limerick Garda Division,Burglary (not aggravated) (0712),276.0
+2025,Limerick Garda Division,Burglary and related offences (07),287.0
+2025,Limerick Garda Division,"Carjacking, hijacking/unlawful seizure of aircraft/vessel (0631)",7.0
+2025,Limerick Garda Division,Controlled drug offences (10),408.0
+2025,Limerick Garda Division,Criminal damage (not arson) (1212),631.0
+2025,Limerick Garda Division,Cultivation or manufacture of drugs (1012),2.0
+2025,Limerick Garda Division,Damage to property and to the environment  offences (12),708.0
+2025,Limerick Garda Division,Dangerous driving causing serious bodily harm (0411),0.0
+2025,Limerick Garda Division,Dangerous driving leading to death (012),0.0
+2025,Limerick Garda Division,Dangerous or negligent acts (04),1087.0
+2025,Limerick Garda Division,Dangerous/careless driving and motorway offences (0414),150.0
+2025,Limerick Garda Division,Discharging a firearm (1121),15.0
+2025,Limerick Garda Division,Disorderly conduct (131),663.0
+2025,Limerick Garda Division,"Driving licence-failure to have, produce, etc. (1411)",96.0
+2025,Limerick Garda Division,"Driving/In charge of a vehicle while intoxicated – alcohol and/or drugs (0412,0413)",162.0
+2025,Limerick Garda Division,Driving/in charge of a vehicle under the influence of drugs (0413),0.0
+2025,Limerick Garda Division,Driving/in charge of a vehicle while over legal alcohol limit (0412),162.0
+2025,Limerick Garda Division,Endangering traffic offences (0425),22.0
+2025,Limerick Garda Division,Endangerment with potential for serious harm/death (0421),11.0
+2025,Limerick Garda Division,"Explosives, chemical weapons offences (111)",12.0
+2025,Limerick Garda Division,False alarm/interference with aircraft or air transport facilities (0424),0.0
+2025,Limerick Garda Division,False imprisonment (0511),4.0
+2025,Limerick Garda Division,Fireworks offences (114),2.0
+2025,Limerick Garda Division,"Fraud, deception and related offences (09)",0.0
+2025,Limerick Garda Division,Harassment and related offences (033),35.0
+2025,Limerick Garda Division,Homicide & related offences (01),1.0
+2025,Limerick Garda Division,Human trafficking offences (0513),0.0
+2025,Limerick Garda Division,Importation of drugs (1011),0.0
+2025,Limerick Garda Division,Infanticide (0113),0.0
+2025,Limerick Garda Division,"Insurance-failure to have, produce, display, etc. (1412)",250.0
+2025,Limerick Garda Division,Kidnapping and related offences (05),5.0
+2025,Limerick Garda Division,Light rail offences (Luas) (1443),0.0
+2025,Limerick Garda Division,Liquor licensing offences (133),10.0
+2025,Limerick Garda Division,Litter offences (1221),1.0
+2025,Limerick Garda Division,Manslaughter (0112),0.0
+2025,Limerick Garda Division,Murder (0111),1.0
+2025,Limerick Garda Division,Murder-attempt (0311),0.0
+2025,Limerick Garda Division,Obstruction under Road Traffic Acts (1432),8.0
+2025,Limerick Garda Division,Offences against government and its agents (151),19.0
+2025,Limerick Garda Division,"Offences against government, justice procedures and organisation of crime (15)",491.0
+2025,Limerick Garda Division,Offences not elsewhere classified (16),76.0
+2025,Limerick Garda Division,"Offences while in custody, breach of court orders (157)",472.0
+2025,Limerick Garda Division,Offensive weapons offences (n.e.c.) (113),75.0
+2025,Limerick Garda Division,Organisation of crime and conspiracy to commit crime (152),0.0
+2025,Limerick Garda Division,Other assault (035),441.0
+2025,Limerick Garda Division,Other drug offences (103),7.0
+2025,Limerick Garda Division,Other road offences (1433),848.0
+2025,Limerick Garda Division,Other sexual offences (022),6.0
+2025,Limerick Garda Division,"Other thefts, handling stolen property (084)",867.0
+2025,Limerick Garda Division,Perverting the course of justice (153),0.0
+2025,Limerick Garda Division,Possession of a firearm (1122),5.0
+2025,Limerick Garda Division,"Possession of an article (with intent to burgle, steal, demand) (0713)",1.0
+2025,Limerick Garda Division,Possession of drugs for personal use (1022),286.0
+2025,Limerick Garda Division,Possession of drugs for sale or supply (1021),113.0
+2025,Limerick Garda Division,Prostitution offences (134),0.0
+2025,Limerick Garda Division,Public order and other social code offences (13),867.0
+2025,Limerick Garda Division,Public service vehicle offences (1442),16.0
+2025,Limerick Garda Division,Rape and sexual assault (021),119.0
+2025,Limerick Garda Division,"Regulated betting/money, collection/trading offences (135)",0.0
+2025,Limerick Garda Division,Road and traffic offences (14),1455.0
+2025,Limerick Garda Division,Road transport - carriage of goods offences (1441),6.0
+2025,Limerick Garda Division,Roadworthiness/regulatory offences (143),16.0
+2025,Limerick Garda Division,Robbery from the person (0613),24.0
+2025,Limerick Garda Division,Robbery of an establishment or institution (0611),6.0
+2025,Limerick Garda Division,Robbery of cash or goods in transit (0612),0.0
+2025,Limerick Garda Division,"Robbery, extortion and hijacking offences (06)",57.0
+2025,Limerick Garda Division,Sexual offences (02),125.0
+2025,Limerick Garda Division,Social code offences (n.e.c.) (136),123.0
+2025,Limerick Garda Division,Speeding (0415),739.0
+2025,Limerick Garda Division,Theft and related offences (08),2714.0
+2025,Limerick Garda Division,Theft from person (0821),40.0
+2025,Limerick Garda Division,Theft from shop (0822),1467.0
+2025,Limerick Garda Division,Theft/taking of vehicle and related offences (081),340.0
+2025,Limerick Garda Division,Threat to kill or cause serious harm (0313),43.0
+2025,Limerick Garda Division,Trespass offences (132),71.0
+2025,Limerick Garda Division,Unseaworthy/dangerous use of boat or ship (0423),0.0
+2025,Limerick Garda Division,Vehicle tax/registration offences (142),215.0
+2025,Limerick Garda Division,Weapons and explosives offences (11),109.0
